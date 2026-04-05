@@ -1,0 +1,29 @@
+Colors
+Primary:
+#FF0000
+Accent:
+#008000
+Background:
+#000000
+Text Primary:
+#FFFFFF
+Link:
+#008000
+Fonts
+Basis Grotesque Pro(body)
+PP Eiko(heading)
+Typography
+primary: Basis Grotesque Pro
+heading: PP Eiko
+h1: 88px
+h2: 88px
+body: 345.6px
+Spacing
+Base Unit:
+4
+Border Radius:
+2px
+Personality
+Tone: modern
+Energy: medium
+Audience: tech-savvy professionals

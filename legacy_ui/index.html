@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pilot AI | Votre veille IA quotidienne</title>
+    <meta name="description"
+        content="Agrégateur de veille IA pour tous : des solutions concrètes et actionnables pour le quotidien.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="app-layout">
+        <!-- Sidebar -->
+        <aside class="sidebar glass">
+            <div class="logo-area">
+                <svg class="main-logo" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M50 0 L60 40 L100 50 L60 60 L50 100 L40 60 L0 50 L40 40 Z" fill="var(--primary)" />
+                </svg>
+                <span class="brand-name">Pilot.AI</span>
+            </div>
+
+            <nav class="side-nav">
+                <div class="nav-section">VUE D'ENSEMBLE</div>
+                <a href="#" class="nav-item active" id="btn-latest">
+                    <span class="icon">⬚</span> Flux d'actualités
+                </a>
+                <a href="#" class="nav-item" id="btn-saved">
+                    <span class="icon">★</span> Articles enregistrés
+                </a>
+                <a href="#" class="nav-item">
+                    <span class="icon">▤</span> Rapports
+                </a>
+
+                <div class="nav-section">PARAMÈTRES</div>
+                <a href="#" class="nav-item">
+                    <span class="icon">⚙</span> Préférences
+                </a>
+            </nav>
+
+            <div class="user-profile">
+                <div class="avatar">IA</div>
+                <div class="user-info">
+                    <span class="name">Utilisateur</span>
+                    <span class="role">Citoyen Connecté</span>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="top-bar">
+                <div class="search-container glass">
+                    <span class="search-icon">🔍</span>
+                    <input type="text" placeholder="Rechercher des astuces IA...">
+                </div>
+                <div class="top-actions">
+                    <button class="icon-btn">🔔</button>
+                    <button class="icon-btn">✉️</button>
+                </div>
+            </header>
+
+            <div class="content-body">
+                <section class="hero-banner">
+                    <div class="hero-text">
+                        <span class="tag">IA POUR TOUS</span>
+                        <h1>Maîtrisez l'Intelligence Artificielle au Quotidien</h1>
+                        <p>Les dernières astuces de Génération IA, Mister IA, Upmynt et plus encore.</p>
+                        <button class="cta-btn">Voir les nouveautés →</button>
+                    </div>
+                </section>
+
+                <div class="section-header">
+                    <h2>Dernières Actualités</h2>
+                    <div class="view-controls">
+                        <span class="update-ticker">Sync en direct : Actif</span>
+                    </div>
+                </div>
+
+                <div id="articles-grid" class="articles-grid">
+                    <!-- Articles will be injected here -->
+                    <div class="loading-state">
+                        <div class="spinner"></div>
+                        <p>Chargement de votre veille personnalisée...</p>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Right Statistics Sidebar -->
+        <aside class="stats-sidebar glass">
+            <div class="stat-card">
+                <h3>Statistiques</h3>
+                <div class="chart-placeholder">
+                    <div class="pie-chart">45%</div>
+                </div>
+                <p class="stat-msg">Couverture 24h</p>
+            </div>
+
+            <div class="mentors-list">
+                <h3>Sources Favoris</h3>
+                <div class="mentor-item">
+                    <div class="avatar-sm">YC</div>
+                    <div class="m-info">
+                        <strong>Yassine Chabli</strong>
+                        <span>Productivité IA</span>
+                    </div>
+                    <button class="follow-btn">Suivre</button>
+                </div>
+                <div class="mentor-item">
+                    <div class="avatar-sm">BR</div>
+                    <div class="m-info">
+                        <strong>Benoit Raphael</strong>
+                        <span>Génération IA</span>
+                    </div>
+                    <button class="follow-btn">Suivre</button>
+                </div>
+            </div>
+        </aside>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
