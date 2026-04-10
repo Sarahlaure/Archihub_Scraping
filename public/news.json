@@ -1,86 +1,93 @@
 [
     {
-        "title": "Accessory Dwelling Units",
-        "link": "https://www.dezeen.com/2026/04/04/byben-sculptural-backyard-adu-los-angeles/",
+        "title": "Data centres",
+        "link": "https://www.dezeen.com/2026/04/09/data-centres-heat-island-effect-study/",
         "date": "Recent",
-        "description": "Accessory Dwelling Units Accessory Dwelling Units Byben completes Los Angeles house with sculptural Offset ADU Local studio Byben has created an accessory dwelling unit in southern California called O...",
-        "type": "news"
-    },
-    {
-        "title": "Renovations",
-        "link": "https://www.dezeen.com/2026/04/04/replus-bureau-villa-quince/",
-        "date": "Recent",
-        "description": "Renovations Renovations Replus Bureau avoids \"nostalgic reconstruction\" in Ukrainian villa renovation Ukrainian architecture studio Replus Bureau has renovated a 20th-century villa in Lviv, contrastin...",
-        "type": "news"
-    },
-    {
-        "title": "This week on Dezeen",
-        "link": "https://www.dezeen.com/2026/04/04/fallingwater-renovation-frank-lloyd-wright-this-week/",
-        "date": "Recent",
-        "description": "This week on Dezeen This week on Dezeen This week we revealed the renovation of Frank Lloyd Wright's Fallingwater This week on Dezeen , a three-year renovation of Frank Lloyd Wright's most famous buil...",
-        "type": "news"
-    },
-    {
-        "title": "White House",
-        "link": "https://www.dezeen.com/2026/04/02/white-house-ballroom-project-approved-national-capital-planning-commission/",
-        "date": "Recent",
-        "description": "White House White House Planning commission approves White House ballroom design Despite a judge's order to halt construction on the White House ballroom project this week, Washington DC advisory comm...",
+        "description": "Data centres Data centres Study links data centres to heat island effects worldwide A group of scientists has claimed a pronounced heat island phenomenon correlated with the development of data centre...",
         "type": "news"
     },
     {
         "title": "Dezeen Agenda",
-        "link": "https://www.dezeen.com/2026/04/02/va-east-museum-odonnell-tuomey-london-uk-dezeen-agenda/",
+        "link": "https://www.dezeen.com/2026/04/09/frank-lloyd-wright-fallingwater-renovation-dezeen-agenda/",
         "date": "Recent",
-        "description": "Dezeen Agenda Dezeen Agenda Dezeen Agenda features O'Donnell + Tuomey's V&A East Museum The latest edition of our weekly Dezeen Agenda newsletter features an exclusive look at the exterior of the V&A ...",
+        "description": "Dezeen Agenda Dezeen Agenda Dezeen Agenda features the completed Frank Lloyd Wright Fallingwater renovation The latest edition of our weekly Dezeen Agenda newsletter features the conclusion of the Fal...",
         "type": "news"
     },
     {
-        "title": "Residential extensions",
-        "link": "https://www.dezeen.com/2026/04/02/seagull-cottage-architectural-farm/",
+        "title": "Lake houses",
+        "link": "https://www.dezeen.com/2026/04/09/cedars-kin-omar-gandhi-cedar-lake-house-canada/",
         "date": "Recent",
-        "description": "Residential extensions Residential extensions Timber bird hides inform Irish cottage extension by Architectural Farm Dublin studio Architectural Farm has renovated a home in Ireland called Seagull Cot...",
+        "description": "Lake houses Lake houses Omar Gandhi Architects cascades cedar lake house down Canadian hillside Toronto-based studio Omar Gandhi Architects has completed a lakefront house out of a series of rotated, ...",
+        "type": "news"
+    },
+    {
+        "title": "Scottish houses",
+        "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/",
+        "date": "Recent",
+        "description": "Scottish houses Scottish houses Moxon Architects references farmsteads for Corriebeg house extension in Scotland Scottish studio Moxon Architects has extended a house in rural Aberdeenshire, adding tw...",
+        "type": "news"
+    },
+    {
+        "title": "Installations",
+        "link": "https://www.dezeen.com/2026/04/09/kengo-kuma-earth-tree-installation-copenhagen-contemporary/",
+        "date": "Recent",
+        "description": "Installations Installations Kengo Kuma creates \"sensorial moments\" with Earth / Tree installation in Copenhagen Architecture studio Kengo Kuma and Associates has collaborated with Danish manufacturer ...",
+        "type": "news"
+    },
+    {
+        "title": "Sustainable architecture",
+        "link": "https://www.dezeen.com/2026/04/09/ecosysteme-d-snohetta-dunkirk/",
+        "date": "Recent",
+        "description": "Sustainable architecture Sustainable architecture Snøhetta adds \"positive energy building\" to Dunkirk port A faceted roof encircles a central courtyard at Écosystème D, an energy hub and engineering w...",
         "type": "news"
     },
     {
         "title": "Eduardo Souto de Moura",
-        "link": "https://www.dezeen.com/2026/04/02/braga-football-stadium-eduardo-souto-de-moura-video-profile/",
+        "link": "https://www.dezeen.com/2026/04/09/casa-das-historias-museum-eduardo-souto-de-moura-video-profile/",
         "date": "Recent",
-        "description": "Eduardo Souto de Moura Eduardo Souto de Moura \"I knew nothing about football\" says Eduardo Souto de Moura on designing Braga stadium Architect Eduardo Souto de Moura reveals he had no knowledge of foo...",
+        "description": "Eduardo Souto de Moura Eduardo Souto de Moura \"Even donkeys like\" the Casa das Histórias museum says Eduardo Souto de Moura Architect Eduardo Souto de Moura describes how a letter from artist Paula Re...",
+        "type": "news"
+    },
+    {
+        "title": "Dezeen Awards",
+        "link": "https://www.dezeen.com/2026/04/09/european-houses/",
+        "date": "Recent",
+        "description": "Dezeen Awards Dezeen Awards Nine European houses that reinterpret local architecture To inspire your entries to our new Dezeen Awards Regional Showcases, we select some of our favourite, previously sh...",
+        "type": "news"
+    },
+    {
+        "title": "Infrastructure",
+        "link": "https://www.dezeen.com/2026/04/08/toronto-line-five-stations-arcadis/",
+        "date": "Recent",
+        "description": "Infrastructure Infrastructure Toronto completes one of largest North American underground rail lines in decades The 19-kilometre metro Line 5 – Eglinton has opened in Toronto , with 15 underground sta...",
         "type": "news"
     },
     {
         "title": "Brazilian houses",
-        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/",
+        "link": "https://www.dezeen.com/2026/04/08/sabella-arquitetura-casa-colmeia/",
         "date": "Recent",
-        "description": "Brazilian houses Brazilian houses Bloco Arquitetos creates \"house without windows\" in Brazil Local studio Bloco Arquitetos has completed a house in Brasília surrounded by brick screens and wide entry ...",
+        "description": "Brazilian houses Brazilian houses Sabella Arquitetura crowns Brazilian house with gridded timber roof A gridded timber roof shelters the interiors and external terraces of Casa Colmeia, a low-lying ho...",
         "type": "news"
     },
     {
-        "title": "Frank Lloyd Wright",
-        "link": "https://www.dezeen.com/2026/04/01/fallingwater-frank-lloyd-wright-architectural-preservation-studio/",
+        "title": "Skyscrapers",
+        "link": "https://www.dezeen.com/2026/04/07/meganom-nomad-manhattan-skinny-skyscraper-nears-completion/",
         "date": "Recent",
-        "description": "Frank Lloyd Wright Frank Lloyd Wright Frank Lloyd Wright's Fallingwater completes years-long renovation The Western Pennsylvania Conservancy has announced the completion of a three-year Fallingwater c...",
+        "description": "Skyscrapers Skyscrapers Meganom shows infinity pool topping its skinny New York skyscraper Russian architecture studio Meganom has released renderings showing an infinity pool on its near-completed sk...",
         "type": "news"
     },
     {
-        "title": "Holiday homes",
-        "link": "https://www.dezeen.com/2026/04/01/thatch-holiday-home-latvia-oad-bprom/",
+        "title": "White House",
+        "link": "https://www.dezeen.com/2026/04/07/the-white-house-construction-legal-limbo/",
         "date": "Recent",
-        "description": "Holiday homes Holiday homes OAD tops barn-like summer home with thatch roof An exterior of charred timber and thatch is contrasted by a vibrant interior palette of blues and purples at this riverside ...",
+        "description": "White House White House How long will the White House have a \"hole in the ground\"? With an injunction halting the construction of the White House ballroom and the Trump administration appealing, it is...",
         "type": "news"
     },
     {
-        "title": "Rammed earth",
-        "link": "https://www.dezeen.com/2026/04/01/rammed-earth-house-video-tuckey-design-studio/",
+        "title": "Japanese houses",
+        "link": "https://www.dezeen.com/2026/04/07/hyg-architects-house-in-takahatayama-japan/",
         "date": "Recent",
-        "description": "Rammed earth Rammed earth Video reveals process behind Rammed Earth House by Tuckey Design Studio Unstabilised rammed earth forms the walls of a country house designed by Tuckey Design Studio in Wilts...",
-        "type": "news"
-    },
-    {
-        "title": "Houses of the month",
-        "link": "https://www.dezeen.com/2026/04/01/top-houses-march-2026/",
-        "date": "Recent",
-        "description": "Houses of the month Houses of the month Dezeen's top five houses of March 2026 Two gabled homes feature in Dezeen's top five houses of the month for March, including a barn-like holiday home in Norway...",
+        "description": "Japanese houses Japanese houses HYG Architects designs Japanese home as \"spatial continuum\" of its surroundings Clerestory windows and a curved ceiling create shifting patterns of light and shadow thr...",
         "type": "news"
     },
     {
@@ -98,10 +105,10 @@
         "type": "news"
     },
     {
-        "title": "WaCa Design aims for low carbon at Brazilian seaside compound",
-        "link": "https://www.dezeen.com/2026/02/12/waca-design-julia-kosciuk-brazilian-rochas-compound-low-embodied-carbon/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Foster + Partners plans Oxford chapel conversion for Larry Ellison",
+        "link": "https://www.dezeen.com/2026/03/11/foster-partners-chapel-lodge-eit-oxford/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "WaCa Design aims for low carbon at Brazilian seaside compound",
+        "description": "Foster + Partners plans Oxford chapel conversion for Larry Ellison",
         "type": "news"
     },
     {
@@ -112,38 +119,38 @@
         "type": "news"
     },
     {
-        "title": "TiggColl's modular Float House makes life on water more accessible",
-        "link": "https://www.dezeen.com/2026/01/21/float-house-houseboat-tiggcoll/?li_source=LI&li_medium=rhs_block_2",
+        "title": "WaCa Design aims for low carbon at Brazilian seaside compound",
+        "link": "https://www.dezeen.com/2026/02/12/waca-design-julia-kosciuk-brazilian-rochas-compound-low-embodied-carbon/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "TiggColl's modular Float House makes life on water more accessible",
+        "description": "WaCa Design aims for low carbon at Brazilian seaside compound",
+        "type": "news"
+    },
+    {
+        "title": "Coastal home in Barcelona perched on steel supports",
+        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Coastal home in Barcelona perched on steel supports",
+        "type": "news"
+    },
+    {
+        "title": "Eight contemporary houses raised on stilts",
+        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Eight contemporary houses raised on stilts",
         "type": "news"
     },
     {
         "title": "Akb Architects clads compact Ontario house in white",
-        "link": "https://www.dezeen.com/2026/01/29/atelier-kastelic-buffey-canada-timbertop-house/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/01/29/atelier-kastelic-buffey-canada-timbertop-house/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Akb Architects clads compact Ontario house in white",
         "type": "news"
     },
     {
-        "title": "Eduardo Souto de Moura reflects on the accidental beginnings of his architecture career",
-        "link": "https://www.dezeen.com/2026/03/17/eduardo-souto-de-moura-video-profile/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Milan design week 2026 guide",
+        "link": "https://www.dezeen.com/eventsguide/milan-design-week-2026/",
         "date": "Recent",
-        "description": "Eduardo Souto de Moura reflects on the accidental beginnings of his architecture career",
-        "type": "news"
-    },
-    {
-        "title": "Studio Okami Architecten updates Belgian home with green marble extension",
-        "link": "https://www.dezeen.com/2026/02/11/garden-pavilion-studio-okami-architecten/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Studio Okami Architecten updates Belgian home with green marble extension",
-        "type": "news"
-    },
-    {
-        "title": "Dezeen Events Guide",
-        "link": "https://www.dezeen.com/eventsguide/",
-        "date": "Recent",
-        "description": "Dezeen Events Guide",
+        "description": "Milan design week 2026 guide",
         "type": "news"
     },
     {

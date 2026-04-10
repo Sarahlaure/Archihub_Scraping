@@ -40,11 +40,43 @@
         "type": "competition"
     },
     {
-        "title": "Light of Tomorrow by VELUX",
-        "link": "https://competitions.archi/competition/light-of-tomorrow-edition-2026/",
-        "deadline": "6th April 2026",
-        "deadline_iso": "2026-04-06T00:00:00",
-        "description": "Submission: 6th April 2026 Registration: 30th March 2026 Location: Concept Language: English Prizes: €33,000 total Type: Student competition Light of Tomorrow by VELUX Light of Tomorrow by VELUX invit...",
+        "title": "Symbiocene: Architecture for a Biodiverse Future",
+        "link": "https://competitions.archi/competition/symbiocene-architecture-for-a-biodiverse-future/",
+        "deadline": "10th December 2025",
+        "deadline_iso": "2025-12-10T00:00:00",
+        "description": "Submission: 10th December 2025 Registration: 30th November 2025 Location: Concept Language: English Prizes: View website Type: Open Symbiocene: Architecture for a Biodiverse Future Introduction: Human...",
+        "type": "competition"
+    },
+    {
+        "title": "SA PIZZEDDA Competition",
+        "link": "https://competitions.archi/competition/sa-pizzedda-competition/",
+        "deadline": "25th September 2026",
+        "deadline_iso": "2026-09-25T00:00:00",
+        "description": "SA PIZZEDDA Competition Submission: 25th September 2026 Registration: 25th September 2026 Location: Concept Language: English Prizes: 8,000 € Type: Open Terraviva launches SA PIZZEDDA, a new design co...",
+        "type": "competition"
+    },
+    {
+        "title": "Interior Design Awards (INT) 2026",
+        "link": "https://competitions.archi/competition/interior-design-awards-int-2026/",
+        "deadline": "31st May 2026",
+        "deadline_iso": "2026-05-31T00:00:00",
+        "description": "Interior Design Awards (INT) 2026 Submission: 31st May 2026 Registration: 31st May 2026 Location: International Language: English Prizes: View website Type: Open The Interior Design Awards (INT) is an...",
+        "type": "competition"
+    },
+    {
+        "title": "Concursos AG360: Mountain Sanctuary",
+        "link": "https://competitions.archi/competition/concursos-ag360-mountain-sanctuary/",
+        "deadline": "7th June 2026",
+        "deadline_iso": "2026-06-07T00:00:00",
+        "description": "Concursos AG360: Mountain Sanctuary Submission: 7th June 2026 Registration: 22nd May 2026 Location: Argentina Language: Spanish Prizes: US $ 66.00 Type: Open A Mountain Sanctuary will be designed with...",
+        "type": "competition"
+    },
+    {
+        "title": "UDL Thesis Publication 2026",
+        "link": "https://competitions.archi/competition/udl-thesis-publication-2026/",
+        "deadline": "20th July 2026",
+        "deadline_iso": "2026-07-20T00:00:00",
+        "description": "UDL Thesis Publication 2026 Submission: 20th July 2026 Registration: 20th July 2026 Location: Online / Global Language: English Prizes: View website Type: Open for Undergraduate and Postgraduate Stude...",
         "type": "competition"
     },
     {
@@ -77,22 +109,6 @@
         "deadline": "19th October 2026",
         "deadline_iso": "2026-10-19T00:00:00",
         "description": "Underbridge #2 Submission: 19th October 2026 Registration: 17th September 2026 Location: Concept Language: English Prizes: 8,000 € Type: Open As cities expand, vertical and horizontal spaces are conti...",
-        "type": "competition"
-    },
-    {
-        "title": "Una estación para el valle – A station for the valley",
-        "link": "https://competitions.archi/competition/una-estacion-para-el-valle-a-station-for-the-valley/",
-        "deadline": "15th May 2026",
-        "deadline_iso": "2026-05-15T00:00:00",
-        "description": "Una estación para el valle – A station for the valley Submission: 15th May 2026 Registration: 14th May 2026 Location: Mieres, Spain Language: Español, English Prizes: Free Type: University students In...",
-        "type": "competition"
-    },
-    {
-        "title": "NIDOS DE AGUA Competition",
-        "link": "https://competitions.archi/competition/nidos-de-agua-competition/",
-        "deadline": "11th September 2026",
-        "deadline_iso": "2026-09-11T00:00:00",
-        "description": "NIDOS DE AGUA Competition Submission: 11th September 2026 Registration: 11th September 2026 Location: Valencia Language: English Prizes: 8.000 € Type: Open Terraviva launches NIDOS DE AGUA, a new inte...",
         "type": "competition"
     },
     {
@@ -271,6 +287,13 @@
         "type": "competition"
     },
     {
+        "title": "Kharkiv Housing Challenge",
+        "link": "https://architecturecompetitions.com/kharkivhousingchallenge/",
+        "deadline": "Unknown",
+        "description": "Kharkiv Housing Challenge",
+        "type": "competition"
+    },
+    {
         "title": "Denver Affordable Housing",
         "link": "https://architecturecompetitions.com/denverhousing/",
         "deadline": "Unknown",
@@ -289,13 +312,6 @@
         "link": "https://architecturecompetitions.com/kingspan-partnership",
         "deadline": "Unknown",
         "description": "MICROHOME competition",
-        "type": "competition"
-    },
-    {
-        "title": "Kharkiv Housing Challenge",
-        "link": "https://architecturecompetitions.com/kharkivhousingchallenge/",
-        "deadline": "Unknown",
-        "description": "Kharkiv Housing Challenge",
         "type": "competition"
     },
     {
