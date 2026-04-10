@@ -31,18 +31,12 @@ jobs:
 
     - name: Run Scraper
       run: |
-        mkdir -p .tmp
-        python3 tools/scraper.py
-
-    - name: Update Public Data
-      run: |
-        mkdir -p public
-        cp .tmp/articles.json public/articles.json
+        python tools/scraper.py
 
     - name: Commit and Push changes
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add public/articles.json .tmp/articles.json
-        git commit -m "chore: daily news sync [$(date '+%Y-%m-%d %H:%M')]" || echo "No changes to commit"
+        git add public/competitions.json public/jobs.json public/news.json
+        git commit -m "chore: daily data sync [$(date '+%Y-%m-%d %H:%M')]" || echo "No changes to commit"
         git push
