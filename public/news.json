@@ -1,5 +1,26 @@
 [
     {
+        "title": "This week on Dezeen",
+        "link": "https://www.dezeen.com/2026/04/11/big-luxury-rammed-earth-villas-japan/",
+        "date": "Recent",
+        "description": "This week on Dezeen This week on Dezeen This week BIG revealed a trio of luxury rammed-earth villas in Japan This week on Dezeen , Danish studio BIG unveiled three rammed-earth villas on the remote is...",
+        "type": "news"
+    },
+    {
+        "title": "Donald Trump",
+        "link": "https://www.dezeen.com/2026/04/10/president-trump-triumphal-arch-harrison-design/",
+        "date": "Recent",
+        "description": "Donald Trump Donald Trump Trump officials release designs of triumphal arch in Washington, DC The Trump administration has released updated designs of its proposed triumphal arch project by architectu...",
+        "type": "news"
+    },
+    {
+        "title": "London house extensions",
+        "link": "https://www.dezeen.com/2026/04/10/goldstein-heather-west-london-house/",
+        "date": "Recent",
+        "description": "London house extensions London house extensions Goldstein Heather doubles London home's footprint with four-storey extension Architecture studio Goldstein Heather has transformed a Victorian terrace h...",
+        "type": "news"
+    },
+    {
         "title": "Data centres",
         "link": "https://www.dezeen.com/2026/04/09/data-centres-heat-island-effect-study/",
         "date": "Recent",
@@ -70,27 +91,6 @@
         "type": "news"
     },
     {
-        "title": "Skyscrapers",
-        "link": "https://www.dezeen.com/2026/04/07/meganom-nomad-manhattan-skinny-skyscraper-nears-completion/",
-        "date": "Recent",
-        "description": "Skyscrapers Skyscrapers Meganom shows infinity pool topping its skinny New York skyscraper Russian architecture studio Meganom has released renderings showing an infinity pool on its near-completed sk...",
-        "type": "news"
-    },
-    {
-        "title": "White House",
-        "link": "https://www.dezeen.com/2026/04/07/the-white-house-construction-legal-limbo/",
-        "date": "Recent",
-        "description": "White House White House How long will the White House have a \"hole in the ground\"? With an injunction halting the construction of the White House ballroom and the Trump administration appealing, it is...",
-        "type": "news"
-    },
-    {
-        "title": "Japanese houses",
-        "link": "https://www.dezeen.com/2026/04/07/hyg-architects-house-in-takahatayama-japan/",
-        "date": "Recent",
-        "description": "Japanese houses Japanese houses HYG Architects designs Japanese home as \"spatial continuum\" of its surroundings Clerestory windows and a curved ceiling create shifting patterns of light and shadow thr...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of February 2026",
         "link": "https://www.dezeen.com/2026/02/28/top-houses-february-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -105,13 +105,6 @@
         "type": "news"
     },
     {
-        "title": "Foster + Partners plans Oxford chapel conversion for Larry Ellison",
-        "link": "https://www.dezeen.com/2026/03/11/foster-partners-chapel-lodge-eit-oxford/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Foster + Partners plans Oxford chapel conversion for Larry Ellison",
-        "type": "news"
-    },
-    {
         "title": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
         "link": "https://www.dezeen.com/2026/02/20/studio-bark-orchard-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -120,23 +113,30 @@
     },
     {
         "title": "WaCa Design aims for low carbon at Brazilian seaside compound",
-        "link": "https://www.dezeen.com/2026/02/12/waca-design-julia-kosciuk-brazilian-rochas-compound-low-embodied-carbon/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/02/12/waca-design-julia-kosciuk-brazilian-rochas-compound-low-embodied-carbon/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "WaCa Design aims for low carbon at Brazilian seaside compound",
         "type": "news"
     },
     {
-        "title": "Coastal home in Barcelona perched on steel supports",
-        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Architects and engineers among professions most automatable by AI according to Anthropic",
+        "link": "https://www.dezeen.com/2026/03/11/architects-highly-expose-ai-anthropic-research/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Coastal home in Barcelona perched on steel supports",
+        "description": "Architects and engineers among professions most automatable by AI according to Anthropic",
         "type": "news"
     },
     {
         "title": "Eight contemporary houses raised on stilts",
-        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_3",
+        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Eight contemporary houses raised on stilts",
+        "type": "news"
+    },
+    {
+        "title": "Coastal home in Barcelona perched on steel supports",
+        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Coastal home in Barcelona perched on steel supports",
         "type": "news"
     },
     {
