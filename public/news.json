@@ -84,31 +84,10 @@
         "type": "news"
     },
     {
-        "title": "Brazilian houses",
-        "link": "https://www.dezeen.com/2026/04/08/sabella-arquitetura-casa-colmeia/",
-        "date": "Recent",
-        "description": "Brazilian houses Brazilian houses Sabella Arquitetura crowns Brazilian house with gridded timber roof A gridded timber roof shelters the interiors and external terraces of Casa Colmeia, a low-lying ho...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of February 2026",
         "link": "https://www.dezeen.com/2026/02/28/top-houses-february-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Dezeen's top five houses of February 2026",
-        "type": "news"
-    },
-    {
-        "title": "B2A Architects elevates home above a dyke in the Netherlands",
-        "link": "https://www.dezeen.com/2026/01/26/b2a-architects-cascade-house/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "B2A Architects elevates home above a dyke in the Netherlands",
-        "type": "news"
-    },
-    {
-        "title": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
-        "link": "https://www.dezeen.com/2026/02/20/studio-bark-orchard-house/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
         "type": "news"
     },
     {
@@ -119,10 +98,17 @@
         "type": "news"
     },
     {
-        "title": "Architects and engineers among professions most automatable by AI according to Anthropic",
-        "link": "https://www.dezeen.com/2026/03/11/architects-highly-expose-ai-anthropic-research/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
+        "link": "https://www.dezeen.com/2026/02/20/studio-bark-orchard-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Architects and engineers among professions most automatable by AI according to Anthropic",
+        "description": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
+        "type": "news"
+    },
+    {
+        "title": "Coastal home in Barcelona perched on steel supports",
+        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Coastal home in Barcelona perched on steel supports",
         "type": "news"
     },
     {
@@ -133,17 +119,24 @@
         "type": "news"
     },
     {
-        "title": "Coastal home in Barcelona perched on steel supports",
-        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Akb Architects clads compact Ontario house in white",
+        "link": "https://www.dezeen.com/2026/01/29/atelier-kastelic-buffey-canada-timbertop-house/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Coastal home in Barcelona perched on steel supports",
+        "description": "Akb Architects clads compact Ontario house in white",
         "type": "news"
     },
     {
-        "title": "Akb Architects clads compact Ontario house in white",
-        "link": "https://www.dezeen.com/2026/01/29/atelier-kastelic-buffey-canada-timbertop-house/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Studio Dera adds sculptural extension to Mozart House in London",
+        "link": "https://www.dezeen.com/2026/03/19/studio-dera-mozart-house/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Akb Architects clads compact Ontario house in white",
+        "description": "Studio Dera adds sculptural extension to Mozart House in London",
+        "type": "news"
+    },
+    {
+        "title": "Argu Studio adds stone-clad annexe to coastal Croatian home",
+        "link": "https://www.dezeen.com/2026/01/29/argu-studio-pretpec-annexe-croatia/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Argu Studio adds stone-clad annexe to coastal Croatian home",
         "type": "news"
     },
     {

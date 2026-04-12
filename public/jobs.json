@@ -1,9 +1,16 @@
 [
     {
-        "title": "Interior Architect",
-        "link": "https://jobs.architecture.com/job/30877/interior-architect/?LinkSource=HomePage",
-        "location": "Devon",
-        "description": "Interior Architect | Devon | • | Up to £45k per annum",
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/30920/architect/?LinkSource=HomePage",
+        "location": "Marlborough, Wiltshire",
+        "description": "Architect | Marlborough, Wiltshire | • | Excellent salary",
+        "type": "job"
+    },
+    {
+        "title": "Senior Architect",
+        "link": "https://jobs.architecture.com/job/30869/senior-architect/?LinkSource=HomePage",
+        "location": "Brixton, London",
+        "description": "Senior Architect | Brixton, London | • | A competitive, negotiable salary, dep...",
         "type": "job"
     },
     {
@@ -14,17 +21,10 @@
         "type": "job"
     },
     {
-        "title": "Fire Remediation Manager",
-        "link": "https://jobs.architecture.com/job/30937/fire-remediation-manager/?LinkSource=HomePage",
-        "location": "London",
-        "description": "Fire Remediation Manager | London | • | £69,064",
-        "type": "job"
-    },
-    {
-        "title": "Senior Architect",
-        "link": "https://jobs.architecture.com/job/30869/senior-architect/?LinkSource=HomePage",
-        "location": "Brixton, London",
-        "description": "Senior Architect | Brixton, London | • | A competitive, negotiable salary, dep...",
+        "title": "Architect / Architectural Technician / Technolo...",
+        "link": "https://jobs.architecture.com/job/30876/architect-architectural-technician-technologist/?LinkSource=HomePage",
+        "location": "Devon",
+        "description": "Architect / Architectural Technician / Technolo... | Devon | • | Up to £45k per annum",
         "type": "job"
     }
 ]
