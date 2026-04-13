@@ -1,5 +1,19 @@
 [
     {
+        "title": "Glass bricks",
+        "link": "https://www.dezeen.com/2026/04/12/ian-moore-architects-corner-store/",
+        "date": "Recent",
+        "description": "Glass bricks Glass bricks Ian Moore Architects transforms Sydney pub into house with \"wall of light\" Australian studio Ian Moore Architects has transformed a 19th-century pub in Sydney into The Corner...",
+        "type": "news"
+    },
+    {
+        "title": "Accessory Dwelling Units",
+        "link": "https://www.dezeen.com/2026/04/12/usa-adu-round-up/",
+        "date": "Recent",
+        "description": "Accessory Dwelling Units Accessory Dwelling Units Ten American ADUs that showcase their urban versatility Laws and regulations around accessory dwelling units are opening up opportunities for infill a...",
+        "type": "news"
+    },
+    {
         "title": "This week on Dezeen",
         "link": "https://www.dezeen.com/2026/04/11/big-luxury-rammed-earth-villas-japan/",
         "date": "Recent",
@@ -70,24 +84,17 @@
         "type": "news"
     },
     {
-        "title": "Dezeen Awards",
-        "link": "https://www.dezeen.com/2026/04/09/european-houses/",
-        "date": "Recent",
-        "description": "Dezeen Awards Dezeen Awards Nine European houses that reinterpret local architecture To inspire your entries to our new Dezeen Awards Regional Showcases, we select some of our favourite, previously sh...",
-        "type": "news"
-    },
-    {
-        "title": "Infrastructure",
-        "link": "https://www.dezeen.com/2026/04/08/toronto-line-five-stations-arcadis/",
-        "date": "Recent",
-        "description": "Infrastructure Infrastructure Toronto completes one of largest North American underground rail lines in decades The 19-kilometre metro Line 5 – Eglinton has opened in Toronto , with 15 underground sta...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of February 2026",
         "link": "https://www.dezeen.com/2026/02/28/top-houses-february-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Dezeen's top five houses of February 2026",
+        "type": "news"
+    },
+    {
+        "title": "Coastal home in Barcelona perched on steel supports",
+        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Coastal home in Barcelona perched on steel supports",
         "type": "news"
     },
     {
@@ -105,24 +112,17 @@
         "type": "news"
     },
     {
-        "title": "Coastal home in Barcelona perched on steel supports",
-        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Coastal home in Barcelona perched on steel supports",
-        "type": "news"
-    },
-    {
-        "title": "Eight contemporary houses raised on stilts",
-        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Eight contemporary houses raised on stilts",
-        "type": "news"
-    },
-    {
         "title": "Akb Architects clads compact Ontario house in white",
         "link": "https://www.dezeen.com/2026/01/29/atelier-kastelic-buffey-canada-timbertop-house/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Akb Architects clads compact Ontario house in white",
+        "type": "news"
+    },
+    {
+        "title": "Ateno Architecture Studio sinks Olen resort into Greek cliff edge",
+        "link": "https://www.dezeen.com/2026/02/25/ateno-architecture-studio-olen-resort/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Ateno Architecture Studio sinks Olen resort into Greek cliff edge",
         "type": "news"
     },
     {
@@ -133,10 +133,10 @@
         "type": "news"
     },
     {
-        "title": "Argu Studio adds stone-clad annexe to coastal Croatian home",
-        "link": "https://www.dezeen.com/2026/01/29/argu-studio-pretpec-annexe-croatia/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Eight contemporary houses raised on stilts",
+        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Argu Studio adds stone-clad annexe to coastal Croatian home",
+        "description": "Eight contemporary houses raised on stilts",
         "type": "news"
     },
     {
