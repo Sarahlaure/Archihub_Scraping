@@ -1,5 +1,54 @@
 [
     {
+        "title": "Science Museum",
+        "link": "https://www.dezeen.com/2026/04/14/zgf-california-samuel-oschin-air-space-center/",
+        "date": "Recent",
+        "description": "Science Museum Science Museum ZGF wraps space shuttle in stainless-steel tower for California Science Center American architecture studio ZGF 's building in Los Angeles is complete with a full-size sp...",
+        "type": "news"
+    },
+    {
+        "title": "Skyscrapers",
+        "link": "https://www.dezeen.com/2026/04/14/kengo-kuma-skyscraper-quito-ceramics/",
+        "date": "Recent",
+        "description": "Skyscrapers Skyscrapers Kengo Kuma bases Quito skyscraper design on \"ancient ceramics\" Japanese architecture studio Kengo Kuma and Associates has released designs for a residential skyscraper in Quito...",
+        "type": "news"
+    },
+    {
+        "title": "New York skyscrapers",
+        "link": "https://www.dezeen.com/2026/04/14/som-175-park-avenue-supertall-skyscraper-new-york-permits/",
+        "date": "Recent",
+        "description": "New York skyscrapers New York skyscrapers Proposed SOM supertall skyscraper next to Grand Central Station advances The developers for the 175 Park Avenue in New York City have submitted permits for th...",
+        "type": "news"
+    },
+    {
+        "title": "Self-designed studios",
+        "link": "https://www.dezeen.com/2026/04/14/sukchulmok-brbb-architects-myeongnyun-sogul/",
+        "date": "Recent",
+        "description": "Self-designed studios Self-designed studios Sukchulmok and BRBB Architects use \"sculptural forms\" for self-designed studio in Seoul South Korean studios Sukchulmok and BRBB Architects have transformed...",
+        "type": "news"
+    },
+    {
+        "title": "Dezeen Awards",
+        "link": "https://www.dezeen.com/2026/04/14/ma-yansong-jo-barnard-dezeen-awards-judges/",
+        "date": "Recent",
+        "description": "Dezeen Awards Dezeen Awards Ma Yansong and Jo Barnard revealed as Dezeen Awards 2026 judges Architects Ma Yansong and Omar Degan , interior designer Miminat Shodeinde and designer Jo Barnard , have jo...",
+        "type": "news"
+    },
+    {
+        "title": "Mexican houses",
+        "link": "https://www.dezeen.com/2026/04/14/ppaa-mexico-city-concrete-house-metal-base/",
+        "date": "Recent",
+        "description": "Mexican houses Mexican houses PPAA designs Mexico City concrete house to rest on metal base Local studio Pérez Palacios Arquitectos Asociados has designed Barrancas, an off-grid minimalist concrete ho...",
+        "type": "news"
+    },
+    {
+        "title": "Milan design week",
+        "link": "https://www.dezeen.com/2026/04/13/dropcity-white-house-exhibition-milan-2026-politecnico-di-milano/",
+        "date": "Recent",
+        "description": "Milan design week Milan design week Dropcity exhibition explores the \"performative architecture\" of the White House Students at the Italian university Politecnico di Milano have created an exhibition ...",
+        "type": "news"
+    },
+    {
         "title": "Glass bricks",
         "link": "https://www.dezeen.com/2026/04/12/ian-moore-architects-corner-store/",
         "date": "Recent",
@@ -35,55 +84,6 @@
         "type": "news"
     },
     {
-        "title": "Data centres",
-        "link": "https://www.dezeen.com/2026/04/09/data-centres-heat-island-effect-study/",
-        "date": "Recent",
-        "description": "Data centres Data centres Study links data centres to heat island effects worldwide A group of scientists has claimed a pronounced heat island phenomenon correlated with the development of data centre...",
-        "type": "news"
-    },
-    {
-        "title": "Dezeen Agenda",
-        "link": "https://www.dezeen.com/2026/04/09/frank-lloyd-wright-fallingwater-renovation-dezeen-agenda/",
-        "date": "Recent",
-        "description": "Dezeen Agenda Dezeen Agenda Dezeen Agenda features the completed Frank Lloyd Wright Fallingwater renovation The latest edition of our weekly Dezeen Agenda newsletter features the conclusion of the Fal...",
-        "type": "news"
-    },
-    {
-        "title": "Lake houses",
-        "link": "https://www.dezeen.com/2026/04/09/cedars-kin-omar-gandhi-cedar-lake-house-canada/",
-        "date": "Recent",
-        "description": "Lake houses Lake houses Omar Gandhi Architects cascades cedar lake house down Canadian hillside Toronto-based studio Omar Gandhi Architects has completed a lakefront house out of a series of rotated, ...",
-        "type": "news"
-    },
-    {
-        "title": "Scottish houses",
-        "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/",
-        "date": "Recent",
-        "description": "Scottish houses Scottish houses Moxon Architects references farmsteads for Corriebeg house extension in Scotland Scottish studio Moxon Architects has extended a house in rural Aberdeenshire, adding tw...",
-        "type": "news"
-    },
-    {
-        "title": "Installations",
-        "link": "https://www.dezeen.com/2026/04/09/kengo-kuma-earth-tree-installation-copenhagen-contemporary/",
-        "date": "Recent",
-        "description": "Installations Installations Kengo Kuma creates \"sensorial moments\" with Earth / Tree installation in Copenhagen Architecture studio Kengo Kuma and Associates has collaborated with Danish manufacturer ...",
-        "type": "news"
-    },
-    {
-        "title": "Sustainable architecture",
-        "link": "https://www.dezeen.com/2026/04/09/ecosysteme-d-snohetta-dunkirk/",
-        "date": "Recent",
-        "description": "Sustainable architecture Sustainable architecture Snøhetta adds \"positive energy building\" to Dunkirk port A faceted roof encircles a central courtyard at Écosystème D, an energy hub and engineering w...",
-        "type": "news"
-    },
-    {
-        "title": "Eduardo Souto de Moura",
-        "link": "https://www.dezeen.com/2026/04/09/casa-das-historias-museum-eduardo-souto-de-moura-video-profile/",
-        "date": "Recent",
-        "description": "Eduardo Souto de Moura Eduardo Souto de Moura \"Even donkeys like\" the Casa das Histórias museum says Eduardo Souto de Moura Architect Eduardo Souto de Moura describes how a letter from artist Paula Re...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of February 2026",
         "link": "https://www.dezeen.com/2026/02/28/top-houses-february-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -98,13 +98,6 @@
         "type": "news"
     },
     {
-        "title": "WaCa Design aims for low carbon at Brazilian seaside compound",
-        "link": "https://www.dezeen.com/2026/02/12/waca-design-julia-kosciuk-brazilian-rochas-compound-low-embodied-carbon/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "WaCa Design aims for low carbon at Brazilian seaside compound",
-        "type": "news"
-    },
-    {
         "title": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
         "link": "https://www.dezeen.com/2026/02/20/studio-bark-orchard-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -112,17 +105,24 @@
         "type": "news"
     },
     {
-        "title": "Akb Architects clads compact Ontario house in white",
-        "link": "https://www.dezeen.com/2026/01/29/atelier-kastelic-buffey-canada-timbertop-house/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Eight contemporary houses raised on stilts",
+        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Akb Architects clads compact Ontario house in white",
+        "description": "Eight contemporary houses raised on stilts",
         "type": "news"
     },
     {
-        "title": "Ateno Architecture Studio sinks Olen resort into Greek cliff edge",
-        "link": "https://www.dezeen.com/2026/02/25/ateno-architecture-studio-olen-resort/?li_source=LI&li_medium=rhs_block_2",
+        "title": "WaCa Design aims for low carbon at Brazilian seaside compound",
+        "link": "https://www.dezeen.com/2026/02/12/waca-design-julia-kosciuk-brazilian-rochas-compound-low-embodied-carbon/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Ateno Architecture Studio sinks Olen resort into Greek cliff edge",
+        "description": "WaCa Design aims for low carbon at Brazilian seaside compound",
+        "type": "news"
+    },
+    {
+        "title": "Enrico Sassi uses Le Corbusier colours in revamp of 1970s house overlooking Lake Lugano",
+        "link": "https://www.dezeen.com/2026/02/04/renovated-house-vernate-enrico-sassi/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Enrico Sassi uses Le Corbusier colours in revamp of 1970s house overlooking Lake Lugano",
         "type": "news"
     },
     {
@@ -133,10 +133,10 @@
         "type": "news"
     },
     {
-        "title": "Eight contemporary houses raised on stilts",
-        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Eight key projects by Pritzker Prize 2026 winner Smiljan Radić",
+        "link": "https://www.dezeen.com/2026/03/12/pritzker-prize-2026-winner-smiljan-radic-key-projects/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Eight contemporary houses raised on stilts",
+        "description": "Eight key projects by Pritzker Prize 2026 winner Smiljan Radić",
         "type": "news"
     },
     {
