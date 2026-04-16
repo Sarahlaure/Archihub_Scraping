@@ -1,5 +1,19 @@
 [
     {
+        "title": "Exhibitions",
+        "link": "https://www.dezeen.com/2026/04/15/encounters-denise-scott-brown-exhibition-yale-architecture-gallery/",
+        "date": "Recent",
+        "description": "Exhibitions Exhibitions Flower-covered theatre forms centrepiece of Denise Scott Brown's photography exhibition A flower-covered theatre has been installed at the centre of an exhibition dedicated to ...",
+        "type": "news"
+    },
+    {
+        "title": "Indian houses",
+        "link": "https://www.dezeen.com/2026/04/15/house-born-four-soils-hiren-patel-architects-design/",
+        "date": "Recent",
+        "description": "Indian houses Indian houses Rammed-earth walls enclose A House Born of Four Soils in India Sand sourced from four different regions creates a \"geological canvas\" of coloured and textured strata in the...",
+        "type": "news"
+    },
+    {
         "title": "Science Museum",
         "link": "https://www.dezeen.com/2026/04/14/zgf-california-samuel-oschin-air-space-center/",
         "date": "Recent",
@@ -63,38 +77,10 @@
         "type": "news"
     },
     {
-        "title": "This week on Dezeen",
-        "link": "https://www.dezeen.com/2026/04/11/big-luxury-rammed-earth-villas-japan/",
-        "date": "Recent",
-        "description": "This week on Dezeen This week on Dezeen This week BIG revealed a trio of luxury rammed-earth villas in Japan This week on Dezeen , Danish studio BIG unveiled three rammed-earth villas on the remote is...",
-        "type": "news"
-    },
-    {
-        "title": "Donald Trump",
-        "link": "https://www.dezeen.com/2026/04/10/president-trump-triumphal-arch-harrison-design/",
-        "date": "Recent",
-        "description": "Donald Trump Donald Trump Trump officials release designs of triumphal arch in Washington, DC The Trump administration has released updated designs of its proposed triumphal arch project by architectu...",
-        "type": "news"
-    },
-    {
-        "title": "London house extensions",
-        "link": "https://www.dezeen.com/2026/04/10/goldstein-heather-west-london-house/",
-        "date": "Recent",
-        "description": "London house extensions London house extensions Goldstein Heather doubles London home's footprint with four-storey extension Architecture studio Goldstein Heather has transformed a Victorian terrace h...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of February 2026",
         "link": "https://www.dezeen.com/2026/02/28/top-houses-february-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Dezeen's top five houses of February 2026",
-        "type": "news"
-    },
-    {
-        "title": "Coastal home in Barcelona perched on steel supports",
-        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Coastal home in Barcelona perched on steel supports",
         "type": "news"
     },
     {
@@ -112,6 +98,13 @@
         "type": "news"
     },
     {
+        "title": "Coastal home in Barcelona perched on steel supports",
+        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Coastal home in Barcelona perched on steel supports",
+        "type": "news"
+    },
+    {
         "title": "WaCa Design aims for low carbon at Brazilian seaside compound",
         "link": "https://www.dezeen.com/2026/02/12/waca-design-julia-kosciuk-brazilian-rochas-compound-low-embodied-carbon/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
@@ -119,15 +112,8 @@
         "type": "news"
     },
     {
-        "title": "Enrico Sassi uses Le Corbusier colours in revamp of 1970s house overlooking Lake Lugano",
-        "link": "https://www.dezeen.com/2026/02/04/renovated-house-vernate-enrico-sassi/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Enrico Sassi uses Le Corbusier colours in revamp of 1970s house overlooking Lake Lugano",
-        "type": "news"
-    },
-    {
         "title": "Studio Dera adds sculptural extension to Mozart House in London",
-        "link": "https://www.dezeen.com/2026/03/19/studio-dera-mozart-house/?li_source=LI&li_medium=rhs_block_3",
+        "link": "https://www.dezeen.com/2026/03/19/studio-dera-mozart-house/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Studio Dera adds sculptural extension to Mozart House in London",
         "type": "news"
@@ -137,6 +123,13 @@
         "link": "https://www.dezeen.com/2026/03/12/pritzker-prize-2026-winner-smiljan-radic-key-projects/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Eight key projects by Pritzker Prize 2026 winner Smiljan Radić",
+        "type": "news"
+    },
+    {
+        "title": "Studio Okami Architecten updates Belgian home with green marble extension",
+        "link": "https://www.dezeen.com/2026/02/11/garden-pavilion-studio-okami-architecten/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Studio Okami Architecten updates Belgian home with green marble extension",
         "type": "news"
     },
     {
