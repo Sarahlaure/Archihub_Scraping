@@ -1,5 +1,26 @@
 [
     {
+        "title": "3D-printed houses",
+        "link": "https://www.dezeen.com/2026/04/16/icon-firmah-architecture-waco-surf-desperado-texas/",
+        "date": "Recent",
+        "description": "3D-printed houses 3D-printed houses ICON to 3D-print housing for artificial surf community in Texas Construction company ICON and design studio Firmah Architecture have released designs for a 450-acre...",
+        "type": "news"
+    },
+    {
+        "title": "Conference centres",
+        "link": "https://www.dezeen.com/2026/04/16/texas-convention-centres-urban-development-mazade/",
+        "date": "Recent",
+        "description": "Conference centres Conference centres Five Texas cities \"catalyzing\" urban development with convention centres Nearly $9 billion of convention centre design and construction is currently underway in T...",
+        "type": "news"
+    },
+    {
+        "title": "Skyscrapers",
+        "link": "https://www.dezeen.com/2026/04/16/famous-stalled-projects-construction/",
+        "date": "Recent",
+        "description": "Skyscrapers Skyscrapers Six famous buildings with infamous delays Following news that the construction of the White House ballroom has been forced to stop , we look at six other high-profile projects ...",
+        "type": "news"
+    },
+    {
         "title": "Exhibitions",
         "link": "https://www.dezeen.com/2026/04/15/encounters-denise-scott-brown-exhibition-yale-architecture-gallery/",
         "date": "Recent",
@@ -49,34 +70,6 @@
         "type": "news"
     },
     {
-        "title": "Mexican houses",
-        "link": "https://www.dezeen.com/2026/04/14/ppaa-mexico-city-concrete-house-metal-base/",
-        "date": "Recent",
-        "description": "Mexican houses Mexican houses PPAA designs Mexico City concrete house to rest on metal base Local studio Pérez Palacios Arquitectos Asociados has designed Barrancas, an off-grid minimalist concrete ho...",
-        "type": "news"
-    },
-    {
-        "title": "Milan design week",
-        "link": "https://www.dezeen.com/2026/04/13/dropcity-white-house-exhibition-milan-2026-politecnico-di-milano/",
-        "date": "Recent",
-        "description": "Milan design week Milan design week Dropcity exhibition explores the \"performative architecture\" of the White House Students at the Italian university Politecnico di Milano have created an exhibition ...",
-        "type": "news"
-    },
-    {
-        "title": "Glass bricks",
-        "link": "https://www.dezeen.com/2026/04/12/ian-moore-architects-corner-store/",
-        "date": "Recent",
-        "description": "Glass bricks Glass bricks Ian Moore Architects transforms Sydney pub into house with \"wall of light\" Australian studio Ian Moore Architects has transformed a 19th-century pub in Sydney into The Corner...",
-        "type": "news"
-    },
-    {
-        "title": "Accessory Dwelling Units",
-        "link": "https://www.dezeen.com/2026/04/12/usa-adu-round-up/",
-        "date": "Recent",
-        "description": "Accessory Dwelling Units Accessory Dwelling Units Ten American ADUs that showcase their urban versatility Laws and regulations around accessory dwelling units are opening up opportunities for infill a...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of February 2026",
         "link": "https://www.dezeen.com/2026/02/28/top-houses-february-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -105,31 +98,31 @@
         "type": "news"
     },
     {
+        "title": "Eight key projects by Pritzker Prize 2026 winner Smiljan Radić",
+        "link": "https://www.dezeen.com/2026/03/12/pritzker-prize-2026-winner-smiljan-radic-key-projects/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Eight key projects by Pritzker Prize 2026 winner Smiljan Radić",
+        "type": "news"
+    },
+    {
+        "title": "Enrico Sassi uses Le Corbusier colours in revamp of 1970s house overlooking Lake Lugano",
+        "link": "https://www.dezeen.com/2026/02/04/renovated-house-vernate-enrico-sassi/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Enrico Sassi uses Le Corbusier colours in revamp of 1970s house overlooking Lake Lugano",
+        "type": "news"
+    },
+    {
         "title": "WaCa Design aims for low carbon at Brazilian seaside compound",
-        "link": "https://www.dezeen.com/2026/02/12/waca-design-julia-kosciuk-brazilian-rochas-compound-low-embodied-carbon/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/02/12/waca-design-julia-kosciuk-brazilian-rochas-compound-low-embodied-carbon/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "WaCa Design aims for low carbon at Brazilian seaside compound",
         "type": "news"
     },
     {
         "title": "Studio Dera adds sculptural extension to Mozart House in London",
-        "link": "https://www.dezeen.com/2026/03/19/studio-dera-mozart-house/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/03/19/studio-dera-mozart-house/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Studio Dera adds sculptural extension to Mozart House in London",
-        "type": "news"
-    },
-    {
-        "title": "Eight key projects by Pritzker Prize 2026 winner Smiljan Radić",
-        "link": "https://www.dezeen.com/2026/03/12/pritzker-prize-2026-winner-smiljan-radic-key-projects/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Eight key projects by Pritzker Prize 2026 winner Smiljan Radić",
-        "type": "news"
-    },
-    {
-        "title": "Studio Okami Architecten updates Belgian home with green marble extension",
-        "link": "https://www.dezeen.com/2026/02/11/garden-pavilion-studio-okami-architecten/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Studio Okami Architecten updates Belgian home with green marble extension",
         "type": "news"
     },
     {
