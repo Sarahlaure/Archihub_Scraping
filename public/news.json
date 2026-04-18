@@ -1,5 +1,26 @@
 [
     {
+        "title": "Exhibitions",
+        "link": "https://www.dezeen.com/2026/04/17/agency-agency-media-modernity-seminar-princeton/",
+        "date": "Recent",
+        "description": "Exhibitions Exhibitions Exhibition marks 25 years of \"incredible\" Princeton Media + Modernity seminar An exhibition highlighting the 25th anniversary of the Program of Media + Modernity seminar at Pri...",
+        "type": "news"
+    },
+    {
+        "title": "Indian houses",
+        "link": "https://www.dezeen.com/2026/04/17/iki-builds-aurva-illam-house-india/",
+        "date": "Recent",
+        "description": "Indian houses Indian houses Iki Builds uses local stone and earth for \"cascading\" vaulted home in India A geological palette of rammed earth , local stone and terracotta tiles reflects the rugged, roc...",
+        "type": "news"
+    },
+    {
+        "title": "Architecture",
+        "link": "https://www.dezeen.com/2026/04/17/tennessee-performing-arts-nashville-big-metal-pipes/",
+        "date": "Recent",
+        "description": "Architecture Architecture BIG reveals Nashville performing arts centre wrapped in aluminium pipes Danish architecture studio BIG has released designs for the riverside Tennessee Performing Arts Center...",
+        "type": "news"
+    },
+    {
         "title": "3D-printed houses",
         "link": "https://www.dezeen.com/2026/04/16/icon-firmah-architecture-waco-surf-desperado-texas/",
         "date": "Recent",
@@ -42,34 +63,6 @@
         "type": "news"
     },
     {
-        "title": "Skyscrapers",
-        "link": "https://www.dezeen.com/2026/04/14/kengo-kuma-skyscraper-quito-ceramics/",
-        "date": "Recent",
-        "description": "Skyscrapers Skyscrapers Kengo Kuma bases Quito skyscraper design on \"ancient ceramics\" Japanese architecture studio Kengo Kuma and Associates has released designs for a residential skyscraper in Quito...",
-        "type": "news"
-    },
-    {
-        "title": "New York skyscrapers",
-        "link": "https://www.dezeen.com/2026/04/14/som-175-park-avenue-supertall-skyscraper-new-york-permits/",
-        "date": "Recent",
-        "description": "New York skyscrapers New York skyscrapers Proposed SOM supertall skyscraper next to Grand Central Station advances The developers for the 175 Park Avenue in New York City have submitted permits for th...",
-        "type": "news"
-    },
-    {
-        "title": "Self-designed studios",
-        "link": "https://www.dezeen.com/2026/04/14/sukchulmok-brbb-architects-myeongnyun-sogul/",
-        "date": "Recent",
-        "description": "Self-designed studios Self-designed studios Sukchulmok and BRBB Architects use \"sculptural forms\" for self-designed studio in Seoul South Korean studios Sukchulmok and BRBB Architects have transformed...",
-        "type": "news"
-    },
-    {
-        "title": "Dezeen Awards",
-        "link": "https://www.dezeen.com/2026/04/14/ma-yansong-jo-barnard-dezeen-awards-judges/",
-        "date": "Recent",
-        "description": "Dezeen Awards Dezeen Awards Ma Yansong and Jo Barnard revealed as Dezeen Awards 2026 judges Architects Ma Yansong and Omar Degan , interior designer Miminat Shodeinde and designer Jo Barnard , have jo...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of February 2026",
         "link": "https://www.dezeen.com/2026/02/28/top-houses-february-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -84,29 +77,36 @@
         "type": "news"
     },
     {
+        "title": "Dezeen's top five houses of March 2026",
+        "link": "https://www.dezeen.com/2026/04/01/top-houses-march-2026/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Dezeen's top five houses of March 2026",
+        "type": "news"
+    },
+    {
+        "title": "Bloco Arquitetos designs Brazilian “house without windows”",
+        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Bloco Arquitetos designs Brazilian “house without windows”",
+        "type": "news"
+    },
+    {
         "title": "Eight contemporary houses raised on stilts",
-        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_1",
+        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Eight contemporary houses raised on stilts",
         "type": "news"
     },
     {
         "title": "Coastal home in Barcelona perched on steel supports",
-        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_1",
+        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Coastal home in Barcelona perched on steel supports",
         "type": "news"
     },
     {
-        "title": "Eight key projects by Pritzker Prize 2026 winner Smiljan Radić",
-        "link": "https://www.dezeen.com/2026/03/12/pritzker-prize-2026-winner-smiljan-radic-key-projects/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Eight key projects by Pritzker Prize 2026 winner Smiljan Radić",
-        "type": "news"
-    },
-    {
         "title": "Enrico Sassi uses Le Corbusier colours in revamp of 1970s house overlooking Lake Lugano",
-        "link": "https://www.dezeen.com/2026/02/04/renovated-house-vernate-enrico-sassi/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/02/04/renovated-house-vernate-enrico-sassi/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Enrico Sassi uses Le Corbusier colours in revamp of 1970s house overlooking Lake Lugano",
         "type": "news"
@@ -116,13 +116,6 @@
         "link": "https://www.dezeen.com/2026/02/12/waca-design-julia-kosciuk-brazilian-rochas-compound-low-embodied-carbon/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "WaCa Design aims for low carbon at Brazilian seaside compound",
-        "type": "news"
-    },
-    {
-        "title": "Studio Dera adds sculptural extension to Mozart House in London",
-        "link": "https://www.dezeen.com/2026/03/19/studio-dera-mozart-house/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Studio Dera adds sculptural extension to Mozart House in London",
         "type": "news"
     },
     {
