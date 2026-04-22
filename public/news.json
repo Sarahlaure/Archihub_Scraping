@@ -1,5 +1,26 @@
 [
     {
+        "title": "Data centres",
+        "link": "https://www.dezeen.com/2026/04/21/atkinsrealis-nvidia-nuclear-powered-data-centres/",
+        "date": "Recent",
+        "description": "Data centres Data centres AtkinsRéalis to partner with Nvidia on nuclear-powered data centre design Canadian engineering firm AtkinsRéalis has announced a partnership with tech company Nvidia that wil...",
+        "type": "news"
+    },
+    {
+        "title": "Residential extensions",
+        "link": "https://www.dezeen.com/2026/04/21/neil-dusheiko-architects-church-house/",
+        "date": "Recent",
+        "description": "Residential extensions Residential extensions Neil Dusheiko Architects extends Cambridgeshire home to frame neighbouring church A large picture window draws focus to a Gothic church beside this house ...",
+        "type": "news"
+    },
+    {
+        "title": "Milan design week",
+        "link": "https://www.dezeen.com/2026/04/21/lina-ghotmeh-pink-labyrinth-milan-design-week/",
+        "date": "Recent",
+        "description": "Milan design week Milan design week Lina Ghotmeh unveils pink labyrinth that \"invites visitors to slow down\" Architect Lina Ghotmeh has filled the courtyard of Milan 's Palazzo Litta with the Metamorp...",
+        "type": "news"
+    },
+    {
         "title": "Dezeen Awards",
         "link": "https://www.dezeen.com/2026/04/21/britt-moran-benni-allan-dezeen-awards-judges/",
         "date": "Recent",
@@ -70,10 +91,10 @@
         "type": "news"
     },
     {
-        "title": "Skyscrapers",
-        "link": "https://www.dezeen.com/2026/04/16/famous-stalled-projects-construction/",
+        "title": "Dezeen's top five houses of February 2026",
+        "link": "https://www.dezeen.com/2026/02/28/top-houses-february-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Skyscrapers Skyscrapers Six famous buildings with infamous delays Following news that the construction of the White House ballroom has been forced to stop , we look at six other high-profile projects ...",
+        "description": "Dezeen's top five houses of February 2026",
         "type": "news"
     },
     {
@@ -84,13 +105,6 @@
         "type": "news"
     },
     {
-        "title": "Dezeen's top five houses of February 2026",
-        "link": "https://www.dezeen.com/2026/02/28/top-houses-february-2026/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Dezeen's top five houses of February 2026",
-        "type": "news"
-    },
-    {
         "title": "Eight contemporary houses raised on stilts",
         "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -98,10 +112,10 @@
         "type": "news"
     },
     {
-        "title": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
-        "link": "https://www.dezeen.com/2026/02/20/studio-bark-orchard-house/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Ateno Architecture Studio sinks Olen resort into Greek cliff edge",
+        "link": "https://www.dezeen.com/2026/02/25/ateno-architecture-studio-olen-resort/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
+        "description": "Ateno Architecture Studio sinks Olen resort into Greek cliff edge",
         "type": "news"
     },
     {
@@ -119,17 +133,17 @@
         "type": "news"
     },
     {
+        "title": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
+        "link": "https://www.dezeen.com/2026/02/20/studio-bark-orchard-house/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
+        "type": "news"
+    },
+    {
         "title": "Coastal home in Barcelona perched on steel supports",
         "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Coastal home in Barcelona perched on steel supports",
-        "type": "news"
-    },
-    {
-        "title": "Studio Dera adds sculptural extension to Mozart House in London",
-        "link": "https://www.dezeen.com/2026/03/19/studio-dera-mozart-house/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Studio Dera adds sculptural extension to Mozart House in London",
         "type": "news"
     },
     {
