@@ -1,5 +1,40 @@
 [
     {
+        "title": "Frank Lloyd Wright",
+        "link": "https://www.dezeen.com/2026/04/23/frank-lloyd-wright-preservation-projects-round-up/",
+        "date": "Recent",
+        "description": "Frank Lloyd Wright Frank Lloyd Wright Six Frank Lloyd Wright restoration projects across the US Following the recent completion of renovations on American architect Frank Lloyd Wright 's iconic Fallin...",
+        "type": "news"
+    },
+    {
+        "title": "Dezeen Agenda",
+        "link": "https://www.dezeen.com/2026/04/23/queen-elizabeth-ii-memorial-foster-partners-dezeen-agenda/",
+        "date": "Recent",
+        "description": "Dezeen Agenda Dezeen Agenda Dezeen Agenda features final plans for Queen Elizabeth II memorial The latest edition of our weekly Dezeen Agenda newsletter features Foster + Partners' final designs for Q...",
+        "type": "news"
+    },
+    {
+        "title": "Skyscrapers",
+        "link": "https://www.dezeen.com/2026/04/23/anantara-white-lotus-resort-skyscraper-miami-kpf-urquiola-odp/",
+        "date": "Recent",
+        "description": "Skyscrapers Skyscrapers KPF, ODP and Patricia Urquiola designing \"White Lotus\" resort skyscraper in Miami Architecture studios KPF and ODP have designed a skyscraper in Miami for hospitality company A...",
+        "type": "news"
+    },
+    {
+        "title": "Architecture",
+        "link": "https://www.dezeen.com/2026/04/23/zumthors-lacma-opinion-shane-reiner-roth/",
+        "date": "Recent",
+        "description": "Architecture Architecture \"Zumthor's LACMA building captures the strangeness of our times\" As Peter Zumthor 's highly anticipated Los Angeles County Museum of Art opens, local writer Shane Reiner-Roth...",
+        "type": "news"
+    },
+    {
+        "title": "Jeddah Tower",
+        "link": "https://www.dezeen.com/2026/04/23/jeddah-tower-100th-floor-construction-photos-saudi-arabia/",
+        "date": "Recent",
+        "description": "Jeddah Tower Jeddah Tower Photos reveal Jeddah Tower reaching 100th floor in Saudi Arabia US studio Adrian Smith + Gordon Gill Architecture has shared exclusive photos of construction progressing on J...",
+        "type": "news"
+    },
+    {
         "title": "Skyscrapers",
         "link": "https://www.dezeen.com/2026/04/22/konigsberger-vannucchi-sao-paulo-bueno-brandao-257/",
         "date": "Recent",
@@ -63,41 +98,6 @@
         "type": "news"
     },
     {
-        "title": "Restaurants",
-        "link": "https://www.dezeen.com/2026/04/18/petti-restaurant-wallmakers/",
-        "date": "Recent",
-        "description": "Restaurants Restaurants Mud-coated shipping containers form Petti restaurant in India by Wallmakers A cluster of stacked shipping containers has been coated in a layer of poured earth to create this r...",
-        "type": "news"
-    },
-    {
-        "title": "Exhibitions",
-        "link": "https://www.dezeen.com/2026/04/17/agency-agency-media-modernity-seminar-princeton/",
-        "date": "Recent",
-        "description": "Exhibitions Exhibitions Exhibition marks 25 years of \"incredible\" Princeton Media + Modernity seminar An exhibition highlighting the 25th anniversary of the Program of Media + Modernity seminar at Pri...",
-        "type": "news"
-    },
-    {
-        "title": "Indian houses",
-        "link": "https://www.dezeen.com/2026/04/17/iki-builds-aurva-illam-house-india/",
-        "date": "Recent",
-        "description": "Indian houses Indian houses Iki Builds uses local stone and earth for \"cascading\" vaulted home in India A geological palette of rammed earth , local stone and terracotta tiles reflects the rugged, roc...",
-        "type": "news"
-    },
-    {
-        "title": "Architecture",
-        "link": "https://www.dezeen.com/2026/04/17/tennessee-performing-arts-nashville-big-metal-pipes/",
-        "date": "Recent",
-        "description": "Architecture Architecture BIG reveals Nashville performing arts centre wrapped in aluminium pipes Danish architecture studio BIG has released designs for the riverside Tennessee Performing Arts Center...",
-        "type": "news"
-    },
-    {
-        "title": "3D-printed houses",
-        "link": "https://www.dezeen.com/2026/04/16/icon-firmah-architecture-waco-surf-desperado-texas/",
-        "date": "Recent",
-        "description": "3D-printed houses 3D-printed houses ICON to 3D-print housing for artificial surf community in Texas Construction company ICON and design studio Firmah Architecture have released designs for a 450-acre...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of March 2026",
         "link": "https://www.dezeen.com/2026/04/01/top-houses-march-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -112,45 +112,45 @@
         "type": "news"
     },
     {
-        "title": "Meganom shows pool topping its skinny New York skyscraper",
-        "link": "https://www.dezeen.com/2026/04/07/meganom-nomad-manhattan-skinny-skyscraper-nears-completion/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Meganom shows pool topping its skinny New York skyscraper",
-        "type": "news"
-    },
-    {
-        "title": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
-        "link": "https://www.dezeen.com/2026/02/20/studio-bark-orchard-house/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
-        "type": "news"
-    },
-    {
-        "title": "Ateno Architecture Studio sinks Olen resort into Greek cliff edge",
-        "link": "https://www.dezeen.com/2026/02/25/ateno-architecture-studio-olen-resort/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Ateno Architecture Studio sinks Olen resort into Greek cliff edge",
-        "type": "news"
-    },
-    {
         "title": "WaCa Design aims for low carbon at Brazilian seaside compound",
-        "link": "https://www.dezeen.com/2026/02/12/waca-design-julia-kosciuk-brazilian-rochas-compound-low-embodied-carbon/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/02/12/waca-design-julia-kosciuk-brazilian-rochas-compound-low-embodied-carbon/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "WaCa Design aims for low carbon at Brazilian seaside compound",
         "type": "news"
     },
     {
         "title": "Coastal home in Barcelona perched on steel supports",
-        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_3",
+        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Coastal home in Barcelona perched on steel supports",
         "type": "news"
     },
     {
+        "title": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
+        "link": "https://www.dezeen.com/2026/02/20/studio-bark-orchard-house/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
+        "type": "news"
+    },
+    {
         "title": "Bloco Arquitetos designs Brazilian “house without windows”",
-        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_3",
+        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Bloco Arquitetos designs Brazilian “house without windows”",
+        "type": "news"
+    },
+    {
+        "title": "Ateno Architecture Studio sinks Olen resort into Greek cliff edge",
+        "link": "https://www.dezeen.com/2026/02/25/ateno-architecture-studio-olen-resort/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Ateno Architecture Studio sinks Olen resort into Greek cliff edge",
+        "type": "news"
+    },
+    {
+        "title": "Eight contemporary houses raised on stilts",
+        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Eight contemporary houses raised on stilts",
         "type": "news"
     },
     {

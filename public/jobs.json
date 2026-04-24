@@ -1,16 +1,23 @@
 [
     {
-        "title": "Architectural Technologist",
-        "link": "https://jobs.architecture.com/job/30893/architectural-technologist/?LinkSource=HomePage",
-        "location": "Tenterden",
-        "description": "Architectural Technologist | Tenterden | • | £30k - 35k per year",
+        "title": "Senior Architect or Senior Architectural Techni...",
+        "link": "https://jobs.architecture.com/job/30905/senior-architect-or-senior-architectural-technician/?LinkSource=HomePage",
+        "location": "Eltham",
+        "description": "Senior Architect or Senior Architectural Techni... | Eltham | • | £50,000 - £60,000",
         "type": "job"
     },
     {
-        "title": "Senior Architect",
-        "link": "https://jobs.architecture.com/job/30869/senior-architect/?LinkSource=HomePage",
-        "location": "Brixton, London",
-        "description": "Senior Architect | Brixton, London | • | A competitive, negotiable salary, dep...",
+        "title": "Senior Architectural Technician",
+        "link": "https://jobs.architecture.com/job/30904/senior-architectural-technician-/?LinkSource=HomePage",
+        "location": "Birmingham, West Midlands",
+        "description": "Senior Architectural Technician | Birmingham, West Midlands | • | Unspecified",
+        "type": "job"
+    },
+    {
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/30920/architect/?LinkSource=HomePage",
+        "location": "Marlborough, Wiltshire",
+        "description": "Architect | Marlborough, Wiltshire | • | Excellent salary",
         "type": "job"
     },
     {
@@ -18,13 +25,6 @@
         "link": "https://jobs.architecture.com/job/30956/architect-architectural-assistant/?LinkSource=HomePage",
         "location": "London (Central), London (North)",
         "description": "Architect / Architectural Assistant | London (Central), London (North) | • | Salary to be commensurate with Qualif...",
-        "type": "job"
-    },
-    {
-        "title": "Senior Architect or Senior Architectural Techni...",
-        "link": "https://jobs.architecture.com/job/30905/senior-architect-or-senior-architectural-technician/?LinkSource=HomePage",
-        "location": "Eltham",
-        "description": "Senior Architect or Senior Architectural Techni... | Eltham | • | £50,000 - £60,000",
         "type": "job"
     }
 ]
