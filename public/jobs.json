@@ -7,13 +7,6 @@
         "type": "job"
     },
     {
-        "title": "Senior Architectural Technician",
-        "link": "https://jobs.architecture.com/job/30904/senior-architectural-technician-/?LinkSource=HomePage",
-        "location": "Birmingham, West Midlands",
-        "description": "Senior Architectural Technician | Birmingham, West Midlands | • | Unspecified",
-        "type": "job"
-    },
-    {
         "title": "Architect",
         "link": "https://jobs.architecture.com/job/30920/architect/?LinkSource=HomePage",
         "location": "Marlborough, Wiltshire",
@@ -25,6 +18,13 @@
         "link": "https://jobs.architecture.com/job/30956/architect-architectural-assistant/?LinkSource=HomePage",
         "location": "London (Central), London (North)",
         "description": "Architect / Architectural Assistant | London (Central), London (North) | • | Salary to be commensurate with Qualif...",
+        "type": "job"
+    },
+    {
+        "title": "Senior Architectural Technician",
+        "link": "https://jobs.architecture.com/job/30904/senior-architectural-technician-/?LinkSource=HomePage",
+        "location": "Birmingham, West Midlands",
+        "description": "Senior Architectural Technician | Birmingham, West Midlands | • | Unspecified",
         "type": "job"
     }
 ]

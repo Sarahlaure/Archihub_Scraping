@@ -1,5 +1,26 @@
 [
     {
+        "title": "Universities",
+        "link": "https://www.dezeen.com/2026/04/24/diamond-schmitt-mvrdv-terraced-temerty-research-building-university-of-toronto/",
+        "date": "Recent",
+        "description": "Universities Universities Diamond Schmitt and MVRDV reveal design of terraced research building for University of Toronto Architecture studios Diamond Schmitt, MVRDV and Two Row Architect have reveale...",
+        "type": "news"
+    },
+    {
+        "title": "Adaptive reuse",
+        "link": "https://www.dezeen.com/2026/04/24/aro-greenwood-cemetery-greenhouse/",
+        "date": "Recent",
+        "description": "Adaptive reuse Adaptive reuse ARO transforms Green-Wood Cemetery greenhouse in New York into welcome centre New York architecture studio ARO has restored a historic greenhouse at the storied Green-Woo...",
+        "type": "news"
+    },
+    {
+        "title": "Dutch houses",
+        "link": "https://www.dezeen.com/2026/04/24/studioninedots-light-house/",
+        "date": "Recent",
+        "description": "Dutch houses Dutch houses Studioninedots fronts skinny Amsterdam home with glass blocks Glass bricks , metal grilles and glossy tiles lend an industrial character to Light House, a family home in the ...",
+        "type": "news"
+    },
+    {
         "title": "Frank Lloyd Wright",
         "link": "https://www.dezeen.com/2026/04/23/frank-lloyd-wright-preservation-projects-round-up/",
         "date": "Recent",
@@ -77,27 +98,6 @@
         "type": "news"
     },
     {
-        "title": "Skyscrapers",
-        "link": "https://www.dezeen.com/2026/04/20/trump-tower-tbilisi-gensler-georgia-tallest-building/",
-        "date": "Recent",
-        "description": "Skyscrapers Skyscrapers Gensler set to design Trump Tower Tbilisi as country's tallest building The Trump Organization has announced plans to build a 70-storey skyscraper in Tbilisi , Georgia, which w...",
-        "type": "news"
-    },
-    {
-        "title": "Architecture",
-        "link": "https://www.dezeen.com/2026/04/20/cherokee-heritage-center-oklahoma-safdie-architects/",
-        "date": "Recent",
-        "description": "Architecture Architecture Safdie Architects designs monumental Cherokee Heritage Center in Oklahoma US studio Safdie Architects has released designs for an interconnected set of pavilions in Oklahoma ...",
-        "type": "news"
-    },
-    {
-        "title": "Public and leisure",
-        "link": "https://www.dezeen.com/2026/04/19/startt-beyond-pantheon-rome/",
-        "date": "Recent",
-        "description": "Public and leisure Public and leisure STARTT opens up concealed ruins behind Pantheon in Rome Italian architecture studio STARTT has used a series of \"micro-architectures\" to open up a previously inac...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of March 2026",
         "link": "https://www.dezeen.com/2026/04/01/top-houses-march-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -112,45 +112,45 @@
         "type": "news"
     },
     {
+        "title": "Eight contemporary houses raised on stilts",
+        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Eight contemporary houses raised on stilts",
+        "type": "news"
+    },
+    {
+        "title": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
+        "link": "https://www.dezeen.com/2026/02/20/studio-bark-orchard-house/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
+        "type": "news"
+    },
+    {
         "title": "WaCa Design aims for low carbon at Brazilian seaside compound",
-        "link": "https://www.dezeen.com/2026/02/12/waca-design-julia-kosciuk-brazilian-rochas-compound-low-embodied-carbon/?li_source=LI&li_medium=rhs_block_1",
+        "link": "https://www.dezeen.com/2026/02/12/waca-design-julia-kosciuk-brazilian-rochas-compound-low-embodied-carbon/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "WaCa Design aims for low carbon at Brazilian seaside compound",
         "type": "news"
     },
     {
         "title": "Coastal home in Barcelona perched on steel supports",
-        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_1",
+        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Coastal home in Barcelona perched on steel supports",
         "type": "news"
     },
     {
-        "title": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
-        "link": "https://www.dezeen.com/2026/02/20/studio-bark-orchard-house/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
-        "type": "news"
-    },
-    {
         "title": "Bloco Arquitetos designs Brazilian “house without windows”",
-        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Bloco Arquitetos designs Brazilian “house without windows”",
         "type": "news"
     },
     {
-        "title": "Ateno Architecture Studio sinks Olen resort into Greek cliff edge",
-        "link": "https://www.dezeen.com/2026/02/25/ateno-architecture-studio-olen-resort/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Meganom shows pool topping its skinny New York skyscraper",
+        "link": "https://www.dezeen.com/2026/04/07/meganom-nomad-manhattan-skinny-skyscraper-nears-completion/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Ateno Architecture Studio sinks Olen resort into Greek cliff edge",
-        "type": "news"
-    },
-    {
-        "title": "Eight contemporary houses raised on stilts",
-        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Eight contemporary houses raised on stilts",
+        "description": "Meganom shows pool topping its skinny New York skyscraper",
         "type": "news"
     },
     {
