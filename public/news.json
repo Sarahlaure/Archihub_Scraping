@@ -1,5 +1,12 @@
 [
     {
+        "title": "Wineries and vineyards",
+        "link": "https://www.dezeen.com/2026/04/25/auteur-russian-river-bohlin-cywinski-jackson-california/",
+        "date": "Recent",
+        "description": "Wineries and vineyards Wineries and vineyards Bohlin Cywinski Jackson creates relaxed tasting room in California's wine country A limestone wall runs along the front facade of a tasting room for Auteu...",
+        "type": "news"
+    },
+    {
         "title": "Universities",
         "link": "https://www.dezeen.com/2026/04/24/diamond-schmitt-mvrdv-terraced-temerty-research-building-university-of-toronto/",
         "date": "Recent",
@@ -84,20 +91,6 @@
         "type": "news"
     },
     {
-        "title": "Milan design week",
-        "link": "https://www.dezeen.com/2026/04/21/lina-ghotmeh-pink-labyrinth-milan-design-week/",
-        "date": "Recent",
-        "description": "Milan design week Milan design week Lina Ghotmeh unveils pink labyrinth that \"invites visitors to slow down\" Architect Lina Ghotmeh has filled the courtyard of Milan 's Palazzo Litta with the Metamorp...",
-        "type": "news"
-    },
-    {
-        "title": "Dezeen Awards",
-        "link": "https://www.dezeen.com/2026/04/21/britt-moran-benni-allan-dezeen-awards-judges/",
-        "date": "Recent",
-        "description": "Dezeen Awards Dezeen Awards Britt Moran and Benni Allan announced as Dezeen Awards 2026 judges Architect Aziza Chaouni , interior designers Britt Moran and Benni Allan and designer Felicia Hung , have...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of March 2026",
         "link": "https://www.dezeen.com/2026/04/01/top-houses-march-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -112,6 +105,13 @@
         "type": "news"
     },
     {
+        "title": "Moxon Architects nods to farmsteads for Scottish home extension",
+        "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Moxon Architects nods to farmsteads for Scottish home extension",
+        "type": "news"
+    },
+    {
         "title": "Eight contemporary houses raised on stilts",
         "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -120,7 +120,7 @@
     },
     {
         "title": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
-        "link": "https://www.dezeen.com/2026/02/20/studio-bark-orchard-house/?li_source=LI&li_medium=rhs_block_1",
+        "link": "https://www.dezeen.com/2026/02/20/studio-bark-orchard-house/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
         "type": "news"
@@ -134,7 +134,7 @@
     },
     {
         "title": "Coastal home in Barcelona perched on steel supports",
-        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Coastal home in Barcelona perched on steel supports",
         "type": "news"
@@ -144,13 +144,6 @@
         "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Bloco Arquitetos designs Brazilian “house without windows”",
-        "type": "news"
-    },
-    {
-        "title": "Meganom shows pool topping its skinny New York skyscraper",
-        "link": "https://www.dezeen.com/2026/04/07/meganom-nomad-manhattan-skinny-skyscraper-nears-completion/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Meganom shows pool topping its skinny New York skyscraper",
         "type": "news"
     },
     {
