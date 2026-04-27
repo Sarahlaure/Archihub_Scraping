@@ -77,24 +77,17 @@
         "type": "news"
     },
     {
-        "title": "Data centres",
-        "link": "https://www.dezeen.com/2026/04/21/atkinsrealis-nvidia-nuclear-powered-data-centres/",
-        "date": "Recent",
-        "description": "Data centres Data centres AtkinsRéalis to partner with Nvidia on nuclear-powered data centre design Canadian engineering firm AtkinsRéalis has announced a partnership with tech company Nvidia that wil...",
-        "type": "news"
-    },
-    {
-        "title": "Residential extensions",
-        "link": "https://www.dezeen.com/2026/04/21/neil-dusheiko-architects-church-house/",
-        "date": "Recent",
-        "description": "Residential extensions Residential extensions Neil Dusheiko Architects extends Cambridgeshire home to frame neighbouring church A large picture window draws focus to a Gothic church beside this house ...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of March 2026",
         "link": "https://www.dezeen.com/2026/04/01/top-houses-march-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Dezeen's top five houses of March 2026",
+        "type": "news"
+    },
+    {
+        "title": "Nine European houses that reinterpret local architecture",
+        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Nine European houses that reinterpret local architecture",
         "type": "news"
     },
     {
@@ -105,15 +98,15 @@
         "type": "news"
     },
     {
-        "title": "Moxon Architects nods to farmsteads for Scottish home extension",
-        "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Bloco Arquitetos designs Brazilian “house without windows”",
+        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Moxon Architects nods to farmsteads for Scottish home extension",
+        "description": "Bloco Arquitetos designs Brazilian “house without windows”",
         "type": "news"
     },
     {
         "title": "Eight contemporary houses raised on stilts",
-        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_1",
+        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Eight contemporary houses raised on stilts",
         "type": "news"
@@ -126,13 +119,6 @@
         "type": "news"
     },
     {
-        "title": "WaCa Design aims for low carbon at Brazilian seaside compound",
-        "link": "https://www.dezeen.com/2026/02/12/waca-design-julia-kosciuk-brazilian-rochas-compound-low-embodied-carbon/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "WaCa Design aims for low carbon at Brazilian seaside compound",
-        "type": "news"
-    },
-    {
         "title": "Coastal home in Barcelona perched on steel supports",
         "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
@@ -140,10 +126,10 @@
         "type": "news"
     },
     {
-        "title": "Bloco Arquitetos designs Brazilian “house without windows”",
-        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_3",
+        "title": "WaCa Design aims for low carbon at Brazilian seaside compound",
+        "link": "https://www.dezeen.com/2026/02/12/waca-design-julia-kosciuk-brazilian-rochas-compound-low-embodied-carbon/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Bloco Arquitetos designs Brazilian “house without windows”",
+        "description": "WaCa Design aims for low carbon at Brazilian seaside compound",
         "type": "news"
     },
     {
