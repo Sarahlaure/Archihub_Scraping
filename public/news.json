@@ -1,5 +1,19 @@
 [
     {
+        "title": "Donald Trump",
+        "link": "https://www.dezeen.com/2026/04/27/donald-trump-lincoln-memorial-reflecting-pool/",
+        "date": "Recent",
+        "description": "Donald Trump Donald Trump Donald Trump to line Washington DC Reflecting Pool in \"American flag blue\" US president Donald Trump has announced that he has hired a contractor to repair and repaint the ba...",
+        "type": "news"
+    },
+    {
+        "title": "British houses",
+        "link": "https://www.dezeen.com/2026/04/27/musson-brown-architects-miltiadou-cook-mitzman-flatpack-newcastle-home/",
+        "date": "Recent",
+        "description": "British houses British houses Musson Brown Architects and Miltiadou Cook Mitzman complete \"flatpack\" Newcastle home UK studios Musson Brown Architects and Miltiadou Cook Mitzman have completed a court...",
+        "type": "news"
+    },
+    {
         "title": "Wineries and vineyards",
         "link": "https://www.dezeen.com/2026/04/25/auteur-russian-river-bohlin-cywinski-jackson-california/",
         "date": "Recent",
@@ -63,31 +77,10 @@
         "type": "news"
     },
     {
-        "title": "Skyscrapers",
-        "link": "https://www.dezeen.com/2026/04/22/konigsberger-vannucchi-sao-paulo-bueno-brandao-257/",
-        "date": "Recent",
-        "description": "Skyscrapers Skyscrapers Königsberger Vannucchi clads São Paulo skyscraper with porcelain and wood Local studio Königsberger Vannucchi Arquitetos Associados has completed a residential skyscraper in Sã...",
-        "type": "news"
-    },
-    {
-        "title": "Community centres",
-        "link": "https://www.dezeen.com/2026/04/22/thing-ladder-library-conversion/",
-        "date": "Recent",
-        "description": "Community centres Community centres Thing converts historic Cornish library into The Ladder arts space UK architecture studio Thing has transformed a former library in Cornwall into an arts and cultur...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of March 2026",
         "link": "https://www.dezeen.com/2026/04/01/top-houses-march-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Dezeen's top five houses of March 2026",
-        "type": "news"
-    },
-    {
-        "title": "Nine European houses that reinterpret local architecture",
-        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Nine European houses that reinterpret local architecture",
         "type": "news"
     },
     {
@@ -98,17 +91,17 @@
         "type": "news"
     },
     {
+        "title": "Eight contemporary houses raised on stilts",
+        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Eight contemporary houses raised on stilts",
+        "type": "news"
+    },
+    {
         "title": "Bloco Arquitetos designs Brazilian “house without windows”",
         "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Bloco Arquitetos designs Brazilian “house without windows”",
-        "type": "news"
-    },
-    {
-        "title": "Eight contemporary houses raised on stilts",
-        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Eight contemporary houses raised on stilts",
         "type": "news"
     },
     {
@@ -120,7 +113,7 @@
     },
     {
         "title": "Coastal home in Barcelona perched on steel supports",
-        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_3",
+        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Coastal home in Barcelona perched on steel supports",
         "type": "news"
@@ -130,6 +123,13 @@
         "link": "https://www.dezeen.com/2026/02/12/waca-design-julia-kosciuk-brazilian-rochas-compound-low-embodied-carbon/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "WaCa Design aims for low carbon at Brazilian seaside compound",
+        "type": "news"
+    },
+    {
+        "title": "Meganom shows pool topping its skinny New York skyscraper",
+        "link": "https://www.dezeen.com/2026/04/07/meganom-nomad-manhattan-skinny-skyscraper-nears-completion/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Meganom shows pool topping its skinny New York skyscraper",
         "type": "news"
     },
     {
