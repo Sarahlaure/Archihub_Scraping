@@ -1,9 +1,30 @@
 [
     {
+        "title": "American houses",
+        "link": "https://www.dezeen.com/2026/04/29/adkins-treehouse-benjamin-hall-design-phoenix/",
+        "date": "Recent",
+        "description": "American houses American houses Benjamin Hall expands Phoenix home with treehouse-like addition Arizona-based studio Benjamin Hall Design completed an addition to a Phoenix house that hides in the lan...",
+        "type": "news"
+    },
+    {
+        "title": "Office architecture",
+        "link": "https://www.dezeen.com/2026/04/29/som-corso-italia-23-office-milan-architecture/",
+        "date": "Recent",
+        "description": "Office architecture Office architecture SOM \"preserves the soul\" of 1960s modernist office complex in Milan Global studio SOM has renewed Corso Italia 23, a 1960s office complex in Milan , retrofittin...",
+        "type": "news"
+    },
+    {
         "title": "Architecture books",
         "link": "https://www.dezeen.com/2026/04/29/kengo-kuma-substance-book/",
         "date": "Recent",
-        "description": "Architecture books Architecture books Kengo Kuma spotlights six projects that showcase his \"humane and beautiful\" use of materials Japanese architect Kengo Kuma is best known as a pioneer of wooden ar...",
+        "description": "Architecture books Architecture books Six projects that showcase Kengo Kuma's \"humane and beautiful\" use of materials Japanese architect Kengo Kuma is best known as a pioneer of wooden architecture, b...",
+        "type": "news"
+    },
+    {
+        "title": "Milan design week",
+        "link": "https://www.dezeen.com/2026/04/29/samsung-design-is-an-act-of-love-milan-talk-video/",
+        "date": "Recent",
+        "description": "Milan design week Milan design week Technology should \"free you from technology\" says Samsung design chief Samsung chief design officer Mauro Porcini has called for a shift away from technology-led in...",
         "type": "news"
     },
     {
@@ -70,27 +91,6 @@
         "type": "news"
     },
     {
-        "title": "Frank Lloyd Wright",
-        "link": "https://www.dezeen.com/2026/04/23/frank-lloyd-wright-preservation-projects-round-up/",
-        "date": "Recent",
-        "description": "Frank Lloyd Wright Frank Lloyd Wright Six Frank Lloyd Wright restoration projects across the US Following the recent completion of renovations on American architect Frank Lloyd Wright 's iconic Fallin...",
-        "type": "news"
-    },
-    {
-        "title": "Dezeen Agenda",
-        "link": "https://www.dezeen.com/2026/04/23/queen-elizabeth-ii-memorial-foster-partners-dezeen-agenda/",
-        "date": "Recent",
-        "description": "Dezeen Agenda Dezeen Agenda Dezeen Agenda features final plans for Queen Elizabeth II memorial The latest edition of our weekly Dezeen Agenda newsletter features Foster + Partners' final designs for Q...",
-        "type": "news"
-    },
-    {
-        "title": "Skyscrapers",
-        "link": "https://www.dezeen.com/2026/04/23/anantara-white-lotus-resort-skyscraper-miami-kpf-urquiola-odp/",
-        "date": "Recent",
-        "description": "Skyscrapers Skyscrapers KPF, ODP and Patricia Urquiola designing \"White Lotus\" resort skyscraper in Miami Architecture studios KPF and ODP have designed a skyscraper in Miami for hospitality company A...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of February 2026",
         "link": "https://www.dezeen.com/2026/02/28/top-houses-february-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -105,13 +105,6 @@
         "type": "news"
     },
     {
-        "title": "Eight contemporary houses raised on stilts",
-        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Eight contemporary houses raised on stilts",
-        "type": "news"
-    },
-    {
         "title": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
         "link": "https://www.dezeen.com/2026/02/20/studio-bark-orchard-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -120,9 +113,16 @@
     },
     {
         "title": "Bloco Arquitetos designs Brazilian “house without windows”",
-        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Bloco Arquitetos designs Brazilian “house without windows”",
+        "type": "news"
+    },
+    {
+        "title": "Eight contemporary houses raised on stilts",
+        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Eight contemporary houses raised on stilts",
         "type": "news"
     },
     {
@@ -140,10 +140,10 @@
         "type": "news"
     },
     {
-        "title": "Studio Ahead designs suite aboard \"largest private residential yacht on Earth\"",
-        "link": "https://www.dezeen.com/2026/04/11/the-world-yacht-residential-suite-studio-ahead/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Meganom shows pool topping its skinny New York skyscraper",
+        "link": "https://www.dezeen.com/2026/04/07/meganom-nomad-manhattan-skinny-skyscraper-nears-completion/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Studio Ahead designs suite aboard \"largest private residential yacht on Earth\"",
+        "description": "Meganom shows pool topping its skinny New York skyscraper",
         "type": "news"
     },
     {

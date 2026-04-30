@@ -48,6 +48,22 @@
         "type": "competition"
     },
     {
+        "title": "Coastal Shelter Architecture Competition (Outer Banks, USA)",
+        "link": "https://competitions.archi/competition/coastal-shelter-architecture-competition-outer-banks-usa/",
+        "deadline": "25th July 2026",
+        "deadline_iso": "2026-07-25T00:00:00",
+        "description": "Coastal Shelter Architecture Competition (Outer Banks, USA) Submission: 25th July 2026 Registration: 10th July 2026 Location: Outer Banks, USA Language: English Prizes: Winner+4 Runners Up Type: Open ...",
+        "type": "competition"
+    },
+    {
+        "title": "MARCH Awards 2026",
+        "link": "https://competitions.archi/competition/march-awards-2026/",
+        "deadline": "30th April 2026",
+        "deadline_iso": "2026-04-30T00:00:00",
+        "description": "MARCH Awards 2026 Submission: 30th April 2026 Registration: 1st May 2026 Location: Europe & the UK Language: English Prizes: 8,000€ Prize Fund Open call for built projects. The MARCH Awards 2026 highl...",
+        "type": "competition"
+    },
+    {
         "title": "Call for ideas Radicepura Garden Festival VI Edition | Gardens of hope Cultivating Coexistence",
         "link": "https://competitions.archi/competition/call-for-ideas-radicepura-garden-festival-vi-edition-gardens-of-hope-cultivating-coexistence/",
         "deadline": "2nd April 2026",
@@ -77,22 +93,6 @@
         "deadline": "29th June 2026",
         "deadline_iso": "2026-06-29T00:00:00",
         "description": "Vernacular AI Architecture Submission: 29th June 2026 Registration: 30th May 2026 Location: Concept Language: English Prizes: 6,000 $ Type: Open Introduction Welcome to the Vernacular AI Architecture ...",
-        "type": "competition"
-    },
-    {
-        "title": "Drawing of the Year 2026",
-        "link": "https://competitions.archi/competition/drawing-of-the-year-2026/",
-        "deadline": "31st May 2026",
-        "deadline_iso": "2026-05-31T00:00:00",
-        "description": "Drawing of the Year 2026 Submission: 31st May 2026 Registration: 31st May 2026 Location: Concept Language: English Prizes: £100,000 GBP Submissions are open to the Drawing of the Year Awards 2026! The...",
-        "type": "competition"
-    },
-    {
-        "title": "Call For Ideas: Micro Living 2026 Architecture Competition",
-        "link": "https://competitions.archi/competition/call-for-ideas-micro-living-2026-architecture-competition/",
-        "deadline": "3rd December 2026",
-        "deadline_iso": "2026-12-03T00:00:00",
-        "description": "Call For Ideas: Micro Living 2026 Architecture Competition Submission: 3rd December 2026 Registration: 6th November 2026 Location: Concept Language: English Prizes: USD 10000 Type: Open for All Markin...",
         "type": "competition"
     },
     {
@@ -271,13 +271,6 @@
         "type": "competition"
     },
     {
-        "title": "Kharkiv Housing Challenge",
-        "link": "https://architecturecompetitions.com/kharkivhousingchallenge/",
-        "deadline": "Unknown",
-        "description": "Kharkiv Housing Challenge",
-        "type": "competition"
-    },
-    {
         "title": "Denver Affordable Housing",
         "link": "https://architecturecompetitions.com/denverhousing/",
         "deadline": "Unknown",
@@ -299,10 +292,80 @@
         "type": "competition"
     },
     {
+        "title": "Kharkiv Housing Challenge",
+        "link": "https://architecturecompetitions.com/kharkivhousingchallenge/",
+        "deadline": "Unknown",
+        "description": "Kharkiv Housing Challenge",
+        "type": "competition"
+    },
+    {
         "title": "Download brief",
         "link": "https://architecturecompetitions.com/#",
         "deadline": "Unknown",
         "description": "Download brief",
+        "type": "competition"
+    },
+    {
+        "title": "Re:Form - New Life for Old Spaces #2",
+        "link": "https://architecturecompetitions.com/reform2",
+        "deadline": "Unknown",
+        "description": "Re:Form - New Life for Old Spaces #2",
+        "type": "competition"
+    },
+    {
+        "title": "Aaris Katsoulakis and Angus P Robson from Australia!",
+        "link": "https://architecturecompetitions.com/re-form-new-life-for-old-spaces-competition-participants-aaris-katsoulakis-angus-p-robson-9303",
+        "deadline": "Unknown",
+        "description": "Aaris Katsoulakis and Angus P Robson from Australia!",
+        "type": "competition"
+    },
+    {
+        "title": "Naeimeh Seyedhosseini, Fahimeh Seyedhosseini and Mona Pourmohammadi Sani from Italy!",
+        "link": "https://architecturecompetitions.com/re-form-new-life-for-old-spaces-competition-participants-naeimeh-seyedhosseini-fahimeh-seyedhosseini-mona-pourmohammadi-sani-9304",
+        "deadline": "Unknown",
+        "description": "Naeimeh Seyedhosseini, Fahimeh Seyedhosseini and Mona Pourmohammadi Sani from Italy!",
+        "type": "competition"
+    },
+    {
+        "title": "Sara El Moussaoui from France!",
+        "link": "https://architecturecompetitions.com/re-form-new-life-for-old-spaces-competition-participants-sara-el-moussaoui-9168",
+        "deadline": "Unknown",
+        "description": "Sara El Moussaoui from France!",
+        "type": "competition"
+    },
+    {
+        "title": "Etienne Gary and Nasrdin Chiuti from France!",
+        "link": "https://architecturecompetitions.com/re-form-new-life-for-old-spaces-competition-participants-etienne-gary-nasrdin-chiuti-9277",
+        "deadline": "Unknown",
+        "description": "Etienne Gary and Nasrdin Chiuti from France!",
+        "type": "competition"
+    },
+    {
+        "title": "Tsz Hung Hu from Hong Kong!",
+        "link": "https://architecturecompetitions.com/re-form-new-life-for-old-spaces-competition-participants-tsz-hung-hu-9305",
+        "deadline": "Unknown",
+        "description": "Tsz Hung Hu from Hong Kong!",
+        "type": "competition"
+    },
+    {
+        "title": "Dmitrii Morozov and the team from A61+, Spain!",
+        "link": "https://architecturecompetitions.com/re-form-new-life-for-old-spaces-competition-participants-dmitrii-morozov-9306",
+        "deadline": "Unknown",
+        "description": "Dmitrii Morozov and the team from A61+, Spain!",
+        "type": "competition"
+    },
+    {
+        "title": "Julia Mytnik from Poland!",
+        "link": "https://architecturecompetitions.com/re-form-new-life-for-old-spaces-3rd-competition-participants-julia-mytnik-9292",
+        "deadline": "Unknown",
+        "description": "Julia Mytnik from Poland!",
+        "type": "competition"
+    },
+    {
+        "title": "Wenzhuo Cai, Ruoxi Li and Yi Wei Chen from United States!",
+        "link": "https://architecturecompetitions.com/re-form-new-life-for-old-spaces-2nd-competition-participants-wenzhuo-cai-ruoxi-li-yi-wei-chen-9302",
+        "deadline": "Unknown",
+        "description": "Wenzhuo Cai, Ruoxi Li and Yi Wei Chen from United States!",
         "type": "competition"
     },
     {

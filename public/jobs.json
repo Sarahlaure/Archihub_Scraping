@@ -1,9 +1,16 @@
 [
     {
+        "title": "Part II Architectural Assistant",
+        "link": "https://jobs.architecture.com/job/30998/part-ii-architectural-assistant/?LinkSource=HomePage",
+        "location": "Berkshire",
+        "description": "Part II Architectural Assistant | Berkshire | • | Unspecified",
+        "type": "job"
+    },
+    {
         "title": "Senior Architect",
-        "link": "https://jobs.architecture.com/job/30982/senior-architect/?LinkSource=HomePage",
-        "location": "Bath, Somerset",
-        "description": "Senior Architect | Bath, Somerset | • | £40000 - £55000 per annum + Company B...",
+        "link": "https://jobs.architecture.com/job/30967/senior-architect/?LinkSource=HomePage",
+        "location": "Bristol",
+        "description": "Senior Architect | Bristol | • | DOE",
         "type": "job"
     },
     {
@@ -18,13 +25,6 @@
         "link": "https://jobs.architecture.com/job/30920/architect/?LinkSource=HomePage",
         "location": "Marlborough, Wiltshire",
         "description": "Architect | Marlborough, Wiltshire | • | Excellent salary",
-        "type": "job"
-    },
-    {
-        "title": "Project Architect",
-        "link": "https://jobs.architecture.com/job/30933/project-architect/?LinkSource=HomePage",
-        "location": "Chorlton Cum Hardy, Manchester",
-        "description": "Project Architect | Chorlton Cum Hardy, Manchester | • | Salary based on experience and ability",
         "type": "job"
     }
 ]
