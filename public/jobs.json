@@ -1,16 +1,9 @@
 [
     {
-        "title": "Part II Architectural Assistant",
-        "link": "https://jobs.architecture.com/job/30998/part-ii-architectural-assistant/?LinkSource=HomePage",
-        "location": "Berkshire",
-        "description": "Part II Architectural Assistant | Berkshire | • | Unspecified",
-        "type": "job"
-    },
-    {
-        "title": "Senior Architect",
-        "link": "https://jobs.architecture.com/job/30967/senior-architect/?LinkSource=HomePage",
-        "location": "Bristol",
-        "description": "Senior Architect | Bristol | • | DOE",
+        "title": "Part 2 Architectural Assistant",
+        "link": "https://jobs.architecture.com/job/31000/part-2-architectural-assistant/?LinkSource=HomePage",
+        "location": "Hoxton, London (Greater)",
+        "description": "Part 2 Architectural Assistant | Hoxton, London (Greater) | • | £31,350 - £33,231 per annum",
         "type": "job"
     },
     {
@@ -22,9 +15,16 @@
     },
     {
         "title": "Architect",
-        "link": "https://jobs.architecture.com/job/30920/architect/?LinkSource=HomePage",
-        "location": "Marlborough, Wiltshire",
-        "description": "Architect | Marlborough, Wiltshire | • | Excellent salary",
+        "link": "https://jobs.architecture.com/job/30990/architect/?LinkSource=HomePage",
+        "location": "West Midlands, Stourbridge",
+        "description": "Architect | West Midlands, Stourbridge | • | £32000 - £38000 per annum + Company B...",
+        "type": "job"
+    },
+    {
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/30947/architect/?LinkSource=HomePage",
+        "location": "Cardiff",
+        "description": "Architect | Cardiff | • | £36000 - £40000 per annum + Company B...",
         "type": "job"
     }
 ]
