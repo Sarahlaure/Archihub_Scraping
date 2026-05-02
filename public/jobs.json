@@ -1,12 +1,5 @@
 [
     {
-        "title": "Part 2 Architectural Assistant",
-        "link": "https://jobs.architecture.com/job/31000/part-2-architectural-assistant/?LinkSource=HomePage",
-        "location": "Hoxton, London (Greater)",
-        "description": "Part 2 Architectural Assistant | Hoxton, London (Greater) | • | £31,350 - £33,231 per annum",
-        "type": "job"
-    },
-    {
         "title": "Architect / Architectural Assistant",
         "link": "https://jobs.architecture.com/job/30956/architect-architectural-assistant/?LinkSource=HomePage",
         "location": "London (Central), London (North)",
@@ -14,17 +7,24 @@
         "type": "job"
     },
     {
-        "title": "Architect",
-        "link": "https://jobs.architecture.com/job/30990/architect/?LinkSource=HomePage",
-        "location": "West Midlands, Stourbridge",
-        "description": "Architect | West Midlands, Stourbridge | • | £32000 - £38000 per annum + Company B...",
+        "title": "Project Architect",
+        "link": "https://jobs.architecture.com/job/31040/project-architect/?LinkSource=HomePage",
+        "location": "London (Central), London (Greater)",
+        "description": "Project Architect | London (Central), London (Greater) | • | Unspecified",
         "type": "job"
     },
     {
-        "title": "Architect",
-        "link": "https://jobs.architecture.com/job/30947/architect/?LinkSource=HomePage",
-        "location": "Cardiff",
-        "description": "Architect | Cardiff | • | £36000 - £40000 per annum + Company B...",
+        "title": "Senior Project Architect",
+        "link": "https://jobs.architecture.com/job/31039/senior-project-architect/?LinkSource=HomePage",
+        "location": "London (Central), London (Greater)",
+        "description": "Senior Project Architect | London (Central), London (Greater) | • | Unspecified",
+        "type": "job"
+    },
+    {
+        "title": "Project Running Architect / Senior Architectura...",
+        "link": "https://jobs.architecture.com/job/31033/project-running-architect-senior-architectural-technologist/?LinkSource=HomePage",
+        "location": "Loughborough, Leicestershire",
+        "description": "Project Running Architect / Senior Architectura... | Loughborough, Leicestershire | • | Competitive salary + annual bonus",
         "type": "job"
     }
 ]
