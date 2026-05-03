@@ -84,10 +84,10 @@
         "type": "news"
     },
     {
-        "title": "Milan design week",
-        "link": "https://www.dezeen.com/2026/04/29/samsung-design-is-an-act-of-love-milan-talk-video/",
+        "title": "Dezeen's top five houses of February 2026",
+        "link": "https://www.dezeen.com/2026/02/28/top-houses-february-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Milan design week Milan design week Technology should \"free you from technology\" says Samsung design chief Samsung chief design officer Mauro Porcini has called for a shift away from technology-led in...",
+        "description": "Dezeen's top five houses of February 2026",
         "type": "news"
     },
     {
@@ -95,13 +95,6 @@
         "link": "https://www.dezeen.com/2026/04/01/top-houses-march-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Dezeen's top five houses of March 2026",
-        "type": "news"
-    },
-    {
-        "title": "Dezeen's top five houses of February 2026",
-        "link": "https://www.dezeen.com/2026/02/28/top-houses-february-2026/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Dezeen's top five houses of February 2026",
         "type": "news"
     },
     {
@@ -119,24 +112,24 @@
         "type": "news"
     },
     {
-        "title": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
-        "link": "https://www.dezeen.com/2026/02/20/studio-bark-orchard-house/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
-        "type": "news"
-    },
-    {
-        "title": "Nine European houses that reinterpret local architecture",
-        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Nine European houses that reinterpret local architecture",
-        "type": "news"
-    },
-    {
         "title": "Eight contemporary houses raised on stilts",
-        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_3",
+        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Eight contemporary houses raised on stilts",
+        "type": "news"
+    },
+    {
+        "title": "Eduardo Souto de Moura reflects on the accidental beginnings of his architecture career",
+        "link": "https://www.dezeen.com/2026/03/17/eduardo-souto-de-moura-video-profile/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Eduardo Souto de Moura reflects on the accidental beginnings of his architecture career",
+        "type": "news"
+    },
+    {
+        "title": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
+        "link": "https://www.dezeen.com/2026/02/20/studio-bark-orchard-house/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
         "type": "news"
     },
     {

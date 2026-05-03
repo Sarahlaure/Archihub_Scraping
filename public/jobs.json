@@ -1,12 +1,5 @@
 [
     {
-        "title": "Architect / Architectural Assistant",
-        "link": "https://jobs.architecture.com/job/30956/architect-architectural-assistant/?LinkSource=HomePage",
-        "location": "London (Central), London (North)",
-        "description": "Architect / Architectural Assistant | London (Central), London (North) | • | Salary to be commensurate with Qualif...",
-        "type": "job"
-    },
-    {
         "title": "Project Architect",
         "link": "https://jobs.architecture.com/job/31040/project-architect/?LinkSource=HomePage",
         "location": "London (Central), London (Greater)",
@@ -25,6 +18,13 @@
         "link": "https://jobs.architecture.com/job/31033/project-running-architect-senior-architectural-technologist/?LinkSource=HomePage",
         "location": "Loughborough, Leicestershire",
         "description": "Project Running Architect / Senior Architectura... | Loughborough, Leicestershire | • | Competitive salary + annual bonus",
+        "type": "job"
+    },
+    {
+        "title": "Architect / Architectural Assistant",
+        "link": "https://jobs.architecture.com/job/30956/architect-architectural-assistant/?LinkSource=HomePage",
+        "location": "London (Central), London (North)",
+        "description": "Architect / Architectural Assistant | London (Central), London (North) | • | Salary to be commensurate with Qualif...",
         "type": "job"
     }
 ]
