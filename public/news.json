@@ -1,5 +1,12 @@
 [
     {
+        "title": "Architecture books",
+        "link": "https://www.dezeen.com/2026/05/04/brutalist-london-book-owen-hopkins-nigel-green/",
+        "date": "Recent",
+        "description": "Architecture books Architecture books Brutalist London book illustrates \"lots of ways to be brutalist\" From concrete council housing to monumental theatres , Brutalist London documents the myriad exam...",
+        "type": "news"
+    },
+    {
         "title": "Dezeen Agenda US",
         "link": "https://www.dezeen.com/2026/05/02/tennessee-performing-arts-nashville-big-metal-pipes-dezeen-us-agenda/",
         "date": "Recent",
@@ -77,10 +84,10 @@
         "type": "news"
     },
     {
-        "title": "Architecture books",
-        "link": "https://www.dezeen.com/2026/04/29/kengo-kuma-substance-book/",
+        "title": "Dezeen's top five houses of March 2026",
+        "link": "https://www.dezeen.com/2026/04/01/top-houses-march-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Architecture books Architecture books Six projects that showcase Kengo Kuma's \"humane and beautiful\" use of materials Japanese architect Kengo Kuma is best known as a pioneer of wooden architecture, b...",
+        "description": "Dezeen's top five houses of March 2026",
         "type": "news"
     },
     {
@@ -91,52 +98,45 @@
         "type": "news"
     },
     {
-        "title": "Dezeen's top five houses of March 2026",
-        "link": "https://www.dezeen.com/2026/04/01/top-houses-march-2026/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Dezeen's top five houses of March 2026",
-        "type": "news"
-    },
-    {
-        "title": "Meganom shows pool topping its skinny New York skyscraper",
-        "link": "https://www.dezeen.com/2026/04/07/meganom-nomad-manhattan-skinny-skyscraper-nears-completion/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Meganom shows pool topping its skinny New York skyscraper",
-        "type": "news"
-    },
-    {
-        "title": "Bloco Arquitetos designs Brazilian “house without windows”",
-        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Bloco Arquitetos designs Brazilian “house without windows”",
-        "type": "news"
-    },
-    {
-        "title": "Eight contemporary houses raised on stilts",
-        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Eight contemporary houses raised on stilts",
-        "type": "news"
-    },
-    {
-        "title": "Eduardo Souto de Moura reflects on the accidental beginnings of his architecture career",
-        "link": "https://www.dezeen.com/2026/03/17/eduardo-souto-de-moura-video-profile/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Eduardo Souto de Moura reflects on the accidental beginnings of his architecture career",
-        "type": "news"
-    },
-    {
         "title": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
-        "link": "https://www.dezeen.com/2026/02/20/studio-bark-orchard-house/?li_source=LI&li_medium=rhs_block_3",
+        "link": "https://www.dezeen.com/2026/02/20/studio-bark-orchard-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
         "type": "news"
     },
     {
+        "title": "Eight contemporary houses raised on stilts",
+        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Eight contemporary houses raised on stilts",
+        "type": "news"
+    },
+    {
         "title": "Coastal home in Barcelona perched on steel supports",
-        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_3",
+        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Coastal home in Barcelona perched on steel supports",
+        "type": "news"
+    },
+    {
+        "title": "Meganom shows pool topping its skinny New York skyscraper",
+        "link": "https://www.dezeen.com/2026/04/07/meganom-nomad-manhattan-skinny-skyscraper-nears-completion/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Meganom shows pool topping its skinny New York skyscraper",
+        "type": "news"
+    },
+    {
+        "title": "Moxon Architects nods to farmsteads for Scottish home extension",
+        "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Moxon Architects nods to farmsteads for Scottish home extension",
+        "type": "news"
+    },
+    {
+        "title": "Bloco Arquitetos designs Brazilian “house without windows”",
+        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Bloco Arquitetos designs Brazilian “house without windows”",
         "type": "news"
     },
     {
