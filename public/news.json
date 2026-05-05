@@ -1,5 +1,12 @@
 [
     {
+        "title": "Residential extensions",
+        "link": "https://www.dezeen.com/2026/05/04/gresford-architects-the-old-orchard-extension-oxfordshire/",
+        "date": "Recent",
+        "description": "Residential extensions Residential extensions Gresford Architects clads low-carbon Oxfordshire bungalow in cedar wood Local studio Gresford Architects has upgraded the Old Orchard, a 1980s bungalow in...",
+        "type": "news"
+    },
+    {
         "title": "Architecture books",
         "link": "https://www.dezeen.com/2026/05/04/brutalist-london-book-owen-hopkins-nigel-green/",
         "date": "Recent",
@@ -77,10 +84,10 @@
         "type": "news"
     },
     {
-        "title": "Office architecture",
-        "link": "https://www.dezeen.com/2026/04/29/som-corso-italia-23-office-milan-architecture/",
+        "title": "Dezeen's top five houses of February 2026",
+        "link": "https://www.dezeen.com/2026/02/28/top-houses-february-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Office architecture Office architecture SOM \"preserves the soul\" of 1960s modernist office complex in Milan Global studio SOM has renewed Corso Italia 23, a 1960s office complex in Milan , retrofittin...",
+        "description": "Dezeen's top five houses of February 2026",
         "type": "news"
     },
     {
@@ -91,13 +98,6 @@
         "type": "news"
     },
     {
-        "title": "Dezeen's top five houses of February 2026",
-        "link": "https://www.dezeen.com/2026/02/28/top-houses-february-2026/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Dezeen's top five houses of February 2026",
-        "type": "news"
-    },
-    {
         "title": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
         "link": "https://www.dezeen.com/2026/02/20/studio-bark-orchard-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -105,17 +105,10 @@
         "type": "news"
     },
     {
-        "title": "Eight contemporary houses raised on stilts",
-        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Bloco Arquitetos designs Brazilian “house without windows”",
+        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Eight contemporary houses raised on stilts",
-        "type": "news"
-    },
-    {
-        "title": "Coastal home in Barcelona perched on steel supports",
-        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Coastal home in Barcelona perched on steel supports",
+        "description": "Bloco Arquitetos designs Brazilian “house without windows”",
         "type": "news"
     },
     {
@@ -126,6 +119,13 @@
         "type": "news"
     },
     {
+        "title": "Eight contemporary houses raised on stilts",
+        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Eight contemporary houses raised on stilts",
+        "type": "news"
+    },
+    {
         "title": "Moxon Architects nods to farmsteads for Scottish home extension",
         "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
@@ -133,10 +133,10 @@
         "type": "news"
     },
     {
-        "title": "Bloco Arquitetos designs Brazilian “house without windows”",
-        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Coastal home in Barcelona perched on steel supports",
+        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Bloco Arquitetos designs Brazilian “house without windows”",
+        "description": "Coastal home in Barcelona perched on steel supports",
         "type": "news"
     },
     {
