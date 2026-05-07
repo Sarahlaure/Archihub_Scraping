@@ -1,5 +1,26 @@
 [
     {
+        "title": "Vietnamese houses",
+        "link": "https://www.dezeen.com/2026/05/06/oddo-architects-th-house-extension/",
+        "date": "Recent",
+        "description": "Vietnamese houses Vietnamese houses ODDO Architects looks to urban alleyways for narrow extension in Vietnam Local studio ODDO Architects has extended TH+ House in Vietnam , organising a series of sha...",
+        "type": "news"
+    },
+    {
+        "title": "Parametricism guide",
+        "link": "https://www.dezeen.com/2026/05/06/parametricism-simple-guide/",
+        "date": "Recent",
+        "description": "Parametricism guide Parametricism guide A simple guide to parametricism What actually is parametricism ? As part of our series on the style , we've written a quick and simple overview of the notorious...",
+        "type": "news"
+    },
+    {
+        "title": "Skyscrapers",
+        "link": "https://www.dezeen.com/2026/05/06/mohammed-vi-tower-morocco-tallest-building-rafael-de-la%e2%80%91hoz-hakim-benjelloun/",
+        "date": "Recent",
+        "description": "Skyscrapers Skyscrapers Rocket-like skyscraper becomes Morocco's tallest building The 250-metre-tall Mohammed VI Tower designed by architecture studios Rafael de La‑Hoz and Hakim Benjelloun has opened...",
+        "type": "news"
+    },
+    {
         "title": "Skyscrapers",
         "link": "https://www.dezeen.com/2026/05/05/trump-tower-tbilisi-georgia-design-revelaed/",
         "date": "Recent",
@@ -70,20 +91,6 @@
         "type": "news"
     },
     {
-        "title": "Houses of the month",
-        "link": "https://www.dezeen.com/2026/05/01/top-houses-april-2026/",
-        "date": "Recent",
-        "description": "Houses of the month Houses of the month Dezeen's top five houses of April 2026 Glass blocks and rammed earth were among the unconventional materials used to create the most popular houses featured on ...",
-        "type": "news"
-    },
-    {
-        "title": "Milan design week",
-        "link": "https://www.dezeen.com/2026/05/01/john-pawson-art-of-simplicity-gaggenau-milan-talk-video-2026/",
-        "date": "Recent",
-        "description": "Milan design week Milan design week \"I never set out to be an architect\" says John Pawson at Gaggenau talk Architectural designer John Pawson described how teaching, taking photographs and travelling ...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of February 2026",
         "link": "https://www.dezeen.com/2026/02/28/top-houses-february-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -105,17 +112,17 @@
         "type": "news"
     },
     {
-        "title": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
-        "link": "https://www.dezeen.com/2026/02/20/studio-bark-orchard-house/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Moxon Architects nods to farmsteads for Scottish home extension",
+        "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Studio Bark unveils larch-clad Orchard House built on green belt in Cheshire",
+        "description": "Moxon Architects nods to farmsteads for Scottish home extension",
         "type": "news"
     },
     {
-        "title": "Moxon Architects nods to farmsteads for Scottish home extension",
-        "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Coastal home in Barcelona perched on steel supports",
+        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Moxon Architects nods to farmsteads for Scottish home extension",
+        "description": "Coastal home in Barcelona perched on steel supports",
         "type": "news"
     },
     {
@@ -126,10 +133,10 @@
         "type": "news"
     },
     {
-        "title": "Coastal home in Barcelona perched on steel supports",
-        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Black concrete defines \"strong and monolithic\" Casa Mavra in Mexico",
+        "link": "https://www.dezeen.com/2026/04/06/taller-alberto-calleja-casa-mavra/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Coastal home in Barcelona perched on steel supports",
+        "description": "Black concrete defines \"strong and monolithic\" Casa Mavra in Mexico",
         "type": "news"
     },
     {
