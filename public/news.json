@@ -1,5 +1,26 @@
 [
     {
+        "title": "Canadian houses",
+        "link": "https://www.dezeen.com/2026/05/07/sono-residence-ateliercarle-quebec-house/",
+        "date": "Recent",
+        "description": "Canadian houses Canadian houses Atelier Carle creates \"unconventional layout\" for hemlock-clad Quebec house Montreal-based studio Atelier Carle has completed a mountainside house with wood and board-f...",
+        "type": "news"
+    },
+    {
+        "title": "Dezeen Agenda",
+        "link": "https://www.dezeen.com/2026/05/07/olson-kundig-otis-elevators-space-needle-agenda/",
+        "date": "Recent",
+        "description": "Dezeen Agenda Dezeen Agenda Dezeen Agenda features double-decker elevators for Seattle's Space Needle The latest edition of our weekly Dezeen Agenda newsletter features glass lifts designed by Olson K...",
+        "type": "news"
+    },
+    {
+        "title": "Parametricism guide",
+        "link": "https://www.dezeen.com/2026/05/07/patrik-schumacher-parametricism-interview/",
+        "date": "Recent",
+        "description": "Parametricism guide Parametricism guide \"I'm not happy\" with how fast parametricism is being adopted says Patrik Schumacher Despite it being adopted more slowly than he anticipated, Patrik Schumacher ...",
+        "type": "news"
+    },
+    {
         "title": "Vietnamese houses",
         "link": "https://www.dezeen.com/2026/05/06/oddo-architects-th-house-extension/",
         "date": "Recent",
@@ -63,31 +84,10 @@
         "type": "news"
     },
     {
-        "title": "Dezeen Agenda US",
-        "link": "https://www.dezeen.com/2026/05/02/tennessee-performing-arts-nashville-big-metal-pipes-dezeen-us-agenda/",
+        "title": "Foster + Partners reveals final design for Queen Elizabeth II memorial",
+        "link": "https://www.dezeen.com/2026/04/22/queen-elizabeth-ii-memorial-foster-partners/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Dezeen Agenda US Dezeen Agenda US Dezeen Agenda US edition features BIG's designs for a music centre in Nashville The latest US edition of Dezeen Agenda features a BIG-designed performance arts centre...",
-        "type": "news"
-    },
-    {
-        "title": "This week on Dezeen",
-        "link": "https://www.dezeen.com/2026/05/02/kengo-kuma-arched-entrance-angers-cathedral/",
-        "date": "Recent",
-        "description": "This week on Dezeen This week on Dezeen This week Kengo Kuma added an arched entrance to Angers Cathedral This week on Dezeen , Japanese architect Kengo Kuma unveiled the new entrance to the Angevin g...",
-        "type": "news"
-    },
-    {
-        "title": "Landscape architecture",
-        "link": "https://www.dezeen.com/2026/05/01/field-operations-arts-landing-pittsburgh-pennsylvania/",
-        "date": "Recent",
-        "description": "Landscape architecture Landscape architecture Field Operations completes Pittsburgh park overlooking the city's bridges American landscape architecture studio Field Operations has completed the four-a...",
-        "type": "news"
-    },
-    {
-        "title": "Office architecture",
-        "link": "https://www.dezeen.com/2026/05/01/steel-house-morris-adjmi-architects-office-denver/",
-        "date": "Recent",
-        "description": "Office architecture Office architecture Morris Adjmi Architects draws on Denver's industrial heritage for Steel House US studio Morris Adjmi Architects has completed a Denver office building in a form...",
+        "description": "Foster + Partners reveals final design for Queen Elizabeth II memorial",
         "type": "news"
     },
     {
@@ -105,17 +105,17 @@
         "type": "news"
     },
     {
-        "title": "Eight contemporary houses raised on stilts",
-        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Nine European houses that reinterpret local architecture",
+        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Eight contemporary houses raised on stilts",
+        "description": "Nine European houses that reinterpret local architecture",
         "type": "news"
     },
     {
-        "title": "Moxon Architects nods to farmsteads for Scottish home extension",
-        "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Eight contemporary houses raised on stilts",
+        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Moxon Architects nods to farmsteads for Scottish home extension",
+        "description": "Eight contemporary houses raised on stilts",
         "type": "news"
     },
     {
@@ -126,24 +126,17 @@
         "type": "news"
     },
     {
+        "title": "Moxon Architects nods to farmsteads for Scottish home extension",
+        "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Moxon Architects nods to farmsteads for Scottish home extension",
+        "type": "news"
+    },
+    {
         "title": "Bloco Arquitetos designs Brazilian “house without windows”",
-        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Bloco Arquitetos designs Brazilian “house without windows”",
-        "type": "news"
-    },
-    {
-        "title": "Black concrete defines \"strong and monolithic\" Casa Mavra in Mexico",
-        "link": "https://www.dezeen.com/2026/04/06/taller-alberto-calleja-casa-mavra/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Black concrete defines \"strong and monolithic\" Casa Mavra in Mexico",
-        "type": "news"
-    },
-    {
-        "title": "Meganom shows pool topping its skinny New York skyscraper",
-        "link": "https://www.dezeen.com/2026/04/07/meganom-nomad-manhattan-skinny-skyscraper-nears-completion/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Meganom shows pool topping its skinny New York skyscraper",
         "type": "news"
     },
     {
