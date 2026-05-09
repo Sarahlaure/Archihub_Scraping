@@ -1,5 +1,26 @@
 [
     {
+        "title": "This week on Dezeen",
+        "link": "https://www.dezeen.com/2026/05/09/this-week-launched-series-parametricism/",
+        "date": "Recent",
+        "description": "This week on Dezeen This week on Dezeen This week we launched our series on parametricism This week on Dezeen , we kicked off our Parametricism series , which explores a theory of architecture that la...",
+        "type": "news"
+    },
+    {
+        "title": "Adaptive reuse",
+        "link": "https://www.dezeen.com/2026/05/08/courthouse-building-h-i29-dp6/",
+        "date": "Recent",
+        "description": "Adaptive reuse Adaptive reuse DP6 and i29 balance old and new in overhaul of historic school in Utrecht Dutch studios i29 and DP6 have overhauled a 20th-century school in the Netherlands , transformin...",
+        "type": "news"
+    },
+    {
+        "title": "Parametricism guide",
+        "link": "https://www.dezeen.com/2026/05/08/yokohama-international-port-terminal-foa-parametric-architecture/",
+        "date": "Recent",
+        "description": "Parametricism guide Parametricism guide Yokohama International Port Terminal \"first major\" parametric building Continuing our parametricism series , we look at the futuristic Yokohama International Po...",
+        "type": "news"
+    },
+    {
         "title": "Canadian houses",
         "link": "https://www.dezeen.com/2026/05/07/sono-residence-ateliercarle-quebec-house/",
         "date": "Recent",
@@ -49,45 +70,10 @@
         "type": "news"
     },
     {
-        "title": "Parametricism guide",
-        "link": "https://www.dezeen.com/2026/05/05/parametricism-introduction-owen-hopkins/",
+        "title": "Dezeen's top five houses of March 2026",
+        "link": "https://www.dezeen.com/2026/04/01/top-houses-march-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Parametricism guide Parametricism guide Parametricism is the architecture \"of neoliberalism itself\" Parametricism has been billed by its originator as the defining architecture style of the 21st centu...",
-        "type": "news"
-    },
-    {
-        "title": "Parametricism guide",
-        "link": "https://www.dezeen.com/2026/05/05/heydar-aliyev-centre-zaha-hadid-parametricism-case-study/",
-        "date": "Recent",
-        "description": "Parametricism guide Parametricism guide Heydar Aliyev Centre is the ultimate expression of parametricism's \"seamless fluidity\" Our parametricism series launches with a look at the Heydar Aliyev Centre...",
-        "type": "news"
-    },
-    {
-        "title": "Office architecture",
-        "link": "https://www.dezeen.com/2026/05/05/oriente-green-campus-portugal-kpf-saraivaassociados/",
-        "date": "Recent",
-        "description": "Office architecture Office architecture Unfinished Lisbon shopping mall \"hulk\" turned into innovation campus Architecture studios KPF and Saraiva+Associados have completed the Oriente Green Campus in ...",
-        "type": "news"
-    },
-    {
-        "title": "Residential extensions",
-        "link": "https://www.dezeen.com/2026/05/04/gresford-architects-the-old-orchard-extension-oxfordshire/",
-        "date": "Recent",
-        "description": "Residential extensions Residential extensions Gresford Architects clads low-carbon Oxfordshire bungalow in cedar wood Local studio Gresford Architects has upgraded the Old Orchard, a 1980s bungalow in...",
-        "type": "news"
-    },
-    {
-        "title": "Architecture books",
-        "link": "https://www.dezeen.com/2026/05/04/brutalist-london-book-owen-hopkins-nigel-green/",
-        "date": "Recent",
-        "description": "Architecture books Architecture books Brutalist London book illustrates \"lots of ways to be brutalist\" From concrete council housing to monumental theatres , Brutalist London documents the myriad exam...",
-        "type": "news"
-    },
-    {
-        "title": "Foster + Partners reveals final design for Queen Elizabeth II memorial",
-        "link": "https://www.dezeen.com/2026/04/22/queen-elizabeth-ii-memorial-foster-partners/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Foster + Partners reveals final design for Queen Elizabeth II memorial",
+        "description": "Dezeen's top five houses of March 2026",
         "type": "news"
     },
     {
@@ -98,24 +84,17 @@
         "type": "news"
     },
     {
-        "title": "Dezeen's top five houses of March 2026",
-        "link": "https://www.dezeen.com/2026/04/01/top-houses-march-2026/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Dezeen's top five houses of March 2026",
-        "type": "news"
-    },
-    {
-        "title": "Nine European houses that reinterpret local architecture",
-        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Nine European houses that reinterpret local architecture",
-        "type": "news"
-    },
-    {
         "title": "Eight contemporary houses raised on stilts",
-        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Eight contemporary houses raised on stilts",
+        "type": "news"
+    },
+    {
+        "title": "Five Texas tiny houses that \"challenge and reproduce\" the American Dream",
+        "link": "https://www.dezeen.com/2026/03/31/texas-tiny-houses-inside-tiny-house-nation/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Five Texas tiny houses that \"challenge and reproduce\" the American Dream",
         "type": "news"
     },
     {
@@ -126,6 +105,13 @@
         "type": "news"
     },
     {
+        "title": "Bloco Arquitetos designs Brazilian “house without windows”",
+        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Bloco Arquitetos designs Brazilian “house without windows”",
+        "type": "news"
+    },
+    {
         "title": "Moxon Architects nods to farmsteads for Scottish home extension",
         "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
@@ -133,10 +119,10 @@
         "type": "news"
     },
     {
-        "title": "Bloco Arquitetos designs Brazilian “house without windows”",
-        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Foster + Partners reveals final design for Queen Elizabeth II memorial",
+        "link": "https://www.dezeen.com/2026/04/22/queen-elizabeth-ii-memorial-foster-partners/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Bloco Arquitetos designs Brazilian “house without windows”",
+        "description": "Foster + Partners reveals final design for Queen Elizabeth II memorial",
         "type": "news"
     },
     {
