@@ -1,5 +1,19 @@
 [
     {
+        "title": "Architecture",
+        "link": "https://www.dezeen.com/2026/05/10/pend-overlooked-infill-site-mews-homes-light-privacy/",
+        "date": "Recent",
+        "description": "Architecture Architecture Pend transforms overlooked infill site into mews homes that balance light and privacy Architecture studio Pend has completed a pair of light-filled mews homes organised aroun...",
+        "type": "news"
+    },
+    {
+        "title": "Residential architecture and interiors",
+        "link": "https://www.dezeen.com/2026/05/09/australian-suburban-houses/",
+        "date": "Recent",
+        "description": "Residential architecture and interiors Residential architecture and interiors Ten Australian houses ideal for living out the suburban dream Car-borne urban sprawl justifiably draws a lot of criticism,...",
+        "type": "news"
+    },
+    {
         "title": "This week on Dezeen",
         "link": "https://www.dezeen.com/2026/05/09/this-week-launched-series-parametricism/",
         "date": "Recent",
@@ -63,10 +77,10 @@
         "type": "news"
     },
     {
-        "title": "Skyscrapers",
-        "link": "https://www.dezeen.com/2026/05/05/trump-tower-tbilisi-georgia-design-revelaed/",
+        "title": "Dezeen's top five houses of February 2026",
+        "link": "https://www.dezeen.com/2026/02/28/top-houses-february-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Skyscrapers Skyscrapers Gensler reveals design for Trump Tower skyscraper in Georgia Designs have been revealed for a Trump Tower development in Tbilisi , Georgia, designed by Gensler , which will con...",
+        "description": "Dezeen's top five houses of February 2026",
         "type": "news"
     },
     {
@@ -77,13 +91,6 @@
         "type": "news"
     },
     {
-        "title": "Dezeen's top five houses of February 2026",
-        "link": "https://www.dezeen.com/2026/02/28/top-houses-february-2026/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Dezeen's top five houses of February 2026",
-        "type": "news"
-    },
-    {
         "title": "Eight contemporary houses raised on stilts",
         "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -91,10 +98,10 @@
         "type": "news"
     },
     {
-        "title": "Five Texas tiny houses that \"challenge and reproduce\" the American Dream",
-        "link": "https://www.dezeen.com/2026/03/31/texas-tiny-houses-inside-tiny-house-nation/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Bloco Arquitetos designs Brazilian “house without windows”",
+        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Five Texas tiny houses that \"challenge and reproduce\" the American Dream",
+        "description": "Bloco Arquitetos designs Brazilian “house without windows”",
         "type": "news"
     },
     {
@@ -105,24 +112,24 @@
         "type": "news"
     },
     {
-        "title": "Bloco Arquitetos designs Brazilian “house without windows”",
-        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Bloco Arquitetos designs Brazilian “house without windows”",
-        "type": "news"
-    },
-    {
         "title": "Moxon Architects nods to farmsteads for Scottish home extension",
-        "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/?li_source=LI&li_medium=rhs_block_3",
+        "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Moxon Architects nods to farmsteads for Scottish home extension",
         "type": "news"
     },
     {
-        "title": "Foster + Partners reveals final design for Queen Elizabeth II memorial",
-        "link": "https://www.dezeen.com/2026/04/22/queen-elizabeth-ii-memorial-foster-partners/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Black concrete defines \"strong and monolithic\" Casa Mavra in Mexico",
+        "link": "https://www.dezeen.com/2026/04/06/taller-alberto-calleja-casa-mavra/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Foster + Partners reveals final design for Queen Elizabeth II memorial",
+        "description": "Black concrete defines \"strong and monolithic\" Casa Mavra in Mexico",
+        "type": "news"
+    },
+    {
+        "title": "Studio Dera adds sculptural extension to Mozart House in London",
+        "link": "https://www.dezeen.com/2026/03/19/studio-dera-mozart-house/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Studio Dera adds sculptural extension to Mozart House in London",
         "type": "news"
     },
     {
