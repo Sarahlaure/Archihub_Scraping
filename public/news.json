@@ -1,5 +1,19 @@
 [
     {
+        "title": "Parametricism guide",
+        "link": "https://www.dezeen.com/2026/05/11/douglas-spencer-parametricism-opinion/",
+        "date": "Recent",
+        "description": "Parametricism guide Parametricism guide \"The relationship between architecture and capitalism on which parametricism was premised ceased to exist long ago\" Parametricism can never become a dominant ar...",
+        "type": "news"
+    },
+    {
+        "title": "Indonesian houses",
+        "link": "https://www.dezeen.com/2026/05/10/house-kala-caceres-tous-bali/",
+        "date": "Recent",
+        "description": "Indonesian houses Indonesian houses Earth-toned walls wrap circular home in Lombok Curved walls coated in textured, terracotta -toned plaster wrap this circular home in Indonesia , designed by local a...",
+        "type": "news"
+    },
+    {
         "title": "Architecture",
         "link": "https://www.dezeen.com/2026/05/10/pend-overlooked-infill-site-mews-homes-light-privacy/",
         "date": "Recent",
@@ -56,27 +70,6 @@
         "type": "news"
     },
     {
-        "title": "Vietnamese houses",
-        "link": "https://www.dezeen.com/2026/05/06/oddo-architects-th-house-extension/",
-        "date": "Recent",
-        "description": "Vietnamese houses Vietnamese houses ODDO Architects looks to urban alleyways for narrow extension in Vietnam Local studio ODDO Architects has extended TH+ House in Vietnam , organising a series of sha...",
-        "type": "news"
-    },
-    {
-        "title": "Parametricism guide",
-        "link": "https://www.dezeen.com/2026/05/06/parametricism-simple-guide/",
-        "date": "Recent",
-        "description": "Parametricism guide Parametricism guide A simple guide to parametricism What actually is parametricism ? As part of our series on the style , we've written a quick and simple overview of the notorious...",
-        "type": "news"
-    },
-    {
-        "title": "Skyscrapers",
-        "link": "https://www.dezeen.com/2026/05/06/mohammed-vi-tower-morocco-tallest-building-rafael-de-la%e2%80%91hoz-hakim-benjelloun/",
-        "date": "Recent",
-        "description": "Skyscrapers Skyscrapers Rocket-like skyscraper becomes Morocco's tallest building The 250-metre-tall Mohammed VI Tower designed by architecture studios Rafael de La‑Hoz and Hakim Benjelloun has opened...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of February 2026",
         "link": "https://www.dezeen.com/2026/02/28/top-houses-february-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -91,13 +84,6 @@
         "type": "news"
     },
     {
-        "title": "Eight contemporary houses raised on stilts",
-        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Eight contemporary houses raised on stilts",
-        "type": "news"
-    },
-    {
         "title": "Bloco Arquitetos designs Brazilian “house without windows”",
         "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -106,30 +92,37 @@
     },
     {
         "title": "Coastal home in Barcelona perched on steel supports",
-        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Coastal home in Barcelona perched on steel supports",
         "type": "news"
     },
     {
-        "title": "Moxon Architects nods to farmsteads for Scottish home extension",
-        "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Eight contemporary houses raised on stilts",
+        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Moxon Architects nods to farmsteads for Scottish home extension",
+        "description": "Eight contemporary houses raised on stilts",
         "type": "news"
     },
     {
         "title": "Black concrete defines \"strong and monolithic\" Casa Mavra in Mexico",
-        "link": "https://www.dezeen.com/2026/04/06/taller-alberto-calleja-casa-mavra/?li_source=LI&li_medium=rhs_block_3",
+        "link": "https://www.dezeen.com/2026/04/06/taller-alberto-calleja-casa-mavra/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Black concrete defines \"strong and monolithic\" Casa Mavra in Mexico",
         "type": "news"
     },
     {
-        "title": "Studio Dera adds sculptural extension to Mozart House in London",
-        "link": "https://www.dezeen.com/2026/03/19/studio-dera-mozart-house/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Moxon Architects nods to farmsteads for Scottish home extension",
+        "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Studio Dera adds sculptural extension to Mozart House in London",
+        "description": "Moxon Architects nods to farmsteads for Scottish home extension",
+        "type": "news"
+    },
+    {
+        "title": "Nine European houses that reinterpret local architecture",
+        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Nine European houses that reinterpret local architecture",
         "type": "news"
     },
     {

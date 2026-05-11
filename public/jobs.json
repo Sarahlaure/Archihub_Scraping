@@ -14,17 +14,17 @@
         "type": "job"
     },
     {
-        "title": "Architect / Architectural Assistant",
-        "link": "https://jobs.architecture.com/job/30956/architect-architectural-assistant/?LinkSource=HomePage",
-        "location": "London (Central), London (North)",
-        "description": "Architect / Architectural Assistant | London (Central), London (North) | • | Salary to be commensurate with Qualif...",
-        "type": "job"
-    },
-    {
         "title": "Senior Project Architect",
         "link": "https://jobs.architecture.com/job/31039/senior-project-architect/?LinkSource=HomePage",
         "location": "London (Central), London (Greater)",
         "description": "Senior Project Architect | London (Central), London (Greater) | • | Unspecified",
+        "type": "job"
+    },
+    {
+        "title": "Senior Project Architect / Design & Development...",
+        "link": "https://jobs.architecture.com/job/31047/senior-project-architect-design-and-development-manager/?LinkSource=HomePage",
+        "location": "London (City of), London (Greater)",
+        "description": "Senior Project Architect / Design & Development... | London (City of), London (Greater) | • | up to £90000 per annum",
         "type": "job"
     }
 ]
