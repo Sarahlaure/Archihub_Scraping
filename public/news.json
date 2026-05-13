@@ -1,5 +1,40 @@
 [
     {
+        "title": "Landscape and urbanism",
+        "link": "https://www.dezeen.com/2026/05/12/sla-toronto-portlands-neighborhood-car-free/",
+        "date": "Recent",
+        "description": "Landscape and urbanism Landscape and urbanism Toronto island neighbourhood to feature Canada's \"most ambitious\" car-free space Danish landscape studio SLA is among the designers of a neighbourhood on ...",
+        "type": "news"
+    },
+    {
+        "title": "Dezeen Debate",
+        "link": "https://www.dezeen.com/2026/05/12/mohammed-vi-tower-morocco-tallest-building-rafael-de-la%e2%80%91hoz-hakim-benjelloun-dezeen-debate/",
+        "date": "Recent",
+        "description": "Dezeen Debate Dezeen Debate Dezeen Debate features Morocco's \"proper sci-fi\" tallest building The latest edition of our Dezeen Debate newsletter features the opening of Morocco's tallest building . Su...",
+        "type": "news"
+    },
+    {
+        "title": "Canadian houses",
+        "link": "https://www.dezeen.com/2026/05/12/whistler-hideaway-bricault-design-vancouver-cabin/",
+        "date": "Recent",
+        "description": "Canadian houses Canadian houses Bricault Design shapes house to \"share a language with the surrounding peaks\" in Canada Canadian studio Bricault Design has created a cabin informed by adjacent mountai...",
+        "type": "news"
+    },
+    {
+        "title": "Residential architecture and interiors",
+        "link": "https://www.dezeen.com/2026/05/12/antonio-bessa-cruz-architects-agramonte-house/",
+        "date": "Recent",
+        "description": "Residential architecture and interiors Residential architecture and interiors António Bessa Cruz Architects replaces Porto car workshop with industrial-themed home Exposed concrete , steel-framed wind...",
+        "type": "news"
+    },
+    {
+        "title": "Parametricism guide",
+        "link": "https://www.dezeen.com/2026/05/12/metropol-parosol-j-mayer-h-arup-parametricism/",
+        "date": "Recent",
+        "description": "Parametricism guide Parametricism guide Metropol Parasol wears its parametric structure \"on its sleeve\" We continue our Parametricism series by looking at Metropol Parasol by German architecture studi...",
+        "type": "news"
+    },
+    {
         "title": "Residential architecture and interiors",
         "link": "https://www.dezeen.com/2026/05/11/johnston-marklee-ray-phoenix-arizona/",
         "date": "Recent",
@@ -56,20 +91,6 @@
         "type": "news"
     },
     {
-        "title": "Canadian houses",
-        "link": "https://www.dezeen.com/2026/05/07/sono-residence-ateliercarle-quebec-house/",
-        "date": "Recent",
-        "description": "Canadian houses Canadian houses Atelier Carle creates \"unconventional layout\" for hemlock-clad Quebec house Montreal-based studio Atelier Carle has completed a mountainside house with wood and board-f...",
-        "type": "news"
-    },
-    {
-        "title": "Dezeen Agenda",
-        "link": "https://www.dezeen.com/2026/05/07/olson-kundig-otis-elevators-space-needle-agenda/",
-        "date": "Recent",
-        "description": "Dezeen Agenda Dezeen Agenda Dezeen Agenda features double-decker elevators for Seattle's Space Needle The latest edition of our weekly Dezeen Agenda newsletter features glass lifts designed by Olson K...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of March 2026",
         "link": "https://www.dezeen.com/2026/04/01/top-houses-march-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -91,10 +112,10 @@
         "type": "news"
     },
     {
-        "title": "Bloco Arquitetos designs Brazilian “house without windows”",
-        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Black concrete defines \"strong and monolithic\" Casa Mavra in Mexico",
+        "link": "https://www.dezeen.com/2026/04/06/taller-alberto-calleja-casa-mavra/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Bloco Arquitetos designs Brazilian “house without windows”",
+        "description": "Black concrete defines \"strong and monolithic\" Casa Mavra in Mexico",
         "type": "news"
     },
     {
@@ -105,24 +126,24 @@
         "type": "news"
     },
     {
+        "title": "Bloco Arquitetos designs Brazilian “house without windows”",
+        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Bloco Arquitetos designs Brazilian “house without windows”",
+        "type": "news"
+    },
+    {
+        "title": "Nine European houses that reinterpret local architecture",
+        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Nine European houses that reinterpret local architecture",
+        "type": "news"
+    },
+    {
         "title": "Studio Dera adds sculptural extension to Mozart House in London",
-        "link": "https://www.dezeen.com/2026/03/19/studio-dera-mozart-house/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/03/19/studio-dera-mozart-house/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Studio Dera adds sculptural extension to Mozart House in London",
-        "type": "news"
-    },
-    {
-        "title": "Five Texas tiny houses that \"challenge and reproduce\" the American Dream",
-        "link": "https://www.dezeen.com/2026/03/31/texas-tiny-houses-inside-tiny-house-nation/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Five Texas tiny houses that \"challenge and reproduce\" the American Dream",
-        "type": "news"
-    },
-    {
-        "title": "Black concrete defines \"strong and monolithic\" Casa Mavra in Mexico",
-        "link": "https://www.dezeen.com/2026/04/06/taller-alberto-calleja-casa-mavra/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Black concrete defines \"strong and monolithic\" Casa Mavra in Mexico",
         "type": "news"
     },
     {
