@@ -1,5 +1,26 @@
 [
     {
+        "title": "Indian houses",
+        "link": "https://www.dezeen.com/2026/05/14/design-ni-dukaan-geometric-gujarat-house/",
+        "date": "Recent",
+        "description": "Indian houses Indian houses Design ni Dukaan references Corbusier and Doshi for geometric Gujarat house The works of architects Le Corbusier and Balkrishna Doshi influenced Amaltash, a residence in Gu...",
+        "type": "news"
+    },
+    {
+        "title": "Restaurants",
+        "link": "https://www.dezeen.com/2026/05/13/slussporten-restaurant-stockholm-wingardhs-foster-partners-bridge/",
+        "date": "Recent",
+        "description": "Restaurants Restaurants Wingårdhs slides glass restaurant under Foster + Partners-designed bridge Swedish studio Wingårdhs has unveiled Slussporten, a glass-fronted restaurant located underneath Stock...",
+        "type": "news"
+    },
+    {
+        "title": "Parametricism guide",
+        "link": "https://www.dezeen.com/2026/05/13/melike-altinisik-parametricism-interview/",
+        "date": "Recent",
+        "description": "Parametricism guide Parametricism guide Parametricism \"changed how we think\" as architects says Melike Altınışık The theories of parametricism have positively influenced the direction of architecture,...",
+        "type": "news"
+    },
+    {
         "title": "Landscape and urbanism",
         "link": "https://www.dezeen.com/2026/05/12/sla-toronto-portlands-neighborhood-car-free/",
         "date": "Recent",
@@ -70,27 +91,6 @@
         "type": "news"
     },
     {
-        "title": "This week on Dezeen",
-        "link": "https://www.dezeen.com/2026/05/09/this-week-launched-series-parametricism/",
-        "date": "Recent",
-        "description": "This week on Dezeen This week on Dezeen This week we launched our series on parametricism This week on Dezeen , we kicked off our Parametricism series , which explores a theory of architecture that la...",
-        "type": "news"
-    },
-    {
-        "title": "Adaptive reuse",
-        "link": "https://www.dezeen.com/2026/05/08/courthouse-building-h-i29-dp6/",
-        "date": "Recent",
-        "description": "Adaptive reuse Adaptive reuse DP6 Architectuurstudio and i29 balance old and new in overhaul of historic school in Utrecht Dutch studios i29 and DP6 Architectuurstudio have overhauled a 20th-century s...",
-        "type": "news"
-    },
-    {
-        "title": "Parametricism guide",
-        "link": "https://www.dezeen.com/2026/05/08/yokohama-international-port-terminal-foa-parametric-architecture/",
-        "date": "Recent",
-        "description": "Parametricism guide Parametricism guide Yokohama International Port Terminal \"first major\" parametric building Continuing our parametricism series , we look at the futuristic Yokohama International Po...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of March 2026",
         "link": "https://www.dezeen.com/2026/04/01/top-houses-march-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -112,10 +112,17 @@
         "type": "news"
     },
     {
-        "title": "Black concrete defines \"strong and monolithic\" Casa Mavra in Mexico",
-        "link": "https://www.dezeen.com/2026/04/06/taller-alberto-calleja-casa-mavra/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Bloco Arquitetos designs Brazilian “house without windows”",
+        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Black concrete defines \"strong and monolithic\" Casa Mavra in Mexico",
+        "description": "Bloco Arquitetos designs Brazilian “house without windows”",
+        "type": "news"
+    },
+    {
+        "title": "Nine European houses that reinterpret local architecture",
+        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Nine European houses that reinterpret local architecture",
         "type": "news"
     },
     {
@@ -126,24 +133,17 @@
         "type": "news"
     },
     {
-        "title": "Bloco Arquitetos designs Brazilian “house without windows”",
-        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Bloco Arquitetos designs Brazilian “house without windows”",
-        "type": "news"
-    },
-    {
-        "title": "Nine European houses that reinterpret local architecture",
-        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Nine European houses that reinterpret local architecture",
-        "type": "news"
-    },
-    {
         "title": "Studio Dera adds sculptural extension to Mozart House in London",
         "link": "https://www.dezeen.com/2026/03/19/studio-dera-mozart-house/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Studio Dera adds sculptural extension to Mozart House in London",
+        "type": "news"
+    },
+    {
+        "title": "Black concrete defines \"strong and monolithic\" Casa Mavra in Mexico",
+        "link": "https://www.dezeen.com/2026/04/06/taller-alberto-calleja-casa-mavra/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Black concrete defines \"strong and monolithic\" Casa Mavra in Mexico",
         "type": "news"
     },
     {
