@@ -1,5 +1,33 @@
 [
     {
+        "title": "Black houses",
+        "link": "https://www.dezeen.com/2026/05/15/house-in-amagansett-khanna-schultz-hamptons/",
+        "date": "Recent",
+        "description": "Black houses Black houses Khanna Schultz infuses House in Amagansett with \"atmosphere of quiet contemplation\" New York studio Khanna Schultz has taken cues from Japanese architecture to create a \"net-...",
+        "type": "news"
+    },
+    {
+        "title": "Data centres",
+        "link": "https://www.dezeen.com/2026/05/15/stratos-data-center-designs-gensler-utah/",
+        "date": "Recent",
+        "description": "Data centres Data centres First images of Gensler-designed 60-building data centre development in Utah revealed Infrastructure firm O'Leary Digital has exclusively revealed the first images of the Str...",
+        "type": "news"
+    },
+    {
+        "title": "Chinese museums",
+        "link": "https://www.dezeen.com/2026/05/15/mad-hainan-science-museum-china/",
+        "date": "Recent",
+        "description": "Chinese museums Chinese museums MAD clads bulbous science museum with silver-toned polymer panels in China Shiny panels envelop the spiralling structure of the Hainan Science Museum, which has been co...",
+        "type": "news"
+    },
+    {
+        "title": "Monasteries",
+        "link": "https://www.dezeen.com/2026/05/15/ambrosian-monastery-stefano-boeri-architetti-milan/",
+        "date": "Recent",
+        "description": "Monasteries Monasteries Stefano Boeri Architetti unveils design for Milan monastery with sail-like roof Italian studio Stefano Boeri Architetti has unveiled its design for the Ambrosian Monastery in M...",
+        "type": "news"
+    },
+    {
         "title": "Indian houses",
         "link": "https://www.dezeen.com/2026/05/14/otlo-studio-house-quiet-raga/",
         "date": "Recent",
@@ -56,38 +84,10 @@
         "type": "news"
     },
     {
-        "title": "Residential architecture and interiors",
-        "link": "https://www.dezeen.com/2026/05/12/antonio-bessa-cruz-architects-agramonte-house/",
+        "title": "Nine European houses that reinterpret local architecture",
+        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Residential architecture and interiors Residential architecture and interiors António Bessa Cruz Architects replaces Porto car workshop with industrial-themed home Exposed concrete , steel-framed wind...",
-        "type": "news"
-    },
-    {
-        "title": "Parametricism guide",
-        "link": "https://www.dezeen.com/2026/05/12/metropol-parosol-j-mayer-h-arup-parametricism/",
-        "date": "Recent",
-        "description": "Parametricism guide Parametricism guide Metropol Parasol wears its parametric structure \"on its sleeve\" We continue our Parametricism series by looking at Metropol Parasol by German architecture studi...",
-        "type": "news"
-    },
-    {
-        "title": "Residential architecture and interiors",
-        "link": "https://www.dezeen.com/2026/05/11/johnston-marklee-ray-phoenix-arizona/",
-        "date": "Recent",
-        "description": "Residential architecture and interiors Residential architecture and interiors Johnston Marklee completes \"democratic by nature\" green-metal tower in Phoenix California studio Johnston Marklee has comp...",
-        "type": "news"
-    },
-    {
-        "title": "Parametricism guide",
-        "link": "https://www.dezeen.com/2026/05/11/douglas-spencer-parametricism-opinion/",
-        "date": "Recent",
-        "description": "Parametricism guide Parametricism guide \"The relationship between architecture and capitalism on which parametricism was premised ceased to exist long ago\" Parametricism can never become a dominant ar...",
-        "type": "news"
-    },
-    {
-        "title": "Eight mid-century modern designs that never stopped being produced",
-        "link": "https://www.dezeen.com/2026/04/28/mid-century-modern-designs-still-in-production/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Eight mid-century modern designs that never stopped being produced",
+        "description": "Nine European houses that reinterpret local architecture",
         "type": "news"
     },
     {
@@ -105,17 +105,17 @@
         "type": "news"
     },
     {
-        "title": "Nine European houses that reinterpret local architecture",
-        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Coastal home in Barcelona perched on steel supports",
+        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Nine European houses that reinterpret local architecture",
+        "description": "Coastal home in Barcelona perched on steel supports",
         "type": "news"
     },
     {
-        "title": "Coastal home in Barcelona perched on steel supports",
-        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Moxon Architects nods to farmsteads for Scottish home extension",
+        "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Coastal home in Barcelona perched on steel supports",
+        "description": "Moxon Architects nods to farmsteads for Scottish home extension",
         "type": "news"
     },
     {
@@ -133,10 +133,10 @@
         "type": "news"
     },
     {
-        "title": "Moxon Architects nods to farmsteads for Scottish home extension",
-        "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Black concrete defines \"strong and monolithic\" Casa Mavra in Mexico",
+        "link": "https://www.dezeen.com/2026/04/06/taller-alberto-calleja-casa-mavra/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Moxon Architects nods to farmsteads for Scottish home extension",
+        "description": "Black concrete defines \"strong and monolithic\" Casa Mavra in Mexico",
         "type": "news"
     },
     {
