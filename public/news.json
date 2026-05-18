@@ -1,5 +1,19 @@
 [
     {
+        "title": "Residential extensions",
+        "link": "https://www.dezeen.com/2026/05/18/house-of-em-loggia-house-north-london/",
+        "date": "Recent",
+        "description": "Residential extensions Residential extensions House of EM adds light-filled \"loggia\" to north-London home Architecture office House of EM has modernised a terraced house in north London , adding a sun...",
+        "type": "news"
+    },
+    {
+        "title": "Adaptive reuse",
+        "link": "https://www.dezeen.com/2026/05/17/atelier-write-unravel-salon-tokyo-warehouse/",
+        "date": "Recent",
+        "description": "Adaptive reuse Adaptive reuse Atelier Write converts Tokyo warehouse into reconfigurable hair salon Japanese studio Atelier Write has transformed a warehouse in Tokyo into a hair salon , suspending mi...",
+        "type": "news"
+    },
+    {
         "title": "Floating architecture",
         "link": "https://www.dezeen.com/2026/05/16/bedding-1-floating-community-space-arcgency-mast-copenhagen/",
         "date": "Recent",
@@ -70,24 +84,10 @@
         "type": "news"
     },
     {
-        "title": "Landscape and urbanism",
-        "link": "https://www.dezeen.com/2026/05/12/sla-toronto-portlands-neighborhood-car-free/",
+        "title": "Eight contemporary houses raised on stilts",
+        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Landscape and urbanism Landscape and urbanism Toronto island neighbourhood to feature Canada's \"most ambitious\" car-free space Danish landscape studio SLA is among the designers of a neighbourhood on ...",
-        "type": "news"
-    },
-    {
-        "title": "Dezeen Debate",
-        "link": "https://www.dezeen.com/2026/05/12/mohammed-vi-tower-morocco-tallest-building-rafael-de-la%e2%80%91hoz-hakim-benjelloun-dezeen-debate/",
-        "date": "Recent",
-        "description": "Dezeen Debate Dezeen Debate Dezeen Debate features Morocco's \"proper sci-fi\" tallest building The latest edition of our Dezeen Debate newsletter features the opening of Morocco's tallest building . Su...",
-        "type": "news"
-    },
-    {
-        "title": "Faulkner designs California house around fire and water",
-        "link": "https://www.dezeen.com/2026/04/30/pine-flat-residence-faulkner-architects-california/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Faulkner designs California house around fire and water",
+        "description": "Eight contemporary houses raised on stilts",
         "type": "news"
     },
     {
@@ -98,17 +98,17 @@
         "type": "news"
     },
     {
-        "title": "Eight contemporary houses raised on stilts",
-        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Eight contemporary houses raised on stilts",
-        "type": "news"
-    },
-    {
         "title": "Nine European houses that reinterpret local architecture",
         "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Nine European houses that reinterpret local architecture",
+        "type": "news"
+    },
+    {
+        "title": "Faulkner designs California house around fire and water",
+        "link": "https://www.dezeen.com/2026/04/30/pine-flat-residence-faulkner-architects-california/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Faulkner designs California house around fire and water",
         "type": "news"
     },
     {
