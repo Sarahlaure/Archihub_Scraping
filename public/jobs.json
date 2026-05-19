@@ -1,19 +1,5 @@
 [
     {
-        "title": "Project Architect",
-        "link": "https://jobs.architecture.com/job/31040/project-architect/?LinkSource=HomePage",
-        "location": "London (Central), London (Greater)",
-        "description": "Project Architect | London (Central), London (Greater) | • | Unspecified",
-        "type": "job"
-    },
-    {
-        "title": "Senior Project Architect",
-        "link": "https://jobs.architecture.com/job/31039/senior-project-architect/?LinkSource=HomePage",
-        "location": "London (Central), London (Greater)",
-        "description": "Senior Project Architect | London (Central), London (Greater) | • | Unspecified",
-        "type": "job"
-    },
-    {
         "title": "Architect / Architectural Technician / Technolo...",
         "link": "https://jobs.architecture.com/job/31061/architect-architectural-technician-technologist/?LinkSource=HomePage",
         "location": "Devon",
@@ -21,10 +7,24 @@
         "type": "job"
     },
     {
-        "title": "Architect 1-2 Years or Part II Architectural As...",
-        "link": "https://jobs.architecture.com/job/31044/architect-1-2-years-or-part-ii-architectural-assistant/?LinkSource=HomePage",
-        "location": "Holmes Chapel, Cheshire",
-        "description": "Architect 1-2 Years or Part II Architectural As... | Holmes Chapel, Cheshire | • | dependent on experience and skill",
+        "title": "Project Architect",
+        "link": "https://jobs.architecture.com/job/31040/project-architect/?LinkSource=HomePage",
+        "location": "London (Central), London (Greater)",
+        "description": "Project Architect | London (Central), London (Greater) | • | Unspecified",
+        "type": "job"
+    },
+    {
+        "title": "Senior Project Architect / Design & Development...",
+        "link": "https://jobs.architecture.com/job/31047/senior-project-architect-design-and-development-manager/?LinkSource=HomePage",
+        "location": "London (City of), London (Greater)",
+        "description": "Senior Project Architect / Design & Development... | London (City of), London (Greater) | • | up to £90000 per annum",
+        "type": "job"
+    },
+    {
+        "title": "Senior Project Architect",
+        "link": "https://jobs.architecture.com/job/31039/senior-project-architect/?LinkSource=HomePage",
+        "location": "London (Central), London (Greater)",
+        "description": "Senior Project Architect | London (Central), London (Greater) | • | Unspecified",
         "type": "job"
     }
 ]
