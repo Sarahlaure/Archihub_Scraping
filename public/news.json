@@ -1,5 +1,12 @@
 [
     {
+        "title": "Modular architecture",
+        "link": "https://www.dezeen.com/2026/05/19/ibsp-ii-ignacio-rojas-hirigoyen-leonardo-guzman-valencia-chile/",
+        "date": "Recent",
+        "description": "Modular architecture Modular architecture Chilean modular housing protoype uses stilts to traverse difficult site Ignacio Rojas Hirigoyen and Leonardo Gúzman Valencia in Chile have collaborated on a p...",
+        "type": "news"
+    },
+    {
         "title": "Japanese houses",
         "link": "https://www.dezeen.com/2026/05/19/ynas-house-in-miyakonojo-japan/",
         "date": "Recent",
@@ -84,10 +91,17 @@
         "type": "news"
     },
     {
-        "title": "Indian houses",
-        "link": "https://www.dezeen.com/2026/05/14/otlo-studio-house-quiet-raga/",
+        "title": "Holzrausch designs Frankfurt penthouse as central \"roof garden\"",
+        "link": "https://www.dezeen.com/2026/05/04/holzrausch-frankfurt-penthouse-roof-garden/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Indian houses Indian houses Otlo Studio designs skylit home in India to provide \"meditative experiences\" A skylit pool sits at the centre of the House of Quiet Raga, a home in Indore, India, designed ...",
+        "description": "Holzrausch designs Frankfurt penthouse as central \"roof garden\"",
+        "type": "news"
+    },
+    {
+        "title": "Faulkner designs California house around fire and water",
+        "link": "https://www.dezeen.com/2026/04/30/pine-flat-residence-faulkner-architects-california/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Faulkner designs California house around fire and water",
         "type": "news"
     },
     {
@@ -105,15 +119,8 @@
         "type": "news"
     },
     {
-        "title": "Nine European houses that reinterpret local architecture",
-        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Nine European houses that reinterpret local architecture",
-        "type": "news"
-    },
-    {
         "title": "Moxon Architects nods to farmsteads for Scottish home extension",
-        "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/?li_source=LI&li_medium=rhs_block_1",
+        "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Moxon Architects nods to farmsteads for Scottish home extension",
         "type": "news"
@@ -127,23 +134,16 @@
     },
     {
         "title": "Coastal home in Barcelona perched on steel supports",
-        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Coastal home in Barcelona perched on steel supports",
         "type": "news"
     },
     {
-        "title": "Eduardo Souto de Moura reflects on the accidental beginnings of his architecture career",
-        "link": "https://www.dezeen.com/2026/03/17/eduardo-souto-de-moura-video-profile/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Nine European houses that reinterpret local architecture",
+        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Eduardo Souto de Moura reflects on the accidental beginnings of his architecture career",
-        "type": "news"
-    },
-    {
-        "title": "Faulkner designs California house around fire and water",
-        "link": "https://www.dezeen.com/2026/04/30/pine-flat-residence-faulkner-architects-california/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Faulkner designs California house around fire and water",
+        "description": "Nine European houses that reinterpret local architecture",
         "type": "news"
     },
     {
