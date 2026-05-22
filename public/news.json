@@ -1,5 +1,33 @@
 [
     {
+        "title": "Installations",
+        "link": "https://www.dezeen.com/2026/05/22/global-design-forum-istanbul-installations/",
+        "date": "Recent",
+        "description": "Installations Installations Six installations from the inaugural Global Design Forum Istanbul An ancient room soaked entirely in red and a plywood gateway based on a lost Roman arena were among the in...",
+        "type": "news"
+    },
+    {
+        "title": "Modular architecture",
+        "link": "https://www.dezeen.com/2026/05/22/giacomo-moor-quadrodesign-salone-del-mobile-2026/",
+        "date": "Recent",
+        "description": "Modular architecture Modular architecture QuadroDesign sends Salone booth to Zambia to become public bathroom The Salone del Mobile fair stand of Italian tapware brand QuadroDesign is on its way to Ma...",
+        "type": "news"
+    },
+    {
+        "title": "Data centres",
+        "link": "https://www.dezeen.com/2026/05/21/gensler-thistle-data-center-phoenix-corten-steel/",
+        "date": "Recent",
+        "description": "Data centres Data centres Gensler designs Corten data centre to have \"meaningful civic contribution\" Achitecture studio Gensler has released renderings of Thistle Data Center Campus, a hyperscale data...",
+        "type": "news"
+    },
+    {
+        "title": "Penn Station",
+        "link": "https://www.dezeen.com/2026/05/21/amtrak-select-pau-penn-station-design/",
+        "date": "Recent",
+        "description": "Penn Station Penn Station US government and Amtrak select team for Penn Station redevelopment US Department of Transportation secretary Sean P Duffy and national transportation company Amtrak have sel...",
+        "type": "news"
+    },
+    {
         "title": "Parametricism guide",
         "link": "https://www.dezeen.com/2026/05/21/parametricism-architecture-feature/",
         "date": "Recent",
@@ -42,45 +70,10 @@
         "type": "news"
     },
     {
-        "title": "Residential architecture and interiors",
-        "link": "https://www.dezeen.com/2026/05/18/the-harper-manhattan-oda/",
+        "title": "Eight contemporary houses raised on stilts",
+        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Residential architecture and interiors Residential architecture and interiors ODA clads Manhattan condo building in chamfered limestone Architecture studio ODA drew upon art deco and Bauhaus styles wh...",
-        "type": "news"
-    },
-    {
-        "title": "Renovations",
-        "link": "https://www.dezeen.com/2026/05/18/kuma-elsa-nakano-house-apartments-japan/",
-        "date": "Recent",
-        "description": "Renovations Renovations Kuma&Elsa arranges Japanese apartments around translucent \"huts\" Architecture studio Kuma&Elsa has renovated the top two floors of an apartment block in Japan , creating enclos...",
-        "type": "news"
-    },
-    {
-        "title": "Parametricism guide",
-        "link": "https://www.dezeen.com/2026/05/18/nordpark-railway-stations-innsbruck-austria-zaha-hadid/",
-        "date": "Recent",
-        "description": "Parametricism guide Parametricism guide Zaha Hadid's Nordpark stations topped with parametric \"ice formations\" As part of our ongoing Parametricism series, we look at the Nordpark Railway Stations, a ...",
-        "type": "news"
-    },
-    {
-        "title": "Residential extensions",
-        "link": "https://www.dezeen.com/2026/05/18/house-of-em-loggia-house-north-london/",
-        "date": "Recent",
-        "description": "Residential extensions Residential extensions House of EM adds light-filled \"loggia\" to north-London home Architecture office House of EM has modernised a terraced house in north London , adding a sun...",
-        "type": "news"
-    },
-    {
-        "title": "Adaptive reuse",
-        "link": "https://www.dezeen.com/2026/05/17/atelier-write-unravel-salon-tokyo-warehouse/",
-        "date": "Recent",
-        "description": "Adaptive reuse Adaptive reuse Atelier Write converts Tokyo warehouse into reconfigurable hair salon Japanese studio Atelier Write has transformed a warehouse in Tokyo into a hair salon , suspending mi...",
-        "type": "news"
-    },
-    {
-        "title": "Floating architecture",
-        "link": "https://www.dezeen.com/2026/05/16/bedding-1-floating-community-space-arcgency-mast-copenhagen/",
-        "date": "Recent",
-        "description": "Floating architecture Floating architecture Floating community space in Copenhagen by Arcgency and MAST \"makes water an active part of everyday life\" Danish architecture studios Arcgency and MAST have...",
+        "description": "Eight contemporary houses raised on stilts",
         "type": "news"
     },
     {
@@ -91,17 +84,10 @@
         "type": "news"
     },
     {
-        "title": "Eight contemporary houses raised on stilts",
-        "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Coastal home in Barcelona perched on steel supports",
+        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Eight contemporary houses raised on stilts",
-        "type": "news"
-    },
-    {
-        "title": "Faulkner designs California house around fire and water",
-        "link": "https://www.dezeen.com/2026/04/30/pine-flat-residence-faulkner-architects-california/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Faulkner designs California house around fire and water",
+        "description": "Coastal home in Barcelona perched on steel supports",
         "type": "news"
     },
     {
@@ -112,31 +98,31 @@
         "type": "news"
     },
     {
-        "title": "Coastal home in Barcelona perched on steel supports",
-        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Moxon Architects nods to farmsteads for Scottish home extension",
+        "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Coastal home in Barcelona perched on steel supports",
+        "description": "Moxon Architects nods to farmsteads for Scottish home extension",
         "type": "news"
     },
     {
-        "title": "Studioninedots fronts skinny Amsterdam home with glass blocks",
-        "link": "https://www.dezeen.com/2026/04/24/studioninedots-light-house/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Nine European houses that reinterpret local architecture",
+        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Studioninedots fronts skinny Amsterdam home with glass blocks",
+        "description": "Nine European houses that reinterpret local architecture",
         "type": "news"
     },
     {
-        "title": "Holzrausch designs Frankfurt penthouse as central \"roof garden\"",
-        "link": "https://www.dezeen.com/2026/05/04/holzrausch-frankfurt-penthouse-roof-garden/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Faulkner designs California house around fire and water",
+        "link": "https://www.dezeen.com/2026/04/30/pine-flat-residence-faulkner-architects-california/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Holzrausch designs Frankfurt penthouse as central \"roof garden\"",
+        "description": "Faulkner designs California house around fire and water",
         "type": "news"
     },
     {
-        "title": "Eduardo Souto de Moura reflects on the accidental beginnings of his architecture career",
-        "link": "https://www.dezeen.com/2026/03/17/eduardo-souto-de-moura-video-profile/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Studio Dera adds sculptural extension to Mozart House in London",
+        "link": "https://www.dezeen.com/2026/03/19/studio-dera-mozart-house/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Eduardo Souto de Moura reflects on the accidental beginnings of his architecture career",
+        "description": "Studio Dera adds sculptural extension to Mozart House in London",
         "type": "news"
     },
     {
