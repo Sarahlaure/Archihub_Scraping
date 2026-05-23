@@ -1,5 +1,33 @@
 [
     {
+        "title": "This week on Dezeen",
+        "link": "https://www.dezeen.com/2026/05/23/utah-data-centre-gensler-this-week/",
+        "date": "Recent",
+        "description": "This week on Dezeen This week on Dezeen This week a 60-building data centre by Gensler was unveiled This week on Dezeen , the first images of a data centre development , which is set to be one of the ...",
+        "type": "news"
+    },
+    {
+        "title": "Donald Trump",
+        "link": "https://www.dezeen.com/2026/05/22/arc-de-trump-design-approved-for-washington-dc-cfa/",
+        "date": "Recent",
+        "description": "Donald Trump Donald Trump \"Arc de Trump\" design approved for Washington DC A monumental triumphal arch with a neoclassical structure devised by Atlanta-based studio Harrison Design has been approved f...",
+        "type": "news"
+    },
+    {
+        "title": "London house extensions",
+        "link": "https://www.dezeen.com/2026/05/22/studio-hallett-ike-cemetery-house-extension-london/",
+        "date": "Recent",
+        "description": "London house extensions London house extensions Studio Hallett Ike updates and extends Victorian lodge in the grounds of a London cemetery UK practice Studio Hallett Ike has completed the renovation a...",
+        "type": "news"
+    },
+    {
+        "title": "Installations",
+        "link": "https://www.dezeen.com/2026/05/22/jr-la-caverne-du-pont-neuf/",
+        "date": "Recent",
+        "description": "Installations Installations JR engulfs Paris's oldest bridge with giant cavernous inflatable French street artist JR has transformed Pont Neuf, the oldest bridge in Paris , with an inflatable cave-lik...",
+        "type": "news"
+    },
+    {
         "title": "Installations",
         "link": "https://www.dezeen.com/2026/05/22/global-design-forum-istanbul-installations/",
         "date": "Recent",
@@ -49,27 +77,6 @@
         "type": "news"
     },
     {
-        "title": "Modular architecture",
-        "link": "https://www.dezeen.com/2026/05/19/ibsp-ii-ignacio-rojas-hirigoyen-leonardo-guzman-valencia-chile/",
-        "date": "Recent",
-        "description": "Modular architecture Modular architecture Chilean modular housing protoype uses stilts to traverse difficult site Ignacio Rojas Hirigoyen and Leonardo Gúzman Valencia in Chile have collaborated on a p...",
-        "type": "news"
-    },
-    {
-        "title": "Japanese houses",
-        "link": "https://www.dezeen.com/2026/05/19/ynas-house-in-miyakonojo-japan/",
-        "date": "Recent",
-        "description": "Japanese houses Japanese houses YNAS uses timber-framed canopies to reconnect Japanese home with the outdoors Local architecture studio YNAS has renovated and extended a traditional timber home in sou...",
-        "type": "news"
-    },
-    {
-        "title": "Parametricism guide",
-        "link": "https://www.dezeen.com/2026/05/19/parametricism-opinion-catherine-slessor/",
-        "date": "Recent",
-        "description": "Parametricism guide Parametricism guide \"Parametricism is a technophile triumph of fetishised process over outcome\" Parametricism is not what humanity needs from architecture in the 21st century, writ...",
-        "type": "news"
-    },
-    {
         "title": "Eight contemporary houses raised on stilts",
         "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -84,6 +91,13 @@
         "type": "news"
     },
     {
+        "title": "Faulkner designs California house around fire and water",
+        "link": "https://www.dezeen.com/2026/04/30/pine-flat-residence-faulkner-architects-california/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Faulkner designs California house around fire and water",
+        "type": "news"
+    },
+    {
         "title": "Coastal home in Barcelona perched on steel supports",
         "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -92,7 +106,7 @@
     },
     {
         "title": "Bloco Arquitetos designs Brazilian “house without windows”",
-        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_1",
+        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Bloco Arquitetos designs Brazilian “house without windows”",
         "type": "news"
@@ -106,16 +120,9 @@
     },
     {
         "title": "Nine European houses that reinterpret local architecture",
-        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Nine European houses that reinterpret local architecture",
-        "type": "news"
-    },
-    {
-        "title": "Faulkner designs California house around fire and water",
-        "link": "https://www.dezeen.com/2026/04/30/pine-flat-residence-faulkner-architects-california/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Faulkner designs California house around fire and water",
         "type": "news"
     },
     {
