@@ -1,5 +1,12 @@
 [
     {
+        "title": "Restorations",
+        "link": "https://www.dezeen.com/2026/05/23/atelier-backlar-blue-house-azores-portugal-recycled-ocean-plastic/",
+        "date": "Recent",
+        "description": "Restorations Restorations Atelier Backlar wraps Portuguese clifftop house in recycled ocean plastic Portuguese architecture studio Atelier Backlar has used recycled ocean plastic and locally sourced t...",
+        "type": "news"
+    },
+    {
         "title": "This week on Dezeen",
         "link": "https://www.dezeen.com/2026/05/23/utah-data-centre-gensler-this-week/",
         "date": "Recent",
@@ -63,20 +70,6 @@
         "type": "news"
     },
     {
-        "title": "Residential architecture and interiors",
-        "link": "https://www.dezeen.com/2026/05/20/ademas-arquitectura-casa-alba-two-buenos-aires-concrete-wall/",
-        "date": "Recent",
-        "description": "Residential architecture and interiors Residential architecture and interiors Además Arquitectura encloses Buenos Aires house with wall for \"introspective approach\" Argentina studio Además Arquitectur...",
-        "type": "news"
-    },
-    {
-        "title": "Parametricism guide",
-        "link": "https://www.dezeen.com/2026/05/20/daniel-oakley-zaha-hadid-digital-design-videos/",
-        "date": "Recent",
-        "description": "Parametricism guide Parametricism guide Unseen videos reveal Zaha Hadid's first digital designs Architect Daniel Oakley has released videos of the first 3D computer models created at Zaha Hadid Archit...",
-        "type": "news"
-    },
-    {
         "title": "Eight contemporary houses raised on stilts",
         "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -91,17 +84,17 @@
         "type": "news"
     },
     {
-        "title": "Faulkner designs California house around fire and water",
-        "link": "https://www.dezeen.com/2026/04/30/pine-flat-residence-faulkner-architects-california/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Faulkner designs California house around fire and water",
-        "type": "news"
-    },
-    {
         "title": "Coastal home in Barcelona perched on steel supports",
         "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Coastal home in Barcelona perched on steel supports",
+        "type": "news"
+    },
+    {
+        "title": "Studio Dera adds sculptural extension to Mozart House in London",
+        "link": "https://www.dezeen.com/2026/03/19/studio-dera-mozart-house/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Studio Dera adds sculptural extension to Mozart House in London",
         "type": "news"
     },
     {
@@ -112,24 +105,24 @@
         "type": "news"
     },
     {
+        "title": "\"Nothing is superfluous\" in compact Greek holiday cabin by Kasawoo",
+        "link": "https://www.dezeen.com/2026/05/02/the-root-cabin-kasawoo/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "\"Nothing is superfluous\" in compact Greek holiday cabin by Kasawoo",
+        "type": "news"
+    },
+    {
+        "title": "Faulkner designs California house around fire and water",
+        "link": "https://www.dezeen.com/2026/04/30/pine-flat-residence-faulkner-architects-california/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Faulkner designs California house around fire and water",
+        "type": "news"
+    },
+    {
         "title": "Moxon Architects nods to farmsteads for Scottish home extension",
-        "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Moxon Architects nods to farmsteads for Scottish home extension",
-        "type": "news"
-    },
-    {
-        "title": "Nine European houses that reinterpret local architecture",
-        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Nine European houses that reinterpret local architecture",
-        "type": "news"
-    },
-    {
-        "title": "Studio Dera adds sculptural extension to Mozart House in London",
-        "link": "https://www.dezeen.com/2026/03/19/studio-dera-mozart-house/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Studio Dera adds sculptural extension to Mozart House in London",
         "type": "news"
     },
     {
