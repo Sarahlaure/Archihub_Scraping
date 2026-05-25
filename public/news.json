@@ -1,5 +1,12 @@
 [
     {
+        "title": "Indian houses",
+        "link": "https://www.dezeen.com/2026/05/25/summer-home-mindspark-architects/",
+        "date": "Recent",
+        "description": "Indian houses Indian houses Summer Home by Mindspark Architects overlooks cardamom plantation in India Indian studio Mindspark Architects has created a house overlooking a cardamom plantation in Keral...",
+        "type": "news"
+    },
+    {
         "title": "Restorations",
         "link": "https://www.dezeen.com/2026/05/23/atelier-backlar-blue-house-azores-portugal-recycled-ocean-plastic/",
         "date": "Recent",
@@ -63,13 +70,6 @@
         "type": "news"
     },
     {
-        "title": "Parametricism guide",
-        "link": "https://www.dezeen.com/2026/05/21/parametricism-architecture-feature/",
-        "date": "Recent",
-        "description": "Parametricism guide Parametricism guide How parametricism changed architecture but not buildings Our Parametricism series has explored the architectural theory controversially touted by Patrik Schumac...",
-        "type": "news"
-    },
-    {
         "title": "Eight contemporary houses raised on stilts",
         "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -84,13 +84,6 @@
         "type": "news"
     },
     {
-        "title": "Coastal home in Barcelona perched on steel supports",
-        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Coastal home in Barcelona perched on steel supports",
-        "type": "news"
-    },
-    {
         "title": "Studio Dera adds sculptural extension to Mozart House in London",
         "link": "https://www.dezeen.com/2026/03/19/studio-dera-mozart-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -99,7 +92,7 @@
     },
     {
         "title": "Bloco Arquitetos designs Brazilian “house without windows”",
-        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Bloco Arquitetos designs Brazilian “house without windows”",
         "type": "news"
@@ -112,17 +105,24 @@
         "type": "news"
     },
     {
-        "title": "Faulkner designs California house around fire and water",
-        "link": "https://www.dezeen.com/2026/04/30/pine-flat-residence-faulkner-architects-california/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Coastal home in Barcelona perched on steel supports",
+        "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Faulkner designs California house around fire and water",
+        "description": "Coastal home in Barcelona perched on steel supports",
         "type": "news"
     },
     {
-        "title": "Moxon Architects nods to farmsteads for Scottish home extension",
-        "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Nine European houses that reinterpret local architecture",
+        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Moxon Architects nods to farmsteads for Scottish home extension",
+        "description": "Nine European houses that reinterpret local architecture",
+        "type": "news"
+    },
+    {
+        "title": "Timber bird hides inform Irish cottage extension by Architectural Farm",
+        "link": "https://www.dezeen.com/2026/04/02/seagull-cottage-architectural-farm/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Timber bird hides inform Irish cottage extension by Architectural Farm",
         "type": "news"
     },
     {
