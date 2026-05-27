@@ -1,5 +1,40 @@
 [
     {
+        "title": "Maggie's Centres",
+        "link": "https://www.dezeen.com/2026/05/27/metropolitan-workshop-maggies-cheltenham/",
+        "date": "Recent",
+        "description": "Maggie's Centres Maggie's Centres Metropolitan Workshop adds lozenge-shaped community space to Maggie's Cheltenham A fluted wall wraps the curved exterior of this extension to the Maggie's centre at C...",
+        "type": "news"
+    },
+    {
+        "title": "Dezeen Debate",
+        "link": "https://www.dezeen.com/2026/05/26/buro-ziyu-zhuang-prairie-ark-dezeen-debate/",
+        "date": "Recent",
+        "description": "Dezeen Debate Dezeen Debate Dezeen Debate features \"proper dystopian\" Prairie Ark Gallery The latest edition of our Dezeen Debate newsletter features the Prairie Ark gallery by Chinese architecture st...",
+        "type": "news"
+    },
+    {
+        "title": "Architects' studios",
+        "link": "https://www.dezeen.com/2026/05/26/little-giant-forest-studio-vancouver-island-british-columbia/",
+        "date": "Recent",
+        "description": "Architects' studios Architects' studios Little Giant draws on \"spirit of a treehouse\" for Forest Studio on Vancouver Island A dark cedar screen wraps the exterior of Forest Studio, a compact, gable-ro...",
+        "type": "news"
+    },
+    {
+        "title": "Residential extensions",
+        "link": "https://www.dezeen.com/2026/05/26/scullion-architects-park-pavilion-extension-dublin/",
+        "date": "Recent",
+        "description": "Residential extensions Residential extensions Scullion Architects brings \"romantic sensitivity\" to elevated extension in Dublin Slender granite columns frame the glazed walls of this compact extension...",
+        "type": "news"
+    },
+    {
+        "title": "Mass timber",
+        "link": "https://www.dezeen.com/2026/05/25/smith-center-education-research-opal-maine/",
+        "date": "Recent",
+        "description": "Mass timber Mass timber OPAL \"superinsulates\" mass-timber farming education center in Maine US architecture studio OPAL has created a farming research and education centre made with mass timber and mo...",
+        "type": "news"
+    },
+    {
         "title": "Indian houses",
         "link": "https://www.dezeen.com/2026/05/25/summer-home-mindspark-architects/",
         "date": "Recent",
@@ -49,27 +84,6 @@
         "type": "news"
     },
     {
-        "title": "Modular architecture",
-        "link": "https://www.dezeen.com/2026/05/22/giacomo-moor-quadrodesign-salone-del-mobile-2026/",
-        "date": "Recent",
-        "description": "Modular architecture Modular architecture QuadroDesign sends Salone booth to Zambia to become public bathroom The Salone del Mobile fair stand of Italian tapware brand QuadroDesign is on its way to Ma...",
-        "type": "news"
-    },
-    {
-        "title": "Data centres",
-        "link": "https://www.dezeen.com/2026/05/21/gensler-thistle-data-center-phoenix-corten-steel/",
-        "date": "Recent",
-        "description": "Data centres Data centres Gensler designs Corten data centre to have \"meaningful civic contribution\" Achitecture studio Gensler has released renderings of Thistle Data Center Campus, a hyperscale data...",
-        "type": "news"
-    },
-    {
-        "title": "Penn Station",
-        "link": "https://www.dezeen.com/2026/05/21/amtrak-select-pau-penn-station-design/",
-        "date": "Recent",
-        "description": "Penn Station Penn Station US government and Amtrak select team for Penn Station redevelopment US Department of Transportation secretary Sean P Duffy and national transportation company Amtrak have sel...",
-        "type": "news"
-    },
-    {
         "title": "Eight contemporary houses raised on stilts",
         "link": "https://www.dezeen.com/2026/03/22/houses-on-stilts/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -98,10 +112,10 @@
         "type": "news"
     },
     {
-        "title": "\"Nothing is superfluous\" in compact Greek holiday cabin by Kasawoo",
-        "link": "https://www.dezeen.com/2026/05/02/the-root-cabin-kasawoo/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Nine European houses that reinterpret local architecture",
+        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "\"Nothing is superfluous\" in compact Greek holiday cabin by Kasawoo",
+        "description": "Nine European houses that reinterpret local architecture",
         "type": "news"
     },
     {
@@ -112,24 +126,24 @@
         "type": "news"
     },
     {
-        "title": "Nine European houses that reinterpret local architecture",
-        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Faulkner designs California house around fire and water",
+        "link": "https://www.dezeen.com/2026/04/30/pine-flat-residence-faulkner-architects-california/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Nine European houses that reinterpret local architecture",
+        "description": "Faulkner designs California house around fire and water",
         "type": "news"
     },
     {
-        "title": "Timber bird hides inform Irish cottage extension by Architectural Farm",
-        "link": "https://www.dezeen.com/2026/04/02/seagull-cottage-architectural-farm/?li_source=LI&li_medium=rhs_block_3",
+        "title": "\"Nothing is superfluous\" in compact Greek holiday cabin by Kasawoo",
+        "link": "https://www.dezeen.com/2026/05/02/the-root-cabin-kasawoo/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Timber bird hides inform Irish cottage extension by Architectural Farm",
+        "description": "\"Nothing is superfluous\" in compact Greek holiday cabin by Kasawoo",
         "type": "news"
     },
     {
-        "title": "NYCxDesign 2026 guide",
-        "link": "https://www.dezeen.com/eventsguide/nycxdesign-2026/",
+        "title": "3 Days of Design 2026 guide",
+        "link": "https://www.dezeen.com/eventsguide/3-days-of-design-2026/",
         "date": "Recent",
-        "description": "NYCxDesign 2026 guide",
+        "description": "3 Days of Design 2026 guide",
         "type": "news"
     },
     {
