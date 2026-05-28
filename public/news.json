@@ -1,5 +1,12 @@
 [
     {
+        "title": "Japanese houses",
+        "link": "https://www.dezeen.com/2026/05/27/apollo-architects-associates-eternity-courtyard-home-tokyo/",
+        "date": "Recent",
+        "description": "Japanese houses Japanese houses Apollo Architects & Associates prioritises \"security and privacy\" for Tokyo home An austere exterior of stacked concrete volumes conceals a double-height courtyard and ...",
+        "type": "news"
+    },
+    {
         "title": "Maggie's Centres",
         "link": "https://www.dezeen.com/2026/05/27/metropolitan-workshop-maggies-cheltenham/",
         "date": "Recent",
@@ -70,17 +77,10 @@
         "type": "news"
     },
     {
-        "title": "Installations",
-        "link": "https://www.dezeen.com/2026/05/22/jr-la-caverne-du-pont-neuf/",
+        "title": "Dezeen's top five houses of March 2026",
+        "link": "https://www.dezeen.com/2026/04/01/top-houses-march-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Installations Installations JR engulfs Paris's oldest bridge with giant cavernous inflatable French street artist JR has transformed Pont Neuf, the oldest bridge in Paris , with an inflatable cave-lik...",
-        "type": "news"
-    },
-    {
-        "title": "Installations",
-        "link": "https://www.dezeen.com/2026/05/22/global-design-forum-istanbul-installations/",
-        "date": "Recent",
-        "description": "Installations Installations Six installations from the inaugural Global Design Forum Istanbul An ancient room soaked entirely in red and a plywood gateway based on a lost Roman arena were among the in...",
+        "description": "Dezeen's top five houses of March 2026",
         "type": "news"
     },
     {
@@ -91,17 +91,10 @@
         "type": "news"
     },
     {
-        "title": "Dezeen's top five houses of March 2026",
-        "link": "https://www.dezeen.com/2026/04/01/top-houses-march-2026/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Faulkner designs California house around fire and water",
+        "link": "https://www.dezeen.com/2026/04/30/pine-flat-residence-faulkner-architects-california/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Dezeen's top five houses of March 2026",
-        "type": "news"
-    },
-    {
-        "title": "Studio Dera adds sculptural extension to Mozart House in London",
-        "link": "https://www.dezeen.com/2026/03/19/studio-dera-mozart-house/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Studio Dera adds sculptural extension to Mozart House in London",
+        "description": "Faulkner designs California house around fire and water",
         "type": "news"
     },
     {
@@ -112,13 +105,6 @@
         "type": "news"
     },
     {
-        "title": "Nine European houses that reinterpret local architecture",
-        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Nine European houses that reinterpret local architecture",
-        "type": "news"
-    },
-    {
         "title": "Coastal home in Barcelona perched on steel supports",
         "link": "https://www.dezeen.com/2026/03/16/jaime-prous-architects-pineda-monedero-casa-144-barcelona-home/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
@@ -126,10 +112,17 @@
         "type": "news"
     },
     {
-        "title": "Faulkner designs California house around fire and water",
-        "link": "https://www.dezeen.com/2026/04/30/pine-flat-residence-faulkner-architects-california/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Earl of East founders reveal how to bring personality to a rental home",
+        "link": "https://www.dezeen.com/2026/05/07/earl-of-east-founders-personality-rental-home-book/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Faulkner designs California house around fire and water",
+        "description": "Earl of East founders reveal how to bring personality to a rental home",
+        "type": "news"
+    },
+    {
+        "title": "Nine European houses that reinterpret local architecture",
+        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Nine European houses that reinterpret local architecture",
         "type": "news"
     },
     {
