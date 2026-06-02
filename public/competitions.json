@@ -48,11 +48,51 @@
         "type": "competition"
     },
     {
+        "title": "International Urban Project Award",
+        "link": "https://competitions.archi/competition/international-urban-project-award/",
+        "deadline": "1st August 2026",
+        "deadline_iso": "2026-08-01T00:00:00",
+        "description": "International Urban Project Award Submission: 1st August 2026 Registration: 1st August 2026 Location: Beijing Language: English Prizes: 6,000€ The International Urban Project Award (IUPA) is presented...",
+        "type": "competition"
+    },
+    {
+        "title": "“Infrastructure as a System” : A competition opened to all students",
+        "link": "https://competitions.archi/competition/infrastructure-as-a-system-a-competition-opened-to-all-students/",
+        "deadline": "31st July 2026",
+        "deadline_iso": "2026-07-31T00:00:00",
+        "description": "“Infrastructure as a System” : A competition opened to all students Submission: 31st July 2026 Registration: 30th June 2026 Location: Paris Language: English Prizes: €3,000 to €7,000 Type: Student com...",
+        "type": "competition"
+    },
+    {
+        "title": "HOLD THE PLACE 16th International Design Contest Trieste Contemporanea",
+        "link": "https://competitions.archi/competition/hold-the-place-16th-international-design-contest-trieste-contemporanea/",
+        "deadline": "5th July 2026",
+        "deadline_iso": "2026-07-05T00:00:00",
+        "description": "HOLD THE PLACE 16th International Design Contest Trieste Contemporanea Submission: 5th July 2026 Registration: 5th July 2026 Location: Trieste Language: English Prizes: BEBA/CEI/GILLO DORFLES/VENZONE ...",
+        "type": "competition"
+    },
+    {
         "title": "Community Library & Learning Space",
         "link": "https://competitions.archi/competition/community-library-learning-space/",
         "deadline": "12th July 2026",
         "deadline_iso": "2026-07-12T00:00:00",
         "description": "Community Library & Learning Space Submission: 12th July 2026 Registration: 2nd July 2026 Location: Concept Language: English Prizes: View website Type: Open Introduction Libraries today are no longer...",
+        "type": "competition"
+    },
+    {
+        "title": "BIGFIELDS STUDENTS PRIZE 2026",
+        "link": "https://competitions.archi/competition/bigfields-students-prize-2026/",
+        "deadline": "15th June 2026",
+        "deadline_iso": "2026-06-15T00:00:00",
+        "description": "BIGFIELDS STUDENTS PRIZE 2026 Submission: 15th June 2026 Registration: 31st August 2026 Location: SOUTH KOREA Language: ENGLISH Prizes: USD 12000 Type: Open for Students BIGFIELDS 2026 International A...",
+        "type": "competition"
+    },
+    {
+        "title": "The Unreal House 2025-2026",
+        "link": "https://competitions.archi/competition/the-unreal-house-2025-2026/",
+        "deadline": "31st July 2026",
+        "deadline_iso": "2026-07-31T00:00:00",
+        "description": "The Unreal House 2025-2026 Submission: 31st July 2026 Registration: 25th July 2026 Location: Online Language: English Prizes: Total Prize Pool: INR 50,000 Type: Open to all Undergraduate Students THE ...",
         "type": "competition"
     },
     {
@@ -64,35 +104,11 @@
         "type": "competition"
     },
     {
-        "title": "UltraTech-IndiaNext Design Competition | Sustainable Futures",
-        "link": "https://competitions.archi/competition/ultratech-indianext-design-competition-sustainable-futures/",
-        "deadline": "15th July 2026",
-        "deadline_iso": "2026-07-15T00:00:00",
-        "description": "UltraTech-IndiaNext Design Competition | Sustainable Futures Submission: 15th July 2026 Registration: 10th July 2026 Location: Pan India Language: English Prizes: INR 26 Lakh Type: Architecture IndiaN...",
-        "type": "competition"
-    },
-    {
-        "title": "Portugal Long Table Restaurant",
-        "link": "https://competitions.archi/competition/portugal-long-table-restaurant/",
-        "deadline": "11th January 2027",
-        "deadline_iso": "2027-01-11T00:00:00",
-        "description": "Portugal Long Table Restaurant Submission: 11th January 2027 Registration: 9th December 2026 Location: Portugal Language: English Prizes: 10,000 € Type: Open Buildner invites architects, designers, an...",
-        "type": "competition"
-    },
-    {
-        "title": "LA PYRAMIDE Architecture Competition",
-        "link": "https://competitions.archi/competition/la-pyramide-architecture-competition/",
-        "deadline": "31st August 2026",
-        "deadline_iso": "2026-08-31T00:00:00",
-        "description": "LA PYRAMIDE Architecture Competition Submission: 31st August 2026 Registration: 31st August 2026 Location: Côte d'Ivoire Language: English Prizes: 1000 Euro + free Awards Type: open for all La Pyramid...",
-        "type": "competition"
-    },
-    {
-        "title": "Young Moroccan Architecture Awards (YMAA)",
-        "link": "https://competitions.archi/competition/young-moroccan-architecture-awards-ymaa/",
-        "deadline": "9th May 2026",
-        "deadline_iso": "2026-05-09T00:00:00",
-        "description": "Young Moroccan Architecture Awards (YMAA) Submission: 9th May 2026 Registration: 30th September 2026 Location: Casablanca Language: Français Prizes: TROPHY Les Young Moroccan Architecture Awards (YMAA...",
+        "title": "CAMPOSAZ 54:54 | Progetto Manifattura – Wooden Self-Build Workshop",
+        "link": "https://competitions.archi/competition/camposaz-5454-progetto-manifattura-wooden-self-build-workshop/",
+        "deadline": "3rd July 2026",
+        "deadline_iso": "2026-07-03T00:00:00",
+        "description": "CAMPOSAZ 54:54 | Progetto Manifattura – Wooden Self-Build Workshop Submission: 3rd July 2026 Registration: 12th July 2026 Location: Rovereto (TN), Italy Language: English and Italian Prizes: free Type...",
         "type": "competition"
     },
     {
