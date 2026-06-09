@@ -287,34 +287,6 @@
         "type": "competition"
     },
     {
-        "title": "Denver Affordable Housing",
-        "link": "https://architecturecompetitions.com/denverhousing/",
-        "deadline": "Unknown",
-        "description": "Denver Affordable Housing",
-        "type": "competition"
-    },
-    {
-        "title": "House of the Future",
-        "link": "https://architecturecompetitions.com/dubai-partnership",
-        "deadline": "Unknown",
-        "description": "House of the Future",
-        "type": "competition"
-    },
-    {
-        "title": "MICROHOME competition",
-        "link": "https://architecturecompetitions.com/kingspan-partnership",
-        "deadline": "Unknown",
-        "description": "MICROHOME competition",
-        "type": "competition"
-    },
-    {
-        "title": "Kharkiv Housing Challenge",
-        "link": "https://architecturecompetitions.com/kharkivhousingchallenge/",
-        "deadline": "Unknown",
-        "description": "Kharkiv Housing Challenge",
-        "type": "competition"
-    },
-    {
         "title": "Download brief",
         "link": "https://architecturecompetitions.com/#",
         "deadline": "Unknown",
@@ -956,6 +928,13 @@
         "link": "https://architecturecompetitions.com/microhome-1st-competition-participants-matthew-w-wilde-aleksa-milojevic-8752",
         "deadline": "Unknown",
         "description": "Matthew W Wilde and Aleksa Milojevic from the United States!",
+        "type": "competition"
+    },
+    {
+        "title": "Denver Affordable Housing Challenge",
+        "link": "https://architecturecompetitions.com/denverhousing/",
+        "deadline": "Unknown",
+        "description": "Denver Affordable Housing Challenge",
         "type": "competition"
     },
     {
@@ -2370,6 +2349,13 @@
         "link": "https://architecturecompetitions.com/museum-of-emotions-competition-participants-minseok-choi-jang-doyeong-jeonghan-oh-6160",
         "deadline": "Unknown",
         "description": "Minseok Choi and Jang Doyeong from South Korea!",
+        "type": "competition"
+    },
+    {
+        "title": "Norman Foster Foundation Kharkiv Housing Challenge",
+        "link": "https://architecturecompetitions.com/kharkivhousingchallenge/",
+        "deadline": "Unknown",
+        "description": "Norman Foster Foundation Kharkiv Housing Challenge",
         "type": "competition"
     },
     {

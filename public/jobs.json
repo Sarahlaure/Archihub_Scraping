@@ -1,23 +1,16 @@
 [
     {
-        "title": "Part II Architectural Assistant",
-        "link": "https://jobs.architecture.com/job/31146/part-ii-architectural-assistant/?LinkSource=HomePage",
-        "location": "London (Central), London (Greater)",
-        "description": "Part II Architectural Assistant | London (Central), London (Greater) | • | Salary guide – negotiable depending u...",
+        "title": "Associate Architect",
+        "link": "https://jobs.architecture.com/job/32188/associate-architect/?LinkSource=HomePage",
+        "location": "London",
+        "description": "Associate Architect | London | • | Commensurate on experience",
         "type": "job"
     },
     {
-        "title": "Project Architect",
-        "link": "https://jobs.architecture.com/job/31177/project-architect/?LinkSource=HomePage",
+        "title": "Senior Project Architect",
+        "link": "https://jobs.architecture.com/job/31179/senior-project-architect/?LinkSource=HomePage",
         "location": "London (Central), London (Greater)",
-        "description": "Project Architect | London (Central), London (Greater) | • | Unspecified",
-        "type": "job"
-    },
-    {
-        "title": "Architect / Architectural Technician / Technolo...",
-        "link": "https://jobs.architecture.com/job/31061/architect-architectural-technician-technologist/?LinkSource=HomePage",
-        "location": "Devon",
-        "description": "Architect / Architectural Technician / Technolo... | Devon | • | Up to £45k per annum",
+        "description": "Senior Project Architect | London (Central), London (Greater) | • | Unspecified",
         "type": "job"
     },
     {
@@ -25,6 +18,13 @@
         "link": "https://jobs.architecture.com/job/31119/architect-ciat-technologist/?LinkSource=HomePage",
         "location": "London (Greater)",
         "description": "Architect / CIAT Technologist | London (Greater) | • | up to £45,000 DOE",
+        "type": "job"
+    },
+    {
+        "title": "Part 3 Architectural Assistant (Qualified Part 2)",
+        "link": "https://jobs.architecture.com/job/31142/part-3-architectural-assistant-qualified-part-2-/?LinkSource=HomePage",
+        "location": "London (Greater)",
+        "description": "Part 3 Architectural Assistant (Qualified Part 2) | London (Greater) | • | Dependent on experience",
         "type": "job"
     }
 ]

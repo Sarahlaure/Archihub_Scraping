@@ -1,1 +1,135 @@
-[]
+[
+    {
+        "title": "Demolitions",
+        "link": "https://www.dezeen.com/2026/06/09/coventry-central-baths-demolition-twentieth-century-society/",
+        "date": "Recent",
+        "description": "Demolitions Demolitions \"Opportunity missed\" as Coventry's post-war swimming pool set for demolition The UK government has officially approved the demolition of the Grade II-listed, 1960s Coventry Cen...",
+        "type": "news"
+    },
+    {
+        "title": "Data centres",
+        "link": "https://www.dezeen.com/2026/06/08/rio-ai-city-hyphen-elea-latin-americas-largest-data-center/",
+        "date": "Recent",
+        "description": "Data centres Data centres Plant-covered Rio AI City set to be Latin America's largest data centre International architecture studio Hyphen has released plans for a data centre in Rio de Janeiro state ...",
+        "type": "news"
+    },
+    {
+        "title": "London houses",
+        "link": "https://www.dezeen.com/2026/06/08/wadhal-wade-house-london/",
+        "date": "Recent",
+        "description": "London houses London houses Wadhal subverts suburban architecture for home in west London Architecture studio Wadhal has completed Wade House in London , using textured brickwork , pared-back fenestra...",
+        "type": "news"
+    },
+    {
+        "title": "Gaudí Centenary​",
+        "link": "https://www.dezeen.com/2026/06/08/antoni-gaudi-centenary-100-years/",
+        "date": "Recent",
+        "description": "Gaudí Centenary​ Gaudí Centenary​ Gaudí Centenary celebrates the legacy of an architect like no other To kick off our Gaudí Centenary series marking 100 years since the death of Catalonia's most famou...",
+        "type": "news"
+    },
+    {
+        "title": "Architecture books",
+        "link": "https://www.dezeen.com/2026/06/07/iconic-arts-crafts-houses-david-cole-book/",
+        "date": "Recent",
+        "description": "Architecture books Architecture books Ten iconic Arts and Crafts houses that show \"the humanisation of the handmade\" The architecture of the Arts and Crafts movement emphasised locality and the handma...",
+        "type": "news"
+    },
+    {
+        "title": "Infrastructure",
+        "link": "https://www.dezeen.com/2026/06/06/pumping-station-ginneruparkitekter/",
+        "date": "Recent",
+        "description": "Infrastructure Infrastructure Weathered steel cloaks sawtooth pumping station in Denmark by GinnerupArkitekter A sawtooth spiral of weathered-steel panels evokes the blades of an impeller at this pump...",
+        "type": "news"
+    },
+    {
+        "title": "This week on Dezeen",
+        "link": "https://www.dezeen.com/2026/06/06/obama-presidential-center-this-week/",
+        "date": "Recent",
+        "description": "This week on Dezeen This week on Dezeen This week the Obama Presidential Center was revealed This week on Dezeen , the long-awaited Obama Presidential Center , designed by US studio Tod Williams Billi...",
+        "type": "news"
+    },
+    {
+        "title": "Dezeen Agenda",
+        "link": "https://www.dezeen.com/2026/06/04/lanza-ateliers-serpentine-pavilion-features-in-dezeen-agenda/",
+        "date": "Recent",
+        "description": "Dezeen Agenda Dezeen Agenda Lanza Atelier's Serpentine Pavilion features in Dezeen Agenda The latest edition of our weekly Dezeen Agenda newsletter features the opening of this year's Serpentine Pavil...",
+        "type": "news"
+    },
+    {
+        "title": "Obama Presidential Center",
+        "link": "https://www.dezeen.com/2026/06/04/tod-williams-billie-tsien-obama-presidential-center/",
+        "date": "Recent",
+        "description": "Obama Presidential Center Obama Presidential Center Tod Williams Billie Tsien Architects completes \"intentionally sculptural\" Obama Presidential Center A monumental granite-clad tower surrounded by ar...",
+        "type": "news"
+    },
+    {
+        "title": "Dezeen's top five houses of March 2026",
+        "link": "https://www.dezeen.com/2026/04/01/top-houses-march-2026/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Dezeen's top five houses of March 2026",
+        "type": "news"
+    },
+    {
+        "title": "Nine European houses that reinterpret local architecture",
+        "link": "https://www.dezeen.com/2026/04/09/european-houses/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Nine European houses that reinterpret local architecture",
+        "type": "news"
+    },
+    {
+        "title": "Faulkner designs California house around fire and water",
+        "link": "https://www.dezeen.com/2026/04/30/pine-flat-residence-faulkner-architects-california/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Faulkner designs California house around fire and water",
+        "type": "news"
+    },
+    {
+        "title": "Bloco Arquitetos designs Brazilian “house without windows”",
+        "link": "https://www.dezeen.com/2026/04/01/casa-tupin-bloco-arquitetos-brazil-house/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Bloco Arquitetos designs Brazilian “house without windows”",
+        "type": "news"
+    },
+    {
+        "title": "Moxon Architects nods to farmsteads for Scottish home extension",
+        "link": "https://www.dezeen.com/2026/04/09/moxon-architects-corriebeg/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Moxon Architects nods to farmsteads for Scottish home extension",
+        "type": "news"
+    },
+    {
+        "title": "Gresford Architects clads low-carbon Oxfordshire bungalow in cedar wood",
+        "link": "https://www.dezeen.com/2026/05/04/gresford-architects-the-old-orchard-extension-oxfordshire/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Gresford Architects clads low-carbon Oxfordshire bungalow in cedar wood",
+        "type": "news"
+    },
+    {
+        "title": "Studioninedots fronts skinny Amsterdam home with glass blocks",
+        "link": "https://www.dezeen.com/2026/04/24/studioninedots-light-house/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Studioninedots fronts skinny Amsterdam home with glass blocks",
+        "type": "news"
+    },
+    {
+        "title": "Timber bird hides inform Irish cottage extension by Architectural Farm",
+        "link": "https://www.dezeen.com/2026/04/02/seagull-cottage-architectural-farm/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Timber bird hides inform Irish cottage extension by Architectural Farm",
+        "type": "news"
+    },
+    {
+        "title": "3 Days of Design 2026 guide",
+        "link": "https://www.dezeen.com/eventsguide/3-days-of-design-2026/",
+        "date": "Recent",
+        "description": "3 Days of Design 2026 guide",
+        "type": "news"
+    },
+    {
+        "title": "Dezeen Jobs",
+        "link": "https://www.dezeenjobs.com",
+        "date": "Recent",
+        "description": "Dezeen Jobs",
+        "type": "news"
+    }
+]
