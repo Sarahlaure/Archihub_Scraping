@@ -1,5 +1,12 @@
 [
     {
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/32210/architect/?LinkSource=HomePage",
+        "location": "London (Greater)",
+        "description": "Architect | London (Greater) | • | Unspecified",
+        "type": "job"
+    },
+    {
         "title": "Associate Architect",
         "link": "https://jobs.architecture.com/job/32188/associate-architect/?LinkSource=HomePage",
         "location": "London",
@@ -14,17 +21,10 @@
         "type": "job"
     },
     {
-        "title": "Architect / CIAT Technologist",
-        "link": "https://jobs.architecture.com/job/31119/architect-ciat-technologist/?LinkSource=HomePage",
-        "location": "London (Greater)",
-        "description": "Architect / CIAT Technologist | London (Greater) | • | up to £45,000 DOE",
-        "type": "job"
-    },
-    {
-        "title": "Part 3 Architectural Assistant (Qualified Part 2)",
-        "link": "https://jobs.architecture.com/job/31142/part-3-architectural-assistant-qualified-part-2-/?LinkSource=HomePage",
-        "location": "London (Greater)",
-        "description": "Part 3 Architectural Assistant (Qualified Part 2) | London (Greater) | • | Dependent on experience",
+        "title": "Project Architect",
+        "link": "https://jobs.architecture.com/job/32209/project-architect/?LinkSource=HomePage",
+        "location": "Cambridge, Cambridgeshire",
+        "description": "Project Architect | Cambridge, Cambridgeshire | • | Competative salary",
         "type": "job"
     }
 ]
