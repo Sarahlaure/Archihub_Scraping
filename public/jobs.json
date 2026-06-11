@@ -7,6 +7,13 @@
         "type": "job"
     },
     {
+        "title": "Senior Architect / Architectural Consultant",
+        "link": "https://jobs.architecture.com/job/31172/senior-architect-architectural-consultant/?LinkSource=HomePage",
+        "location": "London (Greater)",
+        "description": "Senior Architect / Architectural Consultant | London (Greater) | • | Depending on Experience",
+        "type": "job"
+    },
+    {
         "title": "Associate Architect",
         "link": "https://jobs.architecture.com/job/32188/associate-architect/?LinkSource=HomePage",
         "location": "London",
@@ -14,17 +21,10 @@
         "type": "job"
     },
     {
-        "title": "Senior Project Architect",
-        "link": "https://jobs.architecture.com/job/31179/senior-project-architect/?LinkSource=HomePage",
-        "location": "London (Central), London (Greater)",
-        "description": "Senior Project Architect | London (Central), London (Greater) | • | Unspecified",
-        "type": "job"
-    },
-    {
         "title": "Project Architect",
-        "link": "https://jobs.architecture.com/job/32209/project-architect/?LinkSource=HomePage",
-        "location": "Cambridge, Cambridgeshire",
-        "description": "Project Architect | Cambridge, Cambridgeshire | • | Competative salary",
+        "link": "https://jobs.architecture.com/job/31177/project-architect/?LinkSource=HomePage",
+        "location": "London (Central), London (Greater)",
+        "description": "Project Architect | London (Central), London (Greater) | • | Unspecified",
         "type": "job"
     }
 ]
