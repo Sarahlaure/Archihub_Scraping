@@ -48,6 +48,30 @@
         "type": "competition"
     },
     {
+        "title": "The Quiet Tower",
+        "link": "https://competitions.archi/competition/the-quiet-tower/",
+        "deadline": "15th February 2027",
+        "deadline_iso": "2027-02-15T00:00:00",
+        "description": "The Quiet Tower Submission: 15th February 2027 Registration: 13th January 2027 Location: Livonian Coast Language: English Prizes: 10,000 € Type: Open The Quiet Tower competition takes place on Latvia’...",
+        "type": "competition"
+    },
+    {
+        "title": "The New York High Falls Riverfront Market",
+        "link": "https://competitions.archi/competition/the-new-york-high-falls-riverfront-market/",
+        "deadline": "18th January 2027",
+        "deadline_iso": "2027-01-18T00:00:00",
+        "description": "The New York High Falls Riverfront Market Submission: 18th January 2027 Registration: 10th December 2026 Location: New York Language: English Prizes: 10,000 USD Type: Open The New York High Falls Rive...",
+        "type": "competition"
+    },
+    {
+        "title": "(Prime) chair – 12th international industrial design competition",
+        "link": "https://competitions.archi/competition/prime-chair-12th-international-industrial-design-competition/",
+        "deadline": "28th August 2026",
+        "deadline_iso": "2026-08-28T00:00:00",
+        "description": "(Prime) chair – 12th international industrial design competition Submission: 28th August 2026 Registration: 28th August 2026 Location: Slovenia, KoČevje Language: Slovenian, English Prizes: $1,740 (be...",
+        "type": "competition"
+    },
+    {
         "title": "International Urban Project Award",
         "link": "https://competitions.archi/competition/international-urban-project-award/",
         "deadline": "1st August 2026",
@@ -85,30 +109,6 @@
         "deadline": "15th June 2026",
         "deadline_iso": "2026-06-15T00:00:00",
         "description": "BIGFIELDS STUDENTS PRIZE 2026 Submission: 15th June 2026 Registration: 31st August 2026 Location: SOUTH KOREA Language: ENGLISH Prizes: USD 12000 Type: Open for Students BIGFIELDS 2026 International A...",
-        "type": "competition"
-    },
-    {
-        "title": "The Unreal House 2025-2026",
-        "link": "https://competitions.archi/competition/the-unreal-house-2025-2026/",
-        "deadline": "31st July 2026",
-        "deadline_iso": "2026-07-31T00:00:00",
-        "description": "The Unreal House 2025-2026 Submission: 31st July 2026 Registration: 25th July 2026 Location: Online Language: English Prizes: Total Prize Pool: INR 50,000 Type: Open to all Undergraduate Students THE ...",
-        "type": "competition"
-    },
-    {
-        "title": "The Valli Wine Tasting Room",
-        "link": "https://competitions.archi/competition/the-vali-wine-tasting-room/",
-        "deadline": "15th February 2027",
-        "deadline_iso": "2027-02-15T00:00:00",
-        "description": "The Valli Wine Tasting Room Submission: 15th February 2027 Registration: 14th January 2027 Location: Italy Language: English Prizes: 10,000 € Type: Open The Valli Wine Tasting Room competition invites...",
-        "type": "competition"
-    },
-    {
-        "title": "CAMPOSAZ 54:54 | Progetto Manifattura – Wooden Self-Build Workshop",
-        "link": "https://competitions.archi/competition/camposaz-5454-progetto-manifattura-wooden-self-build-workshop/",
-        "deadline": "3rd July 2026",
-        "deadline_iso": "2026-07-03T00:00:00",
-        "description": "CAMPOSAZ 54:54 | Progetto Manifattura – Wooden Self-Build Workshop Submission: 3rd July 2026 Registration: 12th July 2026 Location: Rovereto (TN), Italy Language: English and Italian Prizes: free Type...",
         "type": "competition"
     },
     {

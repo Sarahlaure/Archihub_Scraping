@@ -1,23 +1,16 @@
 [
     {
-        "title": "Architect",
-        "link": "https://jobs.architecture.com/job/32210/architect/?LinkSource=HomePage",
-        "location": "London (Greater)",
-        "description": "Architect | London (Greater) | • | Unspecified",
+        "title": "Part II Architectural Assistant",
+        "link": "https://jobs.architecture.com/job/31146/part-ii-architectural-assistant/?LinkSource=HomePage",
+        "location": "London (Central), London (Greater)",
+        "description": "Part II Architectural Assistant | London (Central), London (Greater) | • | Salary guide – negotiable depending u...",
         "type": "job"
     },
     {
-        "title": "Senior Architect / Architectural Consultant",
-        "link": "https://jobs.architecture.com/job/31172/senior-architect-architectural-consultant/?LinkSource=HomePage",
-        "location": "London (Greater)",
-        "description": "Senior Architect / Architectural Consultant | London (Greater) | • | Depending on Experience",
-        "type": "job"
-    },
-    {
-        "title": "Associate Architect",
-        "link": "https://jobs.architecture.com/job/32188/associate-architect/?LinkSource=HomePage",
-        "location": "London",
-        "description": "Associate Architect | London | • | Commensurate on experience",
+        "title": "Senior Project Architect",
+        "link": "https://jobs.architecture.com/job/31179/senior-project-architect/?LinkSource=HomePage",
+        "location": "London (Central), London (Greater)",
+        "description": "Senior Project Architect | London (Central), London (Greater) | • | Unspecified",
         "type": "job"
     },
     {
@@ -25,6 +18,13 @@
         "link": "https://jobs.architecture.com/job/31177/project-architect/?LinkSource=HomePage",
         "location": "London (Central), London (Greater)",
         "description": "Project Architect | London (Central), London (Greater) | • | Unspecified",
+        "type": "job"
+    },
+    {
+        "title": "Associate Architect",
+        "link": "https://jobs.architecture.com/job/32188/associate-architect/?LinkSource=HomePage",
+        "location": "London",
+        "description": "Associate Architect | London | • | Commensurate on experience",
         "type": "job"
     }
 ]
