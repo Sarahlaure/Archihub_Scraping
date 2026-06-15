@@ -1,5 +1,12 @@
 [
     {
+        "title": "Senior Architect / Architectural Consultant",
+        "link": "https://jobs.architecture.com/job/31172/senior-architect-architectural-consultant/?LinkSource=HomePage",
+        "location": "London (Greater)",
+        "description": "Senior Architect / Architectural Consultant | London (Greater) | • | Depending on Experience",
+        "type": "job"
+    },
+    {
         "title": "Part II Architectural Assistant",
         "link": "https://jobs.architecture.com/job/31146/part-ii-architectural-assistant/?LinkSource=HomePage",
         "location": "London (Central), London (Greater)",
@@ -7,24 +14,17 @@
         "type": "job"
     },
     {
-        "title": "Project Architect",
-        "link": "https://jobs.architecture.com/job/32209/project-architect/?LinkSource=HomePage",
-        "location": "Cambridge, Cambridgeshire",
-        "description": "Project Architect | Cambridge, Cambridgeshire | • | Competative salary",
-        "type": "job"
-    },
-    {
-        "title": "Project Architect",
-        "link": "https://jobs.architecture.com/job/31177/project-architect/?LinkSource=HomePage",
-        "location": "London (Central), London (Greater)",
-        "description": "Project Architect | London (Central), London (Greater) | • | Unspecified",
+        "title": "Associate Architect",
+        "link": "https://jobs.architecture.com/job/32188/associate-architect/?LinkSource=HomePage",
+        "location": "London",
+        "description": "Associate Architect | London | • | Commensurate on experience",
         "type": "job"
     },
     {
         "title": "Architect",
-        "link": "https://jobs.architecture.com/job/32210/architect/?LinkSource=HomePage",
-        "location": "London (Greater)",
-        "description": "Architect | London (Greater) | • | £35,000-£40,000 dependent on experience",
+        "link": "https://jobs.architecture.com/job/32240/architect/?LinkSource=HomePage",
+        "location": "Welwyn Garden City, Hertfordshire",
+        "description": "Architect | Welwyn Garden City, Hertfordshire | • | £40,000-£45,000 DOE",
         "type": "job"
     }
 ]
