@@ -48,6 +48,38 @@
         "type": "competition"
     },
     {
+        "title": "Vancouver Tall Challenge",
+        "link": "https://competitions.archi/competition/vancouver-tall-challenge/",
+        "deadline": "30th November 2026",
+        "deadline_iso": "2026-11-30T00:00:00",
+        "description": "Vancouver Tall Challenge Submission: 30th November 2026 Registration: 29th October 2026 Location: Vancouver Language: English Prizes: $15,000 CAD Type: Open Vancouver is recognized around the world fo...",
+        "type": "competition"
+    },
+    {
+        "title": "Designaddvance 2026: Beyond the Mall: Rethinking Retail Landscapes as Urban Public Space",
+        "link": "https://competitions.archi/competition/designaddvance-2026-beyond-the-mall-rethinking-retail-landscapes-as-urban-public-space/",
+        "deadline": "29th October 2026",
+        "deadline_iso": "2026-10-29T00:00:00",
+        "description": "Designaddvance 2026: Beyond the Mall: Rethinking Retail Landscapes as Urban Public Space Submission: 29th October 2026 Registration: 23rd October 2026 Location: India Language: English Prizes: Cash pr...",
+        "type": "competition"
+    },
+    {
+        "title": "Architecture International Contest: Iceland Bathhouse",
+        "link": "https://competitions.archi/competition/architecture-international-contest-iceland-bathhouse/",
+        "deadline": "9th August 2026",
+        "deadline_iso": "2026-08-09T00:00:00",
+        "description": "Architecture International Contest: Iceland Bathhouse Submission: 9th August 2026 Registration: 24th August 2026 Location: Grindavík, Iceland Language: English Prizes: US $9,000 Type: Ideas Contest In...",
+        "type": "competition"
+    },
+    {
+        "title": "CPDI AFRICA 2026 INTERNATIONAL DESIGN COMPETITION!",
+        "link": "https://competitions.archi/competition/cpdi-africa-2026-international-design-competition/",
+        "deadline": "30th November 2026",
+        "deadline_iso": "2026-11-30T00:00:00",
+        "description": "CPDI AFRICA 2026 INTERNATIONAL DESIGN COMPETITION! Submission: 30th November 2026 Registration: 30th November 2026 Location: Not specified Language: English Prizes: $9,000 (Total in Prizes) Type: Open...",
+        "type": "competition"
+    },
+    {
         "title": "Circular Economy Marketplace",
         "link": "https://competitions.archi/competition/circular-economy-marketplace/",
         "deadline": "14th July 2026",
@@ -69,30 +101,6 @@
         "deadline": "25th August 2026",
         "deadline_iso": "2026-08-25T00:00:00",
         "description": "Compact Live-Work House Submission: 25th August 2026 Registration: 10th August 2026 Location: Portland USA Language: English Prizes: $2000 Type: Open for All The Compact Live-Work House (Portland, USA...",
-        "type": "competition"
-    },
-    {
-        "title": "The Quiet Tower",
-        "link": "https://competitions.archi/competition/the-quiet-tower/",
-        "deadline": "15th February 2027",
-        "deadline_iso": "2027-02-15T00:00:00",
-        "description": "The Quiet Tower Submission: 15th February 2027 Registration: 13th January 2027 Location: Livonian Coast Language: English Prizes: 10,000 € Type: Open The Quiet Tower competition takes place on Latvia’...",
-        "type": "competition"
-    },
-    {
-        "title": "The New York High Falls Riverfront Market",
-        "link": "https://competitions.archi/competition/the-new-york-high-falls-riverfront-market/",
-        "deadline": "18th January 2027",
-        "deadline_iso": "2027-01-18T00:00:00",
-        "description": "The New York High Falls Riverfront Market Submission: 18th January 2027 Registration: 10th December 2026 Location: New York Language: English Prizes: 10,000 USD Type: Open The New York High Falls Rive...",
-        "type": "competition"
-    },
-    {
-        "title": "Creative Communication Award (C2A) 2026",
-        "link": "https://competitions.archi/competition/creative-communication-award-c2a-2026/",
-        "deadline": "30th September 2026",
-        "deadline_iso": "2026-09-30T00:00:00",
-        "description": "Creative Communication Award (C2A) 2026 Submission: 30th September 2026 Registration: 30th September 2026 Location: International Language: English Prizes: Winner Badge, Trophy, Certificate, Publicati...",
         "type": "competition"
     },
     {
