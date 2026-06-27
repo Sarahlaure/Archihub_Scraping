@@ -1,12 +1,5 @@
 [
     {
-        "title": "Senior Project Architect",
-        "link": "https://jobs.architecture.com/job/31179/senior-project-architect/?LinkSource=HomePage",
-        "location": "London (Central), London (Greater)",
-        "description": "Senior Project Architect | London (Central), London (Greater) | • | Unspecified",
-        "type": "job"
-    },
-    {
         "title": "Architect",
         "link": "https://jobs.architecture.com/job/32252/architect/?LinkSource=HomePage",
         "location": "Marlborough, Wiltshire",
@@ -14,17 +7,24 @@
         "type": "job"
     },
     {
-        "title": "Associate Architect",
-        "link": "https://jobs.architecture.com/job/32188/associate-architect/?LinkSource=HomePage",
-        "location": "London",
-        "description": "Associate Architect | London | • | Commensurate on experience",
+        "title": "Project Architect",
+        "link": "https://jobs.architecture.com/job/32209/project-architect/?LinkSource=HomePage",
+        "location": "Cambridge, Cambridgeshire",
+        "description": "Project Architect | Cambridge, Cambridgeshire | • | Competative salary",
         "type": "job"
     },
     {
-        "title": "Part II Architectural Assistant",
-        "link": "https://jobs.architecture.com/job/31146/part-ii-architectural-assistant/?LinkSource=HomePage",
-        "location": "London (Central), London (Greater)",
-        "description": "Part II Architectural Assistant | London (Central), London (Greater) | • | Salary guide – negotiable depending u...",
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/32240/architect/?LinkSource=HomePage",
+        "location": "Welwyn Garden City, Hertfordshire",
+        "description": "Architect | Welwyn Garden City, Hertfordshire | • | £40,000-£45,000 DOE",
+        "type": "job"
+    },
+    {
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/32214/architect/?LinkSource=HomePage",
+        "location": "West Midlands Region",
+        "description": "Architect | West Midlands Region | • | Competitive Salary",
         "type": "job"
     }
 ]
