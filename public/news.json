@@ -1,5 +1,19 @@
 [
     {
+        "title": "London houses",
+        "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/",
+        "date": "Recent",
+        "description": "London houses London houses Joe Burke bookends 1960s London terrace with compact brick home Architect Joe Burke has self-built Leyton House, a home that bookends a 1960s terrace in London , using roug...",
+        "type": "news"
+    },
+    {
+        "title": "Architecture",
+        "link": "https://www.dezeen.com/2026/06/28/casa-en-palmilla-los-cabos-estudio-ignacio-urquiza-ana-paula-de-alba/",
+        "date": "Recent",
+        "description": "Architecture Architecture L-shaped roofs create \"generous shadows\" over Los Cabos residence A pair of lightweight, L-shaped roofs top the four volumes that form this house in Los Cabos , Mexico, desig...",
+        "type": "news"
+    },
+    {
         "title": "British houses",
         "link": "https://www.dezeen.com/2026/06/27/skylark-house-of-em-shropshire-stepped-brick-house/",
         "date": "Recent",
@@ -56,17 +70,24 @@
         "type": "news"
     },
     {
-        "title": "Dezeen Debate",
-        "link": "https://www.dezeen.com/2026/06/23/hotel-attraction-renders-gaudi-centenary-dezeen-debate/",
-        "date": "Recent",
-        "description": "Dezeen Debate Dezeen Debate Readers say \"there's no such thing as an AI artist\" in this week's Dezeen Debate The latest Dezeen Debate newsletter features renders of architect Antoni Gaudí's speculativ...",
-        "type": "news"
-    },
-    {
         "title": "Little Giant creates Forest Studio on Vancouver Island",
         "link": "https://www.dezeen.com/2026/05/26/little-giant-forest-studio-vancouver-island-british-columbia/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Little Giant creates Forest Studio on Vancouver Island",
+        "type": "news"
+    },
+    {
+        "title": "Faulkner designs California house around fire and water",
+        "link": "https://www.dezeen.com/2026/04/30/pine-flat-residence-faulkner-architects-california/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Faulkner designs California house around fire and water",
+        "type": "news"
+    },
+    {
+        "title": "Lake Flato creates gallery for Marble Falls Arthouse in Texas",
+        "link": "https://www.dezeen.com/2026/04/27/lake-flato-architects-marble-falls-texas-arthouse/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Lake Flato creates gallery for Marble Falls Arthouse in Texas",
         "type": "news"
     },
     {
@@ -78,44 +99,30 @@
     },
     {
         "title": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
-        "link": "https://www.dezeen.com/2026/06/02/eleena-jamil-anjung-home-office-malaysia/?li_source=LI&li_medium=rhs_block_1",
+        "link": "https://www.dezeen.com/2026/06/02/eleena-jamil-anjung-home-office-malaysia/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
         "type": "news"
     },
     {
-        "title": "Oki Sato steps down from Nendo leadership role",
-        "link": "https://www.dezeen.com/2026/06/08/oki-sato-steps-down-nendo-leadership/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Atelier Backlar wraps Portuguese clifftop house in recycled ocean plastic",
+        "link": "https://www.dezeen.com/2026/05/23/atelier-backlar-blue-house-azores-portugal-recycled-ocean-plastic/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Oki Sato steps down from Nendo leadership role",
+        "description": "Atelier Backlar wraps Portuguese clifftop house in recycled ocean plastic",
         "type": "news"
     },
     {
         "title": "Plant pots and people-shaped portals animate Bordeaux housing by MVRDV",
-        "link": "https://www.dezeen.com/2026/06/05/la-vallee-verte-mvrdv/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/06/05/la-vallee-verte-mvrdv/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Plant pots and people-shaped portals animate Bordeaux housing by MVRDV",
         "type": "news"
     },
     {
-        "title": "Populous to preserve \"iconic silhouette\" of World Cup stadium in Riyadh",
-        "link": "https://www.dezeen.com/2026/06/09/populous-king-fahd-stadium-riyadh/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Snøhetta moves New York headquarters to Brooklyn",
+        "link": "https://www.dezeen.com/2026/06/05/snohetta-converts-former-dumbo-factory-space-into-new-york-headquarters/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Populous to preserve \"iconic silhouette\" of World Cup stadium in Riyadh",
-        "type": "news"
-    },
-    {
-        "title": "DJ Louise Chen's Paris apartment designed to feel like a boat",
-        "link": "https://www.dezeen.com/2026/05/22/parisian-dj-plywood-apartment-interior-cyrus-ardalan/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "DJ Louise Chen's Paris apartment designed to feel like a boat",
-        "type": "news"
-    },
-    {
-        "title": "Lego reveals Sagrada Familia set to celebrate Gaudí centenary",
-        "link": "https://www.dezeen.com/2026/06/04/lego-sagrada-familia-largest-set-antoni-gaudi/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Lego reveals Sagrada Familia set to celebrate Gaudí centenary",
+        "description": "Snøhetta moves New York headquarters to Brooklyn",
         "type": "news"
     },
     {
