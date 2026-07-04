@@ -1,9 +1,16 @@
 [
     {
+        "title": "Residential architecture and interiors",
+        "link": "https://www.dezeen.com/2026/07/04/self-build-housing-projects/",
+        "date": "Recent",
+        "description": "Residential architecture and interiors Residential architecture and interiors Seven self-build housing projects to inspire your own Considering building your own custom-made house ? Here are eight exa...",
+        "type": "news"
+    },
+    {
         "title": "Office architecture",
         "link": "https://www.dezeen.com/2026/07/03/lego-kornmarken-campus-cubo-arkitekter/",
         "date": "Recent",
-        "description": "Office architecture Office architecture Cubo arranges \"unmistakably Lego\" innovation centre around 25‑tonne brick Architecture studio Cubo has unveiled the Kornmarken Campus innovation and production ...",
+        "description": "Office architecture Office architecture Cubo arranges \"unmistakably Lego\" innovation centre around 25‑tonne brick Architecture studio Cubo has unveiled the Kornmarken Campus manufacturing innovation c...",
         "type": "news"
     },
     {
@@ -63,45 +70,17 @@
         "type": "news"
     },
     {
-        "title": "Preservation",
-        "link": "https://www.dezeen.com/2026/06/30/world-monuments-fund-irreplaceable-american-usa-250/",
-        "date": "Recent",
-        "description": "Preservation Preservation World Monuments Fund selects 10 \"irreplaceable\" American places for USA 250 Watts Towers in Los Angeles, Dallas City Hall and the City of New Orlean s are among at-risk place...",
-        "type": "news"
-    },
-    {
-        "title": "Indian houses",
-        "link": "https://www.dezeen.com/2026/06/30/meister-varma-architects-shilaya-cottage/",
-        "date": "Recent",
-        "description": "Indian houses Indian houses Meister Varma Architects uses salvaged stone for home in India Indian studio Meister Varma Architects has completed Shilaya, a home in Tamil Nadu built using stone salvaged...",
-        "type": "news"
-    },
-    {
-        "title": "Houses of the month",
-        "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/",
-        "date": "Recent",
-        "description": "Houses of the month Houses of the month Dezeen's top five houses of June 2026 A trio of brick-walled homes features in Dezeen's top five houses of the month for June, including a holiday cabin in the ...",
-        "type": "news"
-    },
-    {
-        "title": "Residential architecture and interiors",
-        "link": "https://www.dezeen.com/2026/06/29/a-teatro-and-balcony-studio-museum-tower-house-los-angeles/",
-        "date": "Recent",
-        "description": "Residential architecture and interiors Residential architecture and interiors A Teatro and Balcony Studio tuck Museum Tower House into steep site in Los Angeles California designers A Teatro and Balco...",
-        "type": "news"
-    },
-    {
-        "title": "London houses",
-        "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/",
-        "date": "Recent",
-        "description": "London houses London houses Joe Burke bookends 1960s London terrace with compact brick home Architect Joe Burke has self-built Leyton House, a home that bookends a 1960s terrace in London , using roug...",
-        "type": "news"
-    },
-    {
         "title": "Little Giant creates Forest Studio on Vancouver Island",
         "link": "https://www.dezeen.com/2026/05/26/little-giant-forest-studio-vancouver-island-british-columbia/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Little Giant creates Forest Studio on Vancouver Island",
+        "type": "news"
+    },
+    {
+        "title": "Gresford Architects clads low-carbon Oxfordshire bungalow in cedar wood",
+        "link": "https://www.dezeen.com/2026/05/04/gresford-architects-the-old-orchard-extension-oxfordshire/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Gresford Architects clads low-carbon Oxfordshire bungalow in cedar wood",
         "type": "news"
     },
     {
@@ -119,13 +98,6 @@
         "type": "news"
     },
     {
-        "title": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
-        "link": "https://www.dezeen.com/2026/06/02/eleena-jamil-anjung-home-office-malaysia/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
-        "type": "news"
-    },
-    {
         "title": "Atelier Backlar wraps Portuguese clifftop house in recycled ocean plastic",
         "link": "https://www.dezeen.com/2026/05/23/atelier-backlar-blue-house-azores-portugal-recycled-ocean-plastic/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
@@ -133,10 +105,10 @@
         "type": "news"
     },
     {
-        "title": "Gresford Architects clads low-carbon Oxfordshire bungalow in cedar wood",
-        "link": "https://www.dezeen.com/2026/05/04/gresford-architects-the-old-orchard-extension-oxfordshire/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
+        "link": "https://www.dezeen.com/2026/06/02/eleena-jamil-anjung-home-office-malaysia/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Gresford Architects clads low-carbon Oxfordshire bungalow in cedar wood",
+        "description": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
         "type": "news"
     },
     {
@@ -147,10 +119,10 @@
         "type": "news"
     },
     {
-        "title": "House of EM adds light-filled \"loggia\" to north-London home",
-        "link": "https://www.dezeen.com/2026/05/18/house-of-em-loggia-house-north-london/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Studio Elèn Letort completes \"expressive and characterful\" renovation of historic Amsterdam apartment",
+        "link": "https://www.dezeen.com/2026/06/11/studio-elen-letort-amsterdam-apartment/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "House of EM adds light-filled \"loggia\" to north-London home",
+        "description": "Studio Elèn Letort completes \"expressive and characterful\" renovation of historic Amsterdam apartment",
         "type": "news"
     },
     {
