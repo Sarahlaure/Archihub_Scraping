@@ -40,11 +40,35 @@
         "type": "competition"
     },
     {
-        "title": "Courtyard House (Marrakech, Morocco) – Architecture Competition",
-        "link": "https://competitions.archi/competition/courtyard-house-marrakech-morocco-architecture-competition/",
-        "deadline": "25th September 2026",
-        "deadline_iso": "2026-09-25T00:00:00",
-        "description": "Submission: 25th September 2026 Registration: 10th June 2026 Location: Marrakech, Morocco Language: English Prizes: Recognition, Media Exposure, Certificate Type: Open for All Courtyard House (Marrake...",
+        "title": "Linha do Horizonte",
+        "link": "https://competitions.archi/competition/linha-do-horizonte-2/",
+        "deadline": "12th October 2026",
+        "deadline_iso": "2026-10-12T00:00:00",
+        "description": "Submission: 12th October 2026 Registration: 30th September 2026 Location: Cidade Velha, Santiago, Cape Verde Language: English Prizes: Pool prize 20.500 € Type: Open to all Linha do Horizonte PREMISE ...",
+        "type": "competition"
+    },
+    {
+        "title": "Best Thesis Award 2026: Planning – Future Cities & Urbanism",
+        "link": "https://competitions.archi/competition/best-thesis-award-2026-planning-future-cities-urbanism/",
+        "deadline": "25th November 2026",
+        "deadline_iso": "2026-11-25T00:00:00",
+        "description": "Best Thesis Award 2026: Planning – Future Cities & Urbanism Submission: 25th November 2026 Registration: 25th November 2026 Location: Worldwide Language: English Prizes: View website Type: Open Premis...",
+        "type": "competition"
+    },
+    {
+        "title": "Best Thesis Award 2026: Architecture — Global Excellence Recognition",
+        "link": "https://competitions.archi/competition/best-thesis-award-2026-architecture-global-excellence-recognition/",
+        "deadline": "25th November 2026",
+        "deadline_iso": "2026-11-25T00:00:00",
+        "description": "Best Thesis Award 2026: Architecture — Global Excellence Recognition Submission: 25th November 2026 Registration: 25th November 2026 Location: Worldwide Language: English Prizes: Recognition, Media Ex...",
+        "type": "competition"
+    },
+    {
+        "title": "2026 London Design Awards: Season 2",
+        "link": "https://competitions.archi/competition/2026-london-design-awards-season-2/",
+        "deadline": "6th November 2026",
+        "deadline_iso": "2026-11-06T00:00:00",
+        "description": "2026 London Design Awards: Season 2 Submission: 6th November 2026 Registration: 6th November 2026 Location: ONLINE Language: English Prizes: Exclusive Certificates & Marketing Materials The London Des...",
         "type": "competition"
     },
     {
@@ -69,14 +93,6 @@
         "deadline": "5th January 2027",
         "deadline_iso": "2027-01-05T00:00:00",
         "description": "The Architect’s Chair #6 – Stockholm Furniture Fair Edition Submission: 5th January 2027 Registration: 3rd December 2026 Location: Concept Language: English Prizes: 8,000 € + Exhibition Type: Open Int...",
-        "type": "competition"
-    },
-    {
-        "title": "Commons of Coexistence: Shared Space, Shaped for Resilience",
-        "link": "https://competitions.archi/competition/commons-of-coexistence-shared-space-shaped-for-resilience/",
-        "deadline": "15th August 2026",
-        "deadline_iso": "2026-08-15T00:00:00",
-        "description": "Commons of Coexistence: Shared Space, Shaped for Resilience Submission: 15th August 2026 Registration: 15th August 2026 Location: Concept Language: English Prizes: IDR 11.8 Million Type: Student ETALA...",
         "type": "competition"
     },
     {
@@ -266,6 +282,13 @@
         "link": "https://architecturecompetitions.com/architectsstair3/",
         "deadline": "Unknown",
         "description": "The Architect’s Stair #3",
+        "type": "competition"
+    },
+    {
+        "title": "Zuhtu Usta from Turkey!",
+        "link": "https://architecturecompetitions.com/the-architects-stair-1st-competition-participants-9320",
+        "deadline": "Unknown",
+        "description": "Zuhtu Usta from Turkey!",
         "type": "competition"
     },
     {
