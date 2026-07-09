@@ -48,6 +48,14 @@
         "type": "competition"
     },
     {
+        "title": "Jabal Umm Nuthaylah International Site Design Ideas Competition Launches Global Call",
+        "link": "https://competitions.archi/competition/madinah-international-architecture-festival-2026/",
+        "deadline": "23rd November 2026",
+        "deadline_iso": "2026-11-23T00:00:00",
+        "description": "Jabal Umm Nuthaylah International Site Design Ideas Competition Launches Global Call Submission: 23rd November 2026 Registration: 20th August 2026 Location: Jabal Umm Nuthaylah Language: English Prize...",
+        "type": "competition"
+    },
+    {
         "title": "Call For Ideas: Tiny House 2026 Architecture Competition",
         "link": "https://competitions.archi/competition/call-for-ideas-tiny-house-2026-architecture-competition/",
         "deadline": "23rd October 2026",
@@ -93,14 +101,6 @@
         "deadline": "12th October 2026",
         "deadline_iso": "2026-10-12T00:00:00",
         "description": "Linha do Horizonte Submission: 12th October 2026 Registration: 30th September 2026 Location: Cidade Velha, Santiago, Cape Verde Language: English Prizes: Pool prize 20.500 € Type: Open to all PREMISE ...",
-        "type": "competition"
-    },
-    {
-        "title": "Museum of Emotions #9",
-        "link": "https://competitions.archi/competition/museum-of-emotions-9/",
-        "deadline": "22nd February 2027",
-        "deadline_iso": "2027-02-22T00:00:00",
-        "description": "Museum of Emotions #9 Submission: 22nd February 2027 Registration: 21st January 2027 Location: Concept Language: English Prizes: 8,000 € Type: Open It may not be your first instinct when entering a bu...",
         "type": "competition"
     },
     {
@@ -283,6 +283,69 @@
         "link": "https://architecturecompetitions.com/#",
         "deadline": "Unknown",
         "description": "Download brief",
+        "type": "competition"
+    },
+    {
+        "title": "The Architect's Chair #5",
+        "link": "https://architecturecompetitions.com/thearchitectschair5/",
+        "deadline": "Unknown",
+        "description": "The Architect's Chair #5",
+        "type": "competition"
+    },
+    {
+        "title": "Didier Alejandro Iriarte Fattel from Australia!",
+        "link": "https://architecturecompetitions.com/the-architect-s-chair-competition-participants-didier-alejandro-iriarte-fattel-9505",
+        "deadline": "Unknown",
+        "description": "Didier Alejandro Iriarte Fattel from Australia!",
+        "type": "competition"
+    },
+    {
+        "title": "Muhammet Sami̇ Yeni̇ from Turkey!",
+        "link": "https://architecturecompetitions.com/the-architect-s-chair-competition-participants-muhammet-sami-yeni-9440",
+        "deadline": "Unknown",
+        "description": "Muhammet Sami̇ Yeni̇ from Turkey!",
+        "type": "competition"
+    },
+    {
+        "title": "Fabio Baldo from Portugal!",
+        "link": "https://architecturecompetitions.com/the-architect-s-chair-competition-participants-fabio-baldo-9441",
+        "deadline": "Unknown",
+        "description": "Fabio Baldo from Portugal!",
+        "type": "competition"
+    },
+    {
+        "title": "Kaiwen Liu and Yuhe Wang from United States!",
+        "link": "https://architecturecompetitions.com/the-architect-s-chair-competition-participants-kaiwen-liu-yuhe-wang-9507",
+        "deadline": "Unknown",
+        "description": "Kaiwen Liu and Yuhe Wang from United States!",
+        "type": "competition"
+    },
+    {
+        "title": "Tommaso Ugolini and Alberto Luzardi from Italy!",
+        "link": "https://architecturecompetitions.com/the-architect-s-chair-competition-participants-tommaso-ugolini-alberto-luzardi-9486",
+        "deadline": "Unknown",
+        "description": "Tommaso Ugolini and Alberto Luzardi from Italy!",
+        "type": "competition"
+    },
+    {
+        "title": "Clay Anthony Te Bokkel from Canada!",
+        "link": "https://architecturecompetitions.com/the-architect-s-chair-green-award-competition-participants-clay-anthony-te-bokkel-9503",
+        "deadline": "Unknown",
+        "description": "Clay Anthony Te Bokkel from Canada!",
+        "type": "competition"
+    },
+    {
+        "title": "Sunmin Kim from South Korea!",
+        "link": "https://architecturecompetitions.com/the-architect-s-chair-3rd-competition-participants-sunmin-kim-9501",
+        "deadline": "Unknown",
+        "description": "Sunmin Kim from South Korea!",
+        "type": "competition"
+    },
+    {
+        "title": "Oscar John Xavier Lahiff from Hong Kong!",
+        "link": "https://architecturecompetitions.com/the-architect-s-chair-1st-competition-participants-oscar-john-xavier-lahiff-9499",
+        "deadline": "Unknown",
+        "description": "Oscar John Xavier Lahiff from Hong Kong!",
         "type": "competition"
     },
     {
