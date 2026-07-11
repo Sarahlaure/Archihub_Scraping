@@ -1,5 +1,19 @@
 [
     {
+        "title": "This week on Dezeen",
+        "link": "https://www.dezeen.com/2026/07/11/riba-best-british-buildings-this-week/",
+        "date": "Recent",
+        "description": "This week on Dezeen This week on Dezeen This week RIBA revealed the best British buildings of 2026 This week on Dezeen , the Royal Institute of British Architects announced that 32 buildings had been ...",
+        "type": "news"
+    },
+    {
+        "title": "London house extensions",
+        "link": "https://www.dezeen.com/2026/07/10/formwork-architects-crouch-end-house/",
+        "date": "Recent",
+        "description": "London house extensions London house extensions Formwork Architects transforms abandoned care home into light-filled Crouch End House Local studio Formwork Architects has transformed a derelict care h...",
+        "type": "news"
+    },
+    {
         "title": "Dezeen Agenda",
         "link": "https://www.dezeen.com/2026/07/09/dezeen-agenda-theodore-roosevelt-presidential-library-snohetta-north-dakota/",
         "date": "Recent",
@@ -84,17 +98,17 @@
         "type": "news"
     },
     {
-        "title": "Adaptive reuse",
-        "link": "https://www.dezeen.com/2026/07/05/terta-ellidaarstod-power-station/",
-        "date": "Recent",
-        "description": "Adaptive reuse Adaptive reuse Terta transforms decommissioned power station in Iceland into colourful site for \"learning by playing\" Icelandic studio Terta has transformed the site of the historic Ell...",
-        "type": "news"
-    },
-    {
         "title": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
         "link": "https://www.dezeen.com/2026/06/02/eleena-jamil-anjung-home-office-malaysia/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
+        "type": "news"
+    },
+    {
+        "title": "Faulkner designs California house around fire and water",
+        "link": "https://www.dezeen.com/2026/04/30/pine-flat-residence-faulkner-architects-california/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Faulkner designs California house around fire and water",
         "type": "news"
     },
     {
@@ -105,45 +119,38 @@
         "type": "news"
     },
     {
+        "title": "Scullion Architects completes elevated extension in Dublin",
+        "link": "https://www.dezeen.com/2026/05/26/scullion-architects-park-pavilion-extension-dublin/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Scullion Architects completes elevated extension in Dublin",
+        "type": "news"
+    },
+    {
         "title": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
-        "link": "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/?li_source=LI&li_medium=rhs_block_1",
+        "link": "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
         "type": "news"
     },
     {
-        "title": "Little Giant creates Forest Studio on Vancouver Island",
-        "link": "https://www.dezeen.com/2026/05/26/little-giant-forest-studio-vancouver-island-british-columbia/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Little Giant creates Forest Studio on Vancouver Island",
-        "type": "news"
-    },
-    {
-        "title": "Atelier Backlar wraps Portuguese clifftop house in recycled ocean plastic",
-        "link": "https://www.dezeen.com/2026/05/23/atelier-backlar-blue-house-azores-portugal-recycled-ocean-plastic/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Atelier Backlar wraps Portuguese clifftop house in recycled ocean plastic",
-        "type": "news"
-    },
-    {
-        "title": "Lake Flato creates gallery for Marble Falls Arthouse in Texas",
-        "link": "https://www.dezeen.com/2026/04/27/lake-flato-architects-marble-falls-texas-arthouse/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Lake Flato creates gallery for Marble Falls Arthouse in Texas",
-        "type": "news"
-    },
-    {
         "title": "Holzrausch designs Frankfurt penthouse as central \"roof garden\"",
-        "link": "https://www.dezeen.com/2026/05/04/holzrausch-frankfurt-penthouse-roof-garden/?li_source=LI&li_medium=rhs_block_3",
+        "link": "https://www.dezeen.com/2026/05/04/holzrausch-frankfurt-penthouse-roof-garden/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Holzrausch designs Frankfurt penthouse as central \"roof garden\"",
         "type": "news"
     },
     {
-        "title": "Scullion Architects completes elevated extension in Dublin",
-        "link": "https://www.dezeen.com/2026/05/26/scullion-architects-park-pavilion-extension-dublin/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Lake Flato creates gallery for Marble Falls Arthouse in Texas",
+        "link": "https://www.dezeen.com/2026/04/27/lake-flato-architects-marble-falls-texas-arthouse/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Scullion Architects completes elevated extension in Dublin",
+        "description": "Lake Flato creates gallery for Marble Falls Arthouse in Texas",
+        "type": "news"
+    },
+    {
+        "title": "Little Giant creates Forest Studio on Vancouver Island",
+        "link": "https://www.dezeen.com/2026/05/26/little-giant-forest-studio-vancouver-island-british-columbia/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Little Giant creates Forest Studio on Vancouver Island",
         "type": "news"
     },
     {
