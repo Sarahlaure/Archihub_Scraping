@@ -1,19 +1,5 @@
 [
     {
-        "title": "Senior Architect",
-        "link": "https://jobs.architecture.com/job/32262/senior-architect/?LinkSource=HomePage",
-        "location": "Hounslow",
-        "description": "Senior Architect | Hounslow | • | £50,000 - Depending on experience",
-        "type": "job"
-    },
-    {
-        "title": "Architect",
-        "link": "https://jobs.architecture.com/job/32252/architect/?LinkSource=HomePage",
-        "location": "Marlborough, Wiltshire",
-        "description": "Architect | Marlborough, Wiltshire | • | Competitive Salary",
-        "type": "job"
-    },
-    {
         "title": "Part 2 Architectural Assistant",
         "link": "https://jobs.architecture.com/job/32291/part-2-architectural-assistant/?LinkSource=HomePage",
         "location": "Cambridge, Cambridgeshire",
@@ -25,6 +11,20 @@
         "link": "https://jobs.architecture.com/job/32240/architect/?LinkSource=HomePage",
         "location": "Welwyn Garden City, Hertfordshire",
         "description": "Architect | Welwyn Garden City, Hertfordshire | • | £40,000-£45,000 DOE",
+        "type": "job"
+    },
+    {
+        "title": "Senior Architect",
+        "link": "https://jobs.architecture.com/job/32262/senior-architect/?LinkSource=HomePage",
+        "location": "Hounslow",
+        "description": "Senior Architect | Hounslow | • | £50,000 - Depending on experience",
+        "type": "job"
+    },
+    {
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/32252/architect/?LinkSource=HomePage",
+        "location": "Marlborough, Wiltshire",
+        "description": "Architect | Marlborough, Wiltshire | • | Competitive Salary",
         "type": "job"
     }
 ]
