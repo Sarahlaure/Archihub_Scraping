@@ -1,12 +1,5 @@
 [
     {
-        "title": "Architect",
-        "link": "https://jobs.architecture.com/job/32252/architect/?LinkSource=HomePage",
-        "location": "Marlborough, Wiltshire",
-        "description": "Architect | Marlborough, Wiltshire | • | Competitive Salary",
-        "type": "job"
-    },
-    {
         "title": "Part 2 Architectural Assistant",
         "link": "https://jobs.architecture.com/job/32291/part-2-architectural-assistant/?LinkSource=HomePage",
         "location": "Cambridge, Cambridgeshire",
@@ -21,10 +14,17 @@
         "type": "job"
     },
     {
-        "title": "Associate/Senior Associate Architect",
-        "link": "https://jobs.architecture.com/job/32297/associate-senior-associate-architect/?LinkSource=HomePage",
-        "location": "London (Central), London (Greater)",
-        "description": "Associate/Senior Associate Architect | London (Central), London (Greater) | • | 55k-75k DOE",
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/32272/architect-/?LinkSource=HomePage",
+        "location": "Oxford, Oxfordshire",
+        "description": "Architect | Oxford, Oxfordshire | • | £40,000 - £55,000",
+        "type": "job"
+    },
+    {
+        "title": "Senior Architectural Technologist",
+        "link": "https://jobs.architecture.com/job/32314/senior-architectural-technologist/?LinkSource=HomePage",
+        "location": "Greater Manchester, Manchester",
+        "description": "Senior Architectural Technologist | Greater Manchester, Manchester | • | £45000 - £50000 per annum",
         "type": "job"
     }
 ]
