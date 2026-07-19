@@ -1,9 +1,16 @@
 [
     {
-        "title": "Senior Architect",
-        "link": "https://jobs.architecture.com/job/32262/senior-architect/?LinkSource=HomePage",
-        "location": "Hounslow",
-        "description": "Senior Architect | Hounslow | • | £50,000 - Depending on experience",
+        "title": "Conservation Architect",
+        "link": "https://jobs.architecture.com/job/32336/conservation-architect/?LinkSource=HomePage",
+        "location": "Chipping Norton, Oxfordshire",
+        "description": "Conservation Architect | Chipping Norton, Oxfordshire | • | £42000 - £55000 per annum + Company B...",
+        "type": "job"
+    },
+    {
+        "title": "Associate Architect",
+        "link": "https://jobs.architecture.com/job/32357/associate-architect/?LinkSource=HomePage",
+        "location": "London",
+        "description": "Associate Architect | London | • | £60000 - £67000 per annum",
         "type": "job"
     },
     {
@@ -14,17 +21,10 @@
         "type": "job"
     },
     {
-        "title": "Architect",
-        "link": "https://jobs.architecture.com/job/32343/architect/?LinkSource=HomePage",
-        "location": "West Midlands, Birmingham",
-        "description": "Architect | West Midlands, Birmingham | • | £35000 - £40000 per annum + plus bene...",
-        "type": "job"
-    },
-    {
-        "title": "Urban Designer",
-        "link": "https://jobs.architecture.com/job/32329/urban-designer-/?LinkSource=HomePage",
-        "location": "London / City of London, London",
-        "description": "Urban Designer | London / City of London, London | • | Negotiable",
+        "title": "Part 2 Architectural Assistant/ Architect (Part 3)",
+        "link": "https://jobs.architecture.com/job/32283/part-2-architectural-assistant-architect-part-3-/?LinkSource=HomePage",
+        "location": "London (Central), London (Greater)",
+        "description": "Part 2 Architectural Assistant/ Architect (Part 3) | London (Central), London (Greater) | • | 30k-48k DOE",
         "type": "job"
     }
 ]
