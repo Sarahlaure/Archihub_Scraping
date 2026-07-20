@@ -1,16 +1,9 @@
 [
     {
-        "title": "Conservation Architect",
-        "link": "https://jobs.architecture.com/job/32336/conservation-architect/?LinkSource=HomePage",
-        "location": "Chipping Norton, Oxfordshire",
-        "description": "Conservation Architect | Chipping Norton, Oxfordshire | • | £42000 - £55000 per annum + Company B...",
-        "type": "job"
-    },
-    {
-        "title": "Associate Architect",
-        "link": "https://jobs.architecture.com/job/32357/associate-architect/?LinkSource=HomePage",
-        "location": "London",
-        "description": "Associate Architect | London | • | £60000 - £67000 per annum",
+        "title": "Graduate Architectural Technologist",
+        "link": "https://jobs.architecture.com/job/32327/graduate-architectural-technologist/?LinkSource=HomePage",
+        "location": "Huddersfield, West Yorkshire",
+        "description": "Graduate Architectural Technologist | Huddersfield, West Yorkshire | • | £25000 - £30000 per annum + plus bene...",
         "type": "job"
     },
     {
@@ -21,10 +14,17 @@
         "type": "job"
     },
     {
-        "title": "Part 2 Architectural Assistant/ Architect (Part 3)",
-        "link": "https://jobs.architecture.com/job/32283/part-2-architectural-assistant-architect-part-3-/?LinkSource=HomePage",
-        "location": "London (Central), London (Greater)",
-        "description": "Part 2 Architectural Assistant/ Architect (Part 3) | London (Central), London (Greater) | • | 30k-48k DOE",
+        "title": "RIBA Part 2/3 Graduate / Architectural Assistan...",
+        "link": "https://jobs.architecture.com/job/32347/riba-part-2-3-graduate-architectural-assistants-with-technical-experience/?LinkSource=HomePage",
+        "location": "Brighton, East Sussex",
+        "description": "RIBA Part 2/3 Graduate / Architectural Assistan... | Brighton, East Sussex | • | TBC",
+        "type": "job"
+    },
+    {
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/32354/architect/?LinkSource=HomePage",
+        "location": "Chichester, West Sussex",
+        "description": "Architect | Chichester, West Sussex | • | DOE",
         "type": "job"
     }
 ]
