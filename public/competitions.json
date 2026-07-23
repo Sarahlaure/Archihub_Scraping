@@ -48,6 +48,22 @@
         "type": "competition"
     },
     {
+        "title": "un Design Award",
+        "link": "https://competitions.archi/competition/un-design-award-2/",
+        "deadline": "1st July 2026",
+        "deadline_iso": "2026-07-01T00:00:00",
+        "description": "un Design Award Submission: 1st July 2026 Registration: 25th November 2026 Location: USA Language: English Prizes: Best of the Year, Platinum, Gold and Silver Event Introduction Initiated in Washingto...",
+        "type": "competition"
+    },
+    {
+        "title": "Forest Retreat",
+        "link": "https://competitions.archi/competition/forest-retreat/",
+        "deadline": "15th September 2026",
+        "deadline_iso": "2026-09-15T00:00:00",
+        "description": "Forest Retreat Submission: 15th September 2026 Registration: 6th September 2026 Location: Concept Language: English Prizes: View website Type: Open Design Intent & Objective Learn More Introduction Fo...",
+        "type": "competition"
+    },
+    {
         "title": "The Oak Moon Pavilion",
         "link": "https://competitions.archi/competition/the-oak-moon-pavilion/",
         "deadline": "1st March 2027",
@@ -85,22 +101,6 @@
         "deadline": "6th November 2026",
         "deadline_iso": "2026-11-06T00:00:00",
         "description": "Call for Entries: Open Chair International Design Competition Submission: 6th November 2026 Registration: 22nd October 2026 Location: n/a Language: English Prizes: 1000 GBP Type: Ideas Competition - P...",
-        "type": "competition"
-    },
-    {
-        "title": "Open Call: Architectural Haiku Writing Contest, 4th Cycle: Architecture and Memories",
-        "link": "https://competitions.archi/competition/open-call-architectural-haiku-writing-contest-4th-cycle-architecture-and-memories/",
-        "deadline": "30th October 2026",
-        "deadline_iso": "2026-10-30T00:00:00",
-        "description": "Open Call: Architectural Haiku Writing Contest, 4th Cycle: Architecture and Memories Submission: 30th October 2026 Registration: 29th October 2026 Location: - Language: English Prizes: View website Ty...",
-        "type": "competition"
-    },
-    {
-        "title": "Architectural Haiku Writing Contest, 4th Cycle: Architecture and Memories",
-        "link": "https://competitions.archi/competition/architectural-haiku-writing-contest-4th-cycle-architecture-and-memories/",
-        "deadline": "1st July 2026",
-        "deadline_iso": "2026-07-01T00:00:00",
-        "description": "Architectural Haiku Writing Contest, 4th Cycle: Architecture and Memories Submission: 1st July 2026 Registration: 30th October 2026 Location: India Language: English Prizes: Books worth 300 USD Type: ...",
         "type": "competition"
     },
     {
