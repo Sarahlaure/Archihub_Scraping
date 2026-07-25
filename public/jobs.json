@@ -1,9 +1,16 @@
 [
     {
-        "title": "Senior Architect / Architect / Architectural Te...",
-        "link": "https://jobs.architecture.com/job/32342/senior-architect-architect-architectural-technologist/?LinkSource=HomePage",
-        "location": "London (Central), London (Greater), L...",
-        "description": "Senior Architect / Architect / Architectural Te... | London (Central), London (Greater), L... | • | Dependent on Role and Experience",
+        "title": "Architectural Technician",
+        "link": "https://jobs.architecture.com/job/32312/architectural-technician-/?LinkSource=HomePage",
+        "location": "London (Central), London (Greater)",
+        "description": "Architectural Technician | London (Central), London (Greater) | • | £35,000 - £45,000",
+        "type": "job"
+    },
+    {
+        "title": "Part 2 Architectural Assistant",
+        "link": "https://jobs.architecture.com/job/32291/part-2-architectural-assistant/?LinkSource=HomePage",
+        "location": "Cambridge, Cambridgeshire",
+        "description": "Part 2 Architectural Assistant | Cambridge, Cambridgeshire | • | circa £30,000 per annum",
         "type": "job"
     },
     {
@@ -14,17 +21,10 @@
         "type": "job"
     },
     {
-        "title": "Architect",
-        "link": "https://jobs.architecture.com/job/32302/architect/?LinkSource=HomePage",
-        "location": "Chorley, Lancashire",
-        "description": "Architect | Chorley, Lancashire | • | £35000 - £42000 per annum + plus bene...",
-        "type": "job"
-    },
-    {
-        "title": "Part 2 Architectural Assistant",
-        "link": "https://jobs.architecture.com/job/32291/part-2-architectural-assistant/?LinkSource=HomePage",
-        "location": "Cambridge, Cambridgeshire",
-        "description": "Part 2 Architectural Assistant | Cambridge, Cambridgeshire | • | circa £30,000 per annum",
+        "title": "Associate/Senior Associate Architect",
+        "link": "https://jobs.architecture.com/job/32297/associate-senior-associate-architect/?LinkSource=HomePage",
+        "location": "London (Central), London (Greater)",
+        "description": "Associate/Senior Associate Architect | London (Central), London (Greater) | • | 55k-75k DOE",
         "type": "job"
     }
 ]
