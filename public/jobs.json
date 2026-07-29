@@ -1,12 +1,5 @@
 [
     {
-        "title": "Grade 1 Conservation Architect",
-        "link": "https://jobs.architecture.com/job/32305/grade-1-conservation-architect/?LinkSource=HomePage",
-        "location": "Galway / Dublin",
-        "description": "Grade 1 Conservation Architect | Galway / Dublin | • | Negotiable",
-        "type": "job"
-    },
-    {
         "title": "Architect",
         "link": "https://jobs.architecture.com/job/32370/architect/?LinkSource=HomePage",
         "location": "Marlborough, Wiltshire",
@@ -14,17 +7,24 @@
         "type": "job"
     },
     {
-        "title": "Senior Architect",
-        "link": "https://jobs.architecture.com/job/32356/senior-architect/?LinkSource=HomePage",
-        "location": "City of London, London / London",
-        "description": "Senior Architect | City of London, London / London | • | £6000 - £57000 per annum",
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/32341/architect/?LinkSource=HomePage",
+        "location": "Edinburgh",
+        "description": "Architect | Edinburgh | • | £35000 - £40000 per annum + plus bene...",
         "type": "job"
     },
     {
-        "title": "Architectural Technician",
-        "link": "https://jobs.architecture.com/job/32367/architectural-technician/?LinkSource=HomePage",
-        "location": "Croydon, London",
-        "description": "Architectural Technician | Croydon, London | • | £30000 - £38000 per annum + Company B...",
+        "title": "Part 2 Architectural Assistant",
+        "link": "https://jobs.architecture.com/job/32330/part-2-architectural-assistant/?LinkSource=HomePage",
+        "location": "London",
+        "description": "Part 2 Architectural Assistant | London | • | Negotiable",
+        "type": "job"
+    },
+    {
+        "title": "Senior Architect/Associate",
+        "link": "https://jobs.architecture.com/job/32379/senior-architect-associate/?LinkSource=HomePage",
+        "location": "London (Central), London (Greater)",
+        "description": "Senior Architect/Associate | London (Central), London (Greater) | • | 50k-70k",
         "type": "job"
     }
 ]
