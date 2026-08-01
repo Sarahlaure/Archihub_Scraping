@@ -7,13 +7,6 @@
         "type": "job"
     },
     {
-        "title": "Project Runner",
-        "link": "https://jobs.architecture.com/job/32355/project-runner/?LinkSource=HomePage",
-        "location": "Northamptonshire, Northampton",
-        "description": "Project Runner | Northamptonshire, Northampton | • | £37000 - £45000 per annum",
-        "type": "job"
-    },
-    {
         "title": "Architect",
         "link": "https://jobs.architecture.com/job/32370/architect/?LinkSource=HomePage",
         "location": "Marlborough, Wiltshire",
@@ -21,10 +14,17 @@
         "type": "job"
     },
     {
-        "title": "Project Architect- Commercial",
-        "link": "https://jobs.architecture.com/job/32353/project-architect-commercial/?LinkSource=HomePage",
-        "location": "City of London, London",
-        "description": "Project Architect- Commercial | City of London, London | • | £45000 - £55000 per annum + Company B...",
+        "title": "Senior Architect and Architectural Technologist",
+        "link": "https://jobs.architecture.com/job/32378/senior-architect-and-architectural-technologist/?LinkSource=HomePage",
+        "location": "London (Central), London (Greater)",
+        "description": "Senior Architect and Architectural Technologist | London (Central), London (Greater) | • | Up to 60k",
+        "type": "job"
+    },
+    {
+        "title": "RIBA Part 2/3 Graduate / Architectural Assistan...",
+        "link": "https://jobs.architecture.com/job/32347/riba-part-2-3-graduate-architectural-assistants-with-technical-experience/?LinkSource=HomePage",
+        "location": "Brighton, East Sussex",
+        "description": "RIBA Part 2/3 Graduate / Architectural Assistan... | Brighton, East Sussex | • | TBC",
         "type": "job"
     }
 ]
