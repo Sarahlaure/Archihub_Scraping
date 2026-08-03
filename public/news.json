@@ -1,5 +1,26 @@
 [
     {
+        "title": "Multi-generational homes",
+        "link": "https://www.dezeen.com/2026/08/03/100-windows-inrestudio-multi-generational-house-vietnam/",
+        "date": "Recent",
+        "description": "Multi-generational homes Multi-generational homes Inrestudio uses double-layered envelope to create \"in-between spaces\" for Vietnamese home Irregularly placed and mismatched openings puncture the terr...",
+        "type": "news"
+    },
+    {
+        "title": "Solar power",
+        "link": "https://www.dezeen.com/2026/08/03/plug-in-solar-panels-available-uk-end-summer/",
+        "date": "Recent",
+        "description": "Solar power Solar power Plug-in solar panels to be available in UK by end of summer The UK government has announced the arrival of plug-in solar panels that can be fitted onto balconies to reduce hous...",
+        "type": "news"
+    },
+    {
+        "title": "Concert halls",
+        "link": "https://www.dezeen.com/2026/08/02/pca-stream-la-source-vive/",
+        "date": "Recent",
+        "description": "Concert halls Concert halls Acoustics shape design of copper-clad concert hall in Evian French studio PCA-Stream has completed La Source Vive, a domed copper-clad concert hall in Évian, France , desig...",
+        "type": "news"
+    },
+    {
         "title": "Houses of the month",
         "link": "https://www.dezeen.com/2026/08/01/top-houses-july-2026/",
         "date": "Recent",
@@ -35,38 +56,10 @@
         "type": "news"
     },
     {
-        "title": "Future Stadium",
-        "link": "https://www.dezeen.com/2026/07/29/nbbj-hangzhou-sports-center-stadium-case-study/",
-        "date": "Recent",
-        "description": "Future Stadium Future Stadium Desire to \"make the stadium lighter\" drove design of Hangzhou Sports Center Next up in our Future Stadium series, we take a look at Hangzhou Sports Center in China , a fl...",
-        "type": "news"
-    },
-    {
-        "title": "Infrastructure",
-        "link": "https://www.dezeen.com/2026/07/28/gordie-howe-international-bridge-opens-traffic/",
-        "date": "Recent",
-        "description": "Infrastructure Infrastructure \"Gently curving\" Gordie Howe International Bridge opens between US and Canada A bridge with towers informed by a hockey slapshot has opened to public traffic between the ...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of June 2026",
         "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Dezeen's top five houses of June 2026",
-        "type": "news"
-    },
-    {
-        "title": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
-        "link": "https://www.dezeen.com/2026/06/02/eleena-jamil-anjung-home-office-malaysia/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
-        "type": "news"
-    },
-    {
-        "title": "Atelier Backlar wraps Portuguese clifftop house in recycled ocean plastic",
-        "link": "https://www.dezeen.com/2026/05/23/atelier-backlar-blue-house-azores-portugal-recycled-ocean-plastic/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Atelier Backlar wraps Portuguese clifftop house in recycled ocean plastic",
         "type": "news"
     },
     {
@@ -77,6 +70,20 @@
         "type": "news"
     },
     {
+        "title": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
+        "link": "https://www.dezeen.com/2026/06/02/eleena-jamil-anjung-home-office-malaysia/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
+        "type": "news"
+    },
+    {
+        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "type": "news"
+    },
+    {
         "title": "Little Giant creates Forest Studio on Vancouver Island",
         "link": "https://www.dezeen.com/2026/05/26/little-giant-forest-studio-vancouver-island-british-columbia/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
@@ -84,17 +91,10 @@
         "type": "news"
     },
     {
-        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
-        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Atelier Backlar wraps Portuguese clifftop house in recycled ocean plastic",
+        "link": "https://www.dezeen.com/2026/05/23/atelier-backlar-blue-house-azores-portugal-recycled-ocean-plastic/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
-        "type": "news"
-    },
-    {
-        "title": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
-        "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
+        "description": "Atelier Backlar wraps Portuguese clifftop house in recycled ocean plastic",
         "type": "news"
     },
     {
@@ -102,6 +102,13 @@
         "link": "https://www.dezeen.com/2026/06/27/skylark-house-of-em-shropshire-stepped-brick-house/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "House of EM draws on mid-century design principles for brick-clad home",
+        "type": "news"
+    },
+    {
+        "title": "Joe Burke bookends 1960s London terrace with brick home",
+        "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Joe Burke bookends 1960s London terrace with brick home",
         "type": "news"
     },
     {
