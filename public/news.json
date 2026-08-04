@@ -1,5 +1,12 @@
 [
     {
+        "title": "Architecture",
+        "link": "https://www.dezeen.com/2026/08/03/truman-brewery-masterplan-buckley-gray-yeoman-london/",
+        "date": "Recent",
+        "description": "Architecture Architecture Data centre approved as part of Truman Brewery masterplan in east London Plans unveiled by architecture studio Buckley Gray Yeoman for offices, homes and a data centre near B...",
+        "type": "news"
+    },
+    {
         "title": "Multi-generational homes",
         "link": "https://www.dezeen.com/2026/08/03/100-windows-inrestudio-multi-generational-house-vietnam/",
         "date": "Recent",
@@ -63,10 +70,10 @@
         "type": "news"
     },
     {
-        "title": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
-        "link": "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/?li_source=LI&li_medium=rhs_block_1",
+        "title": "House of EM draws on mid-century design principles for brick-clad home",
+        "link": "https://www.dezeen.com/2026/06/27/skylark-house-of-em-shropshire-stepped-brick-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
+        "description": "House of EM draws on mid-century design principles for brick-clad home",
         "type": "news"
     },
     {
@@ -77,10 +84,17 @@
         "type": "news"
     },
     {
-        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
-        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Atelier Backlar wraps Portuguese clifftop house in recycled ocean plastic",
+        "link": "https://www.dezeen.com/2026/05/23/atelier-backlar-blue-house-azores-portugal-recycled-ocean-plastic/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "description": "Atelier Backlar wraps Portuguese clifftop house in recycled ocean plastic",
+        "type": "news"
+    },
+    {
+        "title": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
+        "link": "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
         "type": "news"
     },
     {
@@ -91,24 +105,17 @@
         "type": "news"
     },
     {
-        "title": "Atelier Backlar wraps Portuguese clifftop house in recycled ocean plastic",
-        "link": "https://www.dezeen.com/2026/05/23/atelier-backlar-blue-house-azores-portugal-recycled-ocean-plastic/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Atelier Backlar wraps Portuguese clifftop house in recycled ocean plastic",
+        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
         "type": "news"
     },
     {
-        "title": "House of EM draws on mid-century design principles for brick-clad home",
-        "link": "https://www.dezeen.com/2026/06/27/skylark-house-of-em-shropshire-stepped-brick-house/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
+        "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "House of EM draws on mid-century design principles for brick-clad home",
-        "type": "news"
-    },
-    {
-        "title": "Joe Burke bookends 1960s London terrace with brick home",
-        "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Joe Burke bookends 1960s London terrace with brick home",
+        "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
         "type": "news"
     },
     {

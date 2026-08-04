@@ -1,19 +1,5 @@
 [
     {
-        "title": "Architectural Technologist",
-        "link": "https://jobs.architecture.com/job/32346/architectural-technologist/?LinkSource=HomePage",
-        "location": "Exeter, Devon",
-        "description": "Architectural Technologist | Exeter, Devon | • | £34000 - £40000 per annum + Company B...",
-        "type": "job"
-    },
-    {
-        "title": "Senior Architect- Aviation",
-        "link": "https://jobs.architecture.com/job/32377/senior-architect-aviation/?LinkSource=HomePage",
-        "location": "London (Central), London (Greater)",
-        "description": "Senior Architect- Aviation | London (Central), London (Greater) | • | 45k-60k DOE",
-        "type": "job"
-    },
-    {
         "title": "Architect",
         "link": "https://jobs.architecture.com/job/32370/architect/?LinkSource=HomePage",
         "location": "Marlborough, Wiltshire",
@@ -21,10 +7,24 @@
         "type": "job"
     },
     {
-        "title": "Architect",
-        "link": "https://jobs.architecture.com/job/32324/architect/?LinkSource=HomePage",
-        "location": "Northamptonshire, Kettering",
-        "description": "Architect | Northamptonshire, Kettering | • | £36000 - £45000 per annum + Company B...",
+        "title": "Architect/Senior Project Manager",
+        "link": "https://jobs.architecture.com/job/32383/architect-senior-project-manager-/?LinkSource=HomePage",
+        "location": "Dedham, Colchester",
+        "description": "Architect/Senior Project Manager | Dedham, Colchester | • | Dependent on experience",
+        "type": "job"
+    },
+    {
+        "title": "Senior Architect",
+        "link": "https://jobs.architecture.com/job/32391/senior-architect-/?LinkSource=HomePage",
+        "location": "London",
+        "description": "Senior Architect | London | • | Competitive",
+        "type": "job"
+    },
+    {
+        "title": "Senior Architect and Architectural Technologist",
+        "link": "https://jobs.architecture.com/job/32378/senior-architect-and-architectural-technologist/?LinkSource=HomePage",
+        "location": "London (Central), London (Greater)",
+        "description": "Senior Architect and Architectural Technologist | London (Central), London (Greater) | • | Up to 60k",
         "type": "job"
     }
 ]
