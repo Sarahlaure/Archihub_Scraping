@@ -1,5 +1,26 @@
 [
     {
+        "title": "Dezeen Debate",
+        "link": "https://www.dezeen.com/2026/08/04/dulles-revamp-trump-united-airlines-concept-dezeen-debate/",
+        "date": "Recent",
+        "description": "Dezeen Debate Dezeen Debate Dezeen Debate features \"shameless\" proposal for Dulles airport The latest Dezeen Debate newsletter features the Donald Trump-backed plans to extend Eero Saarinen's terminal...",
+        "type": "news"
+    },
+    {
+        "title": "Residential architecture and interiors",
+        "link": "https://www.dezeen.com/2026/08/04/river-architects-china-pond-passive-house/",
+        "date": "Recent",
+        "description": "Residential architecture and interiors Residential architecture and interiors River Architects replaces Hudson Valley structure with gabled Passive House Local studio River Architects has designed a w...",
+        "type": "news"
+    },
+    {
+        "title": "British houses",
+        "link": "https://www.dezeen.com/2026/08/04/house-in-a-clearing-sussex-uk-taylorhare-architects/",
+        "date": "Recent",
+        "description": "British houses British houses Farmsteads inform corrugated metal-clad home in Sussex Agricultural barns and sheds informed the corrugated metal -clad volumes of House in a Clearing, a house in East Su...",
+        "type": "news"
+    },
+    {
         "title": "Architecture",
         "link": "https://www.dezeen.com/2026/08/03/truman-brewery-masterplan-buckley-gray-yeoman-london/",
         "date": "Recent",
@@ -49,38 +70,10 @@
         "type": "news"
     },
     {
-        "title": "Residential architecture and interiors",
-        "link": "https://www.dezeen.com/2026/07/30/mountain-residence-california-spf-architects/",
-        "date": "Recent",
-        "description": "Residential architecture and interiors Residential architecture and interiors SPF Architects wraps Los Angeles house in asphalt shingles for fire protection The husband-and-wife founders of California...",
-        "type": "news"
-    },
-    {
-        "title": "Dezeen Agenda",
-        "link": "https://www.dezeen.com/2026/07/30/dezeen-agenda-features-guggenheim-abu-dhabi-opening-date/",
-        "date": "Recent",
-        "description": "Dezeen Agenda Dezeen Agenda Dezeen Agenda features Guggenheim Abu Dhabi opening date The latest edition of our weekly Dezeen Agenda newsletter features news that the much-anticipated Guggenheim Abu Dh...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of June 2026",
         "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Dezeen's top five houses of June 2026",
-        "type": "news"
-    },
-    {
-        "title": "House of EM draws on mid-century design principles for brick-clad home",
-        "link": "https://www.dezeen.com/2026/06/27/skylark-house-of-em-shropshire-stepped-brick-house/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "House of EM draws on mid-century design principles for brick-clad home",
-        "type": "news"
-    },
-    {
-        "title": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
-        "link": "https://www.dezeen.com/2026/06/02/eleena-jamil-anjung-home-office-malaysia/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
         "type": "news"
     },
     {
@@ -91,6 +84,20 @@
         "type": "news"
     },
     {
+        "title": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
+        "link": "https://www.dezeen.com/2026/06/02/eleena-jamil-anjung-home-office-malaysia/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
+        "type": "news"
+    },
+    {
+        "title": "Little Giant creates Forest Studio on Vancouver Island",
+        "link": "https://www.dezeen.com/2026/05/26/little-giant-forest-studio-vancouver-island-british-columbia/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Little Giant creates Forest Studio on Vancouver Island",
+        "type": "news"
+    },
+    {
         "title": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
         "link": "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
@@ -98,10 +105,10 @@
         "type": "news"
     },
     {
-        "title": "Little Giant creates Forest Studio on Vancouver Island",
-        "link": "https://www.dezeen.com/2026/05/26/little-giant-forest-studio-vancouver-island-british-columbia/?li_source=LI&li_medium=rhs_block_2",
+        "title": "House of EM draws on mid-century design principles for brick-clad home",
+        "link": "https://www.dezeen.com/2026/06/27/skylark-house-of-em-shropshire-stepped-brick-house/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Little Giant creates Forest Studio on Vancouver Island",
+        "description": "House of EM draws on mid-century design principles for brick-clad home",
         "type": "news"
     },
     {

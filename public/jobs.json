@@ -1,16 +1,9 @@
 [
     {
-        "title": "Architect",
-        "link": "https://jobs.architecture.com/job/32370/architect/?LinkSource=HomePage",
-        "location": "Marlborough, Wiltshire",
-        "description": "Architect | Marlborough, Wiltshire | • | Competitive Salary",
-        "type": "job"
-    },
-    {
-        "title": "Architect/Senior Project Manager",
-        "link": "https://jobs.architecture.com/job/32383/architect-senior-project-manager-/?LinkSource=HomePage",
-        "location": "Dedham, Colchester",
-        "description": "Architect/Senior Project Manager | Dedham, Colchester | • | Dependent on experience",
+        "title": "Senior Architect- Aviation",
+        "link": "https://jobs.architecture.com/job/32377/senior-architect-aviation/?LinkSource=HomePage",
+        "location": "London (Central), London (Greater)",
+        "description": "Senior Architect- Aviation | London (Central), London (Greater) | • | 45k-60k DOE",
         "type": "job"
     },
     {
@@ -21,10 +14,17 @@
         "type": "job"
     },
     {
-        "title": "Senior Architect and Architectural Technologist",
-        "link": "https://jobs.architecture.com/job/32378/senior-architect-and-architectural-technologist/?LinkSource=HomePage",
-        "location": "London (Central), London (Greater)",
-        "description": "Senior Architect and Architectural Technologist | London (Central), London (Greater) | • | Up to 60k",
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/32370/architect/?LinkSource=HomePage",
+        "location": "Marlborough, Wiltshire",
+        "description": "Architect | Marlborough, Wiltshire | • | Competitive Salary",
+        "type": "job"
+    },
+    {
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/32354/architect/?LinkSource=HomePage",
+        "location": "Chichester, West Sussex",
+        "description": "Architect | Chichester, West Sussex | • | DOE",
         "type": "job"
     }
 ]
