@@ -1,5 +1,26 @@
 [
     {
+        "title": "Preservation",
+        "link": "https://www.dezeen.com/2026/08/05/eleven-architecture-preservation-battles-roundup/",
+        "date": "Recent",
+        "description": "Preservation Preservation Eleven architecture preservation battles across the US With the recent release of plans to build on top of Eero Saarinen's terminal building at Dulles International Airport ,...",
+        "type": "news"
+    },
+    {
+        "title": "Architecture",
+        "link": "https://www.dezeen.com/2026/08/05/data-center-skyscraper-kansas-city-som/",
+        "date": "Recent",
+        "description": "Architecture Architecture SOM designs \"vertical data center\" for Downtown Kansas City International architecture studio SOM has released designs of the 20-storey 934 Central Street data centre in Kans...",
+        "type": "news"
+    },
+    {
+        "title": "Chinese museums",
+        "link": "https://www.dezeen.com/2026/08/05/shenzhen-bay-culture-square-mad/",
+        "date": "Recent",
+        "description": "Chinese museums Chinese museums MAD scatters boulder-like galleries across green-roofed museum in Shenzhen Architecture studio MAD has unveiled Shenzhen Bay Culture Square in China , a design museum f...",
+        "type": "news"
+    },
+    {
         "title": "Dezeen Debate",
         "link": "https://www.dezeen.com/2026/08/04/dulles-revamp-trump-united-airlines-concept-dezeen-debate/",
         "date": "Recent",
@@ -56,20 +77,6 @@
         "type": "news"
     },
     {
-        "title": "Skyscrapers",
-        "link": "https://www.dezeen.com/2026/07/31/konigsberger-vannucchi-sao-paulo-almagah-227-skybridge/",
-        "date": "Recent",
-        "description": "Skyscrapers Skyscrapers São Paulo skyscrapers by Königsberger Vannucchi linked by glass skybridge A horizontal glass skybridge connects residential and office skyscrapers at this project by Königsberg...",
-        "type": "news"
-    },
-    {
-        "title": "British houses",
-        "link": "https://www.dezeen.com/2026/07/31/the-linhay-charles-gillespie-architecture/",
-        "date": "Recent",
-        "description": "British houses British houses Charles Gillespie Architecture completes Somerset house with wildlife-friendly colonnade British studio Charles Gillespie Architecture has completed The Linhay, a family ...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of June 2026",
         "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -91,15 +98,8 @@
         "type": "news"
     },
     {
-        "title": "Little Giant creates Forest Studio on Vancouver Island",
-        "link": "https://www.dezeen.com/2026/05/26/little-giant-forest-studio-vancouver-island-british-columbia/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Little Giant creates Forest Studio on Vancouver Island",
-        "type": "news"
-    },
-    {
         "title": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
-        "link": "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
         "type": "news"
@@ -109,6 +109,13 @@
         "link": "https://www.dezeen.com/2026/06/27/skylark-house-of-em-shropshire-stepped-brick-house/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "House of EM draws on mid-century design principles for brick-clad home",
+        "type": "news"
+    },
+    {
+        "title": "Little Giant creates Forest Studio on Vancouver Island",
+        "link": "https://www.dezeen.com/2026/05/26/little-giant-forest-studio-vancouver-island-british-columbia/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Little Giant creates Forest Studio on Vancouver Island",
         "type": "news"
     },
     {
