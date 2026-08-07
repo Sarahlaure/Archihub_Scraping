@@ -1,5 +1,19 @@
 [
     {
+        "title": "Residential architecture and interiors",
+        "link": "https://www.dezeen.com/2026/08/06/leckie-studio-twin-peaks-house-vancouver/",
+        "date": "Recent",
+        "description": "Residential architecture and interiors Residential architecture and interiors Leckie Studio tucks house clad in \"silvered wood\" into forested Vancouver site Canadian practice Leckie Studio has complet...",
+        "type": "news"
+    },
+    {
+        "title": "Multi-generational homes",
+        "link": "https://www.dezeen.com/2026/08/06/lj-house-studio-saransh-iksoi-studio/",
+        "date": "Recent",
+        "description": "Multi-generational homes Multi-generational homes Multi-generational LJ House in Ahmedabad prioritises shared living Gently curving rooflines and an asymmetrical heart-shaped stairwell characterise th...",
+        "type": "news"
+    },
+    {
         "title": "Preservation",
         "link": "https://www.dezeen.com/2026/08/05/eleven-architecture-preservation-battles-roundup/",
         "date": "Recent",
@@ -70,31 +84,10 @@
         "type": "news"
     },
     {
-        "title": "Houses of the month",
-        "link": "https://www.dezeen.com/2026/08/01/top-houses-july-2026/",
-        "date": "Recent",
-        "description": "Houses of the month Houses of the month Dezeen's top five houses of July 2026 A large multi-generational home in India and a low-lying stone farmhouse in rural Scotland are among the mix of residences...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of June 2026",
         "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Dezeen's top five houses of June 2026",
-        "type": "news"
-    },
-    {
-        "title": "Atelier Backlar wraps Portuguese clifftop house in recycled ocean plastic",
-        "link": "https://www.dezeen.com/2026/05/23/atelier-backlar-blue-house-azores-portugal-recycled-ocean-plastic/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Atelier Backlar wraps Portuguese clifftop house in recycled ocean plastic",
-        "type": "news"
-    },
-    {
-        "title": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
-        "link": "https://www.dezeen.com/2026/06/02/eleena-jamil-anjung-home-office-malaysia/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
         "type": "news"
     },
     {
@@ -105,10 +98,24 @@
         "type": "news"
     },
     {
+        "title": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
+        "link": "https://www.dezeen.com/2026/06/02/eleena-jamil-anjung-home-office-malaysia/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
+        "type": "news"
+    },
+    {
         "title": "House of EM draws on mid-century design principles for brick-clad home",
-        "link": "https://www.dezeen.com/2026/06/27/skylark-house-of-em-shropshire-stepped-brick-house/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/06/27/skylark-house-of-em-shropshire-stepped-brick-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "House of EM draws on mid-century design principles for brick-clad home",
+        "type": "news"
+    },
+    {
+        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
         "type": "news"
     },
     {
@@ -119,17 +126,17 @@
         "type": "news"
     },
     {
-        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
-        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
-        "type": "news"
-    },
-    {
         "title": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
         "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
+        "type": "news"
+    },
+    {
+        "title": "MRTN Architects extends Melbourne home with red-brick volumes",
+        "link": "https://www.dezeen.com/2026/06/12/mrtn-architects-laneway-house/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "MRTN Architects extends Melbourne home with red-brick volumes",
         "type": "news"
     },
     {
