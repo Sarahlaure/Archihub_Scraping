@@ -1,5 +1,19 @@
 [
     {
+        "title": "This week on Dezeen",
+        "link": "https://www.dezeen.com/2026/08/08/this-week-dezeen-rike-concert-hall/",
+        "date": "Recent",
+        "description": "This week on Dezeen This week on Dezeen This week on Dezeen we reported on the demolition of Rike Concert Hall This week on Dezeen , we reported on the demolition of a never-opened concert hall by Stu...",
+        "type": "news"
+    },
+    {
+        "title": "Residential architecture and interiors",
+        "link": "https://www.dezeen.com/2026/08/07/olson-kundig-sky-view/",
+        "date": "Recent",
+        "description": "Residential architecture and interiors Residential architecture and interiors Olson Kundig crowns Sky View house with retractable roof US studio Olson Kundig Architects has completed a house in the mo...",
+        "type": "news"
+    },
+    {
         "title": "Residential architecture and interiors",
         "link": "https://www.dezeen.com/2026/08/06/leckie-studio-twin-peaks-house-vancouver/",
         "date": "Recent",
@@ -70,31 +84,10 @@
         "type": "news"
     },
     {
-        "title": "Solar power",
-        "link": "https://www.dezeen.com/2026/08/03/plug-in-solar-panels-available-uk-end-summer/",
-        "date": "Recent",
-        "description": "Solar power Solar power Plug-in solar panels to be available in UK by end of summer The UK government has announced the arrival of plug-in solar panels that can be fitted onto balconies to reduce hous...",
-        "type": "news"
-    },
-    {
-        "title": "Concert halls",
-        "link": "https://www.dezeen.com/2026/08/02/pca-stream-la-source-vive/",
-        "date": "Recent",
-        "description": "Concert halls Concert halls Acoustics shape design of copper-clad concert hall in Evian French studio PCA-Stream has completed La Source Vive, a domed copper-clad concert hall in Évian, France , desig...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of June 2026",
         "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Dezeen's top five houses of June 2026",
-        "type": "news"
-    },
-    {
-        "title": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
-        "link": "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
         "type": "news"
     },
     {
@@ -105,6 +98,13 @@
         "type": "news"
     },
     {
+        "title": "Little Giant creates Forest Studio on Vancouver Island",
+        "link": "https://www.dezeen.com/2026/05/26/little-giant-forest-studio-vancouver-island-british-columbia/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Little Giant creates Forest Studio on Vancouver Island",
+        "type": "news"
+    },
+    {
         "title": "House of EM draws on mid-century design principles for brick-clad home",
         "link": "https://www.dezeen.com/2026/06/27/skylark-house-of-em-shropshire-stepped-brick-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -112,17 +112,24 @@
         "type": "news"
     },
     {
-        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
-        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
+        "link": "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "description": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
         "type": "news"
     },
     {
-        "title": "Little Giant creates Forest Studio on Vancouver Island",
-        "link": "https://www.dezeen.com/2026/05/26/little-giant-forest-studio-vancouver-island-british-columbia/?li_source=LI&li_medium=rhs_block_2",
+        "title": "MRTN Architects extends Melbourne home with red-brick volumes",
+        "link": "https://www.dezeen.com/2026/06/12/mrtn-architects-laneway-house/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Little Giant creates Forest Studio on Vancouver Island",
+        "description": "MRTN Architects extends Melbourne home with red-brick volumes",
+        "type": "news"
+    },
+    {
+        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
         "type": "news"
     },
     {
@@ -130,13 +137,6 @@
         "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
-        "type": "news"
-    },
-    {
-        "title": "MRTN Architects extends Melbourne home with red-brick volumes",
-        "link": "https://www.dezeen.com/2026/06/12/mrtn-architects-laneway-house/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "MRTN Architects extends Melbourne home with red-brick volumes",
         "type": "news"
     },
     {
