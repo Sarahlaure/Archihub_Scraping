@@ -1,12 +1,5 @@
 [
     {
-        "title": "Senior Architect",
-        "link": "https://jobs.architecture.com/job/32391/senior-architect-/?LinkSource=HomePage",
-        "location": "London",
-        "description": "Senior Architect | London | • | Competitive",
-        "type": "job"
-    },
-    {
         "title": "CPD Assessors",
         "link": "https://jobs.architecture.com/job/32411/cpd-assessors/?LinkSource=HomePage",
         "location": "Remote",
@@ -14,17 +7,24 @@
         "type": "job"
     },
     {
-        "title": "Senior Architect and Architectural Technologist",
-        "link": "https://jobs.architecture.com/job/32378/senior-architect-and-architectural-technologist/?LinkSource=HomePage",
-        "location": "London (Central), London (Greater)",
-        "description": "Senior Architect and Architectural Technologist | London (Central), London (Greater) | • | Up to 60k",
-        "type": "job"
-    },
-    {
         "title": "Architect",
         "link": "https://jobs.architecture.com/job/32370/architect/?LinkSource=HomePage",
         "location": "Marlborough, Wiltshire",
         "description": "Architect | Marlborough, Wiltshire | • | Competitive Salary",
+        "type": "job"
+    },
+    {
+        "title": "Senior Architect",
+        "link": "https://jobs.architecture.com/job/32391/senior-architect-/?LinkSource=HomePage",
+        "location": "London",
+        "description": "Senior Architect | London | • | Competitive",
+        "type": "job"
+    },
+    {
+        "title": "Technical Architect",
+        "link": "https://jobs.architecture.com/job/32414/technical-architect/?LinkSource=HomePage",
+        "location": "Greater Manchester, Stockport",
+        "description": "Technical Architect | Greater Manchester, Stockport | • | £35000 - £45000 per annum + plus bene...",
         "type": "job"
     }
 ]
