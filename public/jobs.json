@@ -1,12 +1,5 @@
 [
     {
-        "title": "CPD Assessors",
-        "link": "https://jobs.architecture.com/job/32411/cpd-assessors/?LinkSource=HomePage",
-        "location": "Remote",
-        "description": "CPD Assessors | Remote | • | £325 (+ VAT) per CPD assessment compl...",
-        "type": "job"
-    },
-    {
         "title": "Architect",
         "link": "https://jobs.architecture.com/job/32370/architect/?LinkSource=HomePage",
         "location": "Marlborough, Wiltshire",
@@ -15,16 +8,23 @@
     },
     {
         "title": "Senior Architect",
-        "link": "https://jobs.architecture.com/job/32391/senior-architect-/?LinkSource=HomePage",
-        "location": "London",
-        "description": "Senior Architect | London | • | Competitive",
+        "link": "https://jobs.architecture.com/job/32350/senior-architect/?LinkSource=HomePage",
+        "location": "London (Central), London (Greater)",
+        "description": "Senior Architect | London (Central), London (Greater) | • | DOE",
         "type": "job"
     },
     {
-        "title": "Technical Architect",
-        "link": "https://jobs.architecture.com/job/32414/technical-architect/?LinkSource=HomePage",
-        "location": "Greater Manchester, Stockport",
-        "description": "Technical Architect | Greater Manchester, Stockport | • | £35000 - £45000 per annum + plus bene...",
+        "title": "CPD Assessors",
+        "link": "https://jobs.architecture.com/job/32411/cpd-assessors/?LinkSource=HomePage",
+        "location": "Remote",
+        "description": "CPD Assessors | Remote | • | £325 (+ VAT) per CPD assessment compl...",
+        "type": "job"
+    },
+    {
+        "title": "Senior Architect",
+        "link": "https://jobs.architecture.com/job/32391/senior-architect-/?LinkSource=HomePage",
+        "location": "London",
+        "description": "Senior Architect | London | • | Competitive",
         "type": "job"
     }
 ]
