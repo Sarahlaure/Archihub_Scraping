@@ -1,5 +1,12 @@
 [
     {
+        "title": "Office architecture",
+        "link": "https://www.dezeen.com/2026/08/10/rta-studio-mass-timber-office-auckland/",
+        "date": "Recent",
+        "description": "Office architecture Office architecture RTA Studio designs mass-timber groundscraper in Auckland as \"continuous ribbon\" Local architecture firm RTA Studio has completed a curve-edged office building i...",
+        "type": "news"
+    },
+    {
         "title": "Community centres",
         "link": "https://www.dezeen.com/2026/08/08/aor-architects-talas-community-centre-helsinki/",
         "date": "Recent",
@@ -49,34 +56,6 @@
         "type": "news"
     },
     {
-        "title": "Chinese museums",
-        "link": "https://www.dezeen.com/2026/08/05/shenzhen-bay-culture-square-mad/",
-        "date": "Recent",
-        "description": "Chinese museums Chinese museums MAD scatters boulder-like galleries across green-roofed museum in Shenzhen Architecture studio MAD has unveiled Shenzhen Bay Culture Square in China , a design museum f...",
-        "type": "news"
-    },
-    {
-        "title": "Dezeen Debate",
-        "link": "https://www.dezeen.com/2026/08/04/dulles-revamp-trump-united-airlines-concept-dezeen-debate/",
-        "date": "Recent",
-        "description": "Dezeen Debate Dezeen Debate Dezeen Debate features \"shameless\" proposal for Dulles airport The latest Dezeen Debate newsletter features the Donald Trump-backed plans to extend Eero Saarinen's terminal...",
-        "type": "news"
-    },
-    {
-        "title": "Residential architecture and interiors",
-        "link": "https://www.dezeen.com/2026/08/04/river-architects-china-pond-passive-house/",
-        "date": "Recent",
-        "description": "Residential architecture and interiors Residential architecture and interiors River Architects replaces Hudson Valley structure with gabled Passive House Local studio River Architects has designed a w...",
-        "type": "news"
-    },
-    {
-        "title": "British houses",
-        "link": "https://www.dezeen.com/2026/08/04/house-in-a-clearing-sussex-uk-taylorhare-architects/",
-        "date": "Recent",
-        "description": "British houses British houses Farmsteads inform corrugated metal-clad home in Sussex Agricultural barns and sheds informed the corrugated metal -clad volumes of House in a Clearing, a house in East Su...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of June 2026",
         "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -91,17 +70,17 @@
         "type": "news"
     },
     {
-        "title": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
-        "link": "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
-        "type": "news"
-    },
-    {
         "title": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
         "link": "https://www.dezeen.com/2026/06/02/eleena-jamil-anjung-home-office-malaysia/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
+        "type": "news"
+    },
+    {
+        "title": "MRTN Architects extends Melbourne home with red-brick volumes",
+        "link": "https://www.dezeen.com/2026/06/12/mrtn-architects-laneway-house/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "MRTN Architects extends Melbourne home with red-brick volumes",
         "type": "news"
     },
     {
@@ -112,17 +91,10 @@
         "type": "news"
     },
     {
-        "title": "MRTN Architects extends Melbourne home with red-brick volumes",
-        "link": "https://www.dezeen.com/2026/06/12/mrtn-architects-laneway-house/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
+        "link": "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "MRTN Architects extends Melbourne home with red-brick volumes",
-        "type": "news"
-    },
-    {
-        "title": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
-        "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
+        "description": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
         "type": "news"
     },
     {
@@ -130,6 +102,13 @@
         "link": "https://www.dezeen.com/2026/05/29/ciao-london-micro-flat-plywood/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "CIAO organises London micro flat around multifunctional wall",
+        "type": "news"
+    },
+    {
+        "title": "Roberts Gray Architects tops New Zealand sand dune with rammed-earth home",
+        "link": "https://www.dezeen.com/2026/07/15/roberts-gray-architects-double-courtyard-house-new-zealand/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Roberts Gray Architects tops New Zealand sand dune with rammed-earth home",
         "type": "news"
     },
     {

@@ -1,16 +1,9 @@
 [
     {
-        "title": "Architect",
-        "link": "https://jobs.architecture.com/job/32370/architect/?LinkSource=HomePage",
-        "location": "Marlborough, Wiltshire",
-        "description": "Architect | Marlborough, Wiltshire | • | Competitive Salary",
-        "type": "job"
-    },
-    {
         "title": "Senior Architect",
-        "link": "https://jobs.architecture.com/job/32350/senior-architect/?LinkSource=HomePage",
-        "location": "London (Central), London (Greater)",
-        "description": "Senior Architect | London (Central), London (Greater) | • | DOE",
+        "link": "https://jobs.architecture.com/job/32391/senior-architect-/?LinkSource=HomePage",
+        "location": "London",
+        "description": "Senior Architect | London | • | Competitive",
         "type": "job"
     },
     {
@@ -21,10 +14,17 @@
         "type": "job"
     },
     {
-        "title": "Senior Architect",
-        "link": "https://jobs.architecture.com/job/32391/senior-architect-/?LinkSource=HomePage",
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/32370/architect/?LinkSource=HomePage",
+        "location": "Marlborough, Wiltshire",
+        "description": "Architect | Marlborough, Wiltshire | • | Competitive Salary",
+        "type": "job"
+    },
+    {
+        "title": "Project Architect",
+        "link": "https://jobs.architecture.com/job/32358/project-architect/?LinkSource=HomePage",
         "location": "London",
-        "description": "Senior Architect | London | • | Competitive",
+        "description": "Project Architect | London | • | £40000 - £50000 per annum + plus bene...",
         "type": "job"
     }
 ]
