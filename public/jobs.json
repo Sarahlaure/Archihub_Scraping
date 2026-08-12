@@ -7,13 +7,6 @@
         "type": "job"
     },
     {
-        "title": "CPD Assessors",
-        "link": "https://jobs.architecture.com/job/32411/cpd-assessors/?LinkSource=HomePage",
-        "location": "Remote",
-        "description": "CPD Assessors | Remote | • | £325 (+ VAT) per CPD assessment compl...",
-        "type": "job"
-    },
-    {
         "title": "Architect",
         "link": "https://jobs.architecture.com/job/32370/architect/?LinkSource=HomePage",
         "location": "Marlborough, Wiltshire",
@@ -21,10 +14,17 @@
         "type": "job"
     },
     {
-        "title": "Project Architect",
-        "link": "https://jobs.architecture.com/job/32358/project-architect/?LinkSource=HomePage",
-        "location": "London",
-        "description": "Project Architect | London | • | £40000 - £50000 per annum + plus bene...",
+        "title": "Architect/ Technologist",
+        "link": "https://jobs.architecture.com/job/32426/architect-technologist-/?LinkSource=HomePage",
+        "location": "Watlington, Oxfordshire",
+        "description": "Architect/ Technologist | Watlington, Oxfordshire | • | Salary negotiable dependant on experi...",
+        "type": "job"
+    },
+    {
+        "title": "CPD Assessors",
+        "link": "https://jobs.architecture.com/job/32411/cpd-assessors/?LinkSource=HomePage",
+        "location": "Remote",
+        "description": "CPD Assessors | Remote | • | £325 (+ VAT) per CPD assessment compl...",
         "type": "job"
     }
 ]
