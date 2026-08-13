@@ -35,20 +35,6 @@
         "type": "news"
     },
     {
-        "title": "Residential architecture and interiors",
-        "link": "https://www.dezeen.com/2026/08/06/leckie-studio-twin-peaks-house-vancouver/",
-        "date": "Recent",
-        "description": "Residential architecture and interiors Residential architecture and interiors Leckie Studio tucks house clad in \"silvered wood\" into forested Vancouver site Canadian practice Leckie Studio has complet...",
-        "type": "news"
-    },
-    {
-        "title": "Multi-generational homes",
-        "link": "https://www.dezeen.com/2026/08/06/lj-house-studio-saransh-iksoi-studio/",
-        "date": "Recent",
-        "description": "Multi-generational homes Multi-generational homes Multi-generational LJ House in Ahmedabad prioritises shared living Gently curving rooflines and an asymmetrical heart-shaped stairwell characterise th...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of June 2026",
         "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -63,10 +49,10 @@
         "type": "news"
     },
     {
-        "title": "Eight unique patios that beckon to the outdoors",
-        "link": "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
+        "link": "https://www.dezeen.com/2026/06/02/eleena-jamil-anjung-home-office-malaysia/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Eight unique patios that beckon to the outdoors",
+        "description": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
         "type": "news"
     },
     {
@@ -74,13 +60,6 @@
         "link": "https://www.dezeen.com/2026/06/27/skylark-house-of-em-shropshire-stepped-brick-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "House of EM draws on mid-century design principles for brick-clad home",
-        "type": "news"
-    },
-    {
-        "title": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
-        "link": "https://www.dezeen.com/2026/06/02/eleena-jamil-anjung-home-office-malaysia/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
         "type": "news"
     },
     {
@@ -92,9 +71,16 @@
     },
     {
         "title": "MRTN Architects extends Melbourne home with red-brick volumes",
-        "link": "https://www.dezeen.com/2026/06/12/mrtn-architects-laneway-house/?li_source=LI&li_medium=rhs_block_3",
+        "link": "https://www.dezeen.com/2026/06/12/mrtn-architects-laneway-house/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "MRTN Architects extends Melbourne home with red-brick volumes",
+        "type": "news"
+    },
+    {
+        "title": "Joe Burke bookends 1960s London terrace with brick home",
+        "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Joe Burke bookends 1960s London terrace with brick home",
         "type": "news"
     },
     {

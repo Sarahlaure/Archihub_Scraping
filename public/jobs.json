@@ -7,13 +7,6 @@
         "type": "job"
     },
     {
-        "title": "Architect",
-        "link": "https://jobs.architecture.com/job/32370/architect/?LinkSource=HomePage",
-        "location": "Marlborough, Wiltshire",
-        "description": "Architect | Marlborough, Wiltshire | • | Competitive Salary",
-        "type": "job"
-    },
-    {
         "title": "Architect/ Technologist",
         "link": "https://jobs.architecture.com/job/32426/architect-technologist-/?LinkSource=HomePage",
         "location": "Watlington, Oxfordshire",
@@ -25,6 +18,13 @@
         "link": "https://jobs.architecture.com/job/32411/cpd-assessors/?LinkSource=HomePage",
         "location": "Remote",
         "description": "CPD Assessors | Remote | • | £325 (+ VAT) per CPD assessment compl...",
+        "type": "job"
+    },
+    {
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/32370/architect/?LinkSource=HomePage",
+        "location": "Marlborough, Wiltshire",
+        "description": "Architect | Marlborough, Wiltshire | • | Competitive Salary",
         "type": "job"
     }
 ]
