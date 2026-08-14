@@ -48,6 +48,30 @@
         "type": "competition"
     },
     {
+        "title": "International Design Competition for the Redevelopment of the Hwamyeong Outdoor Swimming Pool",
+        "link": "https://competitions.archi/competition/international-design-competition-for-the-redevelopment-of-the-hwamyeong-outdoor-swimming-pool/",
+        "deadline": "7th September 2026",
+        "deadline_iso": "2026-09-07T00:00:00",
+        "description": "International Design Competition for the Redevelopment of the Hwamyeong Outdoor Swimming Pool Submission: 7th September 2026 Registration: 7th September 2026 Location: Area of 763-5, Deokcheon-dong, B...",
+        "type": "competition"
+    },
+    {
+        "title": "AI Architecture Awards",
+        "link": "https://competitions.archi/competition/ai-architecture-awards/",
+        "deadline": "30th September 2026",
+        "deadline_iso": "2026-09-30T00:00:00",
+        "description": "AI Architecture Awards Submission: 30th September 2026 Registration: 30th September 2026 Location: London Language: English Prizes: 500USD AI Architecture Awards is an international awards program cel...",
+        "type": "competition"
+    },
+    {
+        "title": "KTA 2026 – Final Project Competition",
+        "link": "https://competitions.archi/competition/kta-2026-final-project-competition/",
+        "deadline": "21st August 2026",
+        "deadline_iso": "2026-08-21T00:00:00",
+        "description": "KTA 2026 – Final Project Competition Submission: 21st August 2026 Registration: 19th August 2026 Location: Anywhere Language: English Prizes: IDR 18,000,000 Type: Final year student KTA 2026 final pro...",
+        "type": "competition"
+    },
+    {
         "title": "Krystal Design Award Graduation Competition",
         "link": "https://competitions.archi/competition/krystal-design-award-graduation-competition-2/",
         "deadline": "15th November 2026",
@@ -72,14 +96,6 @@
         "type": "competition"
     },
     {
-        "title": "KOKUYO DESIGN AWARD 2027",
-        "link": "https://competitions.archi/competition/kokuyo-design-award-2027/",
-        "deadline": "24th July 2026",
-        "deadline_iso": "2026-07-24T00:00:00",
-        "description": "KOKUYO DESIGN AWARD 2027 Submission: 24th July 2026 Registration: 7th October 2026 Location: Tokyo, Japan Language: English, Japanese Prizes: Please see details below The theme for the KOKUYO DESIGN A...",
-        "type": "competition"
-    },
-    {
         "title": "All open competitions",
         "link": "https://architecturecompetitions.com/?open-competitions",
         "deadline": "Unknown",
@@ -101,10 +117,17 @@
         "type": "competition"
     },
     {
-        "title": "URBAN SCULPTURE50,000 € Prize",
-        "link": "https://architecturecompetitions.com/mujassamwatan8",
+        "title": "AIA NEW YORK MARKET",
+        "link": "https://architecturecompetitions.com/newyorkmarket",
         "deadline": "Unknown",
-        "description": "URBAN SCULPTURE 50,000 € Prize",
+        "description": "AIA NEW YORK MARKET",
+        "type": "competition"
+    },
+    {
+        "title": "VANCOUVER TALL CHALLANGE",
+        "link": "https://architecturecompetitions.com/vancouvertallchallenge",
+        "deadline": "Unknown",
+        "description": "VANCOUVER TALL CHALLANGE",
         "type": "competition"
     },
     {

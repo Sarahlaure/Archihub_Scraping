@@ -1,5 +1,26 @@
 [
     {
+        "title": "Renovations",
+        "link": "https://www.dezeen.com/2026/08/13/sauerbruch-hutton-studio-gang-german-house-revamp-new-york/",
+        "date": "Recent",
+        "description": "Renovations Renovations Sauerbruch Hutton and Studio Gang to revamp German House skyscraper in New York German studio Sauerbruch Hutton and US practice Studio Gang have been selected to redesign Germa...",
+        "type": "news"
+    },
+    {
+        "title": "Adaptive reuse",
+        "link": "https://www.dezeen.com/2026/08/13/dsr-met-mit-warehouse-school-of-architecture/",
+        "date": "Recent",
+        "description": "Adaptive reuse Adaptive reuse Diller Scofidio + Renfro renovates Boston storage warehouse for MIT architecture school New York architecture studio Diller Scofidio + Renfro has spliced an 1894 brick wa...",
+        "type": "news"
+    },
+    {
+        "title": "Guesthouses",
+        "link": "https://www.dezeen.com/2026/08/13/aksh-architects-earthen-retreat/",
+        "date": "Recent",
+        "description": "Guesthouses Guesthouses AKSH Architects transforms disused buildings in India into \"timeless and earthy\" retreat Indian studio AKSH Architects has completed The Earthen Retreat, a cluster of guesthous...",
+        "type": "news"
+    },
+    {
         "title": "Public and leisure",
         "link": "https://www.dezeen.com/2026/08/11/heatherwick-studio-belvedere-louisville-waterfront-update/",
         "date": "Recent",
@@ -28,31 +49,10 @@
         "type": "news"
     },
     {
-        "title": "Residential architecture and interiors",
-        "link": "https://www.dezeen.com/2026/08/07/olson-kundig-sky-view/",
-        "date": "Recent",
-        "description": "Residential architecture and interiors Residential architecture and interiors Olson Kundig crowns Sky View house with retractable roof US studio Olson Kundig Architects has completed a house in the mo...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of June 2026",
         "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Dezeen's top five houses of June 2026",
-        "type": "news"
-    },
-    {
-        "title": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
-        "link": "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
-        "type": "news"
-    },
-    {
-        "title": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
-        "link": "https://www.dezeen.com/2026/06/02/eleena-jamil-anjung-home-office-malaysia/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
         "type": "news"
     },
     {
@@ -63,31 +63,45 @@
         "type": "news"
     },
     {
+        "title": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
+        "link": "https://www.dezeen.com/2026/06/02/eleena-jamil-anjung-home-office-malaysia/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Eleena Jamil shades guesthouse with bamboo and steel canopy",
+        "type": "news"
+    },
+    {
         "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
-        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
         "type": "news"
     },
     {
-        "title": "MRTN Architects extends Melbourne home with red-brick volumes",
-        "link": "https://www.dezeen.com/2026/06/12/mrtn-architects-laneway-house/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
+        "link": "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "MRTN Architects extends Melbourne home with red-brick volumes",
+        "description": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
         "type": "news"
     },
     {
         "title": "Joe Burke bookends 1960s London terrace with brick home",
-        "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_3",
+        "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Joe Burke bookends 1960s London terrace with brick home",
         "type": "news"
     },
     {
-        "title": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
-        "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Eight unique patios that beckon to the outdoors",
+        "link": "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
+        "description": "Eight unique patios that beckon to the outdoors",
+        "type": "news"
+    },
+    {
+        "title": "MRTN Architects extends Melbourne home with red-brick volumes",
+        "link": "https://www.dezeen.com/2026/06/12/mrtn-architects-laneway-house/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "MRTN Architects extends Melbourne home with red-brick volumes",
         "type": "news"
     },
     {
