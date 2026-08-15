@@ -1,5 +1,19 @@
 [
     {
+        "title": "This week on Dezeen",
+        "link": "https://www.dezeen.com/2026/08/15/this-week-on-dezeen-terafab-factory-elon-musk/",
+        "date": "Recent",
+        "description": "This week on Dezeen This week on Dezeen This week on Dezeen we revealed plans to construct the world's biggest building This week on Dezeen , Elon Musk announced plans to open a semiconductor factory ...",
+        "type": "news"
+    },
+    {
+        "title": "London house extensions",
+        "link": "https://www.dezeen.com/2026/08/14/mosley-thorold-de-beauvoir-house/",
+        "date": "Recent",
+        "description": "London house extensions London house extensions Mosley Thorold mixes salvaged and natural materials in De Beauvoir home renovation Local architecture studio Mosley Thorold has updated and extended a V...",
+        "type": "news"
+    },
+    {
         "title": "Renovations",
         "link": "https://www.dezeen.com/2026/08/13/sauerbruch-hutton-studio-gang-german-house-revamp-new-york/",
         "date": "Recent",
@@ -28,31 +42,17 @@
         "type": "news"
     },
     {
-        "title": "Office architecture",
-        "link": "https://www.dezeen.com/2026/08/10/rta-studio-mass-timber-office-auckland/",
-        "date": "Recent",
-        "description": "Office architecture Office architecture RTA Studio designs mass-timber groundscraper in Auckland as \"continuous ribbon\" Local architecture firm RTA Studio has completed a curve-edged office building i...",
-        "type": "news"
-    },
-    {
-        "title": "Community centres",
-        "link": "https://www.dezeen.com/2026/08/08/aor-architects-talas-community-centre-helsinki/",
-        "date": "Recent",
-        "description": "Community centres Community centres AOR Architects draws on harbour warehouses for Talas community centre in Helsinki Finnish studio AOR Architects has completed a community centre on Helsinki 's wate...",
-        "type": "news"
-    },
-    {
-        "title": "This week on Dezeen",
-        "link": "https://www.dezeen.com/2026/08/08/this-week-dezeen-rike-concert-hall/",
-        "date": "Recent",
-        "description": "This week on Dezeen This week on Dezeen This week on Dezeen we reported on the demolition of Rike Concert Hall This week on Dezeen , we reported on the demolition of a never-opened concert hall by Stu...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of June 2026",
         "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Dezeen's top five houses of June 2026",
+        "type": "news"
+    },
+    {
+        "title": "Eight unique patios that beckon to the outdoors",
+        "link": "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Eight unique patios that beckon to the outdoors",
         "type": "news"
     },
     {
@@ -70,13 +70,6 @@
         "type": "news"
     },
     {
-        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
-        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
-        "type": "news"
-    },
-    {
         "title": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
         "link": "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
@@ -84,17 +77,17 @@
         "type": "news"
     },
     {
-        "title": "Joe Burke bookends 1960s London terrace with brick home",
-        "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Joe Burke bookends 1960s London terrace with brick home",
+        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
         "type": "news"
     },
     {
-        "title": "Eight unique patios that beckon to the outdoors",
-        "link": "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Joe Burke bookends 1960s London terrace with brick home",
+        "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Eight unique patios that beckon to the outdoors",
+        "description": "Joe Burke bookends 1960s London terrace with brick home",
         "type": "news"
     },
     {
