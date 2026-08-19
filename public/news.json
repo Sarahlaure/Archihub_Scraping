@@ -1,5 +1,19 @@
 [
     {
+        "title": "Low-cost housing",
+        "link": "https://www.dezeen.com/2026/08/18/730-stanyan-oma-affordable-housing-san-francisco-ya-studio/",
+        "date": "Recent",
+        "description": "Low-cost housing Low-cost housing OMA completes first US affordable housing development in San Francisco The New York office of OMA and local practice YA Studio have arranged a 160-home apartment bloc...",
+        "type": "news"
+    },
+    {
+        "title": "Belgian houses",
+        "link": "https://www.dezeen.com/2026/08/18/atelier-vens-vanbelle-project-tomas-katrien/",
+        "date": "Recent",
+        "description": "Belgian houses Belgian houses Atelier Vens Vanbelle references brick industrial buildings for cubic home in Belgium A brick cube reminiscent of old industrial structures forms this family home in the ...",
+        "type": "news"
+    },
+    {
         "title": "Chilean houses",
         "link": "https://www.dezeen.com/2026/08/17/iraguen-vinuela-fuy-river-house-chile-mass-timber/",
         "date": "Recent",
@@ -70,6 +84,13 @@
         "type": "news"
     },
     {
+        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "type": "news"
+    },
+    {
         "title": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
         "link": "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -84,24 +105,17 @@
         "type": "news"
     },
     {
-        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
-        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
-        "type": "news"
-    },
-    {
-        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
-        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
-        "type": "news"
-    },
-    {
         "title": "Joe Burke bookends 1960s London terrace with brick home",
         "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Joe Burke bookends 1960s London terrace with brick home",
+        "type": "news"
+    },
+    {
+        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
+        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
         "type": "news"
     },
     {
