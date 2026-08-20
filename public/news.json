@@ -1,5 +1,33 @@
 [
     {
+        "title": "Architecture",
+        "link": "https://www.dezeen.com/2026/08/19/aia-announces-longest-ongoing-slump-abi/",
+        "date": "Recent",
+        "description": "Architecture Architecture AIA announces longest \"ongoing slump\" for architecture revenues The American Institute of Architecture has announced the longest ever slump in architecture revenues in the US...",
+        "type": "news"
+    },
+    {
+        "title": "Restorations",
+        "link": "https://www.dezeen.com/2026/08/19/schaum-architects-restoration-donald-judd-artillery-sheds-texas/",
+        "date": "Recent",
+        "description": "Restorations Restorations Schaum Architects to lead restoration of Donald Judd's Artillery Sheds in Texas Texas studio Schaum Architects has joined a team of restorers to work on the two massive Artil...",
+        "type": "news"
+    },
+    {
+        "title": "Community centres",
+        "link": "https://www.dezeen.com/2026/08/19/oba-next-lab-matter-makers-awr-baz/",
+        "date": "Recent",
+        "description": "Community centres Community centres Demountable timber library in Amsterdam is \"a living room for the neighbourhood\" Stepped, pastel-pink seating spills out from inside the OBA Next Lab library and co...",
+        "type": "news"
+    },
+    {
+        "title": "Theme parks",
+        "link": "https://www.dezeen.com/2026/08/19/tivoli-theme-park-japanese-hikari-copenhagen/",
+        "date": "Recent",
+        "description": "Theme parks Theme parks Tivoli creates theme park Japanese neighbourhood in central Copenhagen Danish amusement park Tivoli has unveiled Hikari, a new area informed by Japanese cities that features ar...",
+        "type": "news"
+    },
+    {
         "title": "Low-cost housing",
         "link": "https://www.dezeen.com/2026/08/18/730-stanyan-oma-affordable-housing-san-francisco-ya-studio/",
         "date": "Recent",
@@ -49,31 +77,10 @@
         "type": "news"
     },
     {
-        "title": "London house extensions",
-        "link": "https://www.dezeen.com/2026/08/14/mosley-thorold-de-beauvoir-house/",
+        "title": "Dezeen's top five houses of July 2026",
+        "link": "https://www.dezeen.com/2026/08/01/top-houses-july-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "London house extensions London house extensions Mosley Thorold mixes salvaged and natural materials in De Beauvoir home renovation Local architecture studio Mosley Thorold has updated and extended a V...",
-        "type": "news"
-    },
-    {
-        "title": "Renovations",
-        "link": "https://www.dezeen.com/2026/08/13/sauerbruch-hutton-studio-gang-german-house-revamp-new-york/",
-        "date": "Recent",
-        "description": "Renovations Renovations Sauerbruch Hutton and Studio Gang to revamp German House skyscraper in New York German studio Sauerbruch Hutton and US practice Studio Gang have been selected to redesign Germa...",
-        "type": "news"
-    },
-    {
-        "title": "Adaptive reuse",
-        "link": "https://www.dezeen.com/2026/08/13/dsr-met-mit-warehouse-school-of-architecture/",
-        "date": "Recent",
-        "description": "Adaptive reuse Adaptive reuse Diller Scofidio + Renfro renovates Boston storage warehouse for MIT architecture school New York architecture studio Diller Scofidio + Renfro has spliced an 1894 brick wa...",
-        "type": "news"
-    },
-    {
-        "title": "Guesthouses",
-        "link": "https://www.dezeen.com/2026/08/13/aksh-architects-earthen-retreat/",
-        "date": "Recent",
-        "description": "Guesthouses Guesthouses AKSH Architects transforms disused buildings in India into \"timeless and earthy\" retreat Indian studio AKSH Architects has completed The Earthen Retreat, a cluster of guesthous...",
+        "description": "Dezeen's top five houses of July 2026",
         "type": "news"
     },
     {
@@ -84,17 +91,10 @@
         "type": "news"
     },
     {
-        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
-        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
+        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
-        "type": "news"
-    },
-    {
-        "title": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
-        "link": "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
+        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
         "type": "news"
     },
     {
@@ -105,24 +105,24 @@
         "type": "news"
     },
     {
+        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "type": "news"
+    },
+    {
+        "title": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
+        "link": "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
+        "type": "news"
+    },
+    {
         "title": "Joe Burke bookends 1960s London terrace with brick home",
-        "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Joe Burke bookends 1960s London terrace with brick home",
-        "type": "news"
-    },
-    {
-        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
-        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
-        "type": "news"
-    },
-    {
-        "title": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
-        "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
         "type": "news"
     },
     {
