@@ -1,9 +1,30 @@
 [
     {
+        "title": "Renovations",
+        "link": "https://www.dezeen.com/2026/08/21/uufie-renovates-ontario-chalet-belfountain/",
+        "date": "Recent",
+        "description": "Renovations Renovations UUfie organises renovated Ontario chalet \"like a hike\" Toronto architecture studio UUfie has expanded and renovated a 1970s chalet in Ontario to conform to its steep, wooded si...",
+        "type": "news"
+    },
+    {
+        "title": "Spanish houses",
+        "link": "https://www.dezeen.com/2026/08/21/iterare-arquitectos-casa-nido/",
+        "date": "Recent",
+        "description": "Spanish houses Spanish houses Iterare Arquitectos inserts stark white home into shell of old Spanish building A crisp white cube has been nested within the old brick shell of an existing building to c...",
+        "type": "news"
+    },
+    {
+        "title": "Supertall skyscrapers",
+        "link": "https://www.dezeen.com/2026/08/21/ciel-dubai-marina-worlds-tallest-hotel/",
+        "date": "Recent",
+        "description": "Supertall skyscrapers Supertall skyscrapers Photos reveal world's tallest hotel in Dubai Photographer Ahmad Alnaji has captured the Ciel Dubai Marina, a supertall skyscraper by architecture studio NOR...",
+        "type": "news"
+    },
+    {
         "title": "Adaptive reuse",
         "link": "https://www.dezeen.com/2026/08/20/studio-barnes-ch-studio-convert-kkk-building-arts-centre-fort-worth/",
         "date": "Recent",
-        "description": "Adaptive reuse Adaptive reuse Studio Barnes and Ch_studio to convert former KKK building in Texas into arts centre A team including Studio Barnes and Ch_studio has revealed designs for the 1920s build...",
+        "description": "Adaptive reuse Adaptive reuse Studio Barnes and Ch_studio to convert former KKK building in Texas into arts centre A team including Studio Barnes and Ch_studio has revealed designs to transform the 19...",
         "type": "news"
     },
     {
@@ -56,17 +77,10 @@
         "type": "news"
     },
     {
-        "title": "Mass timber",
-        "link": "https://www.dezeen.com/2026/08/17/us-tallest-mass-timber-office-building-waugh-thistleton-architects/",
+        "title": "Dezeen's top five houses of July 2026",
+        "link": "https://www.dezeen.com/2026/08/01/top-houses-july-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Mass timber Mass timber Waugh Thistleton Architects set to build \"tallest mass timber office building in the US\" Architecture studios Waugh Thistleton Architects and Mithun have designed a 12-storey m...",
-        "type": "news"
-    },
-    {
-        "title": "Dutch houses",
-        "link": "https://www.dezeen.com/2026/08/16/woonpioniers-cohouse-in-cothen/",
-        "date": "Recent",
-        "description": "Dutch houses Dutch houses Woonpioniers models adjoining Dutch homes on \"a game of Tetris\" Dutch studio Woonpioniers has completed CoHouse in Utrecht , a pair of interlocking houses designed for two fa...",
+        "description": "Dezeen's top five houses of July 2026",
         "type": "news"
     },
     {
@@ -77,10 +91,10 @@
         "type": "news"
     },
     {
-        "title": "Dezeen's top five houses of July 2026",
-        "link": "https://www.dezeen.com/2026/08/01/top-houses-july-2026/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
+        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Dezeen's top five houses of July 2026",
+        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
         "type": "news"
     },
     {
@@ -88,13 +102,6 @@
         "link": "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
-        "type": "news"
-    },
-    {
-        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
-        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
         "type": "news"
     },
     {
@@ -112,17 +119,17 @@
         "type": "news"
     },
     {
+        "title": "Joe Burke bookends 1960s London terrace with brick home",
+        "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Joe Burke bookends 1960s London terrace with brick home",
+        "type": "news"
+    },
+    {
         "title": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
         "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
-        "type": "news"
-    },
-    {
-        "title": "MRTN Architects extends Melbourne home with red-brick volumes",
-        "link": "https://www.dezeen.com/2026/06/12/mrtn-architects-laneway-house/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "MRTN Architects extends Melbourne home with red-brick volumes",
         "type": "news"
     },
     {
