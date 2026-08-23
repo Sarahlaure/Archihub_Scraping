@@ -77,13 +77,6 @@
         "type": "news"
     },
     {
-        "title": "Dezeen's top five houses of July 2026",
-        "link": "https://www.dezeen.com/2026/08/01/top-houses-july-2026/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Dezeen's top five houses of July 2026",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of June 2026",
         "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -91,24 +84,31 @@
         "type": "news"
     },
     {
-        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
-        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Dezeen's top five houses of July 2026",
+        "link": "https://www.dezeen.com/2026/08/01/top-houses-july-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
-        "type": "news"
-    },
-    {
-        "title": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
-        "link": "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
+        "description": "Dezeen's top five houses of July 2026",
         "type": "news"
     },
     {
         "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
-        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "type": "news"
+    },
+    {
+        "title": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
+        "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
+        "type": "news"
+    },
+    {
+        "title": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
+        "link": "https://www.dezeen.com/2026/06/09/nest-cascades-zaha-hadid-architects/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Overhanging balconies will unite Albanian housing blocks by Zaha Hadid Architects",
         "type": "news"
     },
     {
@@ -119,17 +119,17 @@
         "type": "news"
     },
     {
+        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
+        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
+        "type": "news"
+    },
+    {
         "title": "Joe Burke bookends 1960s London terrace with brick home",
         "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Joe Burke bookends 1960s London terrace with brick home",
-        "type": "news"
-    },
-    {
-        "title": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
-        "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
         "type": "news"
     },
     {
