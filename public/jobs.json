@@ -1,19 +1,5 @@
 [
     {
-        "title": "CPD Assessors",
-        "link": "https://jobs.architecture.com/job/32411/cpd-assessors/?LinkSource=HomePage",
-        "location": "Remote",
-        "description": "CPD Assessors | Remote | • | £325 (+ VAT) per CPD assessment compl...",
-        "type": "job"
-    },
-    {
-        "title": "Architect/ Technologist",
-        "link": "https://jobs.architecture.com/job/32426/architect-technologist-/?LinkSource=HomePage",
-        "location": "Watlington, Oxfordshire",
-        "description": "Architect/ Technologist | Watlington, Oxfordshire | • | Salary negotiable dependant on experi...",
-        "type": "job"
-    },
-    {
         "title": "Senior Architect",
         "link": "https://jobs.architecture.com/job/32391/senior-architect-/?LinkSource=HomePage",
         "location": "London",
@@ -21,10 +7,24 @@
         "type": "job"
     },
     {
-        "title": "Architect",
-        "link": "https://jobs.architecture.com/job/32465/architect/?LinkSource=HomePage",
-        "location": "Staffordshire, Lichfield",
-        "description": "Architect | Staffordshire, Lichfield | • | £35000 - £45000 per annum + plus bene...",
+        "title": "CPD Assessors",
+        "link": "https://jobs.architecture.com/job/32411/cpd-assessors/?LinkSource=HomePage",
+        "location": "Remote",
+        "description": "CPD Assessors | Remote | • | £325 (+ VAT) per CPD assessment compl...",
+        "type": "job"
+    },
+    {
+        "title": "Senior Architectural Technologist",
+        "link": "https://jobs.architecture.com/job/32452/senior-architectural-technologist/?LinkSource=HomePage",
+        "location": "Dublin / London",
+        "description": "Senior Architectural Technologist | Dublin / London | • | £50000 - £65000 per annum",
+        "type": "job"
+    },
+    {
+        "title": "Architect/ Technologist",
+        "link": "https://jobs.architecture.com/job/32426/architect-technologist-/?LinkSource=HomePage",
+        "location": "Watlington, Oxfordshire",
+        "description": "Architect/ Technologist | Watlington, Oxfordshire | • | Salary negotiable dependant on experi...",
         "type": "job"
     }
 ]
