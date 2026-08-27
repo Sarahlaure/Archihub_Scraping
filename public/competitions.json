@@ -119,10 +119,10 @@
         "type": "competition"
     },
     {
-        "title": "UNBUILT 2026 Award100,000 € Prize",
-        "link": "https://architecturecompetitions.com/unbuilt2026/",
+        "title": "UNBUILT 2027 Award100,000 € Prize",
+        "link": "https://architecturecompetitions.com/unbuilt2027/",
         "deadline": "Unknown",
-        "description": "UNBUILT 2026 Award 100,000 € Prize",
+        "description": "UNBUILT 2027 Award 100,000 € Prize",
         "type": "competition"
     },
     {
@@ -291,6 +291,13 @@
         "link": "https://architecturecompetitions.com/brands",
         "deadline": "Unknown",
         "description": "Construction product brands",
+        "type": "competition"
+    },
+    {
+        "title": "UNBUILTAWARD 2026",
+        "link": "https://architecturecompetitions.com/unbuilt2026/",
+        "deadline": "Unknown",
+        "description": "UNBUILT AWARD 2026",
         "type": "competition"
     },
     {

@@ -1,16 +1,9 @@
 [
     {
-        "title": "Senior Architect",
-        "link": "https://jobs.architecture.com/job/32391/senior-architect-/?LinkSource=HomePage",
-        "location": "London",
-        "description": "Senior Architect | London | • | Competitive",
-        "type": "job"
-    },
-    {
-        "title": "Architect/ Technologist",
-        "link": "https://jobs.architecture.com/job/32426/architect-technologist-/?LinkSource=HomePage",
-        "location": "Watlington, Oxfordshire",
-        "description": "Architect/ Technologist | Watlington, Oxfordshire | • | Salary negotiable dependant on experi...",
+        "title": "Workplace Design Manager (Birmingham/Bristol)",
+        "link": "https://jobs.architecture.com/job/32474/workplace-design-manager-birmingham-bristol-/?LinkSource=HomePage",
+        "location": "Birmingham or Bristol",
+        "description": "Workplace Design Manager (Birmingham/Bristol) | Birmingham or Bristol | • | £58,478 - £64,743",
         "type": "job"
     },
     {
@@ -21,10 +14,17 @@
         "type": "job"
     },
     {
-        "title": "Architect",
-        "link": "https://jobs.architecture.com/job/32455/architect-/?LinkSource=HomePage",
-        "location": "West Midlands, Birmingham",
-        "description": "Architect | West Midlands, Birmingham | • | £38000 - £45000 per annum + plus bene...",
+        "title": "Workplace Design Manager (Manchester/Nottingham)",
+        "link": "https://jobs.architecture.com/job/32476/workplace-design-manager-manchester-nottingham-/?LinkSource=HomePage",
+        "location": "Manchester / Nottingham",
+        "description": "Workplace Design Manager (Manchester/Nottingham) | Manchester / Nottingham | • | £58,478 - £64,743",
+        "type": "job"
+    },
+    {
+        "title": "Architect/ Technologist",
+        "link": "https://jobs.architecture.com/job/32426/architect-technologist-/?LinkSource=HomePage",
+        "location": "Watlington, Oxfordshire",
+        "description": "Architect/ Technologist | Watlington, Oxfordshire | • | Salary negotiable dependant on experi...",
         "type": "job"
     }
 ]
