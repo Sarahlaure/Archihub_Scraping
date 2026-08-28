@@ -1,5 +1,26 @@
 [
     {
+        "title": "Indian houses",
+        "link": "https://www.dezeen.com/2026/08/28/nodecraft-studio-designs-poured-earth-farmhouse/",
+        "date": "Recent",
+        "description": "Indian houses Indian houses Nodecraft Studio arranges Bengaluru farmhouse around poured-earth walls Architecture practice Nodecraft Studio has created a farmhouse on the outskirts of Bengaluru from a ...",
+        "type": "news"
+    },
+    {
+        "title": "Robotic construction",
+        "link": "https://www.dezeen.com/2026/08/28/swift-build-robot-construction-foster-partners/",
+        "date": "Recent",
+        "description": "Robotic construction Robotic construction Foster + Partners unveils plans for autonomous robot construction project British studio Foster + Partners , in collaboration with academic institutions, has ...",
+        "type": "news"
+    },
+    {
+        "title": "Donald Trump",
+        "link": "https://www.dezeen.com/2026/08/27/demolish-kennedy-center-financial-structural-death-spiral/",
+        "date": "Recent",
+        "description": "Donald Trump Donald Trump US government may demolish Kennedy Center due to \"structural death spiral\" In the ongoing battle over a renovation of the Kennedy Center in Washington, DC ,  the administrati...",
+        "type": "news"
+    },
+    {
         "title": "Homeless housing",
         "link": "https://www.dezeen.com/2026/08/27/lehrer-architects-loma-verde-supportive-housing-los-angeles/",
         "date": "Recent",
@@ -63,27 +84,6 @@
         "type": "news"
     },
     {
-        "title": "Renovations",
-        "link": "https://www.dezeen.com/2026/08/21/uufie-renovates-ontario-chalet-belfountain/",
-        "date": "Recent",
-        "description": "Renovations Renovations UUfie organises renovated Ontario chalet \"like a hike\" Toronto architecture studio UUfie has expanded and renovated a 1970s chalet in Ontario to conform to its steep, wooded si...",
-        "type": "news"
-    },
-    {
-        "title": "Spanish houses",
-        "link": "https://www.dezeen.com/2026/08/21/iterare-arquitectos-casa-nido/",
-        "date": "Recent",
-        "description": "Spanish houses Spanish houses Iterare Arquitectos inserts stark white home into shell of old Spanish building A crisp white cube has been nested within the old brick shell of an existing building to c...",
-        "type": "news"
-    },
-    {
-        "title": "Supertall skyscrapers",
-        "link": "https://www.dezeen.com/2026/08/21/ciel-dubai-marina-worlds-tallest-hotel/",
-        "date": "Recent",
-        "description": "Supertall skyscrapers Supertall skyscrapers Photos reveal world's tallest hotel in Dubai Photographer Ahmad Alnaji has captured the Ciel Dubai Marina, a supertall skyscraper by architecture studio NOR...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of June 2026",
         "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -98,10 +98,10 @@
         "type": "news"
     },
     {
-        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
-        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_1",
+        "title": "GO'C creates multi-use artist building for Washington island",
+        "link": "https://www.dezeen.com/2026/08/10/goc-orcas-island-washington-iolair-studio/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "description": "GO'C creates multi-use artist building for Washington island",
         "type": "news"
     },
     {
@@ -109,6 +109,13 @@
         "link": "https://www.dezeen.com/2026/06/27/skylark-house-of-em-shropshire-stepped-brick-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "House of EM draws on mid-century design principles for brick-clad home",
+        "type": "news"
+    },
+    {
+        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
         "type": "news"
     },
     {
@@ -120,7 +127,7 @@
     },
     {
         "title": "Joe Burke bookends 1960s London terrace with brick home",
-        "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Joe Burke bookends 1960s London terrace with brick home",
         "type": "news"
@@ -130,13 +137,6 @@
         "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
-        "type": "news"
-    },
-    {
-        "title": "Seven self-build housing projects to inspire your own",
-        "link": "https://www.dezeen.com/2026/07/04/self-build-housing-projects/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Seven self-build housing projects to inspire your own",
         "type": "news"
     },
     {
