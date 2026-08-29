@@ -1,5 +1,12 @@
 [
     {
+        "title": "Czech houses",
+        "link": "https://www.dezeen.com/2026/08/29/modular-home-with-sloping-facade-papundekl-architects/",
+        "date": "Recent",
+        "description": "Czech houses Czech houses Slanted facade encloses modular Czech home by Papundekl Architects A tilted facade with large glazed openings was designed to bring an adjacent forest \"directly into the inte...",
+        "type": "news"
+    },
+    {
         "title": "Indian houses",
         "link": "https://www.dezeen.com/2026/08/28/nodecraft-studio-designs-poured-earth-farmhouse/",
         "date": "Recent",
@@ -77,13 +84,6 @@
         "type": "news"
     },
     {
-        "title": "Greek houses",
-        "link": "https://www.dezeen.com/2026/08/23/within-the-earth-alexandre-pavlidis/",
-        "date": "Recent",
-        "description": "Greek houses Greek houses Rough drystone walls frame sunken home on Greek island by Alexandre Pavlidis Architect Alexandre Pavlidis has completed Within the Earth, a house on the Greek island of Sifno...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of June 2026",
         "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -98,10 +98,10 @@
         "type": "news"
     },
     {
-        "title": "GO'C creates multi-use artist building for Washington island",
-        "link": "https://www.dezeen.com/2026/08/10/goc-orcas-island-washington-iolair-studio/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "GO'C creates multi-use artist building for Washington island",
+        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
         "type": "news"
     },
     {
@@ -112,17 +112,17 @@
         "type": "news"
     },
     {
-        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
-        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
+        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
         "type": "news"
     },
     {
-        "title": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
-        "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_2",
+        "title": "GO'C creates multi-use artist building for Washington island",
+        "link": "https://www.dezeen.com/2026/08/10/goc-orcas-island-washington-iolair-studio/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
+        "description": "GO'C creates multi-use artist building for Washington island",
         "type": "news"
     },
     {
@@ -133,10 +133,10 @@
         "type": "news"
     },
     {
-        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
-        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
+        "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
+        "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
         "type": "news"
     },
     {
