@@ -1,5 +1,19 @@
 [
     {
+        "title": "Indonesian houses",
+        "link": "https://www.dezeen.com/2026/08/30/split-mass-residence-k-thengono-design-studio-indonesia/",
+        "date": "Recent",
+        "description": "Indonesian houses Indonesian houses Sloping green roofs \"keep the family connected\" at Indonesian home Grassy rooftops and PE rattan facades characterise Split Mass Residence in Indonesia , which loca...",
+        "type": "news"
+    },
+    {
+        "title": "Houses of the month",
+        "link": "https://www.dezeen.com/2026/08/30/top-houses-august-2026/",
+        "date": "Recent",
+        "description": "Houses of the month Houses of the month Dezeen's top five houses of August 2026 A stone house embedded into the Greek landscape and a sprawling American home with a retractable roof are among the most...",
+        "type": "news"
+    },
+    {
         "title": "Czech houses",
         "link": "https://www.dezeen.com/2026/08/29/modular-home-with-sloping-facade-papundekl-architects/",
         "date": "Recent",
@@ -77,13 +91,6 @@
         "type": "news"
     },
     {
-        "title": "Indian houses",
-        "link": "https://www.dezeen.com/2026/08/24/ushas-farmhouse-kerala-india-evolving-radical-aesthetics/",
-        "date": "Recent",
-        "description": "Indian houses Indian houses Open-air temple sits beneath granite farmhouse on Kerala hillside Indian studio Evolving Radical Aesthetics has completed Ushas, a farmhouse built into a steep Kerala hills...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of June 2026",
         "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -119,15 +126,8 @@
         "type": "news"
     },
     {
-        "title": "GO'C creates multi-use artist building for Washington island",
-        "link": "https://www.dezeen.com/2026/08/10/goc-orcas-island-washington-iolair-studio/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "GO'C creates multi-use artist building for Washington island",
-        "type": "news"
-    },
-    {
         "title": "Joe Burke bookends 1960s London terrace with brick home",
-        "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_3",
+        "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Joe Burke bookends 1960s London terrace with brick home",
         "type": "news"
@@ -137,6 +137,13 @@
         "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
+        "type": "news"
+    },
+    {
+        "title": "Seven self-build housing projects to inspire your own",
+        "link": "https://www.dezeen.com/2026/07/04/self-build-housing-projects/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Seven self-build housing projects to inspire your own",
         "type": "news"
     },
     {
