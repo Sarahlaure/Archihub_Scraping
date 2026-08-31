@@ -1,5 +1,12 @@
 [
     {
+        "title": "Portuguese houses",
+        "link": "https://www.dezeen.com/2026/08/31/antonio-costa-lima-arquitectos-praia-do-bom-housing-block-lisbon/",
+        "date": "Recent",
+        "description": "Portuguese houses Portuguese houses António Costa Lima Arquitectos completes warehouse-style housing block in Lisbon Portuguese studio António Costa Lima Arquitectos has completed Praia do Bom Sucesso...",
+        "type": "news"
+    },
+    {
         "title": "Indonesian houses",
         "link": "https://www.dezeen.com/2026/08/30/split-mass-residence-k-thengono-design-studio-indonesia/",
         "date": "Recent",
@@ -84,13 +91,6 @@
         "type": "news"
     },
     {
-        "title": "American houses",
-        "link": "https://www.dezeen.com/2026/08/24/all-prace-hargis-culver-city-house/",
-        "date": "Recent",
-        "description": "American houses American houses Peaked volumes top Los Angeles house by Allprace Local design-build studio Allprace aimed to create a feeling of \"warmth and permanence\" in a house called Hargis, which...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of June 2026",
         "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -105,13 +105,6 @@
         "type": "news"
     },
     {
-        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
-        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
-        "type": "news"
-    },
-    {
         "title": "House of EM draws on mid-century design principles for brick-clad home",
         "link": "https://www.dezeen.com/2026/06/27/skylark-house-of-em-shropshire-stepped-brick-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -119,10 +112,10 @@
         "type": "news"
     },
     {
-        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
-        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
+        "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
+        "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
         "type": "news"
     },
     {
@@ -133,10 +126,17 @@
         "type": "news"
     },
     {
-        "title": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
-        "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
+        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "type": "news"
+    },
+    {
+        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
+        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
         "type": "news"
     },
     {

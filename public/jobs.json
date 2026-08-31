@@ -1,12 +1,5 @@
 [
     {
-        "title": "Senior Architect",
-        "link": "https://jobs.architecture.com/job/32391/senior-architect-/?LinkSource=HomePage",
-        "location": "London",
-        "description": "Senior Architect | London | • | Competitive",
-        "type": "job"
-    },
-    {
         "title": "Workplace Design Manager (Manchester/Nottingham)",
         "link": "https://jobs.architecture.com/job/32476/workplace-design-manager-manchester-nottingham-/?LinkSource=HomePage",
         "location": "Manchester / Nottingham",
@@ -18,6 +11,13 @@
         "link": "https://jobs.architecture.com/job/32426/architect-technologist-/?LinkSource=HomePage",
         "location": "Watlington, Oxfordshire",
         "description": "Architect/ Technologist | Watlington, Oxfordshire | • | Salary negotiable dependant on experi...",
+        "type": "job"
+    },
+    {
+        "title": "Workplace Design Manager (Cardiff/Leeds)",
+        "link": "https://jobs.architecture.com/job/32475/workplace-design-manager-cardiff-leeds-/?LinkSource=HomePage",
+        "location": "Cardiff / Leeds",
+        "description": "Workplace Design Manager (Cardiff/Leeds) | Cardiff / Leeds | • | £58,478 - £64,743",
         "type": "job"
     },
     {
