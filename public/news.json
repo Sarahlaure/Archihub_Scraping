@@ -1,5 +1,26 @@
 [
     {
+        "title": "Social housing",
+        "link": "https://www.dezeen.com/2026/09/01/obel-award-2026-balearic-islands-social-housing/",
+        "date": "Recent",
+        "description": "Social housing Social housing Balearic Islands' model for social housing wins Obel Award 2026 Social housing in Spain 's Balearic Islands has won this year's Obel Award for demonstrating that public a...",
+        "type": "news"
+    },
+    {
+        "title": "Architecture",
+        "link": "https://www.dezeen.com/2026/09/01/kengo-kuma-andree-putman-lifetime-achievement-award-cda/",
+        "date": "Recent",
+        "description": "Architecture Architecture Kengo Kuma awarded Andrée Putman Lifetime Achievement Award by CDA Japanese architect Kengo Kuma has been named the recipient of the Andrée Putman Lifetime Achievement Award ...",
+        "type": "news"
+    },
+    {
+        "title": "Burning Man",
+        "link": "https://www.dezeen.com/2026/08/31/burning-man-40-years-architects/",
+        "date": "Recent",
+        "description": "Burning Man Burning Man Twelve installations designed by architects at Burning Man over the years As Burning Man kicks off its 40th-anniversary event in Nevada, we rounded up the work of 12 architectu...",
+        "type": "news"
+    },
+    {
         "title": "Portuguese houses",
         "link": "https://www.dezeen.com/2026/08/31/antonio-costa-lima-arquitectos-praia-do-bom-housing-block-lisbon/",
         "date": "Recent",
@@ -63,34 +84,6 @@
         "type": "news"
     },
     {
-        "title": "Reclaimed materials",
-        "link": "https://www.dezeen.com/2026/08/26/wildlife-tower-reclaimed-honeygar-farm-somerset-pearce/",
-        "date": "Recent",
-        "description": "Reclaimed materials Reclaimed materials Pearce+ stacks reclaimed materials to create multi-species wildlife tower Architecture studio Pearce+ has added a wildlife tower for bats, owls, kestrels, inver...",
-        "type": "news"
-    },
-    {
-        "title": "Micro homes",
-        "link": "https://www.dezeen.com/2026/08/26/riksbyggen-swedens-smallest-apartments-housing-crisis-tangible/",
-        "date": "Recent",
-        "description": "Micro homes Micro homes Riksbyggen creates Sweden's smallest apartments to \"make the housing crisis tangible\" Developer Riksbyggen and creative agency BBDO Nordics have designed three flats based on w...",
-        "type": "news"
-    },
-    {
-        "title": "Mexican houses",
-        "link": "https://www.dezeen.com/2026/08/26/colar-adobe-casa-esteli-mexico/",
-        "date": "Recent",
-        "description": "Mexican houses Mexican houses Colar revives adobe structure to create pared-back home in Mexico Architecture studio Colar has updated and extended a dilapidated adobe structure to create a single-stor...",
-        "type": "news"
-    },
-    {
-        "title": "Office architecture",
-        "link": "https://www.dezeen.com/2026/08/25/studio-massimo-office-by-nature-netherlands/",
-        "date": "Recent",
-        "description": "Office architecture Office architecture Grass-topped Dutch office by Studio Massimo \"adds habitat rather than taking it\" Local architecture practice Studio Massimo has completed a bio-based office in ...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of June 2026",
         "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -119,13 +112,6 @@
         "type": "news"
     },
     {
-        "title": "Joe Burke bookends 1960s London terrace with brick home",
-        "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Joe Burke bookends 1960s London terrace with brick home",
-        "type": "news"
-    },
-    {
         "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
         "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
@@ -133,10 +119,17 @@
         "type": "news"
     },
     {
-        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
-        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Joe Burke bookends 1960s London terrace with brick home",
+        "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
+        "description": "Joe Burke bookends 1960s London terrace with brick home",
+        "type": "news"
+    },
+    {
+        "title": "Six small but cool electric cars",
+        "link": "https://www.dezeen.com/2026/08/15/small-but-cool-electric-cars-roundup/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Six small but cool electric cars",
         "type": "news"
     },
     {
