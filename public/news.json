@@ -1,5 +1,26 @@
 [
     {
+        "title": "Dutch houses",
+        "link": "https://www.dezeen.com/2026/09/02/villa-bilt-jeroen-spee-architecten/",
+        "date": "Recent",
+        "description": "Dutch houses Dutch houses Jeroen Spee Architecten nestles pale brick Villa Bilt into Dutch forest Pale brickwork and ceramic tiles were used to highlight the dappled light and green hues of the woodla...",
+        "type": "news"
+    },
+    {
+        "title": "Multicoloured",
+        "link": "https://www.dezeen.com/2026/09/01/mvrdv-woma-colourful-residential-miami/",
+        "date": "Recent",
+        "description": "Multicoloured Multicoloured MVRDV \"prioritises human scale\" in design of colourful Miami building Dutch architecture studio MVRDV has designed the Woma mixed-use building in Miami 's Wynwood neighbour...",
+        "type": "news"
+    },
+    {
+        "title": "White House",
+        "link": "https://www.dezeen.com/2026/09/01/us-supreme-court-trump-white-house-ballroom-continue/",
+        "date": "Recent",
+        "description": "White House White House US Supreme Court says construction of Trump's White House ballroom can continue Yesterday, the United States' highest court said that the construction on the above-ground eleme...",
+        "type": "news"
+    },
+    {
         "title": "Social housing",
         "link": "https://www.dezeen.com/2026/09/01/obel-award-2026-balearic-islands-social-housing/",
         "date": "Recent",
@@ -70,20 +91,6 @@
         "type": "news"
     },
     {
-        "title": "Homeless housing",
-        "link": "https://www.dezeen.com/2026/08/27/lehrer-architects-loma-verde-supportive-housing-los-angeles/",
-        "date": "Recent",
-        "description": "Homeless housing Homeless housing Lehrer Architects designs supportive housing for \"extremely narrow\" site in Los Angeles US studio Lehrer Architects has completed Loma Verde, a supportive housing dev...",
-        "type": "news"
-    },
-    {
-        "title": "Japanese houses",
-        "link": "https://www.dezeen.com/2026/08/27/tato-architects-house-in-shichiku-kyoto/",
-        "date": "Recent",
-        "description": "Japanese houses Japanese houses Tato Architects uses silver-painted ceilings to draw light into Kyoto home Skylights , an internal light well and silver-painted ceilings pull light deep into House in ...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of June 2026",
         "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -98,24 +105,17 @@
         "type": "news"
     },
     {
+        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "type": "news"
+    },
+    {
         "title": "House of EM draws on mid-century design principles for brick-clad home",
         "link": "https://www.dezeen.com/2026/06/27/skylark-house-of-em-shropshire-stepped-brick-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "House of EM draws on mid-century design principles for brick-clad home",
-        "type": "news"
-    },
-    {
-        "title": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
-        "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
-        "type": "news"
-    },
-    {
-        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
-        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
         "type": "news"
     },
     {
@@ -126,10 +126,10 @@
         "type": "news"
     },
     {
-        "title": "Six small but cool electric cars",
-        "link": "https://www.dezeen.com/2026/08/15/small-but-cool-electric-cars-roundup/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
+        "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Six small but cool electric cars",
+        "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
         "type": "news"
     },
     {
@@ -137,6 +137,13 @@
         "link": "https://www.dezeen.com/2026/07/04/self-build-housing-projects/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Seven self-build housing projects to inspire your own",
+        "type": "news"
+    },
+    {
+        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
+        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
         "type": "news"
     },
     {
