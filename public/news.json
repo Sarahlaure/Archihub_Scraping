@@ -1,5 +1,19 @@
 [
     {
+        "title": "Architecture videos",
+        "link": "https://www.dezeen.com/2026/09/02/obama-presidential-center-video-chicago-tod-williams-billie-tsien/",
+        "date": "Recent",
+        "description": "Architecture videos Architecture videos Take a look inside the Obama Presidential Center in this video Take a short tour of the recently opened Obama Presidential Center in Chicago , USA, is this vide...",
+        "type": "news"
+    },
+    {
+        "title": "American houses",
+        "link": "https://www.dezeen.com/2026/09/02/dune-house-delaware-ziger-snead/",
+        "date": "Recent",
+        "description": "American houses American houses Giant balconies line Delaware beach house by Ziger Snead Accoya wood cladding and expansive terraces feature at the Dune House, which was designed by American studio Zi...",
+        "type": "news"
+    },
+    {
         "title": "Dutch houses",
         "link": "https://www.dezeen.com/2026/09/02/villa-bilt-jeroen-spee-architecten/",
         "date": "Recent",
@@ -70,27 +84,6 @@
         "type": "news"
     },
     {
-        "title": "Indian houses",
-        "link": "https://www.dezeen.com/2026/08/28/nodecraft-studio-designs-poured-earth-farmhouse/",
-        "date": "Recent",
-        "description": "Indian houses Indian houses Nodecraft Studio arranges Bengaluru farmhouse around poured-earth walls Architecture practice Nodecraft Studio has created a farmhouse on the outskirts of Bengaluru from a ...",
-        "type": "news"
-    },
-    {
-        "title": "Robotic construction",
-        "link": "https://www.dezeen.com/2026/08/28/swift-build-robot-construction-foster-partners/",
-        "date": "Recent",
-        "description": "Robotic construction Robotic construction Foster + Partners unveils plans for autonomous robot construction project British studio Foster + Partners , in collaboration with academic institutions, has ...",
-        "type": "news"
-    },
-    {
-        "title": "Donald Trump",
-        "link": "https://www.dezeen.com/2026/08/27/demolish-kennedy-center-financial-structural-death-spiral/",
-        "date": "Recent",
-        "description": "Donald Trump Donald Trump US government may demolish Kennedy Center due to \"structural death spiral\" In the ongoing battle over a renovation of the Kennedy Center in Washington, DC ,  the administrati...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of June 2026",
         "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -105,13 +98,6 @@
         "type": "news"
     },
     {
-        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
-        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
-        "type": "news"
-    },
-    {
         "title": "House of EM draws on mid-century design principles for brick-clad home",
         "link": "https://www.dezeen.com/2026/06/27/skylark-house-of-em-shropshire-stepped-brick-house/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -119,10 +105,10 @@
         "type": "news"
     },
     {
-        "title": "Joe Burke bookends 1960s London terrace with brick home",
-        "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
+        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Joe Burke bookends 1960s London terrace with brick home",
+        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
         "type": "news"
     },
     {
@@ -134,16 +120,23 @@
     },
     {
         "title": "Seven self-build housing projects to inspire your own",
-        "link": "https://www.dezeen.com/2026/07/04/self-build-housing-projects/?li_source=LI&li_medium=rhs_block_3",
+        "link": "https://www.dezeen.com/2026/07/04/self-build-housing-projects/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Seven self-build housing projects to inspire your own",
         "type": "news"
     },
     {
-        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
-        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
+        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "type": "news"
+    },
+    {
+        "title": "Joe Burke bookends 1960s London terrace with brick home",
+        "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Joe Burke bookends 1960s London terrace with brick home",
         "type": "news"
     },
     {
