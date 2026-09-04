@@ -1,5 +1,19 @@
 [
     {
+        "title": "Japanese houses",
+        "link": "https://www.dezeen.com/2026/09/04/tato-architects-house-studio-kyoto/",
+        "date": "Recent",
+        "description": "Japanese houses Japanese houses Tato Architects combines skinny home with ceramics studio in Kyoto Skylit ceilings and zigzagging staircases animate this tall, skinny home and ceramics studio in Japan...",
+        "type": "news"
+    },
+    {
+        "title": "Helsinki Design Week",
+        "link": "https://www.dezeen.com/2026/09/04/mo6-carbon-storing-material-elementic/",
+        "date": "Recent",
+        "description": "Helsinki Design Week Helsinki Design Week Finnish company launches \"world's most carbon-storing building material\" Finnish firm Elementic has unveiled MO6, a wall-surfacing material produced from fore...",
+        "type": "news"
+    },
+    {
         "title": "Architecture videos",
         "link": "https://www.dezeen.com/2026/09/02/obama-presidential-center-video-chicago-tod-williams-billie-tsien/",
         "date": "Recent",
@@ -77,24 +91,10 @@
         "type": "news"
     },
     {
-        "title": "Czech houses",
-        "link": "https://www.dezeen.com/2026/08/29/modular-home-with-sloping-facade-papundekl-architects/",
-        "date": "Recent",
-        "description": "Czech houses Czech houses Slanted facade encloses modular Czech home by Papundekl Architects A tilted facade with large glazed openings was designed to bring an adjacent forest \"directly into the inte...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of June 2026",
         "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Dezeen's top five houses of June 2026",
-        "type": "news"
-    },
-    {
-        "title": "Dezeen's top five houses of July 2026",
-        "link": "https://www.dezeen.com/2026/08/01/top-houses-july-2026/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Dezeen's top five houses of July 2026",
         "type": "news"
     },
     {
@@ -105,10 +105,17 @@
         "type": "news"
     },
     {
-        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
-        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Dezeen's top five houses of July 2026",
+        "link": "https://www.dezeen.com/2026/08/01/top-houses-july-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
+        "description": "Dezeen's top five houses of July 2026",
+        "type": "news"
+    },
+    {
+        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
         "type": "news"
     },
     {
@@ -119,17 +126,10 @@
         "type": "news"
     },
     {
-        "title": "Seven self-build housing projects to inspire your own",
-        "link": "https://www.dezeen.com/2026/07/04/self-build-housing-projects/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
+        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Seven self-build housing projects to inspire your own",
-        "type": "news"
-    },
-    {
-        "title": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
-        "link": "https://www.dezeen.com/2026/06/23/longhouse-farm-bastiaan-jongerius-architecten/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Bastiaan Jongerius Architecten revamps Longhouse Farm",
+        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
         "type": "news"
     },
     {
@@ -137,6 +137,13 @@
         "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Joe Burke bookends 1960s London terrace with brick home",
+        "type": "news"
+    },
+    {
+        "title": "Seven self-build housing projects to inspire your own",
+        "link": "https://www.dezeen.com/2026/07/04/self-build-housing-projects/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Seven self-build housing projects to inspire your own",
         "type": "news"
     },
     {

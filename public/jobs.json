@@ -1,16 +1,16 @@
 [
     {
-        "title": "Senior Architect",
-        "link": "https://jobs.architecture.com/job/32391/senior-architect-/?LinkSource=HomePage",
-        "location": "London",
-        "description": "Senior Architect | London | • | Competitive",
-        "type": "job"
-    },
-    {
         "title": "Architect/ Technologist",
         "link": "https://jobs.architecture.com/job/32426/architect-technologist-/?LinkSource=HomePage",
         "location": "Watlington, Oxfordshire",
         "description": "Architect/ Technologist | Watlington, Oxfordshire | • | Salary negotiable dependant on experi...",
+        "type": "job"
+    },
+    {
+        "title": "Senior Architect",
+        "link": "https://jobs.architecture.com/job/32391/senior-architect-/?LinkSource=HomePage",
+        "location": "London",
+        "description": "Senior Architect | London | • | Competitive",
         "type": "job"
     },
     {
@@ -21,10 +21,10 @@
         "type": "job"
     },
     {
-        "title": "Workplace Design Manager (Manchester/Nottingham)",
-        "link": "https://jobs.architecture.com/job/32476/workplace-design-manager-manchester-nottingham-/?LinkSource=HomePage",
-        "location": "Manchester / Nottingham",
-        "description": "Workplace Design Manager (Manchester/Nottingham) | Manchester / Nottingham | • | £58,478 - £64,743",
+        "title": "Conservation Architect",
+        "link": "https://jobs.architecture.com/job/32425/conservation-architect/?LinkSource=HomePage",
+        "location": "London, City of London / London",
+        "description": "Conservation Architect | London, City of London / London | • | £50000 - £56000 per annum",
         "type": "job"
     }
 ]
