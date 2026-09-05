@@ -1,5 +1,12 @@
 [
     {
+        "title": "Residential architecture and interiors",
+        "link": "https://www.dezeen.com/2026/09/05/tollymore-mcgonigle-mcgrath/",
+        "date": "Recent",
+        "description": "Residential architecture and interiors Residential architecture and interiors Cluster of rock-like volumes make up rural Irish house by McGonigle McGrath A cluster of monolithic forms lined with grey ...",
+        "type": "news"
+    },
+    {
         "title": "Japanese houses",
         "link": "https://www.dezeen.com/2026/09/04/tato-architects-house-studio-kyoto/",
         "date": "Recent",
@@ -84,13 +91,6 @@
         "type": "news"
     },
     {
-        "title": "Houses of the month",
-        "link": "https://www.dezeen.com/2026/08/30/top-houses-august-2026/",
-        "date": "Recent",
-        "description": "Houses of the month Houses of the month Dezeen's top five houses of August 2026 A stone house embedded into the Greek landscape and a sprawling American home with a retractable roof are among the most...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of June 2026",
         "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -98,10 +98,10 @@
         "type": "news"
     },
     {
-        "title": "House of EM draws on mid-century design principles for brick-clad home",
-        "link": "https://www.dezeen.com/2026/06/27/skylark-house-of-em-shropshire-stepped-brick-house/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
+        "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "House of EM draws on mid-century design principles for brick-clad home",
+        "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
         "type": "news"
     },
     {
@@ -119,17 +119,24 @@
         "type": "news"
     },
     {
-        "title": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
-        "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_2",
+        "title": "House of EM draws on mid-century design principles for brick-clad home",
+        "link": "https://www.dezeen.com/2026/06/27/skylark-house-of-em-shropshire-stepped-brick-house/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
+        "description": "House of EM draws on mid-century design principles for brick-clad home",
         "type": "news"
     },
     {
-        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
-        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Seven self-build housing projects to inspire your own",
+        "link": "https://www.dezeen.com/2026/07/04/self-build-housing-projects/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
+        "description": "Seven self-build housing projects to inspire your own",
+        "type": "news"
+    },
+    {
+        "title": "AKSH Architects lines The Earthen Retreat with mud walls",
+        "link": "https://www.dezeen.com/2026/08/13/aksh-architects-earthen-retreat/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "AKSH Architects lines The Earthen Retreat with mud walls",
         "type": "news"
     },
     {
@@ -137,13 +144,6 @@
         "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Joe Burke bookends 1960s London terrace with brick home",
-        "type": "news"
-    },
-    {
-        "title": "Seven self-build housing projects to inspire your own",
-        "link": "https://www.dezeen.com/2026/07/04/self-build-housing-projects/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Seven self-build housing projects to inspire your own",
         "type": "news"
     },
     {
