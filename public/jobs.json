@@ -1,5 +1,19 @@
 [
     {
+        "title": "CPD Assessors",
+        "link": "https://jobs.architecture.com/job/32411/cpd-assessors/?LinkSource=HomePage",
+        "location": "Remote",
+        "description": "CPD Assessors | Remote | • | £325 (+ VAT) per CPD assessment compl...",
+        "type": "job"
+    },
+    {
+        "title": "Project Architect",
+        "link": "https://jobs.architecture.com/job/32462/project-architect/?LinkSource=HomePage",
+        "location": "South West London",
+        "description": "Project Architect | South West London | • | £50,000 - £55,000",
+        "type": "job"
+    },
+    {
         "title": "Architect/ Technologist",
         "link": "https://jobs.architecture.com/job/32426/architect-technologist-/?LinkSource=HomePage",
         "location": "Watlington, Oxfordshire",
@@ -7,24 +21,10 @@
         "type": "job"
     },
     {
-        "title": "Senior Project Architect",
-        "link": "https://jobs.architecture.com/job/32418/senior-project-architect/?LinkSource=HomePage",
-        "location": "London or York with homeworking",
-        "description": "Senior Project Architect | London or York with homeworking | • | Competitive salary + benefits",
-        "type": "job"
-    },
-    {
-        "title": "Part 2 Architectural Assistant",
-        "link": "https://jobs.architecture.com/job/32395/part-2-architectural-assistant/?LinkSource=HomePage",
-        "location": "London (Central), London (Greater)",
-        "description": "Part 2 Architectural Assistant | London (Central), London (Greater) | • | 30k-38k DOE",
-        "type": "job"
-    },
-    {
-        "title": "CPD Assessors",
-        "link": "https://jobs.architecture.com/job/32411/cpd-assessors/?LinkSource=HomePage",
-        "location": "Remote",
-        "description": "CPD Assessors | Remote | • | £325 (+ VAT) per CPD assessment compl...",
+        "title": "Project Architect/Senior Technologist",
+        "link": "https://jobs.architecture.com/job/32442/project-architect-senior-technologist/?LinkSource=HomePage",
+        "location": "Salisbury, Wiltshire",
+        "description": "Project Architect/Senior Technologist | Salisbury, Wiltshire | • | D.O.E",
         "type": "job"
     }
 ]
