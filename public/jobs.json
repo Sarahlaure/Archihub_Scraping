@@ -1,16 +1,9 @@
 [
     {
-        "title": "CPD Assessors",
-        "link": "https://jobs.architecture.com/job/32411/cpd-assessors/?LinkSource=HomePage",
-        "location": "Remote",
-        "description": "CPD Assessors | Remote | • | £325 (+ VAT) per CPD assessment compl...",
-        "type": "job"
-    },
-    {
-        "title": "Project Architect",
-        "link": "https://jobs.architecture.com/job/32462/project-architect/?LinkSource=HomePage",
-        "location": "South West London",
-        "description": "Project Architect | South West London | • | £50,000 - £55,000",
+        "title": "Architect and Senior Architectural or associate",
+        "link": "https://jobs.architecture.com/job/32494/architect-and-senior-architectural-or-associate/?LinkSource=HomePage",
+        "location": "St Ives, Cambridgeshire",
+        "description": "Architect and Senior Architectural or associate | St Ives, Cambridgeshire | • | Competitive, dependant on experience ...",
         "type": "job"
     },
     {
@@ -21,10 +14,17 @@
         "type": "job"
     },
     {
-        "title": "Project Architect/Senior Technologist",
-        "link": "https://jobs.architecture.com/job/32442/project-architect-senior-technologist/?LinkSource=HomePage",
-        "location": "Salisbury, Wiltshire",
-        "description": "Project Architect/Senior Technologist | Salisbury, Wiltshire | • | D.O.E",
+        "title": "CPD Assessors",
+        "link": "https://jobs.architecture.com/job/32411/cpd-assessors/?LinkSource=HomePage",
+        "location": "Remote",
+        "description": "CPD Assessors | Remote | • | £325 (+ VAT) per CPD assessment compl...",
+        "type": "job"
+    },
+    {
+        "title": "Senior Architectural Technologist",
+        "link": "https://jobs.architecture.com/job/32479/senior-architectural-technologist/?LinkSource=HomePage",
+        "location": "London (Central), London (Greater)",
+        "description": "Senior Architectural Technologist | London (Central), London (Greater) | • | 40k-55k DOE",
         "type": "job"
     }
 ]
