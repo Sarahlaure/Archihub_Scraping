@@ -1,5 +1,19 @@
 [
     {
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/32492/architect-/?LinkSource=HomePage",
+        "location": "Bermuda (BM)",
+        "description": "Architect | Bermuda (BM) | • | A Competitive salary dependent on exp...",
+        "type": "job"
+    },
+    {
+        "title": "Senior Landscape Architect",
+        "link": "https://jobs.architecture.com/job/32459/senior-landscape-architect/?LinkSource=HomePage",
+        "location": "West Midlands, Birmingham",
+        "description": "Senior Landscape Architect | West Midlands, Birmingham | • | £40000 - £50000 per annum",
+        "type": "job"
+    },
+    {
         "title": "Architect and Senior Architectural or associate",
         "link": "https://jobs.architecture.com/job/32494/architect-and-senior-architectural-or-associate/?LinkSource=HomePage",
         "location": "St Ives, Cambridgeshire",
@@ -11,20 +25,6 @@
         "link": "https://jobs.architecture.com/job/32426/architect-technologist-/?LinkSource=HomePage",
         "location": "Watlington, Oxfordshire",
         "description": "Architect/ Technologist | Watlington, Oxfordshire | • | Salary negotiable dependant on experi...",
-        "type": "job"
-    },
-    {
-        "title": "CPD Assessors",
-        "link": "https://jobs.architecture.com/job/32411/cpd-assessors/?LinkSource=HomePage",
-        "location": "Remote",
-        "description": "CPD Assessors | Remote | • | £325 (+ VAT) per CPD assessment compl...",
-        "type": "job"
-    },
-    {
-        "title": "Senior Architectural Technologist",
-        "link": "https://jobs.architecture.com/job/32479/senior-architectural-technologist/?LinkSource=HomePage",
-        "location": "London (Central), London (Greater)",
-        "description": "Senior Architectural Technologist | London (Central), London (Greater) | • | 40k-55k DOE",
         "type": "job"
     }
 ]

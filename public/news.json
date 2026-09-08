@@ -1,5 +1,12 @@
 [
     {
+        "title": "Cultural buildings",
+        "link": "https://www.dezeen.com/2026/09/08/xian-public-library-cultural-centre-china/",
+        "date": "Recent",
+        "description": "Cultural buildings Cultural buildings Chinese library complex encourages \"connections between people and the city\" A sweeping white roof informed by the pages of a book crowns Chang'an Academy Xi'an P...",
+        "type": "news"
+    },
+    {
         "title": "Residential architecture and interiors",
         "link": "https://www.dezeen.com/2026/09/05/tollymore-mcgonigle-mcgrath/",
         "date": "Recent",
@@ -56,31 +63,10 @@
         "type": "news"
     },
     {
-        "title": "Social housing",
-        "link": "https://www.dezeen.com/2026/09/01/obel-award-2026-balearic-islands-social-housing/",
-        "date": "Recent",
-        "description": "Social housing Social housing Balearic Islands' model for social housing wins Obel Award 2026 Social housing in Spain 's Balearic Islands has won this year's Obel Award for demonstrating that public a...",
-        "type": "news"
-    },
-    {
-        "title": "Architecture",
-        "link": "https://www.dezeen.com/2026/09/01/kengo-kuma-andree-putman-lifetime-achievement-award-cda/",
-        "date": "Recent",
-        "description": "Architecture Architecture Kengo Kuma awarded Andrée Putman Lifetime Achievement Award by CDA Japanese architect Kengo Kuma has been named the recipient of the Andrée Putman Lifetime Achievement Award ...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of June 2026",
         "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Dezeen's top five houses of June 2026",
-        "type": "news"
-    },
-    {
-        "title": "Dezeen's top five houses of July 2026",
-        "link": "https://www.dezeen.com/2026/08/01/top-houses-july-2026/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Dezeen's top five houses of July 2026",
         "type": "news"
     },
     {
@@ -98,10 +84,10 @@
         "type": "news"
     },
     {
-        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
-        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Dezeen's top five houses of July 2026",
+        "link": "https://www.dezeen.com/2026/08/01/top-houses-july-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
+        "description": "Dezeen's top five houses of July 2026",
         "type": "news"
     },
     {
@@ -109,6 +95,13 @@
         "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Joe Burke bookends 1960s London terrace with brick home",
+        "type": "news"
+    },
+    {
+        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
+        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
         "type": "news"
     },
     {
