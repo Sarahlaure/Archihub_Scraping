@@ -1,5 +1,26 @@
 [
     {
+        "title": "Adaptive reuse",
+        "link": "https://www.dezeen.com/2026/09/09/studio-ko-centre-contemporary-arts-tashkent/",
+        "date": "Recent",
+        "description": "Adaptive reuse Adaptive reuse Studio KO transforms \"basilica-like\" tram depot into Tashkent art centre A metal tunnel guides visitors from underground into a lofty exhibition hall within a tram depot ...",
+        "type": "news"
+    },
+    {
+        "title": "Dezeen Awards",
+        "link": "https://www.dezeen.com/2026/09/09/emea-regional-showcases-dezeen-awards/",
+        "date": "Recent",
+        "description": "Dezeen Awards Dezeen Awards See the 50 projects from Europe, Middle East and Africa selected for Dezeen Awards 2026 Regional Showcases Dezeen has announced the 50 projects featured in the Top 50: Euro...",
+        "type": "news"
+    },
+    {
+        "title": "Architecture",
+        "link": "https://www.dezeen.com/2026/09/09/205-north-quay-brisbane/",
+        "date": "Recent",
+        "description": "Architecture Architecture Copper-coloured ellipses wrap office tower in Brisbane A shading system comprised of copper-coloured ovals was added to the 205 North Quay tower in Brisbane , Australia, to c...",
+        "type": "news"
+    },
+    {
         "title": "Cultural buildings",
         "link": "https://www.dezeen.com/2026/09/08/xian-public-library-cultural-centre-china/",
         "date": "Recent",
@@ -49,20 +70,6 @@
         "type": "news"
     },
     {
-        "title": "Multicoloured",
-        "link": "https://www.dezeen.com/2026/09/01/mvrdv-woma-colourful-residential-miami/",
-        "date": "Recent",
-        "description": "Multicoloured Multicoloured MVRDV \"prioritises human scale\" in design of colourful Miami building Dutch architecture studio MVRDV has designed the Woma mixed-use building in Miami 's Wynwood neighbour...",
-        "type": "news"
-    },
-    {
-        "title": "White House",
-        "link": "https://www.dezeen.com/2026/09/01/us-supreme-court-trump-white-house-ballroom-continue/",
-        "date": "Recent",
-        "description": "White House White House US Supreme Court says construction of Trump's White House ballroom can continue Yesterday, the United States' highest court said that the construction on the above-ground eleme...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of June 2026",
         "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -77,10 +84,10 @@
         "type": "news"
     },
     {
-        "title": "Seven self-build housing projects to inspire your own",
-        "link": "https://www.dezeen.com/2026/07/04/self-build-housing-projects/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
+        "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Seven self-build housing projects to inspire your own",
+        "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
         "type": "news"
     },
     {
@@ -91,31 +98,31 @@
         "type": "news"
     },
     {
-        "title": "Joe Burke bookends 1960s London terrace with brick home",
-        "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Seven self-build housing projects to inspire your own",
+        "link": "https://www.dezeen.com/2026/07/04/self-build-housing-projects/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Joe Burke bookends 1960s London terrace with brick home",
+        "description": "Seven self-build housing projects to inspire your own",
+        "type": "news"
+    },
+    {
+        "title": "Leckie Studio tucks Twin Peaks House into forested Vancouver site",
+        "link": "https://www.dezeen.com/2026/08/06/leckie-studio-twin-peaks-house-vancouver/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Leckie Studio tucks Twin Peaks House into forested Vancouver site",
         "type": "news"
     },
     {
         "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
-        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
         "type": "news"
     },
     {
-        "title": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
-        "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Joe Burke bookends 1960s London terrace with brick home",
+        "link": "https://www.dezeen.com/2026/06/29/joe-burke-leyton-house/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
-        "type": "news"
-    },
-    {
-        "title": "GO'C creates multi-use artist building for Washington island",
-        "link": "https://www.dezeen.com/2026/08/10/goc-orcas-island-washington-iolair-studio/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "GO'C creates multi-use artist building for Washington island",
+        "description": "Joe Burke bookends 1960s London terrace with brick home",
         "type": "news"
     },
     {
