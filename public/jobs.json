@@ -1,19 +1,5 @@
 [
     {
-        "title": "Architect and Senior Architectural or associate",
-        "link": "https://jobs.architecture.com/job/32494/architect-and-senior-architectural-or-associate/?LinkSource=HomePage",
-        "location": "St Ives, Cambridgeshire",
-        "description": "Architect and Senior Architectural or associate | St Ives, Cambridgeshire | • | Competitive, dependant on experience ...",
-        "type": "job"
-    },
-    {
-        "title": "Senior Project Architect",
-        "link": "https://jobs.architecture.com/job/32418/senior-project-architect/?LinkSource=HomePage",
-        "location": "London or York with homeworking",
-        "description": "Senior Project Architect | London or York with homeworking | • | Competitive salary + benefits",
-        "type": "job"
-    },
-    {
         "title": "Architect/ Technologist",
         "link": "https://jobs.architecture.com/job/32426/architect-technologist-/?LinkSource=HomePage",
         "location": "Watlington, Oxfordshire",
@@ -21,10 +7,24 @@
         "type": "job"
     },
     {
+        "title": "Architect and Senior Architectural or associate",
+        "link": "https://jobs.architecture.com/job/32494/architect-and-senior-architectural-or-associate/?LinkSource=HomePage",
+        "location": "St Ives, Cambridgeshire",
+        "description": "Architect and Senior Architectural or associate | St Ives, Cambridgeshire | • | Competitive, dependant on experience ...",
+        "type": "job"
+    },
+    {
         "title": "Architect",
         "link": "https://jobs.architecture.com/job/32492/architect-/?LinkSource=HomePage",
         "location": "Bermuda (BM)",
         "description": "Architect | Bermuda (BM) | • | A Competitive salary dependent on exp...",
+        "type": "job"
+    },
+    {
+        "title": "Associate Director",
+        "link": "https://jobs.architecture.com/job/32502/associate-director/?LinkSource=HomePage",
+        "location": "Surrey",
+        "description": "Associate Director | Surrey | • | £70,000 - £75,000",
         "type": "job"
     }
 ]
