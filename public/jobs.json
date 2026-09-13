@@ -1,12 +1,5 @@
 [
     {
-        "title": "Architect",
-        "link": "https://jobs.architecture.com/job/32492/architect-/?LinkSource=HomePage",
-        "location": "Bermuda (BM)",
-        "description": "Architect | Bermuda (BM) | • | A Competitive salary dependent on exp...",
-        "type": "job"
-    },
-    {
         "title": "Architect and Senior Architectural or associate",
         "link": "https://jobs.architecture.com/job/32494/architect-and-senior-architectural-or-associate/?LinkSource=HomePage",
         "location": "St Ives, Cambridgeshire",
@@ -21,10 +14,17 @@
         "type": "job"
     },
     {
-        "title": "Architect",
-        "link": "https://jobs.architecture.com/job/32501/architect/?LinkSource=HomePage",
-        "location": "Dover, Kent",
-        "description": "Architect | Dover, Kent | • | £35000 - £45000 per annum + plus bene...",
+        "title": "Senior Project Architect",
+        "link": "https://jobs.architecture.com/job/32464/senior-project-architect/?LinkSource=HomePage",
+        "location": "Richmond upon Thames, London (Greater)",
+        "description": "Senior Project Architect | Richmond upon Thames, London (Greater) | • | Negotiable",
+        "type": "job"
+    },
+    {
+        "title": "Senior Architect",
+        "link": "https://jobs.architecture.com/job/32454/senior-architect/?LinkSource=HomePage",
+        "location": "Leeds, West Yorkshire",
+        "description": "Senior Architect | Leeds, West Yorkshire | • | £42000 - £48000 per annum + Company B...",
         "type": "job"
     }
 ]

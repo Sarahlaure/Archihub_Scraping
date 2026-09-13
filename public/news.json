@@ -1,5 +1,12 @@
 [
     {
+        "title": "Holiday homes",
+        "link": "https://www.dezeen.com/2026/09/13/johan-sundberg-arkitektur-pine-house/",
+        "date": "Recent",
+        "description": "Holiday homes Holiday homes Johan Sundberg Arkitektur nestles timber summer house within Swedish woodland Swedish studio Johan Sundberg Arkitektur has designed the Pine House holiday home with a cross...",
+        "type": "news"
+    },
+    {
         "title": "This week on Dezeen",
         "link": "https://www.dezeen.com/2026/09/12/stone-high-rise-london-this-week/",
         "date": "Recent",
@@ -63,24 +70,10 @@
         "type": "news"
     },
     {
-        "title": "Dezeen's top five houses of June 2026",
-        "link": "https://www.dezeen.com/2026/06/30/top-houses-june-2026/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Dezeen's top five houses of June 2026",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of July 2026",
         "link": "https://www.dezeen.com/2026/08/01/top-houses-july-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Dezeen's top five houses of July 2026",
-        "type": "news"
-    },
-    {
-        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
-        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
         "type": "news"
     },
     {
@@ -91,10 +84,17 @@
         "type": "news"
     },
     {
-        "title": "Leckie Studio tucks Twin Peaks House into forested Vancouver site",
-        "link": "https://www.dezeen.com/2026/08/06/leckie-studio-twin-peaks-house-vancouver/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Charred wood gives Vermont house a \"bark-like exterior\"",
+        "link": "https://www.dezeen.com/2026/07/27/milo-house-vermont-elizabeth-herrmann-architecture-design/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Leckie Studio tucks Twin Peaks House into forested Vancouver site",
+        "description": "Charred wood gives Vermont house a \"bark-like exterior\"",
+        "type": "news"
+    },
+    {
+        "title": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
+        "link": "https://www.dezeen.com/2026/07/14/tom-kneepkens-forest-villa-home-netherlands/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Tom Kneepkens \"integrates living and nature\" at Dutch forest villa",
         "type": "news"
     },
     {
@@ -105,10 +105,10 @@
         "type": "news"
     },
     {
-        "title": "Charred wood gives Vermont house a \"bark-like exterior\"",
-        "link": "https://www.dezeen.com/2026/07/27/milo-house-vermont-elizabeth-herrmann-architecture-design/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Leckie Studio tucks Twin Peaks House into forested Vancouver site",
+        "link": "https://www.dezeen.com/2026/08/06/leckie-studio-twin-peaks-house-vancouver/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Charred wood gives Vermont house a \"bark-like exterior\"",
+        "description": "Leckie Studio tucks Twin Peaks House into forested Vancouver site",
         "type": "news"
     },
     {
@@ -116,6 +116,13 @@
         "link": "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Eight unique patios that beckon to the outdoors",
+        "type": "news"
+    },
+    {
+        "title": "New York loft renovation by Studio Vural comprises \"pods in a box\"",
+        "link": "https://www.dezeen.com/2026/08/02/studio-vural-herring-factory-loft-renovation-west-village-new-york/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "New York loft renovation by Studio Vural comprises \"pods in a box\"",
         "type": "news"
     },
     {
