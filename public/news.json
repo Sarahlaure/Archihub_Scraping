@@ -1,5 +1,19 @@
 [
     {
+        "title": "London Design Festival",
+        "link": "https://www.dezeen.com/2026/09/14/studio-saar-atelier-one-pangolin-shield-bamboo-pavilion/",
+        "date": "Recent",
+        "description": "London Design Festival London Design Festival Studio Saar tops LDF pavilion with police and rain shields This year's London Design Festival landmark project, The Pangolin Shield, explores Britain and ...",
+        "type": "news"
+    },
+    {
+        "title": "Mexican houses",
+        "link": "https://www.dezeen.com/2026/09/14/colar-casa-amona-mexico/",
+        "date": "Recent",
+        "description": "Mexican houses Mexican houses Colar angles home and studio to face surrounding hills in Mexico White lime-rendered walls frame Casa Amona, a two-storey home and studio in Mexico , designed by local ar...",
+        "type": "news"
+    },
+    {
         "title": "Holiday homes",
         "link": "https://www.dezeen.com/2026/09/13/johan-sundberg-arkitektur-pine-house/",
         "date": "Recent",
@@ -63,13 +77,6 @@
         "type": "news"
     },
     {
-        "title": "Cultural buildings",
-        "link": "https://www.dezeen.com/2026/09/08/xian-public-library-cultural-centre-china/",
-        "date": "Recent",
-        "description": "Cultural buildings Cultural buildings Chinese library complex encourages \"connections between people and the city\" A sweeping white roof informed by the pages of a book crowns Chang'an Academy Xi'an P...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of July 2026",
         "link": "https://www.dezeen.com/2026/08/01/top-houses-july-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -84,10 +91,10 @@
         "type": "news"
     },
     {
-        "title": "Charred wood gives Vermont house a \"bark-like exterior\"",
-        "link": "https://www.dezeen.com/2026/07/27/milo-house-vermont-elizabeth-herrmann-architecture-design/?li_source=LI&li_medium=rhs_block_1",
+        "title": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
+        "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Charred wood gives Vermont house a \"bark-like exterior\"",
+        "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
         "type": "news"
     },
     {
@@ -98,31 +105,31 @@
         "type": "news"
     },
     {
-        "title": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
-        "link": "https://www.dezeen.com/2026/07/07/dulnain-loader-monteith/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Loader Monteith rebuilds Dulnain house in Scottish Highlands",
-        "type": "news"
-    },
-    {
-        "title": "Leckie Studio tucks Twin Peaks House into forested Vancouver site",
-        "link": "https://www.dezeen.com/2026/08/06/leckie-studio-twin-peaks-house-vancouver/?li_source=LI&li_medium=rhs_block_2",
-        "date": "Recent",
-        "description": "Leckie Studio tucks Twin Peaks House into forested Vancouver site",
-        "type": "news"
-    },
-    {
         "title": "Eight unique patios that beckon to the outdoors",
-        "link": "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/?li_source=LI&li_medium=rhs_block_3",
+        "link": "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
         "description": "Eight unique patios that beckon to the outdoors",
         "type": "news"
     },
     {
-        "title": "New York loft renovation by Studio Vural comprises \"pods in a box\"",
-        "link": "https://www.dezeen.com/2026/08/02/studio-vural-herring-factory-loft-renovation-west-village-new-york/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Charred wood gives Vermont house a \"bark-like exterior\"",
+        "link": "https://www.dezeen.com/2026/07/27/milo-house-vermont-elizabeth-herrmann-architecture-design/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "New York loft renovation by Studio Vural comprises \"pods in a box\"",
+        "description": "Charred wood gives Vermont house a \"bark-like exterior\"",
+        "type": "news"
+    },
+    {
+        "title": "GO'C creates multi-use artist building for Washington island",
+        "link": "https://www.dezeen.com/2026/08/10/goc-orcas-island-washington-iolair-studio/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "GO'C creates multi-use artist building for Washington island",
+        "type": "news"
+    },
+    {
+        "title": "Leckie Studio tucks Twin Peaks House into forested Vancouver site",
+        "link": "https://www.dezeen.com/2026/08/06/leckie-studio-twin-peaks-house-vancouver/?li_source=LI&li_medium=rhs_block_3",
+        "date": "Recent",
+        "description": "Leckie Studio tucks Twin Peaks House into forested Vancouver site",
         "type": "news"
     },
     {
