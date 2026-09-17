@@ -1,16 +1,9 @@
 [
     {
-        "title": "Architect",
-        "link": "https://jobs.architecture.com/job/32455/architect-/?LinkSource=HomePage",
-        "location": "West Midlands, Birmingham",
-        "description": "Architect | West Midlands, Birmingham | • | £38000 - £45000 per annum + plus bene...",
-        "type": "job"
-    },
-    {
-        "title": "Architect / Architectural Technologist",
-        "link": "https://jobs.architecture.com/job/32530/architect-architectural-technologist-/?LinkSource=HomePage",
-        "location": "Stockton-on-Tees, Durham",
-        "description": "Architect / Architectural Technologist | Stockton-on-Tees, Durham | • | Up to £46,000 per annum",
+        "title": "Project Architect",
+        "link": "https://jobs.architecture.com/job/32467/project-architect/?LinkSource=HomePage",
+        "location": "North Yorkshire, Harrogate",
+        "description": "Project Architect | North Yorkshire, Harrogate | • | £40000 - £44000 per annum + Company B...",
         "type": "job"
     },
     {
@@ -25,6 +18,13 @@
         "link": "https://jobs.architecture.com/job/32494/architect-and-senior-architectural-or-associate/?LinkSource=HomePage",
         "location": "St Ives, Cambridgeshire",
         "description": "Architect and Senior Architectural or associate | St Ives, Cambridgeshire | • | Competitive, dependant on experience ...",
+        "type": "job"
+    },
+    {
+        "title": "Architect / Architectural Technologist",
+        "link": "https://jobs.architecture.com/job/32530/architect-architectural-technologist-/?LinkSource=HomePage",
+        "location": "Stockton-on-Tees, Durham",
+        "description": "Architect / Architectural Technologist | Stockton-on-Tees, Durham | • | Up to £46,000 per annum",
         "type": "job"
     }
 ]
