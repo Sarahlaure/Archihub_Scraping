@@ -48,6 +48,22 @@
         "type": "competition"
     },
     {
+        "title": "House of the future",
+        "link": "https://competitions.archi/competition/house-of-the-future/",
+        "deadline": "31st December 2026",
+        "deadline_iso": "2026-12-31T00:00:00",
+        "description": "House of the future Submission: 31st December 2026 Registration: 30th November 2026 Location: Saudi Arabia Language: English Prizes: USD 10000 Type: Open As Saudi Arabia continues its remarkable trans...",
+        "type": "competition"
+    },
+    {
+        "title": "2nd International Aesthetic Design Competition",
+        "link": "https://competitions.archi/competition/2nd-international-aesthetic-design-competition/",
+        "deadline": "29th March 2027",
+        "deadline_iso": "2027-03-29T00:00:00",
+        "description": "2nd International Aesthetic Design Competition Submission: 29th March 2027 Registration: 29th March 2027 Location: Alanya, Antalya, Turkey Language: English Prizes: First Prize: €400 | Second Prize: €...",
+        "type": "competition"
+    },
+    {
         "title": "Sayembara Desain Arsitektur & Beasiswa Balitecture 2026",
         "link": "https://competitions.archi/competition/sayembara-desain-arsitektur-beasiswa-balitecture-2026/",
         "deadline": "31st October 2026",
@@ -93,22 +109,6 @@
         "deadline": "21st September 2026",
         "deadline_iso": "2026-09-21T00:00:00",
         "description": "National Open Competition for Architecture, Urbanism, and Landscape Architecture for the UFC Center for Arts, Culture, and Events Submission: 21st September 2026 Registration: 6th October 2026 Locatio...",
-        "type": "competition"
-    },
-    {
-        "title": "L A M P International Lighting Design Competition 2026",
-        "link": "https://competitions.archi/competition/l-a-m-p-international-lighting-design-competition-2026/",
-        "deadline": "15th October 2026",
-        "deadline_iso": "2026-10-15T00:00:00",
-        "description": "L A M P International Lighting Design Competition 2026 Submission: 15th October 2026 Registration: 15th October 2026 Location: concept Language: English Prizes: view website Type: Open Sparking innova...",
-        "type": "competition"
-    },
-    {
-        "title": "2026 Fall 2×8 Exhibition and Scholarship Program",
-        "link": "https://competitions.archi/competition/2026-fall-2x8-exhibition-and-scholarship-program/",
-        "deadline": "19th October 2026",
-        "deadline_iso": "2026-10-19T00:00:00",
-        "description": "2026 Fall 2×8 Exhibition and Scholarship Program Submission: 19th October 2026 Registration: 14th September 2026 Location: concept Language: English Prizes: view website Type: Open WHAT IS 2X8? 2×8 is...",
         "type": "competition"
     },
     {
@@ -298,6 +298,27 @@
         "link": "https://architecturecompetitions.com/#",
         "deadline": "Unknown",
         "description": "Download brief",
+        "type": "competition"
+    },
+    {
+        "title": "Rome Rain Rooms",
+        "link": "https://architecturecompetitions.com/romerainrooms",
+        "deadline": "Unknown",
+        "description": "Rome Rain Rooms",
+        "type": "competition"
+    },
+    {
+        "title": "Yiyang Sang and Senmiao Yang from United States!",
+        "link": "https://architecturecompetitions.com/rome-rain-rooms-competition-participants-yiyang-sang-9710",
+        "deadline": "Unknown",
+        "description": "Yiyang Sang and Senmiao Yang from United States!",
+        "type": "competition"
+    },
+    {
+        "title": "Mennaalla Mohamed Mostafa Soliman Abas, Rina Seida and Synnove Patricia Grao from Italy!",
+        "link": "https://architecturecompetitions.com/rome-rain-rooms-3rd-competition-participants-mennaalla-mohamed-mostafa-soliman-abas-rina-seida-synnove-patricia-grao-9728",
+        "deadline": "Unknown",
+        "description": "Mennaalla Mohamed Mostafa Soliman Abas, Rina Seida and Synnove Patricia Grao from Italy!",
         "type": "competition"
     },
     {
