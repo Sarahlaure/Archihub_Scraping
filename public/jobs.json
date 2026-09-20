@@ -1,9 +1,16 @@
 [
     {
-        "title": "Architect and Senior Architectural or associate",
-        "link": "https://jobs.architecture.com/job/32494/architect-and-senior-architectural-or-associate/?LinkSource=HomePage",
-        "location": "St Ives, Cambridgeshire",
-        "description": "Architect and Senior Architectural or associate | St Ives, Cambridgeshire | • | Competitive, dependant on experience ...",
+        "title": "Part I and Part 2 Architectural Assistant",
+        "link": "https://jobs.architecture.com/job/32516/part-i-and-part-2-architectural-assistant/?LinkSource=HomePage",
+        "location": "Weybridge, Surrey",
+        "description": "Part I and Part 2 Architectural Assistant | Weybridge, Surrey | • | £25,000 - £35,000.00 plus bonus based...",
+        "type": "job"
+    },
+    {
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/32480/architect-/?LinkSource=HomePage",
+        "location": "London (Greater)",
+        "description": "Architect | London (Greater) | • | £40,000 - £55,000",
         "type": "job"
     },
     {
@@ -14,17 +21,10 @@
         "type": "job"
     },
     {
-        "title": "Part I and Part 2 Architectural Assistant",
-        "link": "https://jobs.architecture.com/job/32516/part-i-and-part-2-architectural-assistant/?LinkSource=HomePage",
-        "location": "Weybridge, Surrey",
-        "description": "Part I and Part 2 Architectural Assistant | Weybridge, Surrey | • | £25,000 - £35,000.00 plus bonus based...",
-        "type": "job"
-    },
-    {
-        "title": "Newly Qualified Architect",
-        "link": "https://jobs.architecture.com/job/32518/newly-qualified-architect-/?LinkSource=HomePage",
-        "location": "Oxfordshire",
-        "description": "Newly Qualified Architect | Oxfordshire | • | £34000 - £39000 per annum + Company B...",
+        "title": "Architect and Senior Architectural or associate",
+        "link": "https://jobs.architecture.com/job/32494/architect-and-senior-architectural-or-associate/?LinkSource=HomePage",
+        "location": "St Ives, Cambridgeshire",
+        "description": "Architect and Senior Architectural or associate | St Ives, Cambridgeshire | • | Competitive, dependant on experience ...",
         "type": "job"
     }
 ]
