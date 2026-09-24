@@ -111,10 +111,10 @@
         "type": "competition"
     },
     {
-        "title": "UNBUILT 2026 Award100,000 € Prize",
-        "link": "https://architecturecompetitions.com/unbuilt2026/",
+        "title": "UNBUILT 2027 Award100,000 € Prize",
+        "link": "https://architecturecompetitions.com/unbuilt2027/",
         "deadline": "Unknown",
-        "description": "UNBUILT 2026 Award 100,000 € Prize",
+        "description": "UNBUILT 2027 Award 100,000 € Prize",
         "type": "competition"
     },
     {
@@ -286,10 +286,31 @@
         "type": "competition"
     },
     {
-        "title": "Download brief",
-        "link": "https://architecturecompetitions.com/#",
+        "title": "The Next House: USA",
+        "link": "https://architecturecompetitions.com/thenexthouseusa",
         "deadline": "Unknown",
-        "description": "Download brief",
+        "description": "The Next House: USA",
+        "type": "competition"
+    },
+    {
+        "title": "Chung Wei Lee, Yu Hsiang Lin and Buzz Wei from United States!",
+        "link": "https://architecturecompetitions.com/the-next-house-usa-3rd-competition-participants-chung-wei-lee-yu-hsiang-lin-buzz-wei-9741",
+        "deadline": "Unknown",
+        "description": "Chung Wei Lee, Yu Hsiang Lin and Buzz Wei from United States!",
+        "type": "competition"
+    },
+    {
+        "title": "Diego Rodriguez from France!",
+        "link": "https://architecturecompetitions.com/the-next-house-usa-2nd-competition-participants-diego-rodriguez-9791",
+        "deadline": "Unknown",
+        "description": "Diego Rodriguez from France!",
+        "type": "competition"
+    },
+    {
+        "title": "Shengnan Gao, Telmen Bayasgalan and Penghui Zhang from United States!",
+        "link": "https://architecturecompetitions.com/the-next-house-usa-1st-competition-participants-shengnan-gao-telmen-bayasgalan-penghui-zhang-9790",
+        "deadline": "Unknown",
+        "description": "Shengnan Gao, Telmen Bayasgalan and Penghui Zhang from United States!",
         "type": "competition"
     },
     {

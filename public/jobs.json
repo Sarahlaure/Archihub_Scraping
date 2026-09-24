@@ -1,12 +1,5 @@
 [
     {
-        "title": "Senior Architectural Technologist",
-        "link": "https://jobs.architecture.com/job/32503/senior-architectural-technologist/?LinkSource=HomePage",
-        "location": "Surrey",
-        "description": "Senior Architectural Technologist | Surrey | • | £55,000 - £65,000",
-        "type": "job"
-    },
-    {
         "title": "Architect and Senior Architectural or associate",
         "link": "https://jobs.architecture.com/job/32494/architect-and-senior-architectural-or-associate/?LinkSource=HomePage",
         "location": "St Ives, Cambridgeshire",
@@ -14,10 +7,10 @@
         "type": "job"
     },
     {
-        "title": "Architect / Architectural Technologist",
-        "link": "https://jobs.architecture.com/job/32530/architect-architectural-technologist-/?LinkSource=HomePage",
-        "location": "Stockton-on-Tees, Durham",
-        "description": "Architect / Architectural Technologist | Stockton-on-Tees, Durham | • | Up to £46,000 per annum",
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/32483/architect-/?LinkSource=HomePage",
+        "location": "Surrey",
+        "description": "Architect | Surrey | • | £40,000 - £55,000",
         "type": "job"
     },
     {
@@ -25,6 +18,13 @@
         "link": "https://jobs.architecture.com/job/32516/part-i-and-part-2-architectural-assistant/?LinkSource=HomePage",
         "location": "Weybridge, Surrey",
         "description": "Part I and Part 2 Architectural Assistant | Weybridge, Surrey | • | £25,000 - £35,000.00 plus bonus based...",
+        "type": "job"
+    },
+    {
+        "title": "Architect / Architectural Technologist",
+        "link": "https://jobs.architecture.com/job/32530/architect-architectural-technologist-/?LinkSource=HomePage",
+        "location": "Stockton-on-Tees, Durham",
+        "description": "Architect / Architectural Technologist | Stockton-on-Tees, Durham | • | Up to £46,000 per annum",
         "type": "job"
     }
 ]
