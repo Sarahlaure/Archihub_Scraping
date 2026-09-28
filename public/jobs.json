@@ -1,12 +1,5 @@
 [
     {
-        "title": "Architect and Senior Architectural or associate",
-        "link": "https://jobs.architecture.com/job/32494/architect-and-senior-architectural-or-associate/?LinkSource=HomePage",
-        "location": "St Ives, Cambridgeshire",
-        "description": "Architect and Senior Architectural or associate | St Ives, Cambridgeshire | • | Competitive, dependant on experience ...",
-        "type": "job"
-    },
-    {
         "title": "Part I and Part 2 Architectural Assistant",
         "link": "https://jobs.architecture.com/job/32516/part-i-and-part-2-architectural-assistant/?LinkSource=HomePage",
         "location": "Weybridge, Surrey",
@@ -21,10 +14,17 @@
         "type": "job"
     },
     {
-        "title": "Senior Architect/Senior Technologist",
-        "link": "https://jobs.architecture.com/job/32561/senior-architect-senior-technologist/?LinkSource=HomePage",
-        "location": "London (Central), London (Greater)",
-        "description": "Senior Architect/Senior Technologist | London (Central), London (Greater) | • | Up to 65k DOE",
+        "title": "Technical Architect",
+        "link": "https://jobs.architecture.com/job/32485/technical-architect/?LinkSource=HomePage",
+        "location": "London (Greater)",
+        "description": "Technical Architect | London (Greater) | • | Competitive salary + benefits",
+        "type": "job"
+    },
+    {
+        "title": "Architect and Senior Architectural or associate",
+        "link": "https://jobs.architecture.com/job/32494/architect-and-senior-architectural-or-associate/?LinkSource=HomePage",
+        "location": "St Ives, Cambridgeshire",
+        "description": "Architect and Senior Architectural or associate | St Ives, Cambridgeshire | • | Competitive, dependant on experience ...",
         "type": "job"
     }
 ]
