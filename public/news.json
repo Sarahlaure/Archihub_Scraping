@@ -1,5 +1,26 @@
 [
     {
+        "title": "Student housing",
+        "link": "https://www.dezeen.com/2026/09/29/stanton-williams-winchester-college/",
+        "date": "Recent",
+        "description": "Student housing Student housing Stanton Williams designs boarding houses to \"support the culture\" of Winchester College Architecture studio Stanton Williams has completed two boarding houses for girls...",
+        "type": "news"
+    },
+    {
+        "title": "Architecture",
+        "link": "https://www.dezeen.com/2026/09/29/jiashan-dayun-landison-manor-hotel/",
+        "date": "Recent",
+        "description": "Architecture Architecture Raised walkway ties together 360‑metre-long hotel Chinese studios HB Architects and Nature Times Art have completed a hotel in Jiashan, China , which is connected by a 360-me...",
+        "type": "news"
+    },
+    {
+        "title": "Residential architecture and interiors",
+        "link": "https://www.dezeen.com/2026/09/28/surf-road-house-coughlin-scheel-architects-fire-island/",
+        "date": "Recent",
+        "description": "Residential architecture and interiors Residential architecture and interiors Coughlin Scheel lifts Fire Island house high above the beach US studio Coughlin Scheel Architects has completed the cedar ...",
+        "type": "news"
+    },
+    {
         "title": "Capsule hotel",
         "link": "https://www.dezeen.com/2026/09/27/soda-otherwander-soho/",
         "date": "Recent",
@@ -70,24 +91,10 @@
         "type": "news"
     },
     {
-        "title": "Washington DC",
-        "link": "https://www.dezeen.com/2026/09/23/national-trust-for-historic-preservation-defense-fund-washington-dc/",
+        "title": "Dezeen's top five houses of July 2026",
+        "link": "https://www.dezeen.com/2026/08/01/top-houses-july-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Washington DC Washington DC National Trust for Historic Preservation creates defense fund in light of \"urgent threats\" Washington DC nonprofit The National Trust for Historic Preservation, which sued ...",
-        "type": "news"
-    },
-    {
-        "title": "Residential extensions",
-        "link": "https://www.dezeen.com/2026/09/23/pend-newhaven-extension/",
-        "date": "Recent",
-        "description": "Residential extensions Residential extensions Pend uses skinny red bricks for extension to stone townhouse in Edinburgh Scottish architecture studio Pend has expanded and updated a Georgian townhouse ...",
-        "type": "news"
-    },
-    {
-        "title": "Burning Man",
-        "link": "https://www.dezeen.com/2026/09/22/quirky-architecture-burning-man-2026/",
-        "date": "Recent",
-        "description": "Burning Man Burning Man The quirky architecture of Burning Man 2026 Photographer Gurpreet Chawla has captured this year's architectural installations at the annual Burning Man festival in Nevada, from...",
+        "description": "Dezeen's top five houses of July 2026",
         "type": "news"
     },
     {
@@ -98,10 +105,10 @@
         "type": "news"
     },
     {
-        "title": "Dezeen's top five houses of July 2026",
-        "link": "https://www.dezeen.com/2026/08/01/top-houses-july-2026/?li_source=LI&li_medium=rhs_block_1",
+        "title": "GO'C creates multi-use artist building for Washington island",
+        "link": "https://www.dezeen.com/2026/08/10/goc-orcas-island-washington-iolair-studio/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
-        "description": "Dezeen's top five houses of July 2026",
+        "description": "GO'C creates multi-use artist building for Washington island",
         "type": "news"
     },
     {
@@ -112,13 +119,6 @@
         "type": "news"
     },
     {
-        "title": "GO'C creates multi-use artist building for Washington island",
-        "link": "https://www.dezeen.com/2026/08/10/goc-orcas-island-washington-iolair-studio/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "GO'C creates multi-use artist building for Washington island",
-        "type": "news"
-    },
-    {
         "title": "Leckie Studio tucks Twin Peaks House into forested Vancouver site",
         "link": "https://www.dezeen.com/2026/08/06/leckie-studio-twin-peaks-house-vancouver/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
@@ -126,10 +126,10 @@
         "type": "news"
     },
     {
-        "title": "Eight unique patios that beckon to the outdoors",
-        "link": "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Open-air temple sits beneath granite farmhouse on Kerala hillside",
+        "link": "https://www.dezeen.com/2026/08/24/ushas-farmhouse-kerala-india-evolving-radical-aesthetics/?li_source=LI&li_medium=rhs_block_2",
         "date": "Recent",
-        "description": "Eight unique patios that beckon to the outdoors",
+        "description": "Open-air temple sits beneath granite farmhouse on Kerala hillside",
         "type": "news"
     },
     {
@@ -140,10 +140,10 @@
         "type": "news"
     },
     {
-        "title": "Open-air temple sits beneath granite farmhouse on Kerala hillside",
-        "link": "https://www.dezeen.com/2026/08/24/ushas-farmhouse-kerala-india-evolving-radical-aesthetics/?li_source=LI&li_medium=rhs_block_3",
+        "title": "Eight unique patios that beckon to the outdoors",
+        "link": "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Open-air temple sits beneath granite farmhouse on Kerala hillside",
+        "description": "Eight unique patios that beckon to the outdoors",
         "type": "news"
     },
     {
