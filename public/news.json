@@ -1,5 +1,33 @@
 [
     {
+        "title": "Houses of the month",
+        "link": "https://www.dezeen.com/2026/09/30/top-houses-september-2026/",
+        "date": "Recent",
+        "description": "Houses of the month Houses of the month Dezeen's top five houses of September 2026 A monolithic grey- brick home in Northern Ireland and a skinny house in Kyoto are among the most popular houses featu...",
+        "type": "news"
+    },
+    {
+        "title": "Architecture",
+        "link": "https://www.dezeen.com/2026/09/30/snohetta-sky-house-pavilia-farm-hong-kong/",
+        "date": "Recent",
+        "description": "Architecture Architecture Snøhetta designs Hong Kong clubhouse with undulating playground and rope-climbing tower Architecture studio Snøhetta added tunnelling playgrounds to Sky House, the final of f...",
+        "type": "news"
+    },
+    {
+        "title": "Dezeen Awards",
+        "link": "https://www.dezeen.com/2026/09/30/norman-foster-dezeen-awards-2026-party-keynote/",
+        "date": "Recent",
+        "description": "Dezeen Awards Dezeen Awards Norman Foster to give keynote speech at Dezeen Awards 2026 party British architect Norman Foster is set to deliver a keynote speech at this year's Dezeen Awards party , whi...",
+        "type": "news"
+    },
+    {
+        "title": "Data centres",
+        "link": "https://www.dezeen.com/2026/09/29/data-centres-design-architecture-hyperscale-ai/",
+        "date": "Recent",
+        "description": "Data centres Data centres Can data centres ever be well-designed? With AI driving demand, vast data centres are increasingly in the news as people question the impact on local environments. Can archit...",
+        "type": "news"
+    },
+    {
         "title": "Student housing",
         "link": "https://www.dezeen.com/2026/09/29/stanton-williams-winchester-college/",
         "date": "Recent",
@@ -56,45 +84,17 @@
         "type": "news"
     },
     {
-        "title": "London house extensions",
-        "link": "https://www.dezeen.com/2026/09/25/polysmiths-pine-house/",
-        "date": "Recent",
-        "description": "London house extensions London house extensions London home renovation by Polysmiths uses \"light as the primary material\" Lime-plastered brickwork, timber boards and cork panels were used to help capt...",
-        "type": "news"
-    },
-    {
-        "title": "Architecture",
-        "link": "https://www.dezeen.com/2026/09/25/bdp-research-campus-chia-tai-tianqing-pharmaceutical-group-shanghai/",
-        "date": "Recent",
-        "description": "Architecture Architecture Splitting cells informs Shanghai research campus' interconnected buildings Architecture studio BDP has unveiled a pharmaceutical research campus in Shanghai , China, comprise...",
-        "type": "news"
-    },
-    {
-        "title": "Co-living and co-housing",
-        "link": "https://www.dezeen.com/2026/09/24/estudio-zero-amplitude-pink-coliving-oaxaca/",
-        "date": "Recent",
-        "description": "Co-living and co-housing Co-living and co-housing Estudio Zero shapes pink Mexican co-living complex after sound wave Mexican practice Estudio Zero has created a co-living apartment building rendered ...",
-        "type": "news"
-    },
-    {
-        "title": "Mass timber",
-        "link": "https://www.dezeen.com/2026/09/24/herzog-de-meuron-mass-timber-massachusetts-school-amherst/",
-        "date": "Recent",
-        "description": "Mass timber Mass timber Herzog & de Meuron reuses foundations for mass-timber Massachusetts school building Swiss studio Herzog & de Meuron has utilised the existing concrete foundation of an older st...",
-        "type": "news"
-    },
-    {
-        "title": "Oslo Architecture Triennale",
-        "link": "https://www.dezeen.com/2026/09/24/line-ramstad-oslo-architecture-triennale/",
-        "date": "Recent",
-        "description": "Oslo Architecture Triennale Oslo Architecture Triennale \"It's time Norway realises that we also need to change\" says Line Ramstad As a wealthy nation, Norway has a responsibility to tackle climate cha...",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of July 2026",
         "link": "https://www.dezeen.com/2026/08/01/top-houses-july-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
         "description": "Dezeen's top five houses of July 2026",
+        "type": "news"
+    },
+    {
+        "title": "Four product types that Dyson successfully revolutionised, and four it didn't",
+        "link": "https://www.dezeen.com/2026/09/12/dyson-products-roundup/?li_source=LI&li_medium=rhs_block_1",
+        "date": "Recent",
+        "description": "Four product types that Dyson successfully revolutionised, and four it didn't",
         "type": "news"
     },
     {
@@ -105,13 +105,6 @@
         "type": "news"
     },
     {
-        "title": "GO'C creates multi-use artist building for Washington island",
-        "link": "https://www.dezeen.com/2026/08/10/goc-orcas-island-washington-iolair-studio/?li_source=LI&li_medium=rhs_block_1",
-        "date": "Recent",
-        "description": "GO'C creates multi-use artist building for Washington island",
-        "type": "news"
-    },
-    {
         "title": "Dezeen's top five houses of August 2026",
         "link": "https://www.dezeen.com/2026/08/30/top-houses-august-2026/?li_source=LI&li_medium=rhs_block_1",
         "date": "Recent",
@@ -119,31 +112,31 @@
         "type": "news"
     },
     {
+        "title": "GO'C creates multi-use artist building for Washington island",
+        "link": "https://www.dezeen.com/2026/08/10/goc-orcas-island-washington-iolair-studio/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "GO'C creates multi-use artist building for Washington island",
+        "type": "news"
+    },
+    {
+        "title": "Eight unique patios that beckon to the outdoors",
+        "link": "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/?li_source=LI&li_medium=rhs_block_2",
+        "date": "Recent",
+        "description": "Eight unique patios that beckon to the outdoors",
+        "type": "news"
+    },
+    {
         "title": "Leckie Studio tucks Twin Peaks House into forested Vancouver site",
-        "link": "https://www.dezeen.com/2026/08/06/leckie-studio-twin-peaks-house-vancouver/?li_source=LI&li_medium=rhs_block_2",
+        "link": "https://www.dezeen.com/2026/08/06/leckie-studio-twin-peaks-house-vancouver/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
         "description": "Leckie Studio tucks Twin Peaks House into forested Vancouver site",
         "type": "news"
     },
     {
-        "title": "Open-air temple sits beneath granite farmhouse on Kerala hillside",
-        "link": "https://www.dezeen.com/2026/08/24/ushas-farmhouse-kerala-india-evolving-radical-aesthetics/?li_source=LI&li_medium=rhs_block_2",
+        "title": "Rough drystone walls frame Within the Earth house in Greece",
+        "link": "https://www.dezeen.com/2026/08/23/within-the-earth-alexandre-pavlidis/?li_source=LI&li_medium=rhs_block_3",
         "date": "Recent",
-        "description": "Open-air temple sits beneath granite farmhouse on Kerala hillside",
-        "type": "news"
-    },
-    {
-        "title": "New York loft renovation by Studio Vural comprises \"pods in a box\"",
-        "link": "https://www.dezeen.com/2026/08/02/studio-vural-herring-factory-loft-renovation-west-village-new-york/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "New York loft renovation by Studio Vural comprises \"pods in a box\"",
-        "type": "news"
-    },
-    {
-        "title": "Eight unique patios that beckon to the outdoors",
-        "link": "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/?li_source=LI&li_medium=rhs_block_3",
-        "date": "Recent",
-        "description": "Eight unique patios that beckon to the outdoors",
+        "description": "Rough drystone walls frame Within the Earth house in Greece",
         "type": "news"
     },
     {
