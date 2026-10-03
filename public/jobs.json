@@ -1,16 +1,23 @@
 [
     {
-        "title": "Architectural Technologist",
-        "link": "https://jobs.architecture.com/job/32558/architectural-technologist/?LinkSource=HomePage",
-        "location": "London (Central), London (Greater)",
-        "description": "Architectural Technologist | London (Central), London (Greater) | • | 37k-55k DOE",
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/32524/architect-/?LinkSource=HomePage",
+        "location": "Cambridgeshire",
+        "description": "Architect | Cambridgeshire | • | £40,000 - £44,000",
         "type": "job"
     },
     {
-        "title": "Design manager",
-        "link": "https://jobs.architecture.com/job/32500/design-manager-/?LinkSource=HomePage",
-        "location": "London – predominantly site-based, wi...",
-        "description": "Design manager | London – predominantly site-based, wi... | • | Competitive",
+        "title": "Senior Architect",
+        "link": "https://jobs.architecture.com/job/32520/senior-architect/?LinkSource=HomePage",
+        "location": "Leicester, Leicestershire / Newton Ab...",
+        "description": "Senior Architect | Leicester, Leicestershire / Newton Ab... | • | £40,000-£50,000 per year",
+        "type": "job"
+    },
+    {
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/32499/architect/?LinkSource=HomePage",
+        "location": "London, City of London / London",
+        "description": "Architect | London, City of London / London | • | £50000 - £60000 per annum",
         "type": "job"
     },
     {
@@ -18,13 +25,6 @@
         "link": "https://jobs.architecture.com/job/32494/architect-and-senior-architectural-or-associate/?LinkSource=HomePage",
         "location": "St Ives, Cambridgeshire",
         "description": "Architect and Senior Architectural or associate | St Ives, Cambridgeshire | • | Competitive, dependant on experience ...",
-        "type": "job"
-    },
-    {
-        "title": "Architect / Architectural Technologist",
-        "link": "https://jobs.architecture.com/job/32530/architect-architectural-technologist-/?LinkSource=HomePage",
-        "location": "Stockton-on-Tees, Durham",
-        "description": "Architect / Architectural Technologist | Stockton-on-Tees, Durham | • | Up to £46,000 per annum",
         "type": "job"
     }
 ]
