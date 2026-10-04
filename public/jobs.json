@@ -1,23 +1,16 @@
 [
     {
-        "title": "Architect",
-        "link": "https://jobs.architecture.com/job/32524/architect-/?LinkSource=HomePage",
-        "location": "Cambridgeshire",
-        "description": "Architect | Cambridgeshire | • | £40,000 - £44,000",
+        "title": "Senior Architectural Technologist",
+        "link": "https://jobs.architecture.com/job/32498/senior-architectural-technologist/?LinkSource=HomePage",
+        "location": "London / City of London, London",
+        "description": "Senior Architectural Technologist | London / City of London, London | • | £50000 - £60000 per annum",
         "type": "job"
     },
     {
-        "title": "Senior Architect",
-        "link": "https://jobs.architecture.com/job/32520/senior-architect/?LinkSource=HomePage",
-        "location": "Leicester, Leicestershire / Newton Ab...",
-        "description": "Senior Architect | Leicester, Leicestershire / Newton Ab... | • | £40,000-£50,000 per year",
-        "type": "job"
-    },
-    {
-        "title": "Architect",
-        "link": "https://jobs.architecture.com/job/32499/architect/?LinkSource=HomePage",
-        "location": "London, City of London / London",
-        "description": "Architect | London, City of London / London | • | £50000 - £60000 per annum",
+        "title": "Associate",
+        "link": "https://jobs.architecture.com/job/32514/associate/?LinkSource=HomePage",
+        "location": "London (Central), London (Greater)",
+        "description": "Associate | London (Central), London (Greater) | • | £60-70k per annum",
         "type": "job"
     },
     {
@@ -25,6 +18,13 @@
         "link": "https://jobs.architecture.com/job/32494/architect-and-senior-architectural-or-associate/?LinkSource=HomePage",
         "location": "St Ives, Cambridgeshire",
         "description": "Architect and Senior Architectural or associate | St Ives, Cambridgeshire | • | Competitive, dependant on experience ...",
+        "type": "job"
+    },
+    {
+        "title": "Associate Director",
+        "link": "https://jobs.architecture.com/job/32502/associate-director/?LinkSource=HomePage",
+        "location": "Surrey",
+        "description": "Associate Director | Surrey | • | £70,000 - £75,000",
         "type": "job"
     }
 ]
