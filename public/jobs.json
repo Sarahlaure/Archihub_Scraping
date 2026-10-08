@@ -1,5 +1,19 @@
 [
     {
+        "title": "School Governor",
+        "link": "https://jobs.architecture.com/job/32574/school-governor/?LinkSource=HomePage",
+        "location": "Chertsey, Surrey",
+        "description": "School Governor | Chertsey, Surrey | • | Voluntary",
+        "type": "job"
+    },
+    {
+        "title": "Newly Qualified Architect",
+        "link": "https://jobs.architecture.com/job/32581/newly-qualified-architect/?LinkSource=HomePage",
+        "location": "London",
+        "description": "Newly Qualified Architect | London | • | Commensurate with experience",
+        "type": "job"
+    },
+    {
         "title": "Architect",
         "link": "https://jobs.architecture.com/job/32593/architect/?LinkSource=HomePage",
         "location": "Belfast (City/Town)",
@@ -11,20 +25,6 @@
         "link": "https://jobs.architecture.com/job/32594/architect-architectural-technologist/?LinkSource=HomePage",
         "location": "London",
         "description": "Architect / Architectural Technologist | London | • | up to £60,000 - depending on experience",
-        "type": "job"
-    },
-    {
-        "title": "Project Architect",
-        "link": "https://jobs.architecture.com/job/32580/project-architect/?LinkSource=HomePage",
-        "location": "Northamptonshire, Northampton",
-        "description": "Project Architect | Northamptonshire, Northampton | • | £45000 - £50000 per annum + Company B...",
-        "type": "job"
-    },
-    {
-        "title": "BRPD Consultant",
-        "link": "https://jobs.architecture.com/job/32596/brpd-consultant-/?LinkSource=HomePage",
-        "location": "London",
-        "description": "BRPD Consultant | London | • | £50000 - £70000 per annum",
         "type": "job"
     }
 ]
