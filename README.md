@@ -1,39 +1,84 @@
-# 🏛️ ARCHI.SPACE (ArchHub)
+# 🏛️ Archi.Comp — Plateforme d'Opportunités & d'Actualités en Architecture
 
-Un tableau de bord conçu avec Next.js et Tailwind CSS pour agréger en temps réel les concours d'architecture, les opportunités d'emploi et l'actualité mondiale autour de l'architecture.
+[![Daily Architecture Data Sync](https://github.com/Sarahlaure/Archihub_Scraping/actions/workflows/daily_sync.yml/badge.svg)](https://github.com/Sarahlaure/Archihub_Scraping/actions/workflows/daily_sync.yml)
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)](https://nextjs.org/)
+[![Python Playwright](https://img.shields.io/badge/Python-Playwright-green?logo=python)](https://playwright.dev/python/)
 
-## ✨ Fonctionnalités
-- **Agrégation Automatisée** : Données extraites et mises à jour via un moteur de scraping en Python.
-- **Filtres** : Tri automatique des concours (les concours dont la date d'inscription est dépassée sont déplacés vers l'espace "Archives").
-- **Espace Personnel (Favoris)** : Espace pour sauvegarder les opportunités intéressantes grâce à la persistance des données.
-- **Multi-Onglets Dynamique** : Navigation instantanée entre Concours, Jobs, Actualités et Archives sans rechargement de page.
+**Archi.Comp** (Archihub) est une plateforme web moderne et entièrement automatisée conçue pour les architectes, étudiants et professionnels de la conception spatiale. Le site agrège en temps réel les **concours internationaux**, les **offres d'emploi en agence** et les **dernières actualités** du monde de l'architecture.
 
-## 💻 Stack Technique
-- **Frontend** : Next.js (App Router), React, Tailwind CSS, Lucide Icons, next-themes.
-- **Data Scraping** : Python (BeautifulSoup, Requests) avec scripts d'automatisation.
-- **Déploiement** : Vercel.
+---
 
-## 🚀 Démarrage Rapide (Développement Local)
+## ✨ Caractéristiques Principales
 
-### 1️⃣ Prérequis
-- **Node.js** (v18+) et **Python 3.9+**.
+- 🎯 **Concours avec Échéances Vérifiées :** Seules les compétitions disposant de dates limites claires et à venir sont affichées (filtrage automatique des opportunités expirées).
+- 📌 **Navigation Persistante (Sticky Navigation) :** Basculez entre les onglets *Concours*, *Emplois* et *Actualités* à n'importe quel moment du défilement sans devoir remonter en haut de la page.
+- 🖼️ **Descriptifs Clarifiés :** Résumés enrichis et fallback automatisé pour garantir des informations toujours lisibles et professionnelles.
+- ⚡ **Automatisation Quotidienne (GitHub Actions) :** Le scraper s'exécute automatiquement chaque jour à 06:00 UTC pour maintenir les données à jour sans intervention humaine.
+- 🛡️ **Conformité & Respect des Sources :** Tous les contenus affichés dirigent directement l'utilisateur vers le site officiel de l'organisateur ou du recruteur.
 
-### 2️⃣ Installation & Exécution
+---
+
+## 🛠️ Stack Technique
+
+### Frontend
+- **Framework :** Next.js 15 (App Router, React 19)
+- **Styling :** Tailwind CSS v4, Font Outfit & Inter (Google Fonts)
+- **Icons & UI :** Lucide React, Glassmorphism, Micro-animations CSS
+
+### Backend / Data Scraping
+- **Langage :** Python 3.11
+- **Scraping Engine :** Playwright (Chromium Headless) & BeautifulSoup4
+- **Sources d'information :** `competitions.archi`, `bustler.net`, `architecturecompetitions.com`, `archdaily.com`, `dezeen.com`
+
+### Automation & Deployment
+- **CI/CD :** GitHub Actions (`daily_sync.yml`)
+- **Hosting :** Vercel
+
+---
+
+## 🚀 Prise en main & Installation Locale
+
+### Prerequisites
+- Node.js 18+ et npm
+- Python 3.11+ et pip
+
+### 1. Cloner le projet
 ```bash
-# Cloner le projet (à remplacer par votre propre lien GitHub)
-git clone https://github.com/Sarahlaure/archihub.git
-cd archihub
-
-# Installer les dépendances Frontend
-npm install
-
-# (Optionnel) Pour rafraîchir les données via le scraper
-pip install -r requirements.txt
-python tools/scraper.py
-
-# Lancer le serveur Next.js
-npm run dev
+git clone https://github.com/Sarahlaure/Archihub_Scraping.git
+cd Archihub_Scraping
 ```
 
-> L'application sera accessible sur `http://localhost:3000`.
+### 2. Installer les dépendances Frontend & Backend
+```bash
+# Frontend
+npm install
 
+# Backend Scraper
+pip install -r requirements.txt
+playwright install chromium
+```
+
+### 3. Exécuter le Scraper (Génération des données JSON)
+```bash
+python tools/scraper.py
+```
+*Cette commande va générer/mettre à jour `public/competitions.json`, `public/jobs.json` et `public/news.json`.*
+
+### 4. Lancer l'application web
+```bash
+npm run dev
+```
+Ouvrez [http://localhost:3000](http://localhost:3000) dans votre navigateur pour voir le résultat.
+
+---
+
+## 🌐 Déploiement en Ligne (Vercel)
+
+1. Connectez votre dépôt GitHub à **[Vercel](https://vercel.com)**.
+2. Vercel détectera automatiquement Next.js et déploiera le site.
+3. Chaque commit poussé par le workflow GitHub Actions mettra automatiquement à jour le site en ligne !
+
+---
+
+## 📝 Licence & Droits
+Projet développé dans le cadre d'un agrégateur d'opportunités d'architecture. Toutes les données appartiennent à leurs organisateurs et éditeurs respectifs.

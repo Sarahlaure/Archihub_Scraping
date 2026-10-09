@@ -3,7 +3,21 @@
 import { useState, useEffect, useCallback } from 'react';
 import { Header } from "@/components/ui/header-1";
 import { Button } from "@/components/ui/button";
-import { BookmarkIcon, ExternalLinkIcon, RefreshCwIcon, MapPinIcon, CalendarIcon, BriefcaseIcon, NewspaperIcon, TrophyIcon, MoonIcon, SunIcon, ArchiveIcon, ArrowRightIcon } from "lucide-react";
+import {
+  BookmarkIcon,
+  ExternalLinkIcon,
+  RefreshCwIcon,
+  MapPinIcon,
+  CalendarIcon,
+  BriefcaseIcon,
+  NewspaperIcon,
+  TrophyIcon,
+  MoonIcon,
+  SunIcon,
+  ArchiveIcon,
+  ArrowRightIcon,
+  ClockIcon,
+} from "lucide-react";
 import { cn } from "@/lib/utils";
 import { useTheme } from "next-themes";
 import { differenceInDays, parseISO, isValid } from "date-fns";
@@ -16,6 +30,7 @@ interface ContentItem {
   deadline?: string;
   deadline_iso?: string | null;
   location?: string;
+  salary?: string;
   date?: string;
 }
 
@@ -26,7 +41,8 @@ export default function Home() {
   const [jobs, setJobs] = useState<ContentItem[]>([]);
   const [news, setNews] = useState<ContentItem[]>([]);
   const [savedItems, setSavedItems] = useState<ContentItem[]>([]);
-  
+  const [lastSyncedAt, setLastSyncedAt] = useState<string | null>(null);
+
   const [loading, setLoading] = useState(true);
   const [activeTab, setActiveTab] = useState<TabType>('competitions');
   const { theme, setTheme } = useTheme();
@@ -44,15 +60,19 @@ export default function Home() {
   const fetchData = useCallback(async () => {
     setLoading(true);
     try {
+      // Add cache-busting parameter to force fresh data
+      const ts = Date.now();
       const [compRes, jobsRes, newsRes] = await Promise.all([
-        fetch('/competitions.json'),
-        fetch('/jobs.json'),
-        fetch('/news.json')
+        fetch(`/competitions.json?t=${ts}`),
+        fetch(`/jobs.json?t=${ts}`),
+        fetch(`/news.json?t=${ts}`),
       ]);
 
       if (compRes.ok) setCompetitions(await compRes.json());
       if (jobsRes.ok) setJobs(await jobsRes.json());
       if (newsRes.ok) setNews(await newsRes.json());
+
+      setLastSyncedAt(new Date().toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' }));
     } catch (err) {
       console.error("Failed to fetch data:", err);
     } finally {
@@ -79,27 +99,37 @@ export default function Home() {
 
   const getDisplayedItems = () => {
     const today = new Date();
-    
-    // Sort logic (newest deadlines first)
+
     const sortByDeadline = (a: ContentItem, b: ContentItem) => {
-      if (a.deadline_iso && b.deadline_iso) return new Date(a.deadline_iso).getTime() - new Date(b.deadline_iso).getTime();
+      if (a.deadline_iso && b.deadline_iso) {
+        return new Date(a.deadline_iso).getTime() - new Date(b.deadline_iso).getTime();
+      }
+      // Items without deadline go last
+      if (a.deadline_iso && !b.deadline_iso) return -1;
+      if (!a.deadline_iso && b.deadline_iso) return 1;
       return 0;
     };
 
     if (activeTab === 'competitions') {
       return competitions.filter(item => {
-        if (!item.deadline_iso) return false; // Hide items with unknown deadlines
-        const d = parseISO(item.deadline_iso);
-        return isValid(d) && differenceInDays(d, today) >= 0;
+        // Show items with valid future deadlines
+        if (item.deadline_iso) {
+          const d = parseISO(item.deadline_iso);
+          return isValid(d) && differenceInDays(d, today) >= 0;
+        }
+        // ONLY SHOW items with known deadlines
+        return false;
       }).sort(sortByDeadline);
     }
+
     if (activeTab === 'archives') {
       return competitions.filter(item => {
-        if (!item.deadline_iso) return true; // Show items with unknown deadlines
+        if (!item.deadline_iso) return false; // Items without deadlines are in active tab
         const d = parseISO(item.deadline_iso);
         return isValid(d) && differenceInDays(d, today) < 0;
-      }).sort((a,b) => -sortByDeadline(a,b)); // latest expired first
+      }).sort((a, b) => -sortByDeadline(a, b)); // Latest expired first
     }
+
     if (activeTab === 'jobs') return jobs;
     if (activeTab === 'news') return news;
     return savedItems;
@@ -107,80 +137,94 @@ export default function Home() {
 
   const displayedItems = getDisplayedItems();
 
+  // Count helpers for tabs
+  const activeCompetitionsCount = competitions.filter(item => {
+    if (item.deadline_iso) {
+      const d = parseISO(item.deadline_iso);
+      return isValid(d) && differenceInDays(d, new Date()) >= 0;
+    }
+    return false; // Exclude unknown deadline
+  }).length;
+
   return (
     <div className="relative flex min-h-screen flex-col font-inter bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-50 transition-colors selection:bg-indigo-500/20">
-      
+
       {/* Premium Background Elements */}
       <div className="fixed inset-0 overflow-hidden pointer-events-none -z-10">
-        {/* Light Mode Blobs */}
         <div className="absolute top-[-10%] right-[-5%] w-[500px] h-[500px] rounded-full bg-indigo-500/10 dark:bg-indigo-500/5 blur-[120px]" />
         <div className="absolute bottom-[-10%] left-[-10%] w-[600px] h-[600px] rounded-full bg-amber-500/5 dark:bg-rose-500/5 blur-[120px]" />
-        
-        {/* Architect Geometry Overlay (subtle grid) */}
         <div className="absolute inset-0 bg-[url('/grid.svg')] bg-center [mask-image:linear-gradient(180deg,white,rgba(255,255,255,0))] dark:opacity-20 opacity-30" />
       </div>
 
       <Header />
 
       <main className="flex-grow z-10 w-full mb-16 px-6 lg:px-8">
-        
-        {/* PREMIUM TYPOGRAPHIC HERO CONCEPT */}
-        <section className="relative w-full mx-auto max-w-7xl pt-20 pb-20 overflow-hidden rounded-3xl border border-slate-200 dark:border-slate-800 shadow-sm dark:shadow-none bg-white dark:bg-[#0a0a0d] mb-12 mt-4 px-8 lg:px-16 flex flex-col justify-center">
-          
+
+        {/* PREMIUM TYPOGRAPHIC HERO */}
+        <section className="relative w-full mx-auto max-w-7xl pt-8 pb-10 overflow-hidden rounded-3xl border border-slate-200 dark:border-slate-800 shadow-sm dark:shadow-none bg-white dark:bg-[#0a0a0d] mb-12 mt-4 px-8 lg:px-16 flex flex-col justify-center">
+
           {/* Controls Container */}
-          <div className="absolute top-6 right-6 flex items-center gap-4 z-50">
-              <Button
-                variant="outline"
-                size="sm"
-                onClick={fetchData}
-                disabled={loading}
-                className="rounded-none border-slate-300 dark:border-slate-800 bg-transparent text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-900 uppercase tracking-widest text-xs h-10 px-4"
-              >
-                <RefreshCwIcon className={cn("mr-2 size-3", loading && "animate-spin")} /> Sync
-              </Button>
-             <Button
-                variant="outline"
-                size="icon"
-                onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
-                className="rounded-none border-slate-300 dark:border-slate-800 bg-transparent text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-900 h-10 w-10"
-              >
-                <SunIcon className="h-4 w-4 rotate-0 scale-100 transition-all dark:-rotate-90 dark:scale-0" />
-                <MoonIcon className="absolute h-4 w-4 rotate-90 scale-0 transition-all dark:rotate-0 dark:scale-100" />
-                <span className="sr-only">Toggle theme</span>
-              </Button>
+          <div className="absolute top-6 right-6 flex items-center gap-3 z-50">
+            {lastSyncedAt && (
+              <span className="hidden sm:flex items-center gap-1.5 text-xs text-slate-400 dark:text-slate-500 font-medium">
+                <ClockIcon className="w-3 h-3" />
+                Données chargées à {lastSyncedAt}
+              </span>
+            )}
+            <Button
+              variant="outline"
+              size="sm"
+              onClick={fetchData}
+              disabled={loading}
+              title="Recharger les données depuis les fichiers JSON"
+              className="rounded-none border-slate-300 dark:border-slate-800 bg-transparent text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-900 uppercase tracking-widest text-xs h-10 px-4"
+            >
+              <RefreshCwIcon className={cn("mr-2 size-3", loading && "animate-spin")} />
+              Actualiser
+            </Button>
+            <Button
+              variant="outline"
+              size="icon"
+              onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
+              className="rounded-none border-slate-300 dark:border-slate-800 bg-transparent text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-900 h-10 w-10"
+            >
+              <SunIcon className="h-4 w-4 rotate-0 scale-100 transition-all dark:-rotate-90 dark:scale-0" />
+              <MoonIcon className="absolute h-4 w-4 rotate-90 scale-0 transition-all dark:rotate-0 dark:scale-100" />
+              <span className="sr-only">Toggle theme</span>
+            </Button>
           </div>
 
-          <div className="relative z-10 max-w-4xl pt-12 pb-24">
+          <div className="relative z-10 max-w-4xl pt-8 pb-12">
             <div className="flex items-center gap-4 mb-10">
               <div className="h-px w-12 bg-[#a68a30] dark:bg-[#c2a65a]"></div>
               <span className="text-[#a68a30] dark:text-[#c2a65a] uppercase font-bold tracking-[0.2em] text-sm">FUTUR ARCHITECTE</span>
             </div>
-            
-            <h1 className="text-6xl md:text-8xl lg:text-[110px] leading-[1] text-slate-900 dark:text-white font-serif mb-10 select-none tracking-tight">
+
+            <h1 className="text-5xl md:text-6xl lg:text-7xl leading-[1] text-slate-900 dark:text-white font-serif mb-8 select-none tracking-tight">
               <span className="block">Construis</span>
               <span className="block"><span className="italic text-[#a68a30] dark:text-[#c2a65a] pr-4 font-light">ton</span>avenir</span>
               <span className="block text-transparent [-webkit-text-stroke:1px_rgba(15,23,42,0.4)] dark:[-webkit-text-stroke:1px_rgba(255,255,255,0.4)]">maintenant.</span>
             </h1>
-            
+
             <p className="max-w-xl text-lg md:text-xl text-slate-600 dark:text-slate-400 font-light mb-12">
-              Concours, jobs, news — tout ce dont tu as besoin pour <strong className="text-slate-900 dark:text-white font-medium">lancer ta carrière</strong>, agrégé et mis à jour en temps réel.
+              Concours, jobs, news — tout ce dont tu as besoin pour <strong className="text-slate-900 dark:text-white font-medium">lancer ta carrière</strong>, agrégé et mis à jour quotidiennement.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 max-w-2xl">
-              <Button 
-                size="lg" 
-                className="rounded-none font-semibold px-8 py-7 bg-[#a68a30] dark:bg-[#c2a65a] text-white dark:text-slate-950 hover:bg-[#8a7224] dark:hover:bg-[#d8be72] transition-colors uppercase tracking-wider text-sm w-full sm:w-auto" 
+              <Button
+                size="lg"
+                className="rounded-none font-semibold px-8 py-7 bg-[#a68a30] dark:bg-[#c2a65a] text-white dark:text-slate-950 hover:bg-[#8a7224] dark:hover:bg-[#d8be72] transition-colors uppercase tracking-wider text-sm w-full sm:w-auto"
                 onClick={() => { document.getElementById('hub-content')?.scrollIntoView({ behavior: 'smooth' }); setActiveTab('competitions'); }}
               >
-                EXPLORER LES CONCOURS <ArrowRightIcon className="ml-4 w-4 h-4"/>
+                EXPLORER LES CONCOURS <ArrowRightIcon className="ml-4 w-4 h-4" />
               </Button>
-              <Button 
-                size="lg" 
-                variant="outline" 
-                className="rounded-none px-8 py-7 bg-transparent border border-slate-300 dark:border-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-900 transition-colors uppercase tracking-wider text-sm w-full sm:w-auto" 
+              <Button
+                size="lg"
+                variant="outline"
+                className="rounded-none px-8 py-7 bg-transparent border border-slate-300 dark:border-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-900 transition-colors uppercase tracking-wider text-sm w-full sm:w-auto"
                 onClick={() => { document.getElementById('hub-content')?.scrollIntoView({ behavior: 'smooth' }); setActiveTab('jobs'); }}
               >
-                VOIR LES OFFRES D&apos;EMPLOI <ArrowRightIcon className="ml-4 w-4 h-4"/>
+                VOIR LES OFFRES D&apos;EMPLOI <ArrowRightIcon className="ml-4 w-4 h-4" />
               </Button>
             </div>
           </div>
@@ -192,11 +236,11 @@ export default function Home() {
         </section>
 
         {/* Tab Navigation System */}
-        <div id="hub-content" className="max-w-7xl px-6 py-12 mx-auto">
-          <div className="flex flex-col md:flex-row items-center justify-between gap-4 mb-10">
-            
+        <div id="hub-content" className="max-w-7xl px-6 pb-12 mx-auto">
+          <div className="sticky top-14 z-40 bg-slate-50/90 dark:bg-slate-950/90 backdrop-blur-md pt-4 pb-4 border-b border-slate-200 dark:border-slate-800 -mx-6 px-6 lg:-mx-8 lg:px-8 mb-10 flex flex-col md:flex-row items-center justify-between gap-4">
+
             {/* Minimalist Tabs */}
-            <div className="flex space-x-2 border-b border-slate-200 dark:border-slate-800 overflow-x-auto w-full md:w-auto hidescrollbar">
+            <div className="flex space-x-2 overflow-x-auto w-full md:w-auto hidescrollbar">
               <button
                 onClick={() => setActiveTab('competitions')}
                 className={cn(
@@ -205,8 +249,13 @@ export default function Home() {
                 )}
               >
                 <TrophyIcon className="w-4 h-4" /> Concours
+                {!loading && activeCompetitionsCount > 0 && (
+                  <span className={cn("flex items-center justify-center px-2 py-0.5 ml-1 text-xs text-white rounded-full", activeTab === 'competitions' ? "bg-[#a68a30] dark:bg-[#c2a65a]" : "bg-slate-300 dark:bg-slate-700")}>
+                    {activeCompetitionsCount}
+                  </span>
+                )}
               </button>
-              
+
               <button
                 onClick={() => setActiveTab('jobs')}
                 className={cn(
@@ -215,6 +264,11 @@ export default function Home() {
                 )}
               >
                 <BriefcaseIcon className="w-4 h-4" /> Jobs
+                {!loading && jobs.length > 0 && (
+                  <span className={cn("flex items-center justify-center px-2 py-0.5 ml-1 text-xs text-white rounded-full", activeTab === 'jobs' ? "bg-[#a68a30] dark:bg-[#c2a65a]" : "bg-slate-300 dark:bg-slate-700")}>
+                    {jobs.length}
+                  </span>
+                )}
               </button>
 
               <button
@@ -225,6 +279,11 @@ export default function Home() {
                 )}
               >
                 <NewspaperIcon className="w-4 h-4" /> Actualités
+                {!loading && news.length > 0 && (
+                  <span className={cn("flex items-center justify-center px-2 py-0.5 ml-1 text-xs text-white rounded-full", activeTab === 'news' ? "bg-[#a68a30] dark:bg-[#c2a65a]" : "bg-slate-300 dark:bg-slate-700")}>
+                    {news.length}
+                  </span>
+                )}
               </button>
 
               <button
@@ -241,7 +300,7 @@ export default function Home() {
                   </span>
                 )}
               </button>
-              
+
               <button
                 onClick={() => setActiveTab('archives')}
                 className={cn(
@@ -256,85 +315,121 @@ export default function Home() {
 
           {/* Cards Grid */}
           {loading ? (
-             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
-               {[1, 2, 3, 4, 5, 6, 7, 8].map(i => (
-                 <div key={i} className="h-[320px] rounded-[2rem] bg-slate-200/50 dark:bg-slate-800/50 animate-pulse border border-slate-200 dark:border-slate-800 shadow-sm" />
-               ))}
-             </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+              {[1, 2, 3, 4, 5, 6, 7, 8].map(i => (
+                <div key={i} className="h-[320px] rounded-[2rem] bg-slate-200/50 dark:bg-slate-800/50 animate-pulse border border-slate-200 dark:border-slate-800 shadow-sm" />
+              ))}
+            </div>
           ) : displayedItems.length > 0 ? (
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
               {displayedItems.map((item, i) => {
                 const isItemSaved = isSaved(item.link);
                 const TypeIcon = item.type === 'competition' ? TrophyIcon : item.type === 'job' ? BriefcaseIcon : NewspaperIcon;
-                
+
                 // Highlight ending soon for competitions
-                const isEndingSoon = item.type === 'competition' && activeTab === 'competitions' && item.deadline_iso && differenceInDays(parseISO(item.deadline_iso), new Date()) <= 14;
+                const daysLeft = item.deadline_iso && isValid(parseISO(item.deadline_iso))
+                  ? differenceInDays(parseISO(item.deadline_iso), new Date())
+                  : null;
+                const isEndingSoon = item.type === 'competition' && activeTab === 'competitions' && daysLeft !== null && daysLeft <= 14;
+                const hasNoDeadline = item.type === 'competition' && !item.deadline_iso;
 
                 return (
-                 <div
-                  key={`${item.link}-${i}`}
-                  className={cn(
-                    "group relative flex flex-col h-full gap-5 p-7 transition-all duration-500 border shadow-md bg-white dark:bg-slate-900 rounded-[2rem] hover:shadow-xl hover:-translate-y-2",
-                    "border-slate-200 dark:border-slate-800",
-                    isEndingSoon && "ring-2 ring-rose-500/50 border-rose-500/50"
-                  )}
-                 >
-                  <div className="flex items-start justify-between gap-3">
-                    <div className="flex flex-col gap-2 flex-grow">
-                      <span className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-bold tracking-wider uppercase rounded-full w-fit bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300">
-                         <TypeIcon className="w-3.5 h-3.5" />
-                         {item.type || 'Article'}
-                      </span>
-                      
-                      {/* Meta information tags */}
-                      {item.type === 'competition' && item.deadline && (
-                         <span className={cn(
-                           "flex items-center gap-1.5 text-xs font-bold",
-                           activeTab === 'archives' ? "text-slate-500" : isEndingSoon ? "text-rose-500" : "text-emerald-600 dark:text-emerald-400"
-                         )}>
-                           <CalendarIcon className="w-3.5 h-3.5" /> 
-                           {activeTab === 'archives' ? `Clôturé le ${item.deadline}` : item.deadline}
-                         </span>
-                      )}
-                      {item.type === 'job' && item.location && (
-                         <span className="flex items-center gap-1.5 text-xs font-bold text-indigo-600 dark:text-indigo-400">
-                           <MapPinIcon className="w-3.5 h-3.5" /> {item.location}
-                         </span>
-                      )}
+                  <div
+                    key={`${item.link}-${i}`}
+                    className={cn(
+                      "group relative flex flex-col h-full gap-5 p-7 transition-all duration-500 border shadow-md bg-white dark:bg-slate-900 rounded-[2rem] hover:shadow-xl hover:-translate-y-2",
+                      "border-slate-200 dark:border-slate-800",
+                      isEndingSoon && "ring-2 ring-rose-500/50 border-rose-500/50"
+                    )}
+                  >
+                    <div className="flex items-start justify-between gap-3">
+                      <div className="flex flex-col gap-2 flex-grow">
+                        <span className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-bold tracking-wider uppercase rounded-full w-fit bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300">
+                          <TypeIcon className="w-3.5 h-3.5" />
+                          {item.type || 'Article'}
+                        </span>
+
+                        {/* Meta information tags */}
+                        {item.type === 'competition' && item.deadline && !hasNoDeadline && (
+                          <span className={cn(
+                            "flex items-center gap-1.5 text-xs font-bold",
+                            activeTab === 'archives' ? "text-slate-500" : isEndingSoon ? "text-rose-500" : "text-emerald-600 dark:text-emerald-400"
+                          )}>
+                            <CalendarIcon className="w-3.5 h-3.5" />
+                            {activeTab === 'archives' ? `Clôturé le ${item.deadline}` : item.deadline}
+                            {daysLeft !== null && daysLeft <= 14 && activeTab === 'competitions' && (
+                              <span className="ml-1 px-1.5 py-0.5 rounded bg-rose-100 dark:bg-rose-950 text-rose-600 dark:text-rose-400 text-[10px]">
+                                J-{daysLeft}
+                              </span>
+                            )}
+                          </span>
+                        )}
+
+                        {hasNoDeadline && activeTab === 'competitions' && (
+                          <span className="flex items-center gap-1.5 text-xs font-medium text-slate-400 dark:text-slate-500">
+                            <CalendarIcon className="w-3.5 h-3.5" />
+                            Date inconnue
+                          </span>
+                        )}
+
+                        {item.type === 'job' && item.location && (
+                          <span className="flex items-center gap-1.5 text-xs font-bold text-indigo-600 dark:text-indigo-400">
+                            <MapPinIcon className="w-3.5 h-3.5" /> {item.location}
+                          </span>
+                        )}
+
+                        {item.type === 'news' && item.date && item.date !== 'Recent' && (
+                          <span className="flex items-center gap-1.5 text-xs font-medium text-slate-500 dark:text-slate-400">
+                            <CalendarIcon className="w-3.5 h-3.5" /> {item.date}
+                          </span>
+                        )}
+                      </div>
+
+                      <button
+                        onClick={() => toggleSave(item)}
+                        className={cn(
+                          "rounded-full p-3 transition-colors shadow-sm border flex-shrink-0",
+                          isItemSaved
+                            ? "text-[#a68a30] bg-[#a68a30]/10 border-[#a68a30]/20 dark:text-[#c2a65a] dark:bg-[#c2a65a]/10 dark:border-[#c2a65a]/20"
+                            : "text-slate-400 bg-white dark:bg-slate-800 border-slate-100 dark:border-slate-700 hover:bg-slate-50 dark:hover:bg-slate-700",
+                        )}
+                        title={isItemSaved ? "Retirer des favoris" : "Ajouter aux favoris"}
+                      >
+                        <BookmarkIcon className={cn("size-4", isItemSaved && "fill-current")} />
+                      </button>
                     </div>
 
-                    <button
-                      onClick={() => toggleSave(item)}
-                      className={cn(
-                        "rounded-full p-3 transition-colors shadow-sm border",
-                        isItemSaved 
-                          ? "text-[#a68a30] bg-[#a68a30]/10 border-[#a68a30]/20 dark:text-[#c2a65a] dark:bg-[#c2a65a]/10 dark:border-[#c2a65a]/20" 
-                          : "text-slate-400 bg-white dark:bg-slate-800 border-slate-100 dark:border-slate-700 hover:bg-slate-50 dark:hover:bg-slate-700",
-                      )}
-                    >
-                      <BookmarkIcon className={cn("size-4.5", isItemSaved && "fill-current")} />
-                    </button>
+                    <h3 className="text-xl font-extrabold font-outfit leading-tight text-slate-800 dark:text-slate-100 group-hover:text-[#a68a30] dark:group-hover:text-[#c2a65a] transition-colors line-clamp-3">
+                      {item.title}
+                    </h3>
+
+                    <p className="text-sm font-medium leading-relaxed text-slate-500 dark:text-slate-400 line-clamp-3 flex-grow pb-4">
+                      {(() => {
+                        let desc = item.description || "";
+                        if (item.type === 'competition' && (desc.length < 35 || desc.includes('Bustler') || desc.includes('competitions.archi'))) {
+                          return "Découvrez cette opportunité d'architecture. Consultez la page officielle pour accéder au brief détaillé, aux critères du jury et aux récompenses proposées.";
+                        }
+                        if (item.type === 'job' && desc.length < 35) {
+                          return "Nouvelle offre d'emploi en architecture. Cliquez pour voir les exigences du poste et postuler directement auprès de l'agence.";
+                        }
+                        if (desc.length < 15) {
+                          return "Consultez le site officiel pour plus de détails sur cet élément.";
+                        }
+                        return desc;
+                      })()}
+                    </p>
+
+                    <div className="pt-5 mt-auto border-t border-slate-100 dark:border-slate-800">
+                      <a
+                        href={item.link}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex w-full items-center justify-center gap-2 py-2.5 px-4 text-sm font-bold tracking-wide text-slate-900 bg-slate-100 hover:bg-slate-200 dark:text-white dark:bg-slate-800 dark:hover:bg-slate-700 rounded-none transition-all uppercase"
+                      >
+                        {activeTab === 'archives' ? "Voir l\u2019archive" : activeTab === 'jobs' ? "Voir l\u2019offre" : activeTab === 'news' ? "Lire l\u2019article" : "Consulter"} <ExternalLinkIcon className="size-4" />
+                      </a>
+                    </div>
                   </div>
-
-                  <h3 className="text-xl font-extrabold font-outfit leading-tight text-slate-800 dark:text-slate-100 group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors line-clamp-3">
-                    {item.title}
-                  </h3>
-
-                  <p className="text-sm font-medium leading-relaxed text-slate-500 dark:text-slate-400 line-clamp-3 flex-grow pb-4">
-                    {item.description || "Aucun résumé disponible pour cet élément."}
-                  </p>
-
-                  <div className="pt-5 mt-auto border-t border-slate-100 dark:border-slate-800">
-                    <a
-                      href={item.link}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="inline-flex w-full items-center justify-center gap-2 py-2.5 px-4 text-sm font-bold tracking-wide text-slate-900 bg-slate-100 hover:bg-slate-200 dark:text-white dark:bg-slate-800 dark:hover:bg-slate-700 rounded-none transition-all uppercase"
-                    >
-                      Consulter {activeTab === 'archives' ? "l'archive" : "l'offre"} <ExternalLinkIcon className="size-4" />
-                    </a>
-                  </div>
-                </div>
                 );
               })}
             </div>
@@ -348,8 +443,8 @@ export default function Home() {
                 {activeTab === 'saved'
                   ? "Votre dossier de favoris est vide. Explorez le Hub pour sauvegarder vos opportunités."
                   : activeTab === 'archives'
-                  ? "Aucun concours expiré n'est présent dans la base de données."
-                  : "Le flux est actuellement vide. Lancez le scraper système (bouton Rapide Sync) pour le rafraîchir."}
+                  ? "Aucun concours expiré n\u2019est présent dans la base de données."
+                  : "Le flux est actuellement vide. Lance le scraper Python pour rafraîchir les données."}
               </p>
             </div>
           )}
@@ -368,12 +463,10 @@ export default function Home() {
           </p>
         </div>
       </footer>
-      
-      {/* Hide scrollbar injected style & background pattern */}
+
       <style dangerouslySetInnerHTML={{__html: `
         .hidescrollbar::-webkit-scrollbar { display: none; }
         .hidescrollbar { -ms-overflow-style: none; scrollbar-width: none; }
-        @keyframes slide { from { transform: translate(0, 0); } to { transform: translate(-40px, -40px); } }
       `}} />
     </div>
   );

@@ -1,9 +1,9 @@
-name: Daily AI News Sync
+name: Daily Architecture Data Sync
 
 on:
   schedule:
-    # Runs at 07:00 UTC every day
-    - cron: '0 7 * * *'
+    # Runs at 06:00 UTC (07:00 Paris time) every day
+    - cron: '0 6 * * *'
   workflow_dispatch: # Allows manual trigger from GitHub UI
 
 jobs:
@@ -16,27 +16,49 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Set up Python
+    - name: Set up Python 3.11
       uses: actions/setup-python@v5
       with:
-        python-version: '3.10'
+        python-version: '3.11'
 
-    - name: Install dependencies
+    - name: Cache pip dependencies
+      uses: actions/cache@v4
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
+    - name: Install Python dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Install Playwright Browsers
+    - name: Install Playwright Browsers (Chromium only)
       run: playwright install --with-deps chromium
 
     - name: Run Scraper
       run: |
         python tools/scraper.py
+      # Continue even if scraper partially fails — we want to commit whatever was scraped
+      continue-on-error: false
+
+    - name: Verify output files exist
+      run: |
+        echo "=== Competitions ==="
+        python -c "import json; d=json.load(open('public/competitions.json')); print(f'{len(d)} competitions')"
+        echo "=== Jobs ==="
+        python -c "import json; d=json.load(open('public/jobs.json')); print(f'{len(d)} jobs')"
+        echo "=== News ==="
+        python -c "import json; d=json.load(open('public/news.json')); print(f'{len(d)} articles')"
 
     - name: Commit and Push changes
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add public/competitions.json public/jobs.json public/news.json
-        git commit -m "chore: daily data sync [$(date '+%Y-%m-%d %H:%M')]" || echo "No changes to commit"
-        git push
+        git diff --staged --quiet && echo "✓ No changes to commit" || (
+          git commit -m "chore: daily data sync [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
+          echo "✓ Changes pushed successfully"
+        )
