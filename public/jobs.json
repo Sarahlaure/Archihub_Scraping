@@ -1,10 +1,18 @@
 [
     {
         "title": "Architect",
-        "link": "https://jobs.architecture.com/job/32593/architect/?LinkSource=HomePage",
-        "location": "Belfast (City/Town)",
+        "link": "https://jobs.architecture.com/job/32575/architect/?LinkSource=HomePage",
+        "location": "West Midlands, Birmingham",
         "salary": "•",
-        "description": "Architect | Belfast (City/Town) | • | Competitive based on skills and exper...",
+        "description": "Architect | West Midlands, Birmingham | • | £37000 - £45000 per annum + Company B...",
+        "type": "job"
+    },
+    {
+        "title": "Senior Architectural Technologist",
+        "link": "https://jobs.architecture.com/job/32549/senior-architectural-technologist/?LinkSource=HomePage",
+        "location": "London / London, City of London",
+        "salary": "•",
+        "description": "Senior Architectural Technologist | London / London, City of London | • | £45000 - £55000 per annum",
         "type": "job"
     },
     {
@@ -16,19 +24,11 @@
         "type": "job"
     },
     {
-        "title": "Architectural Technician",
-        "link": "https://jobs.architecture.com/job/32598/architectural-technician/?LinkSource=HomePage",
-        "location": "East Riding of Yorkshire, Kingston Up...",
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/32593/architect/?LinkSource=HomePage",
+        "location": "Belfast (City/Town)",
         "salary": "•",
-        "description": "Architectural Technician | East Riding of Yorkshire, Kingston Up... | • | £30000 - £40000 per annum + Company B...",
-        "type": "job"
-    },
-    {
-        "title": "Intermediate Architectural Technologist",
-        "link": "https://jobs.architecture.com/job/32591/intermediate-architectural-technologist/?LinkSource=HomePage",
-        "location": "Manchester, Greater Manchester",
-        "salary": "•",
-        "description": "Intermediate Architectural Technologist | Manchester, Greater Manchester | • | £30000 - £32000 per annum + Company B...",
+        "description": "Architect | Belfast (City/Town) | • | Competitive based on skills and exper...",
         "type": "job"
     }
 ]
