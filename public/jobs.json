@@ -1,26 +1,18 @@
 [
     {
         "title": "Architect",
-        "link": "https://jobs.architecture.com/job/32537/architect/?LinkSource=HomePage",
-        "location": "London",
-        "salary": "•",
-        "description": "Architect | London | • | £35000 - £45000 per annum + plus bene...",
-        "type": "job"
-    },
-    {
-        "title": "Senior Architectural Technologist",
-        "link": "https://jobs.architecture.com/job/32549/senior-architectural-technologist/?LinkSource=HomePage",
-        "location": "London / London, City of London",
-        "salary": "•",
-        "description": "Senior Architectural Technologist | London / London, City of London | • | £45000 - £55000 per annum",
-        "type": "job"
-    },
-    {
-        "title": "Architect",
         "link": "https://jobs.architecture.com/job/32593/architect/?LinkSource=HomePage",
         "location": "Belfast (City/Town)",
         "salary": "•",
         "description": "Architect | Belfast (City/Town) | • | Competitive based on skills and exper...",
+        "type": "job"
+    },
+    {
+        "title": "Senior Architect / Project Runner",
+        "link": "https://jobs.architecture.com/job/32616/senior-architect-project-runner-/?LinkSource=HomePage",
+        "location": "High Wycombe, Buckinghamshire",
+        "salary": "•",
+        "description": "Senior Architect / Project Runner | High Wycombe, Buckinghamshire | • | Competitive salary of £50,000–£60,000...",
         "type": "job"
     },
     {
@@ -29,6 +21,14 @@
         "location": "London",
         "salary": "•",
         "description": "Architect / Architectural Technologist | London | • | up to £60,000 - depending on experience",
+        "type": "job"
+    },
+    {
+        "title": "Architect, Senior Architect and Associate Archi...",
+        "link": "https://jobs.architecture.com/job/32564/architect-senior-architect-and-associate-architect/?LinkSource=HomePage",
+        "location": "London (Central), London (Greater)",
+        "salary": "•",
+        "description": "Architect, Senior Architect and Associate Archi... | London (Central), London (Greater) | • | Up to 65k DOE",
         "type": "job"
     }
 ]
