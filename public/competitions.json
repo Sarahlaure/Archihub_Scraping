@@ -288,34 +288,10 @@
         "type": "competition"
     },
     {
-        "title": "Museum of Emotions #9",
-        "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
-        "deadline": "Feb 22, 2027",
-        "deadline_iso": "2027-02-22T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Buildner’s Unbuilt Award 2027",
-        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
-        "deadline": "Oct 18, 2027",
-        "deadline_iso": "2027-10-18T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "The Quiet Tower",
-        "link": "https://bustler.net/competitions/10555/the-quiet-tower",
-        "deadline": "Feb 15, 2027",
-        "deadline_iso": "2027-02-15T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "The Oak Moon Pavilion",
-        "link": "https://bustler.net/competitions/10598/the-oak-moon-pavilion",
-        "deadline": "Mar 1, 2027",
-        "deadline_iso": "2027-03-01T00:00:00",
+        "title": "New York High Falls Riverfront Market",
+        "link": "https://bustler.net/competitions/10546/new-york-high-falls-riverfront-market",
+        "deadline": "Jan 18, 2027",
+        "deadline_iso": "2027-01-18T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -324,6 +300,62 @@
         "link": "https://bustler.net/competitions/10526/portugal-long-table-restaurant",
         "deadline": "Jan 11, 2027",
         "deadline_iso": "2027-01-11T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Museum of Emotions #9",
+        "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
+        "deadline": "Feb 22, 2027",
+        "deadline_iso": "2027-02-22T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Kinderspace: Architecture for Children's Development competition / Edition #4",
+        "link": "https://bustler.net/competitions/10503/kinderspace-architecture-for-children-s-development-competition-edition-4",
+        "deadline": "Nov 30, 2026",
+        "deadline_iso": "2026-11-30T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "WDC Busan 2028 Pavilion International Design Competition",
+        "link": "https://bustler.net/competitions/10670/wdc-busan-2028-pavilion-international-design-competition",
+        "deadline": "Oct 26, 2026",
+        "deadline_iso": "2026-10-26T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Valli Wine Tasting Room",
+        "link": "https://bustler.net/competitions/10536/valli-wine-tasting-room",
+        "deadline": "Feb 15, 2027",
+        "deadline_iso": "2027-02-15T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Architecture & Design Collection Awards (ADCA) 2026",
+        "link": "https://bustler.net/competitions/10665/architecture-design-collection-awards-adca-2026",
+        "deadline": "Oct 19, 2026",
+        "deadline_iso": "2026-10-19T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "2027 Skyscraper Competition",
+        "link": "https://bustler.net/competitions/10678/2027-skyscraper-competition",
+        "deadline": "Mar 9, 2027",
+        "deadline_iso": "2027-03-09T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "The Oak Moon Pavilion",
+        "link": "https://bustler.net/competitions/10598/the-oak-moon-pavilion",
+        "deadline": "Mar 1, 2027",
+        "deadline_iso": "2027-03-01T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -344,42 +376,26 @@
         "type": "competition"
     },
     {
-        "title": "2027 Skyscraper Competition",
-        "link": "https://bustler.net/competitions/10678/2027-skyscraper-competition",
-        "deadline": "Mar 9, 2027",
-        "deadline_iso": "2027-03-09T00:00:00",
+        "title": "Buildner’s Unbuilt Award 2027",
+        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
+        "deadline": "Oct 18, 2027",
+        "deadline_iso": "2027-10-18T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
     {
-        "title": "WDC Busan 2028 Pavilion International Design Competition",
-        "link": "https://bustler.net/competitions/10670/wdc-busan-2028-pavilion-international-design-competition",
-        "deadline": "Oct 26, 2026",
-        "deadline_iso": "2026-10-26T00:00:00",
+        "title": "Minab, Architecture: Beyond Consolation — For Peace and Life (International Design Competition for the Landscape and Memorial Space of the Minab Martyrs' Cemetery)",
+        "link": "https://bustler.net/competitions/10646/minab-architecture-beyond-consolation-for-peace-and-life-international-design-competition-for-the-landscape-and-memorial-space-of-the-minab-martyrs-cemetery",
+        "deadline": "Nov 17, 2026",
+        "deadline_iso": "2026-11-17T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
     {
-        "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
-        "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
-        "deadline": "Jan 5, 2027",
-        "deadline_iso": "2027-01-05T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "New York High Falls Riverfront Market",
-        "link": "https://bustler.net/competitions/10546/new-york-high-falls-riverfront-market",
-        "deadline": "Jan 18, 2027",
-        "deadline_iso": "2027-01-18T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Kinderspace: Architecture for Children's Development competition / Edition #4",
-        "link": "https://bustler.net/competitions/10503/kinderspace-architecture-for-children-s-development-competition-edition-4",
-        "deadline": "Nov 30, 2026",
-        "deadline_iso": "2026-11-30T00:00:00",
+        "title": "The Quiet Tower",
+        "link": "https://bustler.net/competitions/10555/the-quiet-tower",
+        "deadline": "Feb 15, 2027",
+        "deadline_iso": "2027-02-15T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -392,10 +408,10 @@
         "type": "competition"
     },
     {
-        "title": "Valli Wine Tasting Room",
-        "link": "https://bustler.net/competitions/10536/valli-wine-tasting-room",
-        "deadline": "Feb 15, 2027",
-        "deadline_iso": "2027-02-15T00:00:00",
+        "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
+        "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
+        "deadline": "Jan 5, 2027",
+        "deadline_iso": "2027-01-05T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -416,18 +432,18 @@
         "type": "competition"
     },
     {
-        "title": "Schrödinger’s Room Edition #3",
-        "link": "https://bustler.net/competitions/latest/10180/schr-dinger-s-room-edition-3",
-        "deadline": "Mon, Jan 25, 2027",
-        "deadline_iso": "2027-01-25T00:00:00",
-        "description": "Listed on Bustler",
-        "type": "competition"
-    },
-    {
         "title": "The Quiet Tower",
         "link": "https://bustler.net/competitions/latest/10555/the-quiet-tower",
         "deadline": "Mon, Feb 15, 2027",
         "deadline_iso": "2027-02-15T00:00:00",
+        "description": "Listed on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Schrödinger’s Room Edition #3",
+        "link": "https://bustler.net/competitions/latest/10180/schr-dinger-s-room-edition-3",
+        "deadline": "Mon, Jan 25, 2027",
+        "deadline_iso": "2027-01-25T00:00:00",
         "description": "Listed on Bustler",
         "type": "competition"
     },

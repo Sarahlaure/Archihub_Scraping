@@ -1,18 +1,10 @@
 [
     {
-        "title": "Architect",
-        "link": "https://jobs.architecture.com/job/32593/architect/?LinkSource=HomePage",
-        "location": "Belfast (City/Town)",
+        "title": "Part 2 Architectural Assistant",
+        "link": "https://jobs.architecture.com/job/32614/part-2-architectural-assistant/?LinkSource=HomePage",
+        "location": "Birmingham, West Midlands",
         "salary": "•",
-        "description": "Architect | Belfast (City/Town) | • | Competitive based on skills and exper...",
-        "type": "job"
-    },
-    {
-        "title": "Senior Architect / Project Runner",
-        "link": "https://jobs.architecture.com/job/32616/senior-architect-project-runner-/?LinkSource=HomePage",
-        "location": "High Wycombe, Buckinghamshire",
-        "salary": "•",
-        "description": "Senior Architect / Project Runner | High Wycombe, Buckinghamshire | • | Competitive salary of £50,000–£60,000...",
+        "description": "Part 2 Architectural Assistant | Birmingham, West Midlands | • | £27000 - £32000 per annum + plus bene...",
         "type": "job"
     },
     {
@@ -24,11 +16,19 @@
         "type": "job"
     },
     {
-        "title": "Architect, Senior Architect and Associate Archi...",
-        "link": "https://jobs.architecture.com/job/32564/architect-senior-architect-and-associate-architect/?LinkSource=HomePage",
-        "location": "London (Central), London (Greater)",
+        "title": "Senior Architect / Project Runner",
+        "link": "https://jobs.architecture.com/job/32616/senior-architect-project-runner-/?LinkSource=HomePage",
+        "location": "High Wycombe, Buckinghamshire",
         "salary": "•",
-        "description": "Architect, Senior Architect and Associate Archi... | London (Central), London (Greater) | • | Up to 65k DOE",
+        "description": "Senior Architect / Project Runner | High Wycombe, Buckinghamshire | • | Competitive salary of £50,000–£60,000...",
+        "type": "job"
+    },
+    {
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/32593/architect/?LinkSource=HomePage",
+        "location": "Belfast (City/Town)",
+        "salary": "•",
+        "description": "Architect | Belfast (City/Town) | • | Competitive based on skills and exper...",
         "type": "job"
     }
 ]
