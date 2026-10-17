@@ -1,18 +1,10 @@
 [
     {
-        "title": "Senior Architect / Project Runner",
-        "link": "https://jobs.architecture.com/job/32616/senior-architect-project-runner-/?LinkSource=HomePage",
-        "location": "High Wycombe, Buckinghamshire",
+        "title": "Senior Architect",
+        "link": "https://jobs.architecture.com/job/32610/senior-architect/?LinkSource=HomePage",
+        "location": "Winchester, Hampshire",
         "salary": "•",
-        "description": "Senior Architect / Project Runner | High Wycombe, Buckinghamshire | • | Competitive salary of £50,000–£60,000...",
-        "type": "job"
-    },
-    {
-        "title": "Senior Architectural Technologist",
-        "link": "https://jobs.architecture.com/job/32608/senior-architectural-technologist/?LinkSource=HomePage",
-        "location": "Preston, Lancashire",
-        "salary": "•",
-        "description": "Senior Architectural Technologist | Preston, Lancashire | • | £45000 - £55000 per annum",
+        "description": "Senior Architect | Winchester, Hampshire | • | £45000 - £55000 per annum + plus bene...",
         "type": "job"
     },
     {
@@ -29,6 +21,14 @@
         "location": "Belfast (City/Town)",
         "salary": "•",
         "description": "Architect | Belfast (City/Town) | • | Competitive based on skills and exper...",
+        "type": "job"
+    },
+    {
+        "title": "Senior Architect / Project Runner",
+        "link": "https://jobs.architecture.com/job/32616/senior-architect-project-runner-/?LinkSource=HomePage",
+        "location": "High Wycombe, Buckinghamshire",
+        "salary": "•",
+        "description": "Senior Architect / Project Runner | High Wycombe, Buckinghamshire | • | Competitive salary of £50,000–£60,000...",
         "type": "job"
     }
 ]
