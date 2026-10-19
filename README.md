@@ -10,11 +10,11 @@
 
 ## ✨ Caractéristiques Principales
 
-- 🎯 **Concours avec Échéances Vérifiées :** Seules les compétitions disposant de dates limites claires et à venir sont affichées (filtrage automatique des opportunités expirées).
-- 📌 **Navigation Persistante (Sticky Navigation) :** Basculez entre les onglets *Concours*, *Emplois* et *Actualités* à n'importe quel moment du défilement sans devoir remonter en haut de la page.
-- 🖼️ **Descriptifs Clarifiés :** Résumés enrichis et fallback automatisé pour garantir des informations toujours lisibles et professionnelles.
-- ⚡ **Automatisation Quotidienne (GitHub Actions) :** Le scraper s'exécute automatiquement chaque jour à 06:00 UTC pour maintenir les données à jour sans intervention humaine.
-- 🛡️ **Conformité & Respect des Sources :** Tous les contenus affichés dirigent directement l'utilisateur vers le site officiel de l'organisateur ou du recruteur.
+-  **Concours avec Échéances Vérifiées :** Seules les compétitions disposant de dates limites claires et à venir sont affichées (filtrage automatique des opportunités expirées).
+-  **Navigation Persistante (Sticky Navigation) :** Basculez entre les onglets *Concours*, *Emplois* et *Actualités* à n'importe quel moment du défilement sans devoir remonter en haut de la page.
+-  **Descriptifs Clarifiés :** Résumés enrichis et fallback automatisé pour garantir des informations toujours lisibles et professionnelles.
+-  **Automatisation Quotidienne (GitHub Actions) :** Le scraper s'exécute automatiquement chaque jour à 06:00 UTC pour maintenir les données à jour sans intervention humaine.
+-  **Conformité & Respect des Sources :** Tous les contenus affichés dirigent directement l'utilisateur vers le site officiel de l'organisateur ou du recruteur.
 
 ---
 
