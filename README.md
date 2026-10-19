@@ -4,7 +4,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)](https://nextjs.org/)
 [![Python Playwright](https://img.shields.io/badge/Python-Playwright-green?logo=python)](https://playwright.dev/python/)
 
-**Archi.Comp** (Archihub) est une plateforme web moderne et entièrement automatisée conçue pour les architectes ou étudiants et professionnels du secteur. Le site agrège en temps réel les **concours internationaux**, les **offres d'emploi en agence** et les **dernières actualités** du monde de l'architecture.
+**Archi.Comp** (Archihub) est une plateforme web moderne et entièrement automatisée conçue pour les architectes ou étudiants et professionnels du secteur. Le site agrège en temps réel les **concours internationaux**, les **offres d'emploi en agence** et les **dernières actualités** du monde de l'architecture. Elle est accessible via le lien : https://archihub-gamma.vercel.app/
 
 ---
 
