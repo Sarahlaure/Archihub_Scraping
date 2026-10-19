@@ -5,7 +5,7 @@
 [![Playwright](https://img.shields.io/badge/Scraping-Playwright-2EAD33?logo=playwright)](https://playwright.dev/python/)
 [![Vercel](https://img.shields.io/badge/Deployed-Vercel-000?logo=vercel)](https://vercel.com)
 
-A modern, automated web platform that aggregates **international architecture competitions**, **job listings**, and **industry news** — updated daily via GitHub Actions.
+A modern, automated web platform that aggregates **international architecture competitions**, **job listings**, and **industry news** — updated daily via GitHub Actions accessible via https://archihub-gamma.vercel.app/.
 
 ---
 
