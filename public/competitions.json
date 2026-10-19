@@ -48,6 +48,46 @@
         "type": "competition"
     },
     {
+        "title": "Expansion of the Galleria Borghese Museum in Rome",
+        "link": "https://competitions.archi/competition/expansion-of-the-galleria-borghese-museum-in-rome/",
+        "deadline": "14th October 2026",
+        "deadline_iso": "2026-10-14T00:00:00",
+        "description": "(Professional and Student categories) CartesianForms: Architecture Reimagined is a global AI design competition by FORMAS.AI in partnership with PAACADEMY and Parametric Architecture, sponsored by OpenAI. Choose a 50 × 50 m site anywhere in the world...",
+        "type": "competition"
+    },
+    {
+        "title": "CartesianForms: Reimagined Architecture",
+        "link": "https://competitions.archi/competition/cartesianforms-reimagined-architecture/",
+        "deadline": "13th December 2026",
+        "deadline_iso": "2026-12-13T00:00:00",
+        "description": "(Professional and Student categories) CartesianForms: Architecture Reimagined is a global AI design competition by FORMAS.AI in partnership with PAACADEMY and Parametric Architecture, sponsored by OpenAI. Choose a 50 × 50 m site anywhere in the world...",
+        "type": "competition"
+    },
+    {
+        "title": "Architecture International Contest: Cappadocia Oasis",
+        "link": "https://competitions.archi/competition/architecture-international-contest-cappadocia-oasis/",
+        "deadline": "22nd December 2026",
+        "deadline_iso": "2026-12-22T00:00:00",
+        "description": "to any architect or architecture student A teahouse experience will be created in Cappadocia that connects visitors to the landscape through relaxation, gastronomy, and contemplation. Cappadocia Oasis is envisioned as a small, contemporary retreat in...",
+        "type": "competition"
+    },
+    {
+        "title": "Figures of Architecture",
+        "link": "https://competitions.archi/competition/figures-of-architecture/",
+        "deadline": "22nd November 2026",
+        "deadline_iso": "2026-11-22T00:00:00",
+        "description": "Architecture is often understood through finished buildings. “Figures of Architecture” asks students to look closer at the things that make architecture possible: the materials, assemblies, and methods that are often concealed, overlooked, or misunde...",
+        "type": "competition"
+    },
+    {
+        "title": "Small Museum Pavilion (Copenhagen, Denmark)",
+        "link": "https://competitions.archi/competition/small-museum-pavilion-copenhagen-denmark/",
+        "deadline": "30th January 2027",
+        "deadline_iso": "2027-01-30T00:00:00",
+        "description": "For All Premise Traditional museums often stand as inward-facing monuments disconnected from daily civic life. This competition calls for a decentralized, nimble micro-institution — an intimate, open pavilion that democratizes culture and embeds art,...",
+        "type": "competition"
+    },
+    {
         "title": "Architectural competition for the design and supervision of the construction of the project “Limassol Arts Centre”",
         "link": "https://competitions.archi/competition/architectural-competition-for-the-design-and-supervision-of-the-construction-of-the-project-limassol-arts-centre/",
         "deadline": "22nd March 2027",
@@ -61,30 +101,6 @@
         "deadline": "26th October 2026",
         "deadline_iso": "2026-10-26T00:00:00",
         "description": "International Design Competition Busan Metropolitan City and Design Council Busan invite international designers and creative professionals to participate in the WDC Busan 2028 Pavilion International Design Competition. As the host city of World Desi...",
-        "type": "competition"
-    },
-    {
-        "title": "C-IDEA Design Award 2027",
-        "link": "https://competitions.archi/competition/c-idea-design-award-2027/",
-        "deadline": "25th September 2026",
-        "deadline_iso": "2026-09-25T00:00:00",
-        "description": "View website Official Website Home Introduction The call for entries to the C-IDEA Design Award 2027 has opened to designers from all parts of the world. The C-IDEA Design Award aims to recognize and promote visionary talents in various categories ra...",
-        "type": "competition"
-    },
-    {
-        "title": "International Competition for a New Academic Wing of 18. Comprehensive School “William Gladstone” – Sofia, Bulgaria",
-        "link": "https://competitions.archi/competition/international-competition-for-a-new-academic-wing-of-18-comprehensive-school-william-gladstone-sofia-bulgaria/",
-        "deadline": "1st February 2027",
-        "deadline_iso": "2027-02-01T00:00:00",
-        "description": "On October 5, an open international architectural competition is officially announced, with the goal of developing a concept design for a new academic wing at 18 Comprehensive School “William Gladstone” – one of the oldest educational institutions in...",
-        "type": "competition"
-    },
-    {
-        "title": "IADA 2027 — International Architecture & Design Awards",
-        "link": "https://competitions.archi/competition/iada-2027-international-architecture-design-awards/",
-        "deadline": "12th April 2027",
-        "deadline_iso": "2027-04-12T00:00:00",
-        "description": "Certificate, award logo and banners, winner page and media visibility; trophy available separately. IADA 2027 is an international call for architects, interior designers, landscape architects and designers to present built work and concepts to an ind...",
         "type": "competition"
     },
     {
@@ -288,42 +304,10 @@
         "type": "competition"
     },
     {
-        "title": "Valli Wine Tasting Room",
-        "link": "https://bustler.net/competitions/10536/valli-wine-tasting-room",
-        "deadline": "Feb 15, 2027",
-        "deadline_iso": "2027-02-15T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
         "title": "Buildner’s Unbuilt Award 2027",
         "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
         "deadline": "Oct 18, 2027",
         "deadline_iso": "2027-10-18T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Kinderspace: Architecture for Children's Development competition / Edition #4",
-        "link": "https://bustler.net/competitions/10503/kinderspace-architecture-for-children-s-development-competition-edition-4",
-        "deadline": "Nov 30, 2026",
-        "deadline_iso": "2026-11-30T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
-        "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
-        "deadline": "Jan 5, 2027",
-        "deadline_iso": "2027-01-05T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "The Quiet Tower",
-        "link": "https://bustler.net/competitions/10555/the-quiet-tower",
-        "deadline": "Feb 15, 2027",
-        "deadline_iso": "2027-02-15T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -336,10 +320,10 @@
         "type": "competition"
     },
     {
-        "title": "International Competition for a New Academic Wing of 18. Comprehensive School “William Gladstone” – Sofia, Bulgaria",
-        "link": "https://bustler.net/competitions/10677/international-competition-for-a-new-academic-wing-of-18-comprehensive-school-william-gladstone-sofia-bulgaria",
-        "deadline": "Feb 1, 2027",
-        "deadline_iso": "2027-02-01T00:00:00",
+        "title": "2027 Skyscraper Competition",
+        "link": "https://bustler.net/competitions/10678/2027-skyscraper-competition",
+        "deadline": "Mar 9, 2027",
+        "deadline_iso": "2027-03-09T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -352,10 +336,18 @@
         "type": "competition"
     },
     {
-        "title": "2026 Fall 2x8 Exhibition and Scholarship Program",
-        "link": "https://bustler.net/competitions/10502/2026-fall-2x8-exhibition-and-scholarship-program",
-        "deadline": "Oct 19, 2026",
-        "deadline_iso": "2026-10-19T00:00:00",
+        "title": "Portugal Long Table Restaurant",
+        "link": "https://bustler.net/competitions/10526/portugal-long-table-restaurant",
+        "deadline": "Jan 11, 2027",
+        "deadline_iso": "2027-01-11T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
+        "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
+        "deadline": "Jan 5, 2027",
+        "deadline_iso": "2027-01-05T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -368,10 +360,26 @@
         "type": "competition"
     },
     {
-        "title": "Portugal Long Table Restaurant",
-        "link": "https://bustler.net/competitions/10526/portugal-long-table-restaurant",
-        "deadline": "Jan 11, 2027",
-        "deadline_iso": "2027-01-11T00:00:00",
+        "title": "Kinderspace: Architecture for Children's Development competition / Edition #4",
+        "link": "https://bustler.net/competitions/10503/kinderspace-architecture-for-children-s-development-competition-edition-4",
+        "deadline": "Nov 30, 2026",
+        "deadline_iso": "2026-11-30T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Valli Wine Tasting Room",
+        "link": "https://bustler.net/competitions/10536/valli-wine-tasting-room",
+        "deadline": "Feb 15, 2027",
+        "deadline_iso": "2027-02-15T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "The Quiet Tower",
+        "link": "https://bustler.net/competitions/10555/the-quiet-tower",
+        "deadline": "Feb 15, 2027",
+        "deadline_iso": "2027-02-15T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -384,18 +392,34 @@
         "type": "competition"
     },
     {
+        "title": "International Competition for a New Academic Wing of 18. Comprehensive School “William Gladstone” – Sofia, Bulgaria",
+        "link": "https://bustler.net/competitions/10677/international-competition-for-a-new-academic-wing-of-18-comprehensive-school-william-gladstone-sofia-bulgaria",
+        "deadline": "Feb 1, 2027",
+        "deadline_iso": "2027-02-01T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Re:Paris Prize by Van Alen Institute",
+        "link": "https://bustler.net/competitions/10681/re-paris-prize-by-van-alen-institute",
+        "deadline": "Nov 22, 2026",
+        "deadline_iso": "2026-11-22T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "2026 Fall 2x8 Exhibition and Scholarship Program",
+        "link": "https://bustler.net/competitions/10502/2026-fall-2x8-exhibition-and-scholarship-program",
+        "deadline": "Oct 19, 2026",
+        "deadline_iso": "2026-10-19T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
         "title": "Open Chair Design Competition",
         "link": "https://bustler.net/competitions/latest/10611/open-chair-design-competition",
         "deadline": "Fri, Nov 06, 2026",
         "deadline_iso": "2026-11-06T00:00:00",
-        "description": "Listed on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Pavilion Atlas 2026",
-        "link": "https://bustler.net/competitions/latest/10267/pavilion-atlas-2026",
-        "deadline": "Mon, Oct 19, 2026",
-        "deadline_iso": "2026-10-19T00:00:00",
         "description": "Listed on Bustler",
         "type": "competition"
     },
@@ -444,6 +468,14 @@
         "link": "https://bustler.net/competitions/latest/10563/vancouver-tall-challenge",
         "deadline": "Mon, Nov 30, 2026",
         "deadline_iso": "2026-11-30T00:00:00",
+        "description": "Listed on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Portugal Long Table Restaurant",
+        "link": "https://bustler.net/competitions/latest/10526/portugal-long-table-restaurant",
+        "deadline": "Mon, Jan 11, 2027",
+        "deadline_iso": "2027-01-11T00:00:00",
         "description": "Listed on Bustler",
         "type": "competition"
     }

@@ -1,10 +1,18 @@
 [
     {
-        "title": "BRPD Consultant",
-        "link": "https://jobs.architecture.com/job/32596/brpd-consultant-/?LinkSource=HomePage",
-        "location": "London",
+        "title": "Senior Job Runner",
+        "link": "https://jobs.architecture.com/job/32584/senior-job-runner/?LinkSource=HomePage",
+        "location": "Greater Manchester, Manchester",
         "salary": "•",
-        "description": "BRPD Consultant | London | • | £50000 - £70000 per annum",
+        "description": "Senior Job Runner | Greater Manchester, Manchester | • | £42000 - £48000 per annum + Company B...",
+        "type": "job"
+    },
+    {
+        "title": "Senior Architect / Project Runner",
+        "link": "https://jobs.architecture.com/job/32616/senior-architect-project-runner-/?LinkSource=HomePage",
+        "location": "High Wycombe, Buckinghamshire",
+        "salary": "•",
+        "description": "Senior Architect / Project Runner | High Wycombe, Buckinghamshire | • | Competitive salary of £50,000–£60,000...",
         "type": "job"
     },
     {
@@ -21,14 +29,6 @@
         "location": "London",
         "salary": "•",
         "description": "Architect / Architectural Technologist | London | • | up to £60,000 - depending on experience",
-        "type": "job"
-    },
-    {
-        "title": "Senior Architect / Project Runner",
-        "link": "https://jobs.architecture.com/job/32616/senior-architect-project-runner-/?LinkSource=HomePage",
-        "location": "High Wycombe, Buckinghamshire",
-        "salary": "•",
-        "description": "Senior Architect / Project Runner | High Wycombe, Buckinghamshire | • | Competitive salary of £50,000–£60,000...",
         "type": "job"
     }
 ]
