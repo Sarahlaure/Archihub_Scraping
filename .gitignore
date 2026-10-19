@@ -1,6 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# dependencies
+# ==========================================
+# Dependencies
+# ==========================================
 /node_modules
 /.pnp
 .pnp.*
@@ -9,35 +11,75 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
+venv/
 
-# testing
-/coverage
-
-# next.js
+# ==========================================
+# Build & Output
+# ==========================================
 /.next/
 /out/
-
-# production
 /build
+.tmp/
 
-# misc
-.DS_Store
+# ==========================================
+# Environment & Secrets
+# ==========================================
+.env*
 *.pem
 
-# debug
+# ==========================================
+# IDE & OS
+# ==========================================
+.DS_Store
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+
+# ==========================================
+# Debug Logs
+# ==========================================
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
-.env*
+# ==========================================
+# Testing
+# ==========================================
+/coverage
 
-# vercel
-.vercel
+# ==========================================
+# Python Cache
+# ==========================================
+__pycache__/
+*.pyc
+*.pyo
 
-# typescript
-*.tsbuildinfo
-next-env.d.ts
-venv/
-.tmp/
+# ==========================================
+# Personal Documentation & Internal Files
+# ==========================================
+DOCUMENTATION_TECHNIQUE_ET_GUIDE.md
+gemini.md
+findings.md
+progress.md
+task_plan.md
+
+# ==========================================
+# Internal Architecture & Design Assets
+# ==========================================
+architecture/
+Design Guidelines/
+
+# ==========================================
+# Legacy & Dev Utilities
+# ==========================================
+legacy_ui/
+run_sync.sh
+tools/inspect_source.py
+tools/verify_link_playwright.py
+tools/verify_links.py
+
+# ==========================================
+# Backup Files
+# ==========================================
+*.bak

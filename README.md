@@ -1,84 +1,98 @@
-# 🏛️ Archi.Comp — Plateforme d'Opportunités & d'Actualités en Architecture
+# 🏛️ Archi.Comp — Architecture Opportunities Platform
 
-[![Daily Architecture Data Sync](https://github.com/Sarahlaure/Archihub_Scraping/actions/workflows/daily_sync.yml/badge.svg)](https://github.com/Sarahlaure/Archihub_Scraping/actions/workflows/daily_sync.yml)
-[![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)](https://nextjs.org/)
-[![Python Playwright](https://img.shields.io/badge/Python-Playwright-green?logo=python)](https://playwright.dev/python/)
+[![Daily Data Sync](https://github.com/Sarahlaure/Archihub_Scraping/actions/workflows/daily_sync.yml/badge.svg)](https://github.com/Sarahlaure/Archihub_Scraping/actions/workflows/daily_sync.yml)
+[![Next.js 15](https://img.shields.io/badge/Next.js-15-black?logo=next.js)](https://nextjs.org/)
+[![Playwright](https://img.shields.io/badge/Scraping-Playwright-2EAD33?logo=playwright)](https://playwright.dev/python/)
+[![Vercel](https://img.shields.io/badge/Deployed-Vercel-000?logo=vercel)](https://vercel.com)
 
-**Archi.Comp** (Archihub) est une plateforme web moderne et entièrement automatisée conçue pour les architectes ou étudiants et professionnels du secteur. Le site agrège en temps réel les **concours internationaux**, les **offres d'emploi en agence** et les **dernières actualités** du monde de l'architecture. Elle est accessible via le lien : https://archihub-gamma.vercel.app/
-
----
-
-## ✨ Caractéristiques Principales
-
--  **Concours avec Échéances Vérifiées :** Seules les compétitions disposant de dates limites claires et à venir sont affichées (filtrage automatique des opportunités expirées).
--  **Navigation Persistante (Sticky Navigation) :** Basculez entre les onglets *Concours*, *Emplois* et *Actualités* à n'importe quel moment du défilement sans devoir remonter en haut de la page.
--  **Descriptifs Clarifiés :** Résumés enrichis et fallback automatisé pour garantir des informations toujours lisibles et professionnelles.
--  **Automatisation Quotidienne (GitHub Actions) :** Le scraper s'exécute automatiquement chaque jour à 06:00 UTC pour maintenir les données à jour sans intervention humaine.
--  **Conformité & Respect des Sources :** Tous les contenus affichés dirigent directement l'utilisateur vers le site officiel de l'organisateur ou du recruteur.
+A modern, automated web platform that aggregates **international architecture competitions**, **job listings**, and **industry news** — updated daily via GitHub Actions.
 
 ---
 
-## 🛠️ Stack Technique
+## ✨ Features
 
-### Frontend
-- **Framework :** Next.js 15 (App Router, React 19)
-- **Styling :** Tailwind CSS v4, Font Outfit & Inter (Google Fonts)
-- **Icons & UI :** Lucide React, Glassmorphism, Micro-animations CSS
-
-### Backend / Data Scraping
-- **Langage :** Python 3.11
-- **Scraping Engine :** Playwright (Chromium Headless) & BeautifulSoup4
-- **Sources d'information :** `competitions.archi`, `bustler.net`, `architecturecompetitions.com`, `archdaily.com`, `dezeen.com`
-
-### Automation & Deployment
-- **CI/CD :** GitHub Actions (`daily_sync.yml`)
-- **Hosting :** Vercel
+- **Live Competition Feed** — Only shows competitions with verified, upcoming deadlines
+- **Sticky Navigation** — Switch between Competitions, Jobs & News tabs at any scroll depth
+- **Auto-Generated Summaries** — Fallback descriptions for entries with missing or short excerpts
+- **Daily Automation** — GitHub Actions runs the scraper at 06:00 UTC every day
+- **Source Attribution** — Every entry links directly to the original organizer or recruiter
 
 ---
 
-## 🚀 Prise en main & Installation Locale
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|-------|-----------|
+| Frontend | Next.js 15, React 19, Tailwind CSS v4, Framer Motion |
+| Scraping | Python 3.11, Playwright (Chromium Headless), BeautifulSoup4 |
+| Auth | Supabase (Google OAuth, RLS) |
+| CI/CD | GitHub Actions |
+| Hosting | Vercel |
+
+---
+
+## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js 18+ et npm
-- Python 3.11+ et pip
 
-### 1. Cloner le projet
+- Node.js 18+ & npm
+- Python 3.11+ & pip
+
+### Installation
+
 ```bash
+# Clone the repository
 git clone https://github.com/Sarahlaure/Archihub_Scraping.git
 cd Archihub_Scraping
-```
 
-### 2. Installer les dépendances Frontend & Backend
-```bash
-# Frontend
+# Install frontend dependencies
 npm install
 
-# Backend Scraper
+# Install scraping dependencies
 pip install -r requirements.txt
 playwright install chromium
 ```
 
-### 3. Exécuter le Scraper (Génération des données JSON)
-```bash
-python tools/scraper.py
-```
-*Cette commande va générer/mettre à jour `public/competitions.json`, `public/jobs.json` et `public/news.json`.*
+### Run Locally
 
-### 4. Lancer l'application web
 ```bash
+# Generate data (scrape sources)
+python tools/scraper.py
+
+# Start the dev server
 npm run dev
 ```
-Ouvrez [http://localhost:3000](http://localhost:3000) dans votre navigateur pour voir le résultat.
+
+Open [http://localhost:3000](http://localhost:3000) to view the dashboard.
 
 ---
 
-## 🌐 Déploiement en Ligne (Vercel)
+## 📁 Project Structure
 
-1. Connectez votre dépôt GitHub à **[Vercel](https://vercel.com)**.
-2. Vercel détectera automatiquement Next.js et déploiera le site.
-3. Chaque commit poussé par le workflow GitHub Actions mettra automatiquement à jour le site en ligne !
+```
+├── .github/workflows/    # GitHub Actions (daily scraper)
+├── public/               # Static assets + scraped JSON data
+├── src/
+│   ├── app/              # Next.js App Router pages
+│   ├── components/       # React components (UI, theme)
+│   └── lib/              # Utilities (Supabase client, helpers)
+├── tools/
+│   └── scraper.py        # Python scraping engine
+├── package.json          # Node.js dependencies
+├── requirements.txt      # Python dependencies
+└── README.md
+```
 
 ---
 
-## 📝 Licence & Droits
-Projet développé dans le cadre d'un agrégateur d'opportunités d'architecture. Toutes les données appartiennent à leurs organisateurs et éditeurs respectifs.
+## 🌐 Deployment
+
+1. Connect this repository to [Vercel](https://vercel.com)
+2. Vercel auto-detects Next.js and deploys instantly
+3. Every commit pushed by GitHub Actions triggers automatic redeployment
+
+---
+
+## 📝 License
+
+Developed as an architecture opportunities aggregator. All displayed data belongs to their respective organizers and publishers.
