@@ -8,11 +8,19 @@
         "type": "job"
     },
     {
-        "title": "Architect/Project Architect",
-        "link": "https://jobs.architecture.com/job/32562/architect-project-architect/?LinkSource=HomePage",
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/32593/architect/?LinkSource=HomePage",
+        "location": "Belfast (City/Town)",
+        "salary": "•",
+        "description": "Architect | Belfast (City/Town) | • | Competitive based on skills and exper...",
+        "type": "job"
+    },
+    {
+        "title": "Associate/Senior Associate/Associate Director",
+        "link": "https://jobs.architecture.com/job/32566/associate-senior-associate-associate-director/?LinkSource=HomePage",
         "location": "London (Central), London (Greater)",
         "salary": "•",
-        "description": "Architect/Project Architect | London (Central), London (Greater) | • | Up to 48k DOE",
+        "description": "Associate/Senior Associate/Associate Director | London (Central), London (Greater) | • | 60k-80k",
         "type": "job"
     },
     {
@@ -21,14 +29,6 @@
         "location": "High Wycombe, Buckinghamshire",
         "salary": "•",
         "description": "Senior Architect / Project Runner | High Wycombe, Buckinghamshire | • | Competitive salary of £50,000–£60,000...",
-        "type": "job"
-    },
-    {
-        "title": "Architect",
-        "link": "https://jobs.architecture.com/job/32593/architect/?LinkSource=HomePage",
-        "location": "Belfast (City/Town)",
-        "salary": "•",
-        "description": "Architect | Belfast (City/Town) | • | Competitive based on skills and exper...",
         "type": "job"
     }
 ]

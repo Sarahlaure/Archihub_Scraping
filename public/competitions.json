@@ -296,34 +296,10 @@
         "type": "competition"
     },
     {
-        "title": "Buildner’s Unbuilt Award 2027",
-        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
-        "deadline": "Oct 18, 2027",
-        "deadline_iso": "2027-10-18T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Vancouver Tall Challenge",
-        "link": "https://bustler.net/competitions/10563/vancouver-tall-challenge",
-        "deadline": "Nov 30, 2026",
-        "deadline_iso": "2026-11-30T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Valli Wine Tasting Room",
-        "link": "https://bustler.net/competitions/10536/valli-wine-tasting-room",
-        "deadline": "Feb 15, 2027",
-        "deadline_iso": "2027-02-15T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "2027 Skyscraper Competition",
-        "link": "https://bustler.net/competitions/10678/2027-skyscraper-competition",
-        "deadline": "Mar 9, 2027",
-        "deadline_iso": "2027-03-09T00:00:00",
+        "title": "Museum of Emotions #9",
+        "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
+        "deadline": "Feb 22, 2027",
+        "deadline_iso": "2027-02-22T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -336,34 +312,18 @@
         "type": "competition"
     },
     {
+        "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
+        "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
+        "deadline": "Jan 5, 2027",
+        "deadline_iso": "2027-01-05T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
         "title": "New York High Falls Riverfront Market",
         "link": "https://bustler.net/competitions/10546/new-york-high-falls-riverfront-market",
         "deadline": "Jan 18, 2027",
         "deadline_iso": "2027-01-18T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "The Oak Moon Pavilion",
-        "link": "https://bustler.net/competitions/10598/the-oak-moon-pavilion",
-        "deadline": "Mar 1, 2027",
-        "deadline_iso": "2027-03-01T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Kinderspace: Architecture for Children's Development competition / Edition #4",
-        "link": "https://bustler.net/competitions/10503/kinderspace-architecture-for-children-s-development-competition-edition-4",
-        "deadline": "Nov 30, 2026",
-        "deadline_iso": "2026-11-30T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "WDC Busan 2028 Pavilion International Design Competition",
-        "link": "https://bustler.net/competitions/10670/wdc-busan-2028-pavilion-international-design-competition",
-        "deadline": "Oct 26, 2026",
-        "deadline_iso": "2026-10-26T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -376,18 +336,42 @@
         "type": "competition"
     },
     {
-        "title": "Museum of Emotions #9",
-        "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
-        "deadline": "Feb 22, 2027",
-        "deadline_iso": "2027-02-22T00:00:00",
+        "title": "Valli Wine Tasting Room",
+        "link": "https://bustler.net/competitions/10536/valli-wine-tasting-room",
+        "deadline": "Feb 15, 2027",
+        "deadline_iso": "2027-02-15T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
     {
-        "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
-        "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
-        "deadline": "Jan 5, 2027",
-        "deadline_iso": "2027-01-05T00:00:00",
+        "title": "WDC Busan 2028 Pavilion International Design Competition",
+        "link": "https://bustler.net/competitions/10670/wdc-busan-2028-pavilion-international-design-competition",
+        "deadline": "Oct 26, 2026",
+        "deadline_iso": "2026-10-26T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "2027 Skyscraper Competition",
+        "link": "https://bustler.net/competitions/10678/2027-skyscraper-competition",
+        "deadline": "Mar 9, 2027",
+        "deadline_iso": "2027-03-09T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "2027 Lyceum Fellowship - Town Housing",
+        "link": "https://bustler.net/competitions/10679/2027-lyceum-fellowship-town-housing",
+        "deadline": "May 27, 2027",
+        "deadline_iso": "2027-05-27T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Kinderspace: Architecture for Children's Development competition / Edition #4",
+        "link": "https://bustler.net/competitions/10503/kinderspace-architecture-for-children-s-development-competition-edition-4",
+        "deadline": "Nov 30, 2026",
+        "deadline_iso": "2026-11-30T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -396,6 +380,30 @@
         "link": "https://bustler.net/competitions/10526/portugal-long-table-restaurant",
         "deadline": "Jan 11, 2027",
         "deadline_iso": "2027-01-11T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Buildner’s Unbuilt Award 2027",
+        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
+        "deadline": "Oct 18, 2027",
+        "deadline_iso": "2027-10-18T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "The Oak Moon Pavilion",
+        "link": "https://bustler.net/competitions/10598/the-oak-moon-pavilion",
+        "deadline": "Mar 1, 2027",
+        "deadline_iso": "2027-03-01T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Vancouver Tall Challenge",
+        "link": "https://bustler.net/competitions/10563/vancouver-tall-challenge",
+        "deadline": "Nov 30, 2026",
+        "deadline_iso": "2026-11-30T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -440,10 +448,10 @@
         "type": "competition"
     },
     {
-        "title": "New York High Falls Riverfront Market",
-        "link": "https://bustler.net/competitions/latest/10546/new-york-high-falls-riverfront-market",
-        "deadline": "Mon, Jan 18, 2027",
-        "deadline_iso": "2027-01-18T00:00:00",
+        "title": "Vancouver Tall Challenge",
+        "link": "https://bustler.net/competitions/latest/10563/vancouver-tall-challenge",
+        "deadline": "Mon, Nov 30, 2026",
+        "deadline_iso": "2026-11-30T00:00:00",
         "description": "Listed on Bustler",
         "type": "competition"
     },
@@ -456,10 +464,10 @@
         "type": "competition"
     },
     {
-        "title": "Vancouver Tall Challenge",
-        "link": "https://bustler.net/competitions/latest/10563/vancouver-tall-challenge",
-        "deadline": "Mon, Nov 30, 2026",
-        "deadline_iso": "2026-11-30T00:00:00",
+        "title": "New York High Falls Riverfront Market",
+        "link": "https://bustler.net/competitions/latest/10546/new-york-high-falls-riverfront-market",
+        "deadline": "Mon, Jan 18, 2027",
+        "deadline_iso": "2027-01-18T00:00:00",
         "description": "Listed on Bustler",
         "type": "competition"
     },
