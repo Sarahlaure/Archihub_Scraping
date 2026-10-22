@@ -1,10 +1,18 @@
 [
     {
-        "title": "Architect / Architectural Technologist",
-        "link": "https://jobs.architecture.com/job/32594/architect-architectural-technologist/?LinkSource=HomePage",
-        "location": "London",
+        "title": "Senior Architect",
+        "link": "https://jobs.architecture.com/job/32610/senior-architect/?LinkSource=HomePage",
+        "location": "Winchester, Hampshire",
         "salary": "•",
-        "description": "Architect / Architectural Technologist | London | • | up to £60,000 - depending on experience",
+        "description": "Senior Architect | Winchester, Hampshire | • | £45000 - £55000 per annum + plus bene...",
+        "type": "job"
+    },
+    {
+        "title": "Senior Architect / Project Runner",
+        "link": "https://jobs.architecture.com/job/32616/senior-architect-project-runner-/?LinkSource=HomePage",
+        "location": "High Wycombe, Buckinghamshire",
+        "salary": "•",
+        "description": "Senior Architect / Project Runner | High Wycombe, Buckinghamshire | • | Competitive salary of £50,000–£60,000...",
         "type": "job"
     },
     {
@@ -16,19 +24,11 @@
         "type": "job"
     },
     {
-        "title": "Associate/Senior Associate/Associate Director",
-        "link": "https://jobs.architecture.com/job/32566/associate-senior-associate-associate-director/?LinkSource=HomePage",
-        "location": "London (Central), London (Greater)",
+        "title": "Architect / Architectural Technologist",
+        "link": "https://jobs.architecture.com/job/32594/architect-architectural-technologist/?LinkSource=HomePage",
+        "location": "London",
         "salary": "•",
-        "description": "Associate/Senior Associate/Associate Director | London (Central), London (Greater) | • | 60k-80k",
-        "type": "job"
-    },
-    {
-        "title": "Senior Architect / Project Runner",
-        "link": "https://jobs.architecture.com/job/32616/senior-architect-project-runner-/?LinkSource=HomePage",
-        "location": "High Wycombe, Buckinghamshire",
-        "salary": "•",
-        "description": "Senior Architect / Project Runner | High Wycombe, Buckinghamshire | • | Competitive salary of £50,000–£60,000...",
+        "description": "Architect / Architectural Technologist | London | • | up to £60,000 - depending on experience",
         "type": "job"
     }
 ]
