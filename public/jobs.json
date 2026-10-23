@@ -1,10 +1,10 @@
 [
     {
-        "title": "Senior Architect",
-        "link": "https://jobs.architecture.com/job/32610/senior-architect/?LinkSource=HomePage",
-        "location": "Winchester, Hampshire",
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/32652/architect/?LinkSource=HomePage",
+        "location": "Marlborough, Wiltshire",
         "salary": "•",
-        "description": "Senior Architect | Winchester, Hampshire | • | £45000 - £55000 per annum + plus bene...",
+        "description": "Architect | Marlborough, Wiltshire | • | Competitive Salary",
         "type": "job"
     },
     {
@@ -16,19 +16,19 @@
         "type": "job"
     },
     {
-        "title": "Architect",
-        "link": "https://jobs.architecture.com/job/32593/architect/?LinkSource=HomePage",
-        "location": "Belfast (City/Town)",
-        "salary": "•",
-        "description": "Architect | Belfast (City/Town) | • | Competitive based on skills and exper...",
-        "type": "job"
-    },
-    {
         "title": "Architect / Architectural Technologist",
         "link": "https://jobs.architecture.com/job/32594/architect-architectural-technologist/?LinkSource=HomePage",
         "location": "London",
         "salary": "•",
         "description": "Architect / Architectural Technologist | London | • | up to £60,000 - depending on experience",
+        "type": "job"
+    },
+    {
+        "title": "Architect",
+        "link": "https://jobs.architecture.com/job/32593/architect/?LinkSource=HomePage",
+        "location": "Belfast (City/Town)",
+        "salary": "•",
+        "description": "Architect | Belfast (City/Town) | • | Competitive based on skills and exper...",
         "type": "job"
     }
 ]
