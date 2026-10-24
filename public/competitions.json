@@ -48,11 +48,19 @@
         "type": "competition"
     },
     {
+        "title": "Art Book Publication: A New Perspective",
+        "link": "https://competitions.archi/competition/art-book-publication-a-new-perspective/",
+        "deadline": "31st December 2026",
+        "deadline_iso": "2026-12-31T00:00:00",
+        "description": "THE SPACE 101 is looking for artists to be part of our upcoming art book project, ‘A New Contemporary: Featured Artists’. This curated publication aims to bring together a diverse cohort of global creators who broaden the boundaries and reframe shift...",
+        "type": "competition"
+    },
+    {
         "title": "Expansion of the Galleria Borghese Museum in Rome",
         "link": "https://competitions.archi/competition/expansion-of-the-galleria-borghese-museum-in-rome/",
         "deadline": "14th October 2026",
         "deadline_iso": "2026-10-14T00:00:00",
-        "description": "(Professional and Student categories) CartesianForms: Architecture Reimagined is a global AI design competition by FORMAS.AI in partnership with PAACADEMY and Parametric Architecture, sponsored by OpenAI. Choose a 50 × 50 m site anywhere in the world...",
+        "description": "500.750€ Type: Pre-selection phase (open) and Competition phase (anonymous) Proger S.p.A., a leading independent Italian engineering firm with an international presence in the Arts&Culture sector, promotes and sponsors the International Architecture ...",
         "type": "competition"
     },
     {
@@ -93,14 +101,6 @@
         "deadline": "22nd March 2027",
         "deadline_iso": "2027-03-22T00:00:00",
         "description": "The competition aims to create a contemporary, flexible, and sustainable cultural facility (“Limassol Arts Centre”) as a strategic pillar of the Limassol Cultural Strategy 2024–2034.  The objective is to create a contemporary cultural facility that m...",
-        "type": "competition"
-    },
-    {
-        "title": "WDC Busan 2028 Pavilion International Design Competition",
-        "link": "https://competitions.archi/competition/wdc-busan-2028-pavilion-international-design-competition/",
-        "deadline": "26th October 2026",
-        "deadline_iso": "2026-10-26T00:00:00",
-        "description": "International Design Competition Busan Metropolitan City and Design Council Busan invite international designers and creative professionals to participate in the WDC Busan 2028 Pavilion International Design Competition. As the host city of World Desi...",
         "type": "competition"
     },
     {
@@ -296,74 +296,10 @@
         "type": "competition"
     },
     {
-        "title": "WDC Busan 2028 Pavilion International Design Competition",
-        "link": "https://bustler.net/competitions/10670/wdc-busan-2028-pavilion-international-design-competition",
-        "deadline": "Oct 26, 2026",
-        "deadline_iso": "2026-10-26T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
         "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
         "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
         "deadline": "Jan 5, 2027",
         "deadline_iso": "2027-01-05T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Vancouver Tall Challenge",
-        "link": "https://bustler.net/competitions/10563/vancouver-tall-challenge",
-        "deadline": "Nov 30, 2026",
-        "deadline_iso": "2026-11-30T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "The Quiet Tower",
-        "link": "https://bustler.net/competitions/10555/the-quiet-tower",
-        "deadline": "Feb 15, 2027",
-        "deadline_iso": "2027-02-15T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "2027 Skyscraper Competition",
-        "link": "https://bustler.net/competitions/10678/2027-skyscraper-competition",
-        "deadline": "Mar 9, 2027",
-        "deadline_iso": "2027-03-09T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Museum of Emotions #9",
-        "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
-        "deadline": "Feb 22, 2027",
-        "deadline_iso": "2027-02-22T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Buildner’s Unbuilt Award 2027",
-        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
-        "deadline": "Oct 18, 2027",
-        "deadline_iso": "2027-10-18T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Valli Wine Tasting Room",
-        "link": "https://bustler.net/competitions/10536/valli-wine-tasting-room",
-        "deadline": "Feb 15, 2027",
-        "deadline_iso": "2027-02-15T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Kinderspace: Architecture for Children's Development competition / Edition #4",
-        "link": "https://bustler.net/competitions/10503/kinderspace-architecture-for-children-s-development-competition-edition-4",
-        "deadline": "Nov 30, 2026",
-        "deadline_iso": "2026-11-30T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -376,10 +312,18 @@
         "type": "competition"
     },
     {
-        "title": "Re:Paris Prize by Van Alen Institute",
-        "link": "https://bustler.net/competitions/10681/re-paris-prize-by-van-alen-institute",
-        "deadline": "Nov 22, 2026",
-        "deadline_iso": "2026-11-22T00:00:00",
+        "title": "Kinderspace: Architecture for Children's Development competition / Edition #4",
+        "link": "https://bustler.net/competitions/10503/kinderspace-architecture-for-children-s-development-competition-edition-4",
+        "deadline": "Nov 30, 2026",
+        "deadline_iso": "2026-11-30T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Buildner’s Unbuilt Award 2027",
+        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
+        "deadline": "Oct 18, 2027",
+        "deadline_iso": "2027-10-18T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -392,10 +336,58 @@
         "type": "competition"
     },
     {
+        "title": "The Quiet Tower",
+        "link": "https://bustler.net/competitions/10555/the-quiet-tower",
+        "deadline": "Feb 15, 2027",
+        "deadline_iso": "2027-02-15T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
         "title": "New York High Falls Riverfront Market",
         "link": "https://bustler.net/competitions/10546/new-york-high-falls-riverfront-market",
         "deadline": "Jan 18, 2027",
         "deadline_iso": "2027-01-18T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Vancouver Tall Challenge",
+        "link": "https://bustler.net/competitions/10563/vancouver-tall-challenge",
+        "deadline": "Nov 30, 2026",
+        "deadline_iso": "2026-11-30T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "WDC Busan 2028 Pavilion International Design Competition",
+        "link": "https://bustler.net/competitions/10670/wdc-busan-2028-pavilion-international-design-competition",
+        "deadline": "Oct 26, 2026",
+        "deadline_iso": "2026-10-26T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Bellano Cotton Mill Museum",
+        "link": "https://bustler.net/competitions/10701/bellano-cotton-mill-museum",
+        "deadline": "May 25, 2027",
+        "deadline_iso": "2027-05-25T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Museum of Emotions #9",
+        "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
+        "deadline": "Feb 22, 2027",
+        "deadline_iso": "2027-02-22T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Valli Wine Tasting Room",
+        "link": "https://bustler.net/competitions/10536/valli-wine-tasting-room",
+        "deadline": "Feb 15, 2027",
+        "deadline_iso": "2027-02-15T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -432,10 +424,10 @@
         "type": "competition"
     },
     {
-        "title": "Vancouver Tall Challenge",
-        "link": "https://bustler.net/competitions/latest/10563/vancouver-tall-challenge",
-        "deadline": "Mon, Nov 30, 2026",
-        "deadline_iso": "2026-11-30T00:00:00",
+        "title": "International Architectural Design Competition: Yong Ding Chang’an Pavilion",
+        "link": "https://bustler.net/competitions/latest/10623/international-architectural-design-competition-yong-ding-chang-an-pavilion",
+        "deadline": "Mon, Nov 16, 2026",
+        "deadline_iso": "2026-11-16T00:00:00",
         "description": "Listed on Bustler",
         "type": "competition"
     },
@@ -448,10 +440,10 @@
         "type": "competition"
     },
     {
-        "title": "International Architectural Design Competition: Yong Ding Chang’an Pavilion",
-        "link": "https://bustler.net/competitions/latest/10623/international-architectural-design-competition-yong-ding-chang-an-pavilion",
-        "deadline": "Mon, Nov 16, 2026",
-        "deadline_iso": "2026-11-16T00:00:00",
+        "title": "Vancouver Tall Challenge",
+        "link": "https://bustler.net/competitions/latest/10563/vancouver-tall-challenge",
+        "deadline": "Mon, Nov 30, 2026",
+        "deadline_iso": "2026-11-30T00:00:00",
         "description": "Listed on Bustler",
         "type": "competition"
     },
