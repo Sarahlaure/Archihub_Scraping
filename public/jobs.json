@@ -1,13 +1,5 @@
 [
     {
-        "title": "Architect / Architectural Technologist",
-        "link": "https://jobs.architecture.com/job/32594/architect-architectural-technologist/?LinkSource=HomePage",
-        "location": "London",
-        "salary": "•",
-        "description": "Architect / Architectural Technologist | London | • | up to £60,000 - depending on experience",
-        "type": "job"
-    },
-    {
         "title": "Senior Architect / Project Runner",
         "link": "https://jobs.architecture.com/job/32616/senior-architect-project-runner-/?LinkSource=HomePage",
         "location": "High Wycombe, Buckinghamshire",
@@ -29,6 +21,14 @@
         "location": "Belfast (City/Town)",
         "salary": "•",
         "description": "Architect | Belfast (City/Town) | • | Competitive based on skills and exper...",
+        "type": "job"
+    },
+    {
+        "title": "Architect / Architectural Technologist",
+        "link": "https://jobs.architecture.com/job/32594/architect-architectural-technologist/?LinkSource=HomePage",
+        "location": "London",
+        "salary": "•",
+        "description": "Architect / Architectural Technologist | London | • | up to £60,000 - depending on experience",
         "type": "job"
     }
 ]
