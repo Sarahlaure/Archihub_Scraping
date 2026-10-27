@@ -8,6 +8,7 @@ if sys.stdout.encoding != 'utf-8':
 import json
 import os
 import re
+import unicodedata
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 import requests
@@ -26,6 +27,12 @@ ARCH_COM_JUNK_PATTERNS = [
     r'^(All open|Housing crisis|Small-scale|Competitions results|News|Blog|University rankings|Presentation review|Upload panel|Video lectures|Publish a book|Privacy policy|Website terms|Government agencies|Non-profit|Real estate developers|Educational institutions|Hospitality industries|Cultural institutions|Construction product brands|Download brief|KYC|competition integrity)',
     r'^\d{1,2}[,.]?\d{0,3} design projects',
     r'^(Login|Register|Sign|About|Contact|FAQ|Help|Support)',
+    r'^(Guest jury|Book store|Explore Buildner|Join next competition)',
+    r'winners announced',
+    r'results announced',
+    r'prize awarded',
+    r'winners in',
+    r'select winners',
 ]
 
 def _is_junk_competition_title(title: str) -> bool:
@@ -37,6 +44,134 @@ def _is_junk_competition_title(title: str) -> bool:
     if len(title) < 8:
         return True
     return False
+
+
+def _normalize_title(title: str) -> str:
+    """Normalize a title for deduplication: lowercase, remove accents, special chars, extra spaces."""
+    # Lowercase
+    t = title.lower().strip()
+    # Remove \r\n and extra whitespace
+    t = re.sub(r'[\r\n]+', ' ', t)
+    t = re.sub(r'\s+', ' ', t)
+    # Remove unicode accents
+    t = unicodedata.normalize('NFD', t)
+    t = ''.join(c for c in t if unicodedata.category(c) != 'Mn')
+    # Remove common noise words and punctuation
+    t = re.sub(r'[^a-z0-9 ]', '', t)
+    # Remove common prefixes/suffixes that differ between sources
+    t = re.sub(r'\baia invites\b', '', t)
+    t = re.sub(r'\bopen to all\b', '', t)
+    t = re.sub(r'\bedition\b', '', t)
+    t = re.sub(r'\bnew\b', '', t)
+    t = re.sub(r'\bchallange\b', 'challenge', t)  # Fix common typo
+    t = re.sub(r'\s+', ' ', t).strip()
+    return t
+
+
+def _deduplicate_competitions(competitions: list) -> list:
+    """Deduplicate competitions by normalized title similarity.
+    Prefers entries with valid deadline_iso over those without."""
+    seen = {}  # normalized_title -> competition entry
+    result = []
+
+    for comp in competitions:
+        norm = _normalize_title(comp['title'])
+        # Skip very short normalized titles (likely junk)
+        if len(norm) < 5:
+            continue
+
+        if norm in seen:
+            # If existing has no deadline but new one does, replace
+            existing = seen[norm]
+            if not existing.get('deadline_iso') and comp.get('deadline_iso'):
+                seen[norm] = comp
+                # Replace in result list
+                for i, r in enumerate(result):
+                    if _normalize_title(r['title']) == norm:
+                        result[i] = comp
+                        break
+            # Otherwise keep the existing one (first wins = competitions.archi)
+        else:
+            seen[norm] = comp
+            result.append(comp)
+
+    return result
+
+
+# ── Job title translations (EN -> FR) ──
+JOB_TITLE_TRANSLATIONS = {
+    'architect': 'Architecte',
+    'senior architect': 'Architecte Senior',
+    'junior architect': 'Architecte Junior',
+    'project architect': 'Architecte de Projet',
+    'architectural technologist': 'Technologue en Architecture',
+    'architectural assistant': 'Assistant Architecte',
+    'architectural designer': 'Concepteur Architectural',
+    'project manager': 'Chef de Projet',
+    'project runner': 'Responsable de Projet',
+    'interior designer': 'Designer d\'Intérieur',
+    'urban designer': 'Urbaniste',
+    'urban planner': 'Urbaniste',
+    'landscape architect': 'Architecte Paysagiste',
+    'design manager': 'Responsable Design',
+    'bim manager': 'Responsable BIM',
+    'bim coordinator': 'Coordinateur BIM',
+    'associate': 'Associé',
+    'director': 'Directeur',
+    'associate director': 'Directeur Associé',
+    'principal': 'Directeur Principal',
+    'part i': 'Partie I',
+    'part ii': 'Partie II',
+    'part iii': 'Partie III',
+    'part 1': 'Partie 1',
+    'part 2': 'Partie 2',
+    'part 3': 'Partie 3',
+    'consultant': 'Consultant',
+    'brpd consultant': 'Consultant BRPD',
+    'sustainability consultant': 'Consultant en Développement Durable',
+    'planner': 'Planificateur',
+    'town planner': 'Urbaniste',
+    'heritage consultant': 'Consultant en Patrimoine',
+    'technician': 'Technicien',
+    'cad technician': 'Technicien CAO',
+    'revit technician': 'Technicien Revit',
+    'graduate architect': 'Architecte Diplômé',
+    'intern architect': 'Architecte Stagiaire',
+    'site architect': 'Architecte de Chantier',
+    'design architect': 'Architecte Concepteur',
+    'lead architect': 'Architecte Principal',
+}
+
+def _translate_job_title(title: str) -> str:
+    """Translate an English job title to French.
+    Tries exact match first, then partial matches, then word-by-word."""
+    title_clean = title.strip()
+    lower = title_clean.lower()
+
+    # Exact match
+    if lower in JOB_TITLE_TRANSLATIONS:
+        return JOB_TITLE_TRANSLATIONS[lower]
+
+    # Try matching with " / " separator (e.g. "Architect / Architectural Technologist")
+    if ' / ' in title_clean:
+        parts = [p.strip() for p in title_clean.split(' / ')]
+        translated_parts = []
+        for part in parts:
+            part_lower = part.lower()
+            if part_lower in JOB_TITLE_TRANSLATIONS:
+                translated_parts.append(JOB_TITLE_TRANSLATIONS[part_lower])
+            else:
+                translated_parts.append(part)
+        return ' / '.join(translated_parts)
+
+    # Try longest match first
+    for en, fr in sorted(JOB_TITLE_TRANSLATIONS.items(), key=lambda x: len(x[0]), reverse=True):
+        if en in lower:
+            title_clean = re.sub(re.escape(en), fr, lower, count=1, flags=re.IGNORECASE)
+            # Capitalize first letter
+            return title_clean[0].upper() + title_clean[1:] if title_clean else title_clean
+
+    return title_clean
 
 
 def fetch_html(url, use_requests=False, wait_selector=None):
@@ -565,7 +700,7 @@ def run_scraper():
         fetch_html("https://bustler.net/competitions", use_requests=True)
     )
 
-    # Deduplicate by link — keep competitions.archi entries first (they have better data)
+    # Step 1: Deduplicate by link — keep competitions.archi entries first (better data)
     comps_map = {}
     for c in comps1 + comps2 + comps3:
         if c["link"] not in comps_map:
@@ -573,12 +708,18 @@ def run_scraper():
 
     all_comps = list(comps_map.values())
 
-    # Final quality filter: remove any remaining junk
+    # Step 2: Quality filter — remove junk titles
     all_comps = [
         c for c in all_comps
         if not _is_junk_competition_title(c["title"])
         and len(c["title"]) >= 8
     ]
+
+    # Step 3: Cross-source deduplication by normalized title
+    # Prioritizes entries with known deadlines (from competitions.archi or bustler)
+    before_dedup = len(all_comps)
+    all_comps = _deduplicate_competitions(all_comps)
+    print(f"  Dedup: {before_dedup} -> {len(all_comps)} (removed {before_dedup - len(all_comps)} duplicates)")
 
     save_json(all_comps, COMPETITIONS_FILE)
     print(f"  Total unique competitions: {len(all_comps)}")
@@ -599,6 +740,10 @@ def run_scraper():
         jobs2 = parse_riba_jobs(jobs_html2)
         if len(jobs2) > len(jobs):
             jobs = jobs2
+
+    # Translate job titles to French
+    for job in jobs:
+        job['title'] = _translate_job_title(job['title'])
 
     save_json(jobs, JOBS_FILE)
     print(f"  Total jobs: {len(jobs)}")

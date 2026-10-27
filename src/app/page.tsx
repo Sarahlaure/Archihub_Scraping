@@ -97,6 +97,38 @@ export default function Home() {
     localStorage.setItem('saved_archicomp', JSON.stringify(newSaved));
   };
 
+  // Client-side deduplication by normalized title
+  const normalizeTitle = (title: string) => {
+    return title
+      .toLowerCase()
+      .replace(/[\r\n]+/g, ' ')
+      .replace(/\s+/g, ' ')
+      .replace(/[^a-z0-9àâäéèêëïîôùûüÿçœæ ]/g, '')
+      .trim();
+  };
+
+  const deduplicateByTitle = (items: ContentItem[]) => {
+    const seen = new Map<string, ContentItem>();
+    const result: ContentItem[] = [];
+    for (const item of items) {
+      const norm = normalizeTitle(item.title);
+      if (norm.length < 5) continue;
+      if (seen.has(norm)) {
+        // Prefer items with known deadlines
+        const existing = seen.get(norm)!;
+        if (!existing.deadline_iso && item.deadline_iso) {
+          const idx = result.indexOf(existing);
+          if (idx >= 0) result[idx] = item;
+          seen.set(norm, item);
+        }
+      } else {
+        seen.set(norm, item);
+        result.push(item);
+      }
+    }
+    return result;
+  };
+
   const getDisplayedItems = () => {
     const today = new Date();
 
@@ -111,7 +143,7 @@ export default function Home() {
     };
 
     if (activeTab === 'competitions') {
-      return competitions.filter(item => {
+      const active = competitions.filter(item => {
         // Show items with valid future deadlines
         if (item.deadline_iso) {
           const d = parseISO(item.deadline_iso);
@@ -120,14 +152,16 @@ export default function Home() {
         // ONLY SHOW items with known deadlines
         return false;
       }).sort(sortByDeadline);
+      return deduplicateByTitle(active);
     }
 
     if (activeTab === 'archives') {
-      return competitions.filter(item => {
-        if (!item.deadline_iso) return false; // Items without deadlines are in active tab
+      const expired = competitions.filter(item => {
+        if (!item.deadline_iso) return false;
         const d = parseISO(item.deadline_iso);
         return isValid(d) && differenceInDays(d, today) < 0;
-      }).sort((a, b) => -sortByDeadline(a, b)); // Latest expired first
+      }).sort((a, b) => -sortByDeadline(a, b));
+      return deduplicateByTitle(expired);
     }
 
     if (activeTab === 'jobs') return jobs;
@@ -138,13 +172,13 @@ export default function Home() {
   const displayedItems = getDisplayedItems();
 
   // Count helpers for tabs
-  const activeCompetitionsCount = competitions.filter(item => {
+  const activeCompetitionsCount = deduplicateByTitle(competitions.filter(item => {
     if (item.deadline_iso) {
       const d = parseISO(item.deadline_iso);
       return isValid(d) && differenceInDays(d, new Date()) >= 0;
     }
-    return false; // Exclude unknown deadline
-  }).length;
+    return false;
+  })).length;
 
   return (
     <div className="relative flex min-h-screen flex-col font-inter bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-50 transition-colors selection:bg-indigo-500/20">
@@ -197,17 +231,17 @@ export default function Home() {
           <div className="relative z-10 max-w-4xl pt-8 pb-12">
             <div className="flex items-center gap-4 mb-10">
               <div className="h-px w-12 bg-[#a68a30] dark:bg-[#c2a65a]"></div>
-              <span className="text-[#a68a30] dark:text-[#c2a65a] uppercase font-bold tracking-[0.2em] text-sm">FUTUR ARCHITECTE</span>
+              <span className="text-[#a68a30] dark:text-[#c2a65a] uppercase font-bold tracking-[0.2em] text-sm">ARCHI SPACE</span>
             </div>
 
             <h1 className="text-5xl md:text-6xl lg:text-7xl leading-[1] text-slate-900 dark:text-white font-serif mb-8 select-none tracking-tight">
-              <span className="block">Construis</span>
-              <span className="block"><span className="italic text-[#a68a30] dark:text-[#c2a65a] pr-4 font-light">ton</span>avenir</span>
-              <span className="block text-transparent [-webkit-text-stroke:1px_rgba(15,23,42,0.4)] dark:[-webkit-text-stroke:1px_rgba(255,255,255,0.4)]">maintenant.</span>
+              <span className="block">Saisis</span>
+              <span className="block"><span className="italic text-[#a68a30] dark:text-[#c2a65a] pr-4 font-light">ta prochaine</span></span>
+              <span className="block text-transparent [-webkit-text-stroke:1px_rgba(15,23,42,0.4)] dark:[-webkit-text-stroke:1px_rgba(255,255,255,0.4)]">opportunité.</span>
             </h1>
 
             <p className="max-w-xl text-lg md:text-xl text-slate-600 dark:text-slate-400 font-light mb-12">
-              Concours, jobs, news — tout ce dont tu as besoin pour <strong className="text-slate-900 dark:text-white font-medium">lancer ta carrière</strong>, agrégé et mis à jour quotidiennement.
+              Découvre les concours, emplois et actualités qui peuvent <strong className="text-slate-900 dark:text-white font-medium">faire avancer ton parcours</strong>, mis à jour quotidiennement.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 max-w-2xl">
@@ -263,7 +297,7 @@ export default function Home() {
                   activeTab === 'jobs' ? "border-[#a68a30] dark:border-[#c2a65a] text-slate-900 dark:text-white" : "border-transparent text-slate-500 hover:text-slate-700 dark:text-slate-400 dark:hover:text-slate-200"
                 )}
               >
-                <BriefcaseIcon className="w-4 h-4" /> Jobs
+                <BriefcaseIcon className="w-4 h-4" /> Emplois
                 {!loading && jobs.length > 0 && (
                   <span className={cn("flex items-center justify-center px-2 py-0.5 ml-1 text-xs text-white rounded-full", activeTab === 'jobs' ? "bg-[#a68a30] dark:bg-[#c2a65a]" : "bg-slate-300 dark:bg-slate-700")}>
                     {jobs.length}
@@ -346,7 +380,7 @@ export default function Home() {
                       <div className="flex flex-col gap-2 flex-grow">
                         <span className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-bold tracking-wider uppercase rounded-full w-fit bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300">
                           <TypeIcon className="w-3.5 h-3.5" />
-                          {item.type || 'Article'}
+                          {item.type === 'competition' ? 'Concours' : item.type === 'job' ? 'Emploi' : item.type === 'news' ? 'Actualité' : 'Article'}
                         </span>
 
                         {/* Meta information tags */}
@@ -426,7 +460,7 @@ export default function Home() {
                         rel="noopener noreferrer"
                         className="inline-flex w-full items-center justify-center gap-2 py-2.5 px-4 text-sm font-bold tracking-wide text-slate-900 bg-slate-100 hover:bg-slate-200 dark:text-white dark:bg-slate-800 dark:hover:bg-slate-700 rounded-none transition-all uppercase"
                       >
-                        {activeTab === 'archives' ? "Voir l\u2019archive" : activeTab === 'jobs' ? "Voir l\u2019offre" : activeTab === 'news' ? "Lire l\u2019article" : "Consulter"} <ExternalLinkIcon className="size-4" />
+                        {activeTab === 'archives' ? "Voir l\u2019archive" : activeTab === 'jobs' ? "Voir l\u2019offre" : activeTab === 'news' ? "Lire l\u2019article" : activeTab === 'saved' ? "Consulter" : "Voir le concours"} <ExternalLinkIcon className="size-4" />
                       </a>
                     </div>
                   </div>
@@ -459,7 +493,7 @@ export default function Home() {
             </span>
           </div>
           <p className="text-sm font-semibold text-slate-500 dark:text-slate-400 text-center uppercase tracking-widest">
-            © {new Date().getFullYear()} Minimalist Architect Suite
+            © {new Date().getFullYear()} Archi Space — Tous droits réservés
           </p>
         </div>
       </footer>
