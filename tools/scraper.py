@@ -491,98 +491,136 @@ def parse_riba_jobs(html):
     return jobs
 
 
-def parse_dezeen_news(html):
-    """Parse dezeen.com/architecture — extracts real article titles (not category tags)."""
-    print("Parsing dezeen.com news...")
+def _fetch_rss(url):
+    """Fetch and parse an RSS feed. Returns a list of (title, link, description, date_str) tuples."""
+    import xml.etree.ElementTree as ET
+
+    print(f"  Fetching RSS: {url}")
+    items = []
+    try:
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+        }
+        r = requests.get(url, headers=headers, timeout=25)
+        if r.status_code != 200:
+            print(f"  [FAIL] RSS returned status {r.status_code}")
+            return items
+
+        root = ET.fromstring(r.text)
+        for item in root.findall(".//item"):
+            title_el = item.find("title")
+            link_el = item.find("link")
+            desc_el = item.find("description")
+            pub_el = item.find("pubDate")
+
+            title = title_el.text.strip() if title_el is not None and title_el.text else None
+            link = link_el.text.strip() if link_el is not None and link_el.text else None
+
+            if not title or not link or len(title) < 10:
+                continue
+
+            # Clean description (remove HTML tags from RSS content)
+            desc_raw = desc_el.text if desc_el is not None and desc_el.text else ""
+            desc_clean = re.sub(r"<[^>]+>", "", desc_raw).strip()
+            desc_clean = re.sub(r"\s+", " ", desc_clean)
+            description = desc_clean[:280] + "..." if len(desc_clean) > 280 else desc_clean
+
+            # Parse date
+            date_str = "Récent"
+            if pub_el is not None and pub_el.text:
+                try:
+                    parsed = date_parser.parse(pub_el.text)
+                    date_str = parsed.strftime("%d %b %Y")
+                except Exception:
+                    # Try extracting from URL
+                    date_match = re.search(r"/(\d{4}/\d{2}/\d{2})/", link)
+                    if date_match:
+                        date_str = date_match.group(1).replace("/", "-")
+
+            items.append((title, link, description, date_str))
+
+        print(f"  [OK] {len(items)} articles from RSS")
+    except Exception as e:
+        print(f"  [FAIL] RSS error: {e}")
+
+    return items
+
+
+def parse_dezeen_rss():
+    """Fetch architecture news from Dezeen RSS feed (reliable, no 403 blocks)."""
+    print("Parsing Dezeen RSS (architecture)...")
     news = []
-    if not html:
-        return news
+    items = _fetch_rss("https://www.dezeen.com/architecture/feed/")
 
-    soup = BeautifulSoup(html, "html.parser")
-    articles = soup.find_all("article")
-    seen_links = set()
-
-    for item in articles:
-        link_el = item.find("a", href=True)
-        if not link_el:
-            continue
-
-        href = link_el.get("href", "")
-        # Ensure absolute URL
-        if href.startswith("/"):
-            href = "https://www.dezeen.com" + href
-        if not href.startswith("http"):
-            continue
-
-        if href in seen_links:
-            continue
-        seen_links.add(href)
-
-        # ── Dezeen-specific title extraction ──
-        # The article tag usually has:
-        # 1. A category <span> or <p> (short, e.g., "Renovations")
-        # 2. The real title in an <h2> or <h3> (longer, descriptive)
-        # Strategy: find the heading element that has the longest meaningful text
-        title = None
-
-        # Try headings first (most reliable)
-        for heading_tag in ["h2", "h3", "h4", "h1"]:
-            candidate = item.find(heading_tag)
-            if candidate:
-                candidate_text = candidate.get_text(strip=True)
-                # Real titles are longer than category labels
-                if len(candidate_text) > 20:
-                    title = candidate_text
-                    break
-
-        # If no heading found, look for the most descriptive link text
-        if not title:
-            # Find all <a> elements with long text (not category pills)
-            for a_el in item.find_all("a", href=True):
-                a_text = a_el.get_text(strip=True)
-                if len(a_text) > 30:
-                    title = a_text
-                    break
-
-        # Final fallback
-        if not title:
-            title = link_el.get_text(strip=True)
-
-        if len(title) < 10:
-            continue
-
-        # ── Build clean description ──
-        # Skip navigation-like text and extract meaningful content
-        all_text = item.get_text(separator=" ", strip=True)
-
-        # Remove the category prefix if it's duplicated at the start
-        # e.g. "Renovations Renovations Replus Bureau..." → "Replus Bureau..."
-        # Find where the real title starts and keep content after it
-        desc_text = all_text
-        if title in desc_text:
-            idx = desc_text.find(title)
-            desc_text = desc_text[idx:].strip()
-
-        # Remove the title from the start of description to avoid repetition
-        if desc_text.startswith(title):
-            desc_text = desc_text[len(title):].strip()
-
-        description = desc_text[:280] + "..." if len(desc_text) > 280 else desc_text
-
-        # Extract date from URL if possible (dezeen URLs have /YYYY/MM/DD/)
-        date_match = re.search(r"/(\d{4}/\d{2}/\d{2})/", href)
-        date_str = date_match.group(1).replace("/", "-") if date_match else "Recent"
-
+    for title, link, description, date_str in items:
         news.append({
             "title": title,
-            "link": href,
+            "link": link,
             "date": date_str,
             "description": description,
             "type": "news",
         })
 
-    print(f"  >> Found {len(news)} news articles from dezeen.com")
+    print(f"  >> Found {len(news)} news from Dezeen RSS")
     return news
+
+
+def parse_archdaily_rss():
+    """Fetch architecture news from ArchDaily RSS feed."""
+    print("Parsing ArchDaily RSS...")
+    news = []
+    items = _fetch_rss("https://www.archdaily.com/feed")
+
+    for title, link, description, date_str in items:
+        # Clean ArchDaily titles (they sometimes have extra whitespace)
+        title = re.sub(r"\s+", " ", title).strip()
+
+        news.append({
+            "title": title,
+            "link": link,
+            "date": date_str,
+            "description": description,
+            "type": "news",
+        })
+
+    print(f"  >> Found {len(news)} news from ArchDaily RSS")
+    return news
+
+
+def fetch_all_news():
+    """Fetch and merge news from multiple RSS sources, deduplicated by title."""
+    print("Fetching news from multiple sources...")
+    dezeen_news = parse_dezeen_rss()
+    archdaily_news = parse_archdaily_rss()
+
+    # Merge all news, Dezeen first (generally more architecture-focused)
+    all_news = dezeen_news + archdaily_news
+
+    # Deduplicate by normalized title
+    seen = {}
+    deduped = []
+    for item in all_news:
+        norm = _normalize_title(item["title"])
+        if len(norm) < 8:
+            continue
+        if norm not in seen:
+            seen[norm] = True
+            deduped.append(item)
+
+    # Sort by date (most recent first) — try parsing dates
+    def sort_key(item):
+        try:
+            return date_parser.parse(item["date"], fuzzy=True)
+        except Exception:
+            return datetime.datetime.min
+
+    deduped.sort(key=sort_key, reverse=True)
+
+    # Limit to 40 most recent articles to keep the feed manageable
+    deduped = deduped[:40]
+
+    print(f"  >> Total unique news after merge: {len(deduped)}")
+    return deduped
 
 
 def parse_bustler_competitions(html):
@@ -751,7 +789,7 @@ def run_scraper():
 
     # ── 3. News ──────────────────────────────────────────────────
     print("[ NEWS ]")
-    news = parse_dezeen_news(fetch_html("https://www.dezeen.com/architecture/"))
+    news = fetch_all_news()
     save_json(news, NEWS_FILE)
     print(f"  Total news articles: {len(news)}")
     print()
