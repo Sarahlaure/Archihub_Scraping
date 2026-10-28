@@ -17,6 +17,7 @@ import {
   ArchiveIcon,
   ArrowRightIcon,
   ClockIcon,
+  FilterIcon,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { useTheme } from "next-themes";
@@ -45,6 +46,7 @@ export default function Home() {
 
   const [loading, setLoading] = useState(true);
   const [activeTab, setActiveTab] = useState<TabType>('competitions');
+  const [locationFilter, setLocationFilter] = useState<string>('all');
   const { theme, setTheme } = useTheme();
 
   // Load saved articles from local storage on mount
@@ -164,7 +166,10 @@ export default function Home() {
       return deduplicateByTitle(expired);
     }
 
-    if (activeTab === 'jobs') return jobs;
+    if (activeTab === 'jobs') {
+      if (locationFilter === 'all') return jobs;
+      return jobs.filter(j => j.location?.toLowerCase().includes(locationFilter.toLowerCase()));
+    }
     if (activeTab === 'news') return news;
     return savedItems;
   };
@@ -346,6 +351,43 @@ export default function Home() {
               </button>
             </div>
           </div>
+
+          {/* Location filter bar for jobs */}
+          {activeTab === 'jobs' && jobs.length > 0 && (
+            <div className="flex items-center gap-3 flex-wrap mb-8 -mt-4">
+              <FilterIcon className="w-4 h-4 text-slate-400 dark:text-slate-500 flex-shrink-0" />
+              <button
+                onClick={() => setLocationFilter('all')}
+                className={cn(
+                  "px-4 py-2 text-xs font-bold tracking-wider uppercase rounded-full border transition-all duration-200",
+                  locationFilter === 'all'
+                    ? "bg-[#a68a30] dark:bg-[#c2a65a] text-white dark:text-slate-950 border-transparent"
+                    : "bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-300 border-slate-200 dark:border-slate-700 hover:border-[#a68a30] dark:hover:border-[#c2a65a]"
+                )}
+              >
+                Toutes ({jobs.length})
+              </button>
+              {Array.from(new Set(jobs.map(j => j.location).filter(Boolean))).sort().map(loc => {
+                const count = jobs.filter(j => j.location === loc).length;
+                return (
+                  <button
+                    key={loc}
+                    onClick={() => setLocationFilter(loc === locationFilter ? 'all' : loc!)}
+                    className={cn(
+                      "px-4 py-2 text-xs font-bold tracking-wider uppercase rounded-full border transition-all duration-200 flex items-center gap-1.5",
+                      locationFilter === loc
+                        ? "bg-[#a68a30] dark:bg-[#c2a65a] text-white dark:text-slate-950 border-transparent"
+                        : "bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-300 border-slate-200 dark:border-slate-700 hover:border-[#a68a30] dark:hover:border-[#c2a65a]"
+                    )}
+                  >
+                    <MapPinIcon className="w-3 h-3" />
+                    {loc}
+                    <span className="opacity-60">({count})</span>
+                  </button>
+                );
+              })}
+            </div>
+          )}
 
           {/* Cards Grid */}
           {loading ? (
