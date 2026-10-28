@@ -120,14 +120,6 @@
         "type": "competition"
     },
     {
-        "title": "VANCOUVER TALL CHALLANGE",
-        "link": "https://architecturecompetitions.com/vancouvertallchallenge",
-        "deadline": "Unknown",
-        "deadline_iso": null,
-        "description": "VANCOUVER TALL CHALLANGE",
-        "type": "competition"
-    },
-    {
         "title": "The contemporary home",
         "link": "https://architecturecompetitions.com/archdaily",
         "deadline": "Unknown",
@@ -136,43 +128,11 @@
         "type": "competition"
     },
     {
-        "title": "Guest jury",
-        "link": "https://architecturecompetitions.com/guest-jury",
-        "deadline": "Unknown",
-        "deadline_iso": null,
-        "description": "Guest jury",
-        "type": "competition"
-    },
-    {
-        "title": "Book store",
-        "link": "https://architecturebooks.bnr.ac/",
-        "deadline": "Unknown",
-        "deadline_iso": null,
-        "description": "Book store",
-        "type": "competition"
-    },
-    {
         "title": "Manila Bay Central \r\nPark Challenge",
         "link": "https://architecturecompetitions.com/smprimecentralpark/",
         "deadline": "Unknown",
         "deadline_iso": null,
         "description": "Manila Bay Central \r\nPark Challenge",
-        "type": "competition"
-    },
-    {
-        "title": "Explore Buildner’s University Network",
-        "link": "https://architecturecompetitions.com/architecture-university-rankings",
-        "deadline": "Unknown",
-        "deadline_iso": null,
-        "description": "Explore Buildner’s University Network",
-        "type": "competition"
-    },
-    {
-        "title": "Join next competition edition",
-        "link": "https://architecturecompetitions.com/microhome10",
-        "deadline": "Unknown",
-        "deadline_iso": null,
-        "description": "Join next competition edition",
         "type": "competition"
     },
     {
@@ -200,11 +160,11 @@
         "type": "competition"
     },
     {
-        "title": "The Oak \r\nMoon \r\nPavilion",
-        "link": "https://architecturecompetitions.com/oakmoonpavilion/",
-        "deadline": "Unknown",
-        "deadline_iso": null,
-        "description": "",
+        "title": "The Oak Moon Pavilion",
+        "link": "https://bustler.net/competitions/10598/the-oak-moon-pavilion",
+        "deadline": "Mar 1, 2027",
+        "deadline_iso": "2027-03-01T00:00:00",
+        "description": "Promoted on Bustler",
         "type": "competition"
     },
     {
@@ -216,27 +176,27 @@
         "type": "competition"
     },
     {
-        "title": "Portugal Long Table \r\nRestaurant",
-        "link": "https://architecturecompetitions.com/longtable/",
-        "deadline": "Unknown",
-        "deadline_iso": null,
-        "description": "",
+        "title": "Portugal Long Table Restaurant",
+        "link": "https://bustler.net/competitions/10526/portugal-long-table-restaurant",
+        "deadline": "Jan 11, 2027",
+        "deadline_iso": "2027-01-11T00:00:00",
+        "description": "Promoted on Bustler",
         "type": "competition"
     },
     {
-        "title": "The \r\nQuiet \r\nTower",
-        "link": "https://architecturecompetitions.com/quiettower/",
-        "deadline": "Unknown",
-        "deadline_iso": null,
-        "description": "",
+        "title": "The Quiet Tower",
+        "link": "https://bustler.net/competitions/10555/the-quiet-tower",
+        "deadline": "Feb 15, 2027",
+        "deadline_iso": "2027-02-15T00:00:00",
+        "description": "Promoted on Bustler",
         "type": "competition"
     },
     {
-        "title": "Valli Wine \r\nTasting Room",
-        "link": "https://architecturecompetitions.com/valliwinetastingroom/",
-        "deadline": "Unknown",
-        "deadline_iso": null,
-        "description": "",
+        "title": "Valli Wine Tasting Room",
+        "link": "https://bustler.net/competitions/10536/valli-wine-tasting-room",
+        "deadline": "Feb 15, 2027",
+        "deadline_iso": "2027-02-15T00:00:00",
+        "description": "Promoted on Bustler",
         "type": "competition"
     },
     {
@@ -256,58 +216,18 @@
         "type": "competition"
     },
     {
-        "title": "Norman Foster, ARUP, and United Nations select winners for Buildner Ukraine Housing Competition",
-        "link": "https://architecturecompetitions.com/kharkivhousingchallenge/",
+        "title": "MICROHOME 2027",
+        "link": "https://architecturecompetitions.com/microhome2027/",
         "deadline": "Unknown",
         "deadline_iso": null,
-        "description": "",
+        "description": "new",
         "type": "competition"
     },
     {
-        "title": "Celebrating your unbuilt ideas: Buildner Unbuilt Award 2025 – €100,000 winners announced!",
-        "link": "https://architecturecompetitions.com/unbuilt2025/",
-        "deadline": "Unknown",
-        "deadline_iso": null,
-        "description": "",
-        "type": "competition"
-    },
-    {
-        "title": "€100,000 prize awarded in Buildner-Kingspan Microhome competition",
-        "link": "https://architecturecompetitions.com/microhome10/",
-        "deadline": "Unknown",
-        "deadline_iso": null,
-        "description": "",
-        "type": "competition"
-    },
-    {
-        "title": "Crown Prince of Dubai Sheikh Hamdan announces Buildner €250,000 House of the Future winners in Dubai",
-        "link": "https://www.architecturecompetitions.com/houseofthefuture",
-        "deadline": "Unknown",
-        "deadline_iso": null,
-        "description": "Crown Prince of Dubai Sheikh Hamdan announces Buildner €250,000 House of the Future winners in Dubai",
-        "type": "competition"
-    },
-    {
-        "title": "Manila Bayinvitation-onlycompetition results announced – €350,000 prize distributed!",
-        "link": "https://architecturecompetitions.com/manilabay",
-        "deadline": "Unknown",
-        "deadline_iso": null,
-        "description": "",
-        "type": "competition"
-    },
-    {
-        "title": "Museum of Emotions #9",
-        "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
-        "deadline": "Feb 22, 2027",
-        "deadline_iso": "2027-02-22T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "2027 Skyscraper Competition",
-        "link": "https://bustler.net/competitions/10678/2027-skyscraper-competition",
-        "deadline": "Mar 9, 2027",
-        "deadline_iso": "2027-03-09T00:00:00",
+        "title": "Kinderspace: Architecture for Children's Development competition / Edition #4",
+        "link": "https://bustler.net/competitions/10503/kinderspace-architecture-for-children-s-development-competition-edition-4",
+        "deadline": "Nov 30, 2026",
+        "deadline_iso": "2026-11-30T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -320,66 +240,10 @@
         "type": "competition"
     },
     {
-        "title": "The Quiet Tower",
-        "link": "https://bustler.net/competitions/10555/the-quiet-tower",
-        "deadline": "Feb 15, 2027",
-        "deadline_iso": "2027-02-15T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Kinderspace: Architecture for Children's Development competition / Edition #4",
-        "link": "https://bustler.net/competitions/10503/kinderspace-architecture-for-children-s-development-competition-edition-4",
-        "deadline": "Nov 30, 2026",
-        "deadline_iso": "2026-11-30T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
         "title": "New York High Falls Riverfront Market",
         "link": "https://bustler.net/competitions/10546/new-york-high-falls-riverfront-market",
         "deadline": "Jan 18, 2027",
         "deadline_iso": "2027-01-18T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "2027 Lyceum Fellowship - Town Housing",
-        "link": "https://bustler.net/competitions/10679/2027-lyceum-fellowship-town-housing",
-        "deadline": "May 27, 2027",
-        "deadline_iso": "2027-05-27T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Vancouver Tall Challenge",
-        "link": "https://bustler.net/competitions/10563/vancouver-tall-challenge",
-        "deadline": "Nov 30, 2026",
-        "deadline_iso": "2026-11-30T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Valli Wine Tasting Room",
-        "link": "https://bustler.net/competitions/10536/valli-wine-tasting-room",
-        "deadline": "Feb 15, 2027",
-        "deadline_iso": "2027-02-15T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Portugal Long Table Restaurant",
-        "link": "https://bustler.net/competitions/10526/portugal-long-table-restaurant",
-        "deadline": "Jan 11, 2027",
-        "deadline_iso": "2027-01-11T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "The Oak Moon Pavilion",
-        "link": "https://bustler.net/competitions/10598/the-oak-moon-pavilion",
-        "deadline": "Mar 1, 2027",
-        "deadline_iso": "2027-03-01T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -392,10 +256,26 @@
         "type": "competition"
     },
     {
+        "title": "2027 Lyceum Fellowship - Town Housing",
+        "link": "https://bustler.net/competitions/10679/2027-lyceum-fellowship-town-housing",
+        "deadline": "May 27, 2027",
+        "deadline_iso": "2027-05-27T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
         "title": "Buildner’s Unbuilt Award 2027",
         "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
         "deadline": "Oct 18, 2027",
         "deadline_iso": "2027-10-18T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Museum of Emotions #9",
+        "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
+        "deadline": "Feb 22, 2027",
+        "deadline_iso": "2027-02-22T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -416,14 +296,6 @@
         "type": "competition"
     },
     {
-        "title": "The Quiet Tower",
-        "link": "https://bustler.net/competitions/latest/10555/the-quiet-tower",
-        "deadline": "Mon, Feb 15, 2027",
-        "deadline_iso": "2027-02-15T00:00:00",
-        "description": "Listed on Bustler",
-        "type": "competition"
-    },
-    {
         "title": "Kingspan MICROHOME 2026",
         "link": "https://bustler.net/competitions/latest/10321/kingspan-microhome-2026",
         "deadline": "Mon, Nov 02, 2026",
@@ -432,34 +304,10 @@
         "type": "competition"
     },
     {
-        "title": "Vancouver Tall Challenge",
-        "link": "https://bustler.net/competitions/latest/10563/vancouver-tall-challenge",
-        "deadline": "Mon, Nov 30, 2026",
-        "deadline_iso": "2026-11-30T00:00:00",
-        "description": "Listed on Bustler",
-        "type": "competition"
-    },
-    {
         "title": "International Architectural Design Competition: Yong Ding Chang’an Pavilion",
         "link": "https://bustler.net/competitions/latest/10623/international-architectural-design-competition-yong-ding-chang-an-pavilion",
         "deadline": "Mon, Nov 16, 2026",
         "deadline_iso": "2026-11-16T00:00:00",
-        "description": "Listed on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "New York High Falls Riverfront Market",
-        "link": "https://bustler.net/competitions/latest/10546/new-york-high-falls-riverfront-market",
-        "deadline": "Mon, Jan 18, 2027",
-        "deadline_iso": "2027-01-18T00:00:00",
-        "description": "Listed on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Portugal Long Table Restaurant",
-        "link": "https://bustler.net/competitions/latest/10526/portugal-long-table-restaurant",
-        "deadline": "Mon, Jan 11, 2027",
-        "deadline_iso": "2027-01-11T00:00:00",
         "description": "Listed on Bustler",
         "type": "competition"
     }
