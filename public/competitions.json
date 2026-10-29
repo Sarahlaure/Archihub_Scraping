@@ -200,14 +200,6 @@
         "type": "competition"
     },
     {
-        "title": "Kinderspace",
-        "link": "https://architecturecompetitions.com/kinderspace4/",
-        "deadline": "Unknown",
-        "deadline_iso": null,
-        "description": "",
-        "type": "competition"
-    },
-    {
         "title": "Museum of \r\nEmotions",
         "link": "https://architecturecompetitions.com/museumofemotions9/",
         "deadline": "Unknown",
@@ -224,18 +216,18 @@
         "type": "competition"
     },
     {
-        "title": "Kinderspace: Architecture for Children's Development competition / Edition #4",
-        "link": "https://bustler.net/competitions/10503/kinderspace-architecture-for-children-s-development-competition-edition-4",
-        "deadline": "Nov 30, 2026",
-        "deadline_iso": "2026-11-30T00:00:00",
+        "title": "Buildner’s Unbuilt Award 2027",
+        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
+        "deadline": "Oct 18, 2027",
+        "deadline_iso": "2027-10-18T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
     {
-        "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
-        "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
-        "deadline": "Jan 5, 2027",
-        "deadline_iso": "2027-01-05T00:00:00",
+        "title": "Kinderspace: Architecture for Children's Development competition / Edition #4",
+        "link": "https://bustler.net/competitions/10503/kinderspace-architecture-for-children-s-development-competition-edition-4",
+        "deadline": "Nov 30, 2026",
+        "deadline_iso": "2026-11-30T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -248,10 +240,10 @@
         "type": "competition"
     },
     {
-        "title": "Re:Paris Prize by Van Alen Institute",
-        "link": "https://bustler.net/competitions/10681/re-paris-prize-by-van-alen-institute",
-        "deadline": "Nov 22, 2026",
-        "deadline_iso": "2026-11-22T00:00:00",
+        "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
+        "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
+        "deadline": "Jan 5, 2027",
+        "deadline_iso": "2027-01-05T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -264,10 +256,10 @@
         "type": "competition"
     },
     {
-        "title": "Buildner’s Unbuilt Award 2027",
-        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
-        "deadline": "Oct 18, 2027",
-        "deadline_iso": "2027-10-18T00:00:00",
+        "title": "Re:Paris Prize by Van Alen Institute",
+        "link": "https://bustler.net/competitions/10681/re-paris-prize-by-van-alen-institute",
+        "deadline": "Nov 22, 2026",
+        "deadline_iso": "2026-11-22T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
