@@ -1,10 +1,18 @@
 [
     {
-        "title": "Architecte Senior / Responsable de Projet",
-        "link": "https://jobs.architecture.com/job/32616/senior-architect-project-runner-/?LinkSource=HomePage",
-        "location": "High Wycombe, Buckinghamshire",
+        "title": "Architecte / Technologue en Architecture",
+        "link": "https://jobs.architecture.com/job/32594/architect-architectural-technologist/?LinkSource=HomePage",
+        "location": "London",
         "salary": "•",
-        "description": "Senior Architect / Project Runner | High Wycombe, Buckinghamshire | • | Competitive salary of £50,000–£60,000...",
+        "description": "Architect / Architectural Technologist | London | • | up to £60,000 - depending on experience",
+        "type": "job"
+    },
+    {
+        "title": "Architecte",
+        "link": "https://jobs.architecture.com/job/32657/architect/?LinkSource=HomePage",
+        "location": "Lancashire, Chorley",
+        "salary": "•",
+        "description": "Architect | Lancashire, Chorley | • | £35000 - £45000 per annum + plus bene...",
         "type": "job"
     },
     {
@@ -16,19 +24,11 @@
         "type": "job"
     },
     {
-        "title": "Architecte / Technologue en Architecture",
-        "link": "https://jobs.architecture.com/job/32594/architect-architectural-technologist/?LinkSource=HomePage",
-        "location": "London",
+        "title": "Architecte Senior / Responsable de Projet",
+        "link": "https://jobs.architecture.com/job/32616/senior-architect-project-runner-/?LinkSource=HomePage",
+        "location": "High Wycombe, Buckinghamshire",
         "salary": "•",
-        "description": "Architect / Architectural Technologist | London | • | up to £60,000 - depending on experience",
-        "type": "job"
-    },
-    {
-        "title": "Architecte Seniorural technician",
-        "link": "https://jobs.architecture.com/job/32619/senior-architectural-technician/?LinkSource=HomePage",
-        "location": "Stockport, Greater Manchester",
-        "salary": "•",
-        "description": "Senior Architectural Technician | Stockport, Greater Manchester | • | £40,000 - £48,000 DOE",
+        "description": "Senior Architect / Project Runner | High Wycombe, Buckinghamshire | • | Competitive salary of £50,000–£60,000...",
         "type": "job"
     }
 ]
