@@ -48,6 +48,14 @@
         "type": "competition"
     },
     {
+        "title": "DIGITAL NOMAD VILLAGE",
+        "link": "https://competitions.archi/competition/digital-nomad-village/",
+        "deadline": "27th January 2027",
+        "deadline_iso": "2027-01-27T00:00:00",
+        "description": "DIGITAL NOMAD VILLAGE From Temporary Stay to Meaningful Community digital nomad village competition, remote work community design, co living co working architecture, nomad housing design competition, sustainable lifestyle community design, work from ...",
+        "type": "competition"
+    },
+    {
         "title": "FUNES HOUSE Competition",
         "link": "https://competitions.archi/competition/funes-house-competition/",
         "deadline": "30th April 2027",
@@ -101,14 +109,6 @@
         "deadline": "30th January 2027",
         "deadline_iso": "2027-01-30T00:00:00",
         "description": "For All Premise Traditional museums often stand as inward-facing monuments disconnected from daily civic life. This competition calls for a decentralized, nimble micro-institution — an intimate, open pavilion that democratizes culture and embeds art,...",
-        "type": "competition"
-    },
-    {
-        "title": "Architectural competition for the design and supervision of the construction of the project “Limassol Arts Centre”",
-        "link": "https://competitions.archi/competition/architectural-competition-for-the-design-and-supervision-of-the-construction-of-the-project-limassol-arts-centre/",
-        "deadline": "22nd March 2027",
-        "deadline_iso": "2027-03-22T00:00:00",
-        "description": "The competition aims to create a contemporary, flexible, and sustainable cultural facility (“Limassol Arts Centre”) as a strategic pillar of the Limassol Cultural Strategy 2024–2034.  The objective is to create a contemporary cultural facility that m...",
         "type": "competition"
     },
     {
@@ -216,14 +216,6 @@
         "type": "competition"
     },
     {
-        "title": "Buildner’s Unbuilt Award 2027",
-        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
-        "deadline": "Oct 18, 2027",
-        "deadline_iso": "2027-10-18T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
         "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
         "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
         "deadline": "Jan 5, 2027",
@@ -232,10 +224,10 @@
         "type": "competition"
     },
     {
-        "title": "Museum of Emotions #9",
-        "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
-        "deadline": "Feb 22, 2027",
-        "deadline_iso": "2027-02-22T00:00:00",
+        "title": "Buildner’s Unbuilt Award 2027",
+        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
+        "deadline": "Oct 18, 2027",
+        "deadline_iso": "2027-10-18T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -248,10 +240,10 @@
         "type": "competition"
     },
     {
-        "title": "Re:Paris Prize by Van Alen Institute",
-        "link": "https://bustler.net/competitions/10681/re-paris-prize-by-van-alen-institute",
-        "deadline": "Nov 22, 2026",
-        "deadline_iso": "2026-11-22T00:00:00",
+        "title": "Museum of Emotions #9",
+        "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
+        "deadline": "Feb 22, 2027",
+        "deadline_iso": "2027-02-22T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
