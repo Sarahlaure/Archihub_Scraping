@@ -232,18 +232,18 @@
         "type": "competition"
     },
     {
-        "title": "New York High Falls Riverfront Market",
-        "link": "https://bustler.net/competitions/10546/new-york-high-falls-riverfront-market",
-        "deadline": "Jan 18, 2027",
-        "deadline_iso": "2027-01-18T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
         "title": "Museum of Emotions #9",
         "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
         "deadline": "Feb 22, 2027",
         "deadline_iso": "2027-02-22T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "New York High Falls Riverfront Market",
+        "link": "https://bustler.net/competitions/10546/new-york-high-falls-riverfront-market",
+        "deadline": "Jan 18, 2027",
+        "deadline_iso": "2027-01-18T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
