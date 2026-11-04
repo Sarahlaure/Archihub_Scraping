@@ -48,43 +48,43 @@
         "type": "competition"
     },
     {
+        "title": "2027 NYX Design Awards — International Call for Entries",
+        "link": "https://competitions.archi/competition/2027-nyx-design-awards-international-call-for-entries/",
+        "deadline": "4th March 2027",
+        "deadline_iso": "2027-03-04T00:00:00",
+        "description": "The New York High Falls Riverfront Market competition invites architects, designers, and creative thinkers to imagine a new civic destination within the evolving landscape of Rochester’s future High Falls State Park. Located along the dramatic Genese...",
+        "type": "competition"
+    },
+    {
+        "title": "2027 Tokyo Design Awards",
+        "link": "https://competitions.archi/competition/2027-tokyo-design-awards/",
+        "deadline": "11th March 2027",
+        "deadline_iso": "2027-03-11T00:00:00",
+        "description": "Marketing & Promotional Materials and Award-winning Achievements The Tokyo Design Awards is an international design competition recognizing excellence in architecture, interior, product, furniture, packaging, lighting, conceptual, and emerging design...",
+        "type": "competition"
+    },
+    {
+        "title": "2027 NYX Awards",
+        "link": "https://competitions.archi/competition/2027-nyx-awards/",
+        "deadline": "4th March 2027",
+        "deadline_iso": "2027-03-04T00:00:00",
+        "description": "Marketing & Promotional Materials and Award-winning Achievements The NYX Awards is an international competition that recognizes outstanding work in marketing, design, advertising, and digital media. Honoring agencies, brands, and creative professiona...",
+        "type": "competition"
+    },
+    {
+        "title": "International Excellence Awards 2027",
+        "link": "https://competitions.archi/competition/international-excellence-awards-2027/",
+        "deadline": "19th March 2027",
+        "deadline_iso": "2027-03-19T00:00:00",
+        "description": "Platinum, Gold, Silver and Bronze awards; certificate, award logo, banner kit and winner's page The International Excellence Awards 2027, organised by Architecture & Design Community, are open to architects, interior and landscape designers, studios,...",
+        "type": "competition"
+    },
+    {
         "title": "DIGITAL NOMAD VILLAGE",
         "link": "https://competitions.archi/competition/digital-nomad-village/",
         "deadline": "27th January 2027",
         "deadline_iso": "2027-01-27T00:00:00",
         "description": "DIGITAL NOMAD VILLAGE From Temporary Stay to Meaningful Community digital nomad village competition, remote work community design, co living co working architecture, nomad housing design competition, sustainable lifestyle community design, work from ...",
-        "type": "competition"
-    },
-    {
-        "title": "Art Book Publication: A New Perspective",
-        "link": "https://competitions.archi/competition/art-book-publication-a-new-perspective/",
-        "deadline": "31st December 2026",
-        "deadline_iso": "2026-12-31T00:00:00",
-        "description": "THE SPACE 101 is looking for artists to be part of our upcoming art book project, ‘A New Contemporary: Featured Artists’. This curated publication aims to bring together a diverse cohort of global creators who broaden the boundaries and reframe shift...",
-        "type": "competition"
-    },
-    {
-        "title": "Expansion of the Galleria Borghese Museum in Rome",
-        "link": "https://competitions.archi/competition/expansion-of-the-galleria-borghese-museum-in-rome/",
-        "deadline": "14th October 2026",
-        "deadline_iso": "2026-10-14T00:00:00",
-        "description": "500.750€ Type: Pre-selection phase (open) and Competition phase (anonymous) Proger S.p.A., a leading independent Italian engineering firm with an international presence in the Arts&Culture sector, promotes and sponsors the International Architecture ...",
-        "type": "competition"
-    },
-    {
-        "title": "CartesianForms: Reimagined Architecture",
-        "link": "https://competitions.archi/competition/cartesianforms-reimagined-architecture/",
-        "deadline": "13th December 2026",
-        "deadline_iso": "2026-12-13T00:00:00",
-        "description": "(Professional and Student categories) CartesianForms: Architecture Reimagined is a global AI design competition by FORMAS.AI in partnership with PAACADEMY and Parametric Architecture, sponsored by OpenAI. Choose a 50 × 50 m site anywhere in the world...",
-        "type": "competition"
-    },
-    {
-        "title": "Architecture International Contest: Cappadocia Oasis",
-        "link": "https://competitions.archi/competition/architecture-international-contest-cappadocia-oasis/",
-        "deadline": "22nd December 2026",
-        "deadline_iso": "2026-12-22T00:00:00",
-        "description": "to any architect or architecture student A teahouse experience will be created in Cappadocia that connects visitors to the landscape through relaxation, gastronomy, and contemplation. Cappadocia Oasis is envisioned as a small, contemporary retreat in...",
         "type": "competition"
     },
     {
@@ -192,30 +192,6 @@
         "type": "competition"
     },
     {
-        "title": "New York High Falls Riverfront Market",
-        "link": "https://bustler.net/competitions/10546/new-york-high-falls-riverfront-market",
-        "deadline": "Jan 18, 2027",
-        "deadline_iso": "2027-01-18T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "2027 Lyceum Fellowship - Town Housing",
-        "link": "https://bustler.net/competitions/10679/2027-lyceum-fellowship-town-housing",
-        "deadline": "May 27, 2027",
-        "deadline_iso": "2027-05-27T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Museum of Emotions #9",
-        "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
-        "deadline": "Feb 22, 2027",
-        "deadline_iso": "2027-02-22T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
         "title": "Buildner’s Unbuilt Award 2027",
         "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
         "deadline": "Oct 18, 2027",
@@ -228,6 +204,22 @@
         "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
         "deadline": "Jan 5, 2027",
         "deadline_iso": "2027-01-05T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Museum of Emotions #9",
+        "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
+        "deadline": "Feb 22, 2027",
+        "deadline_iso": "2027-02-22T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "New York High Falls Riverfront Market",
+        "link": "https://bustler.net/competitions/10546/new-york-high-falls-riverfront-market",
+        "deadline": "Jan 18, 2027",
+        "deadline_iso": "2027-01-18T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
