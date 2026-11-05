@@ -1,18 +1,18 @@
 [
     {
-        "title": "AIA invites: New York Waterfall Market / Open to All",
-        "link": "https://competitions.archi/competition/aia-invites-new-york-waterfall-market-open-to-all/",
-        "deadline": "18th January 2028",
-        "deadline_iso": "2028-01-18T00:00:00",
-        "description": "AIA invites: New York Waterfall Market / Open to All The New York High Falls Riverfront Market competition invites architects, designers, and creative thinkers to imagine a new civic destination within the evolving landscape of Rochester’s future Hig...",
-        "type": "competition"
-    },
-    {
         "title": "FUNES HOUSE Competition",
         "link": "https://competitions.archi/competition/funes-house-competition/",
         "deadline": "30th April 2027",
         "deadline_iso": "2027-04-30T00:00:00",
         "description": "FUNES HOUSE Competition Terraviva launches FUNES HOUSE, a new international architecture competition that invites participants to design a contemporary home in Argentina, conceived to grow over time while embracing the relaxed lifestyle of the site… ...",
+        "type": "competition"
+    },
+    {
+        "title": "AIA invites: New York Waterfall Market / Open to All",
+        "link": "https://competitions.archi/competition/aia-invites-new-york-waterfall-market-open-to-all/",
+        "deadline": "18th January 2028",
+        "deadline_iso": "2028-01-18T00:00:00",
+        "description": "AIA invites: New York Waterfall Market / Open to All The New York High Falls Riverfront Market competition invites architects, designers, and creative thinkers to imagine a new civic destination within the evolving landscape of Rochester’s future Hig...",
         "type": "competition"
     },
     {
@@ -48,11 +48,35 @@
         "type": "competition"
     },
     {
+        "title": "Rework by xFigura",
+        "link": "https://competitions.archi/competition/rework-by-xfigura/",
+        "deadline": "29th November 2026",
+        "deadline_iso": "2026-11-29T00:00:00",
+        "description": "15000 Type: Free to enter, Open worldwide Every building deserves a second life. Design one. Rework is the inaugural xFigura competition. The greenest building is often the one already standing. Pick an existing building anywhere in the world, one th...",
+        "type": "competition"
+    },
+    {
+        "title": "Better Design Award (BDA) 2026",
+        "link": "https://competitions.archi/competition/better-design-award-bda-2026/",
+        "deadline": "12th December 2026",
+        "deadline_iso": "2026-12-12T00:00:00",
+        "description": "4,100,000 CNY (approximately 545,900 Euro) Type: open Better Design Award (BDA) 2026 BDA is an international design competition now in its second edition. This award, promoted by the Shenzhen Industrial Design Profession Association, recognizes proje...",
+        "type": "competition"
+    },
+    {
+        "title": "CartesianForms: Architecture Reimagined",
+        "link": "https://competitions.archi/competition/cartesianforms-architecture-reimagined/",
+        "deadline": "13th December 2026",
+        "deadline_iso": "2026-12-13T00:00:00",
+        "description": "Competition Brief: https://docs.google.com/document/d/18hJVt8qm7OmCG-QMcgD1RH2fVZPfXM_f33czS_Jx5SM/edit?usp=sharing Visuals: https://drive.google.com/drive/folders/1WrfArxxJnvbMMsrMZUUEyGLyJQv_63Uq?usp=sharing",
+        "type": "competition"
+    },
+    {
         "title": "2027 NYX Design Awards — International Call for Entries",
         "link": "https://competitions.archi/competition/2027-nyx-design-awards-international-call-for-entries/",
         "deadline": "4th March 2027",
         "deadline_iso": "2027-03-04T00:00:00",
-        "description": "The New York High Falls Riverfront Market competition invites architects, designers, and creative thinkers to imagine a new civic destination within the evolving landscape of Rochester’s future High Falls State Park. Located along the dramatic Genese...",
+        "description": "Marketing & Promotional Materials and Award-winning Achievements Honouring Design Influence & Industry Impact Worldwide The 2027 NYX Design Awards invites designers, architects, creative studios, manufacturers, brands, and organisations worldwide to ...",
         "type": "competition"
     },
     {
@@ -61,30 +85,6 @@
         "deadline": "11th March 2027",
         "deadline_iso": "2027-03-11T00:00:00",
         "description": "Marketing & Promotional Materials and Award-winning Achievements The Tokyo Design Awards is an international design competition recognizing excellence in architecture, interior, product, furniture, packaging, lighting, conceptual, and emerging design...",
-        "type": "competition"
-    },
-    {
-        "title": "2027 NYX Awards",
-        "link": "https://competitions.archi/competition/2027-nyx-awards/",
-        "deadline": "4th March 2027",
-        "deadline_iso": "2027-03-04T00:00:00",
-        "description": "Marketing & Promotional Materials and Award-winning Achievements The NYX Awards is an international competition that recognizes outstanding work in marketing, design, advertising, and digital media. Honoring agencies, brands, and creative professiona...",
-        "type": "competition"
-    },
-    {
-        "title": "International Excellence Awards 2027",
-        "link": "https://competitions.archi/competition/international-excellence-awards-2027/",
-        "deadline": "19th March 2027",
-        "deadline_iso": "2027-03-19T00:00:00",
-        "description": "Platinum, Gold, Silver and Bronze awards; certificate, award logo, banner kit and winner's page The International Excellence Awards 2027, organised by Architecture & Design Community, are open to architects, interior and landscape designers, studios,...",
-        "type": "competition"
-    },
-    {
-        "title": "DIGITAL NOMAD VILLAGE",
-        "link": "https://competitions.archi/competition/digital-nomad-village/",
-        "deadline": "27th January 2027",
-        "deadline_iso": "2027-01-27T00:00:00",
-        "description": "DIGITAL NOMAD VILLAGE From Temporary Stay to Meaningful Community digital nomad village competition, remote work community design, co living co working architecture, nomad housing design competition, sustainable lifestyle community design, work from ...",
         "type": "competition"
     },
     {
@@ -168,11 +168,27 @@
         "type": "competition"
     },
     {
+        "title": "The Next House: USA 2027",
+        "link": "https://architecturecompetitions.com/nexthouse2027/",
+        "deadline": "Unknown",
+        "deadline_iso": null,
+        "description": "new",
+        "type": "competition"
+    },
+    {
         "title": "Valli Wine Tasting Room",
         "link": "https://bustler.net/competitions/10536/valli-wine-tasting-room",
         "deadline": "Feb 15, 2027",
         "deadline_iso": "2027-02-15T00:00:00",
         "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Pavilion Atlas 2027",
+        "link": "https://architecturecompetitions.com/pavilionatlas2027/",
+        "deadline": "Unknown",
+        "deadline_iso": null,
+        "description": "new",
         "type": "competition"
     },
     {
@@ -185,10 +201,10 @@
     },
     {
         "title": "MICROHOME 2027",
-        "link": "https://architecturecompetitions.com/microhome2027/",
-        "deadline": "Unknown",
-        "deadline_iso": null,
-        "description": "new",
+        "link": "https://bustler.net/competitions/10709/microhome-2027",
+        "deadline": "Jul 21, 2027",
+        "deadline_iso": "2027-07-21T00:00:00",
+        "description": "Promoted on Bustler",
         "type": "competition"
     },
     {
@@ -200,10 +216,10 @@
         "type": "competition"
     },
     {
-        "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
-        "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
-        "deadline": "Jan 5, 2027",
-        "deadline_iso": "2027-01-05T00:00:00",
+        "title": "Rework by xFigura: Adaptive Reuse Ideas Competition",
+        "link": "https://bustler.net/competitions/10708/rework-by-xfigura-adaptive-reuse-ideas-competition",
+        "deadline": "Nov 29, 2026",
+        "deadline_iso": "2026-11-29T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -216,10 +232,26 @@
         "type": "competition"
     },
     {
+        "title": "2027 Lyceum Fellowship - Town Housing",
+        "link": "https://bustler.net/competitions/10679/2027-lyceum-fellowship-town-housing",
+        "deadline": "May 27, 2027",
+        "deadline_iso": "2027-05-27T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
         "title": "New York High Falls Riverfront Market",
         "link": "https://bustler.net/competitions/10546/new-york-high-falls-riverfront-market",
         "deadline": "Jan 18, 2027",
         "deadline_iso": "2027-01-18T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
+        "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
+        "deadline": "Jan 5, 2027",
+        "deadline_iso": "2027-01-05T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
