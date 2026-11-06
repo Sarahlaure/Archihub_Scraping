@@ -48,6 +48,14 @@
         "type": "competition"
     },
     {
+        "title": "MICROHOME 2027",
+        "link": "https://competitions.archi/competition/microhome-2027/",
+        "deadline": "21st July 2027",
+        "deadline_iso": "2027-07-21T00:00:00",
+        "description": "Bigger isn’t always better The annual Microhome architecture competition is part of the Buildner Small Architecture Appreciation Movement, which hopes to highlight the fact that bigger isn’t always better. With great design and innovative thinking, s...",
+        "type": "competition"
+    },
+    {
         "title": "Rework by xFigura",
         "link": "https://competitions.archi/competition/rework-by-xfigura/",
         "deadline": "29th November 2026",
@@ -77,14 +85,6 @@
         "deadline": "4th March 2027",
         "deadline_iso": "2027-03-04T00:00:00",
         "description": "Marketing & Promotional Materials and Award-winning Achievements Honouring Design Influence & Industry Impact Worldwide The 2027 NYX Design Awards invites designers, architects, creative studios, manufacturers, brands, and organisations worldwide to ...",
-        "type": "competition"
-    },
-    {
-        "title": "2027 Tokyo Design Awards",
-        "link": "https://competitions.archi/competition/2027-tokyo-design-awards/",
-        "deadline": "11th March 2027",
-        "deadline_iso": "2027-03-11T00:00:00",
-        "description": "Marketing & Promotional Materials and Award-winning Achievements The Tokyo Design Awards is an international design competition recognizing excellence in architecture, interior, product, furniture, packaging, lighting, conceptual, and emerging design...",
         "type": "competition"
     },
     {
@@ -136,14 +136,6 @@
         "type": "competition"
     },
     {
-        "title": "The Oak Moon Pavilion",
-        "link": "https://bustler.net/competitions/10598/the-oak-moon-pavilion",
-        "deadline": "Mar 1, 2027",
-        "deadline_iso": "2027-03-01T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
         "title": "Bellano Cotton \r\nMill Museum",
         "link": "https://architecturecompetitions.com/cottonmill/",
         "deadline": "Unknown",
@@ -192,6 +184,22 @@
         "type": "competition"
     },
     {
+        "title": "Iceland \r\nSmokehouse",
+        "link": "https://architecturecompetitions.com/smokehouse/",
+        "deadline": "Unknown",
+        "deadline_iso": null,
+        "description": "new",
+        "type": "competition"
+    },
+    {
+        "title": "The Oak Moon Pavilion",
+        "link": "https://bustler.net/competitions/10598/the-oak-moon-pavilion",
+        "deadline": "Mar 1, 2027",
+        "deadline_iso": "2027-03-01T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
         "title": "Museum of \r\nEmotions",
         "link": "https://architecturecompetitions.com/museumofemotions9/",
         "deadline": "Unknown",
@@ -200,10 +208,10 @@
         "type": "competition"
     },
     {
-        "title": "MICROHOME 2027",
-        "link": "https://bustler.net/competitions/10709/microhome-2027",
-        "deadline": "Jul 21, 2027",
-        "deadline_iso": "2027-07-21T00:00:00",
+        "title": "2027 Concrete Masonry Competition",
+        "link": "https://bustler.net/competitions/10713/2027-concrete-masonry-competition",
+        "deadline": "Jun 2, 2027",
+        "deadline_iso": "2027-06-02T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -216,26 +224,10 @@
         "type": "competition"
     },
     {
-        "title": "Rework by xFigura: Adaptive Reuse Ideas Competition",
-        "link": "https://bustler.net/competitions/10708/rework-by-xfigura-adaptive-reuse-ideas-competition",
-        "deadline": "Nov 29, 2026",
-        "deadline_iso": "2026-11-29T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
         "title": "Museum of Emotions #9",
         "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
         "deadline": "Feb 22, 2027",
         "deadline_iso": "2027-02-22T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "2027 Lyceum Fellowship - Town Housing",
-        "link": "https://bustler.net/competitions/10679/2027-lyceum-fellowship-town-housing",
-        "deadline": "May 27, 2027",
-        "deadline_iso": "2027-05-27T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
