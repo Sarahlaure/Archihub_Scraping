@@ -48,6 +48,14 @@
         "type": "competition"
     },
     {
+        "title": "Architecture Portfolio Challenge 2026",
+        "link": "https://competitions.archi/competition/architecture-portfolio-challenge-2026/",
+        "deadline": "10th January 2027",
+        "deadline_iso": "2027-01-10T00:00:00",
+        "description": "Bigger isn’t always better The annual Microhome architecture competition is part of the Buildner Small Architecture Appreciation Movement, which hopes to highlight the fact that bigger isn’t always better. With great design and innovative thinking, s...",
+        "type": "competition"
+    },
+    {
         "title": "MICROHOME 2027",
         "link": "https://competitions.archi/competition/microhome-2027/",
         "deadline": "21st July 2027",
@@ -77,14 +85,6 @@
         "deadline": "13th December 2026",
         "deadline_iso": "2026-12-13T00:00:00",
         "description": "Competition Brief: https://docs.google.com/document/d/18hJVt8qm7OmCG-QMcgD1RH2fVZPfXM_f33czS_Jx5SM/edit?usp=sharing Visuals: https://drive.google.com/drive/folders/1WrfArxxJnvbMMsrMZUUEyGLyJQv_63Uq?usp=sharing",
-        "type": "competition"
-    },
-    {
-        "title": "2027 NYX Design Awards — International Call for Entries",
-        "link": "https://competitions.archi/competition/2027-nyx-design-awards-international-call-for-entries/",
-        "deadline": "4th March 2027",
-        "deadline_iso": "2027-03-04T00:00:00",
-        "description": "Marketing & Promotional Materials and Award-winning Achievements Honouring Design Influence & Industry Impact Worldwide The 2027 NYX Design Awards invites designers, architects, creative studios, manufacturers, brands, and organisations worldwide to ...",
         "type": "competition"
     },
     {
@@ -208,10 +208,10 @@
         "type": "competition"
     },
     {
-        "title": "2027 Concrete Masonry Competition",
-        "link": "https://bustler.net/competitions/10713/2027-concrete-masonry-competition",
-        "deadline": "Jun 2, 2027",
-        "deadline_iso": "2027-06-02T00:00:00",
+        "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
+        "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
+        "deadline": "Jan 5, 2027",
+        "deadline_iso": "2027-01-05T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -224,14 +224,6 @@
         "type": "competition"
     },
     {
-        "title": "Museum of Emotions #9",
-        "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
-        "deadline": "Feb 22, 2027",
-        "deadline_iso": "2027-02-22T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
         "title": "New York High Falls Riverfront Market",
         "link": "https://bustler.net/competitions/10546/new-york-high-falls-riverfront-market",
         "deadline": "Jan 18, 2027",
@@ -240,19 +232,11 @@
         "type": "competition"
     },
     {
-        "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
-        "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
-        "deadline": "Jan 5, 2027",
-        "deadline_iso": "2027-01-05T00:00:00",
+        "title": "Museum of Emotions #9",
+        "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
+        "deadline": "Feb 22, 2027",
+        "deadline_iso": "2027-02-22T00:00:00",
         "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Open Chair Design Competition",
-        "link": "https://bustler.net/competitions/latest/10611/open-chair-design-competition",
-        "deadline": "Fri, Nov 06, 2026",
-        "deadline_iso": "2026-11-06T00:00:00",
-        "description": "Listed on Bustler",
         "type": "competition"
     },
     {
@@ -268,6 +252,14 @@
         "link": "https://bustler.net/competitions/latest/10623/international-architectural-design-competition-yong-ding-chang-an-pavilion",
         "deadline": "Mon, Nov 16, 2026",
         "deadline_iso": "2026-11-16T00:00:00",
+        "description": "Listed on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Kinderspace: Architecture for Children's Development competition / Edition #4",
+        "link": "https://bustler.net/competitions/latest/10503/kinderspace-architecture-for-children-s-development-competition-edition-4",
+        "deadline": "Mon, Nov 30, 2026",
+        "deadline_iso": "2026-11-30T00:00:00",
         "description": "Listed on Bustler",
         "type": "competition"
     }

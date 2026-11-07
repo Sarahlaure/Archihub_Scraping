@@ -1,18 +1,10 @@
 [
     {
-        "title": "Professional Standards Administrator",
-        "link": "https://jobs.architecture.com/job/32659/professional-standards-administrator-/?LinkSource=HomePage",
-        "location": "London (Central), London (Greater)",
+        "title": "Architecte Senior / Responsable de Projet",
+        "link": "https://jobs.architecture.com/job/32616/senior-architect-project-runner-/?LinkSource=HomePage",
+        "location": "High Wycombe, Buckinghamshire",
         "salary": "•",
-        "description": "Professional Standards Administrator | London (Central), London (Greater) | • | £27,000 - 29,000",
-        "type": "job"
-    },
-    {
-        "title": "Architecte Senior",
-        "link": "https://jobs.architecture.com/job/32677/senior-architect/?LinkSource=HomePage",
-        "location": "Leamington Spa, Warwickshire",
-        "salary": "•",
-        "description": "Senior Architect | Leamington Spa, Warwickshire | • | £45,000-£55,000+ dependent on experie...",
+        "description": "Senior Architect / Project Runner | High Wycombe, Buckinghamshire | • | Competitive salary of £50,000–£60,000...",
         "type": "job"
     },
     {
@@ -24,11 +16,19 @@
         "type": "job"
     },
     {
-        "title": "Architecte Senior / Responsable de Projet",
-        "link": "https://jobs.architecture.com/job/32616/senior-architect-project-runner-/?LinkSource=HomePage",
-        "location": "High Wycombe, Buckinghamshire",
+        "title": "Architecte Senior",
+        "link": "https://jobs.architecture.com/job/32677/senior-architect/?LinkSource=HomePage",
+        "location": "Leamington Spa, Warwickshire",
         "salary": "•",
-        "description": "Senior Architect / Project Runner | High Wycombe, Buckinghamshire | • | Competitive salary of £50,000–£60,000...",
+        "description": "Senior Architect | Leamington Spa, Warwickshire | • | £45,000-£55,000+ dependent on experie...",
+        "type": "job"
+    },
+    {
+        "title": "Architecte Senior",
+        "link": "https://jobs.architecture.com/job/32626/senior-architect-/?LinkSource=HomePage",
+        "location": "Suffolk, Bury St Edmunds",
+        "salary": "•",
+        "description": "Senior Architect | Suffolk, Bury St Edmunds | • | £45000 - £55000 per annum + plus bene...",
         "type": "job"
     }
 ]
