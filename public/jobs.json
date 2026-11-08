@@ -1,13 +1,5 @@
 [
     {
-        "title": "Architecte Senior / Responsable de Projet",
-        "link": "https://jobs.architecture.com/job/32616/senior-architect-project-runner-/?LinkSource=HomePage",
-        "location": "High Wycombe, Buckinghamshire",
-        "salary": "•",
-        "description": "Senior Architect / Project Runner | High Wycombe, Buckinghamshire | • | Competitive salary of £50,000–£60,000...",
-        "type": "job"
-    },
-    {
         "title": "Architecte",
         "link": "https://jobs.architecture.com/job/32652/architect/?LinkSource=HomePage",
         "location": "Marlborough, Wiltshire",
@@ -24,11 +16,19 @@
         "type": "job"
     },
     {
-        "title": "Architecte Senior",
-        "link": "https://jobs.architecture.com/job/32626/senior-architect-/?LinkSource=HomePage",
-        "location": "Suffolk, Bury St Edmunds",
+        "title": "Associé",
+        "link": "https://jobs.architecture.com/job/32647/associate/?LinkSource=HomePage",
+        "location": "London (Central), London (Greater)",
         "salary": "•",
-        "description": "Senior Architect | Suffolk, Bury St Edmunds | • | £45000 - £55000 per annum + plus bene...",
+        "description": "Associate | London (Central), London (Greater) | • | Confidential - please call to discuss",
+        "type": "job"
+    },
+    {
+        "title": "Architecte Senior / Responsable de Projet",
+        "link": "https://jobs.architecture.com/job/32616/senior-architect-project-runner-/?LinkSource=HomePage",
+        "location": "High Wycombe, Buckinghamshire",
+        "salary": "•",
+        "description": "Senior Architect / Project Runner | High Wycombe, Buckinghamshire | • | Competitive salary of £50,000–£60,000...",
         "type": "job"
     }
 ]
