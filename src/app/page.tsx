@@ -158,11 +158,17 @@ export default function Home() {
     }
 
     if (activeTab === 'archives') {
+      // Concours expires (deadline passee) + concours sans date connue
       const expired = competitions.filter(item => {
-        if (!item.deadline_iso) return false;
+        if (!item.deadline_iso) return true; // date inconnue -> archive par defaut
         const d = parseISO(item.deadline_iso);
         return isValid(d) && differenceInDays(d, today) < 0;
-      }).sort((a, b) => -sortByDeadline(a, b));
+      }).sort((a, b) => {
+        // Expires avec date d'abord (du plus recent au plus ancien), sans date ensuite
+        if (a.deadline_iso && !b.deadline_iso) return -1;
+        if (!a.deadline_iso && b.deadline_iso) return 1;
+        return -sortByDeadline(a, b);
+      });
       return deduplicateByTitle(expired);
     }
 
@@ -480,7 +486,7 @@ export default function Home() {
                             activeTab === 'archives' ? "text-slate-500" : isEndingSoon ? "text-rose-500" : "text-emerald-600 dark:text-emerald-400"
                           )}>
                             <CalendarIcon className="w-3.5 h-3.5" />
-                            {activeTab === 'archives' ? `Clôturé le ${item.deadline}` : item.deadline}
+                            {activeTab === 'archives' ? (item.deadline && item.deadline !== 'Unknown' ? `Clôturé le ${item.deadline}` : 'Clôturé') : item.deadline}
                             {daysLeft !== null && daysLeft <= 14 && activeTab === 'competitions' && (
                               <span className="ml-1 px-1.5 py-0.5 rounded bg-rose-100 dark:bg-rose-950 text-rose-600 dark:text-rose-400 text-[10px]">
                                 J-{daysLeft}
@@ -489,10 +495,10 @@ export default function Home() {
                           </span>
                         )}
 
-                        {hasNoDeadline && activeTab === 'competitions' && (
+                        {hasNoDeadline && (activeTab === 'competitions' || activeTab === 'archives') && (
                           <span className="flex items-center gap-1.5 text-xs font-medium text-slate-400 dark:text-slate-500">
                             <CalendarIcon className="w-3.5 h-3.5" />
-                            Date inconnue
+                            {activeTab === 'archives' ? 'Date de clôture inconnue' : 'Date inconnue'}
                           </span>
                         )}
 
@@ -567,7 +573,7 @@ export default function Home() {
                 {activeTab === 'saved'
                   ? "Votre dossier de favoris est vide. Explorez le Hub pour sauvegarder vos opportunités."
                   : activeTab === 'archives'
-                  ? "Aucun concours expiré n\u2019est présent dans la base de données."
+                  ? "Les concours clôturés et ceux dont la date est inconnue apparaissent ici automatiquement."
                   : "Le flux est actuellement vide. Lance le scraper Python pour rafraîchir les données."}
               </p>
             </div>
