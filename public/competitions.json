@@ -136,11 +136,11 @@
         "type": "competition"
     },
     {
-        "title": "Bellano Cotton \r\nMill Museum",
-        "link": "https://architecturecompetitions.com/cottonmill/",
-        "deadline": "Unknown",
-        "deadline_iso": null,
-        "description": "new",
+        "title": "Bellano Cotton Mill Museum",
+        "link": "https://bustler.net/competitions/latest/10701/bellano-cotton-mill-museum",
+        "deadline": "Tue, May 25, 2027",
+        "deadline_iso": "2027-05-25T00:00:00",
+        "description": "Listed on Bustler",
         "type": "competition"
     },
     {
@@ -208,10 +208,10 @@
         "type": "competition"
     },
     {
-        "title": "New York High Falls Riverfront Market",
-        "link": "https://bustler.net/competitions/10546/new-york-high-falls-riverfront-market",
-        "deadline": "Jan 18, 2027",
-        "deadline_iso": "2027-01-18T00:00:00",
+        "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
+        "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
+        "deadline": "Jan 5, 2027",
+        "deadline_iso": "2027-01-05T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -224,18 +224,18 @@
         "type": "competition"
     },
     {
-        "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
-        "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
-        "deadline": "Jan 5, 2027",
-        "deadline_iso": "2027-01-05T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
         "title": "Museum of Emotions #9",
         "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
         "deadline": "Feb 22, 2027",
         "deadline_iso": "2027-02-22T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "New York High Falls Riverfront Market",
+        "link": "https://bustler.net/competitions/10546/new-york-high-falls-riverfront-market",
+        "deadline": "Jan 18, 2027",
+        "deadline_iso": "2027-01-18T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -252,14 +252,6 @@
         "link": "https://bustler.net/competitions/latest/10623/international-architectural-design-competition-yong-ding-chang-an-pavilion",
         "deadline": "Mon, Nov 16, 2026",
         "deadline_iso": "2026-11-16T00:00:00",
-        "description": "Listed on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Kinderspace: Architecture for Children's Development competition / Edition #4",
-        "link": "https://bustler.net/competitions/latest/10503/kinderspace-architecture-for-children-s-development-competition-edition-4",
-        "deadline": "Mon, Nov 30, 2026",
-        "deadline_iso": "2026-11-30T00:00:00",
         "description": "Listed on Bustler",
         "type": "competition"
     }
