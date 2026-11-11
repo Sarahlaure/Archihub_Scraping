@@ -161,10 +161,10 @@
     },
     {
         "title": "The Next House: USA 2027",
-        "link": "https://bustler.net/competitions/10726/the-next-house-usa-2027",
-        "deadline": "Jul 12, 2027",
-        "deadline_iso": "2027-07-12T00:00:00",
-        "description": "Promoted on Bustler",
+        "link": "https://architecturecompetitions.com/nexthouse2027/",
+        "deadline": "Unknown",
+        "deadline_iso": null,
+        "description": "new",
         "type": "competition"
     },
     {
@@ -208,10 +208,18 @@
         "type": "competition"
     },
     {
-        "title": "2027 Lyceum Fellowship - Town Housing",
-        "link": "https://bustler.net/competitions/10679/2027-lyceum-fellowship-town-housing",
-        "deadline": "May 27, 2027",
-        "deadline_iso": "2027-05-27T00:00:00",
+        "title": "Buildner’s Unbuilt Award 2027",
+        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
+        "deadline": "Oct 18, 2027",
+        "deadline_iso": "2027-10-18T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "New York High Falls Riverfront Market",
+        "link": "https://bustler.net/competitions/10546/new-york-high-falls-riverfront-market",
+        "deadline": "Jan 18, 2027",
+        "deadline_iso": "2027-01-18T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -224,26 +232,10 @@
         "type": "competition"
     },
     {
-        "title": "Buildner’s Unbuilt Award 2027",
-        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
-        "deadline": "Oct 18, 2027",
-        "deadline_iso": "2027-10-18T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
         "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
         "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
         "deadline": "Jan 5, 2027",
         "deadline_iso": "2027-01-05T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "New York High Falls Riverfront Market",
-        "link": "https://bustler.net/competitions/10546/new-york-high-falls-riverfront-market",
-        "deadline": "Jan 18, 2027",
-        "deadline_iso": "2027-01-18T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
