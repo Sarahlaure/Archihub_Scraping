@@ -48,11 +48,27 @@
         "type": "competition"
     },
     {
+        "title": "PAVILION ATLAS 2027",
+        "link": "https://competitions.archi/competition/pavilion-atlas-2027/",
+        "deadline": "19th July 2027",
+        "deadline_iso": "2027-07-19T00:00:00",
+        "description": "Architecture is the storyteller Every place carries a story, not just of its past, but of its present values and future possibilities. Architecture can give form to those stories, offering a way to express culture, ideas, and identity without relying...",
+        "type": "competition"
+    },
+    {
+        "title": "THE NEXT HOUSE: USA 2027",
+        "link": "https://competitions.archi/competition/the-next-house-usa-2027/",
+        "deadline": "12th July 2027",
+        "deadline_iso": "2027-07-12T00:00:00",
+        "description": "Redesign a cultural symbol For over half a century, the American suburban home has been more than just a building: it has been a cultural symbol, a promise, and at times a problem. Once imagined as the embodiment of comfort and stability, it now ofte...",
+        "type": "competition"
+    },
+    {
         "title": "Architecture Portfolio Challenge 2026",
         "link": "https://competitions.archi/competition/architecture-portfolio-challenge-2026/",
         "deadline": "10th January 2027",
         "deadline_iso": "2027-01-10T00:00:00",
-        "description": "Bigger isn’t always better The annual Microhome architecture competition is part of the Buildner Small Architecture Appreciation Movement, which hopes to highlight the fact that bigger isn’t always better. With great design and innovative thinking, s...",
+        "description": "USD 2,500 total prize pool Type: For students and graduates Build a portfolio that works beyond the classroom. The Architecture Portfolio Challenge 2026, the second edition of the competition by Architerrax, invites architecture students and emerging...",
         "type": "competition"
     },
     {
@@ -69,22 +85,6 @@
         "deadline": "29th November 2026",
         "deadline_iso": "2026-11-29T00:00:00",
         "description": "15000 Type: Free to enter, Open worldwide Every building deserves a second life. Design one. Rework is the inaugural xFigura competition. The greenest building is often the one already standing. Pick an existing building anywhere in the world, one th...",
-        "type": "competition"
-    },
-    {
-        "title": "Better Design Award (BDA) 2026",
-        "link": "https://competitions.archi/competition/better-design-award-bda-2026/",
-        "deadline": "12th December 2026",
-        "deadline_iso": "2026-12-12T00:00:00",
-        "description": "4,100,000 CNY (approximately 545,900 Euro) Type: open Better Design Award (BDA) 2026 BDA is an international design competition now in its second edition. This award, promoted by the Shenzhen Industrial Design Profession Association, recognizes proje...",
-        "type": "competition"
-    },
-    {
-        "title": "CartesianForms: Architecture Reimagined",
-        "link": "https://competitions.archi/competition/cartesianforms-architecture-reimagined/",
-        "deadline": "13th December 2026",
-        "deadline_iso": "2026-12-13T00:00:00",
-        "description": "Competition Brief: https://docs.google.com/document/d/18hJVt8qm7OmCG-QMcgD1RH2fVZPfXM_f33czS_Jx5SM/edit?usp=sharing Visuals: https://drive.google.com/drive/folders/1WrfArxxJnvbMMsrMZUUEyGLyJQv_63Uq?usp=sharing",
         "type": "competition"
     },
     {
@@ -160,27 +160,11 @@
         "type": "competition"
     },
     {
-        "title": "The Next House: USA 2027",
-        "link": "https://architecturecompetitions.com/nexthouse2027/",
-        "deadline": "Unknown",
-        "deadline_iso": null,
-        "description": "new",
-        "type": "competition"
-    },
-    {
         "title": "Valli Wine Tasting Room",
         "link": "https://bustler.net/competitions/10536/valli-wine-tasting-room",
         "deadline": "Feb 15, 2027",
         "deadline_iso": "2027-02-15T00:00:00",
         "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Pavilion Atlas 2027",
-        "link": "https://architecturecompetitions.com/pavilionatlas2027/",
-        "deadline": "Unknown",
-        "deadline_iso": null,
-        "description": "new",
         "type": "competition"
     },
     {
@@ -208,10 +192,10 @@
         "type": "competition"
     },
     {
-        "title": "Buildner’s Unbuilt Award 2027",
-        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
-        "deadline": "Oct 18, 2027",
-        "deadline_iso": "2027-10-18T00:00:00",
+        "title": "2027 Lyceum Fellowship - Town Housing",
+        "link": "https://bustler.net/competitions/10679/2027-lyceum-fellowship-town-housing",
+        "deadline": "May 27, 2027",
+        "deadline_iso": "2027-05-27T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -224,6 +208,14 @@
         "type": "competition"
     },
     {
+        "title": "2027 Design for Freedom Competition",
+        "link": "https://bustler.net/competitions/10714/2027-design-for-freedom-competition",
+        "deadline": "Jun 2, 2027",
+        "deadline_iso": "2027-06-02T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
         "title": "Museum of Emotions #9",
         "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
         "deadline": "Feb 22, 2027",
@@ -232,10 +224,34 @@
         "type": "competition"
     },
     {
+        "title": "International Architecture & Design Awards (IADA) 2027",
+        "link": "https://bustler.net/competitions/10666/international-architecture-design-awards-iada-2027",
+        "deadline": "Apr 12, 2027",
+        "deadline_iso": "2027-04-12T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
         "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
         "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
         "deadline": "Jan 5, 2027",
         "deadline_iso": "2027-01-05T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Rework by xFigura: Adaptive Reuse Ideas Competition",
+        "link": "https://bustler.net/competitions/10708/rework-by-xfigura-adaptive-reuse-ideas-competition",
+        "deadline": "Nov 29, 2026",
+        "deadline_iso": "2026-11-29T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Buildner’s Unbuilt Award 2027",
+        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
+        "deadline": "Oct 18, 2027",
+        "deadline_iso": "2027-10-18T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
