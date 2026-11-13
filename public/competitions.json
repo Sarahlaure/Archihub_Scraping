@@ -1,10 +1,10 @@
 [
     {
-        "title": "FUNES HOUSE Competition",
-        "link": "https://competitions.archi/competition/funes-house-competition/",
-        "deadline": "30th April 2027",
-        "deadline_iso": "2027-04-30T00:00:00",
-        "description": "FUNES HOUSE Competition Terraviva launches FUNES HOUSE, a new international architecture competition that invites participants to design a contemporary home in Argentina, conceived to grow over time while embracing the relaxed lifestyle of the site… ...",
+        "title": "SKY TO MOON Competition",
+        "link": "https://competitions.archi/competition/sky-to-moon-competition/",
+        "deadline": "5th February 2027",
+        "deadline_iso": "2027-02-05T00:00:00",
+        "description": "SKY TO MOON Competition Terraviva launches SKY TO MOON, an international architecture competition seeking ideas for a new Fly Line in southern Italy, creating an accessible experience that connects landscape, adventure and the existing tourism networ...",
         "type": "competition"
     },
     {
@@ -48,6 +48,14 @@
         "type": "competition"
     },
     {
+        "title": "Iceland Smokehouse",
+        "link": "https://competitions.archi/competition/iceland-smokehouse/",
+        "deadline": "6th September 2027",
+        "deadline_iso": "2027-09-06T00:00:00",
+        "description": "Smoke is fleeting. The craft endures. Buildner invites architects and designers to explore how architecture can give expression to Iceland’s tradition of smoking fish. Inspired by a family craft carried forward across generations, the competition see...",
+        "type": "competition"
+    },
+    {
         "title": "PAVILION ATLAS 2027",
         "link": "https://competitions.archi/competition/pavilion-atlas-2027/",
         "deadline": "19th July 2027",
@@ -64,6 +72,22 @@
         "type": "competition"
     },
     {
+        "title": "2027 Art Book Publication: A New Perspective",
+        "link": "https://competitions.archi/competition/2027-art-book-publication-a-new-perspective/",
+        "deadline": "31st December 2026",
+        "deadline_iso": "2026-12-31T00:00:00",
+        "description": "THE SPACE 101 is looking for artists to be part of our upcoming art book project, ‘A New Contemporary: Featured Artists’. This curated publication aims to bring together a diverse cohort of global creators who broaden the boundaries and reframe shift...",
+        "type": "competition"
+    },
+    {
+        "title": "2027 Seoul International Garden Show – International Show Garden Design Competition",
+        "link": "https://competitions.archi/competition/2027-seoul-international-garden-show-international-show-garden-design-competition/",
+        "deadline": "9th December 2026",
+        "deadline_iso": "2026-12-09T00:00:00",
+        "description": ". Type: International Landscape Design Competition The Seoul Metropolitan Government invites garden designers, landscape architects, and creative professionals from around the world to participate in the 2027 Seoul International Garden Show – Interna...",
+        "type": "competition"
+    },
+    {
         "title": "Architecture Portfolio Challenge 2026",
         "link": "https://competitions.archi/competition/architecture-portfolio-challenge-2026/",
         "deadline": "10th January 2027",
@@ -77,14 +101,6 @@
         "deadline": "21st July 2027",
         "deadline_iso": "2027-07-21T00:00:00",
         "description": "Bigger isn’t always better The annual Microhome architecture competition is part of the Buildner Small Architecture Appreciation Movement, which hopes to highlight the fact that bigger isn’t always better. With great design and innovative thinking, s...",
-        "type": "competition"
-    },
-    {
-        "title": "Rework by xFigura",
-        "link": "https://competitions.archi/competition/rework-by-xfigura/",
-        "deadline": "29th November 2026",
-        "deadline_iso": "2026-11-29T00:00:00",
-        "description": "15000 Type: Free to enter, Open worldwide Every building deserves a second life. Design one. Rework is the inaugural xFigura competition. The greenest building is often the one already standing. Pick an existing building anywhere in the world, one th...",
         "type": "competition"
     },
     {
@@ -168,14 +184,6 @@
         "type": "competition"
     },
     {
-        "title": "Iceland \r\nSmokehouse",
-        "link": "https://architecturecompetitions.com/smokehouse/",
-        "deadline": "Unknown",
-        "deadline_iso": null,
-        "description": "new",
-        "type": "competition"
-    },
-    {
         "title": "The Oak Moon Pavilion",
         "link": "https://bustler.net/competitions/10598/the-oak-moon-pavilion",
         "deadline": "Mar 1, 2027",
@@ -192,10 +200,10 @@
         "type": "competition"
     },
     {
-        "title": "2027 Lyceum Fellowship - Town Housing",
-        "link": "https://bustler.net/competitions/10679/2027-lyceum-fellowship-town-housing",
-        "deadline": "May 27, 2027",
-        "deadline_iso": "2027-05-27T00:00:00",
+        "title": "Buildner’s Unbuilt Award 2027",
+        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
+        "deadline": "Oct 18, 2027",
+        "deadline_iso": "2027-10-18T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -208,30 +216,6 @@
         "type": "competition"
     },
     {
-        "title": "2027 Design for Freedom Competition",
-        "link": "https://bustler.net/competitions/10714/2027-design-for-freedom-competition",
-        "deadline": "Jun 2, 2027",
-        "deadline_iso": "2027-06-02T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Museum of Emotions #9",
-        "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
-        "deadline": "Feb 22, 2027",
-        "deadline_iso": "2027-02-22T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "International Architecture & Design Awards (IADA) 2027",
-        "link": "https://bustler.net/competitions/10666/international-architecture-design-awards-iada-2027",
-        "deadline": "Apr 12, 2027",
-        "deadline_iso": "2027-04-12T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
         "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
         "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
         "deadline": "Jan 5, 2027",
@@ -240,18 +224,10 @@
         "type": "competition"
     },
     {
-        "title": "Rework by xFigura: Adaptive Reuse Ideas Competition",
-        "link": "https://bustler.net/competitions/10708/rework-by-xfigura-adaptive-reuse-ideas-competition",
-        "deadline": "Nov 29, 2026",
-        "deadline_iso": "2026-11-29T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Buildner’s Unbuilt Award 2027",
-        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
-        "deadline": "Oct 18, 2027",
-        "deadline_iso": "2027-10-18T00:00:00",
+        "title": "Museum of Emotions #9",
+        "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
+        "deadline": "Feb 22, 2027",
+        "deadline_iso": "2027-02-22T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
