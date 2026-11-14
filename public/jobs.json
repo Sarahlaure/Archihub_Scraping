@@ -8,27 +8,27 @@
         "type": "job"
     },
     {
-        "title": "Architecte Senior",
-        "link": "https://jobs.architecture.com/job/32715/senior-architect-/?LinkSource=HomePage",
-        "location": "Windsor, Berkshire",
-        "salary": "•",
-        "description": "Senior Architect | Windsor, Berkshire | • | Up to £50,000 per annum",
-        "type": "job"
-    },
-    {
-        "title": "Experienced conservation Architecte",
-        "link": "https://jobs.architecture.com/job/32706/experienced-conservation-architect/?LinkSource=HomePage",
-        "location": "Hybrid / Ofice based (London)",
-        "salary": "•",
-        "description": "Experienced Conservation Architect | Hybrid / Ofice based (London) | • | £45,000 - £55,000",
-        "type": "job"
-    },
-    {
         "title": "Architecte Senior / Responsable de Projet",
         "link": "https://jobs.architecture.com/job/32616/senior-architect-project-runner-/?LinkSource=HomePage",
         "location": "High Wycombe, Buckinghamshire",
         "salary": "•",
         "description": "Senior Architect / Project Runner | High Wycombe, Buckinghamshire | • | Competitive salary of £50,000–£60,000...",
+        "type": "job"
+    },
+    {
+        "title": "Architecte Senior",
+        "link": "https://jobs.architecture.com/job/32677/senior-architect/?LinkSource=HomePage",
+        "location": "Leamington Spa, Warwickshire",
+        "salary": "•",
+        "description": "Senior Architect | Leamington Spa, Warwickshire | • | £45,000-£55,000+ dependent on experie...",
+        "type": "job"
+    },
+    {
+        "title": "Architecte Senior",
+        "link": "https://jobs.architecture.com/job/32715/senior-architect-/?LinkSource=HomePage",
+        "location": "Windsor, Berkshire",
+        "salary": "•",
+        "description": "Senior Architect | Windsor, Berkshire | • | Up to £50,000 per annum",
         "type": "job"
     }
 ]
