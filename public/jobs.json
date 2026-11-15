@@ -1,21 +1,5 @@
 [
     {
-        "title": "Architecte",
-        "link": "https://jobs.architecture.com/job/32652/architect/?LinkSource=HomePage",
-        "location": "Marlborough, Wiltshire",
-        "salary": "•",
-        "description": "Architect | Marlborough, Wiltshire | • | Competitive Salary",
-        "type": "job"
-    },
-    {
-        "title": "Architecte Senior / Responsable de Projet",
-        "link": "https://jobs.architecture.com/job/32616/senior-architect-project-runner-/?LinkSource=HomePage",
-        "location": "High Wycombe, Buckinghamshire",
-        "salary": "•",
-        "description": "Senior Architect / Project Runner | High Wycombe, Buckinghamshire | • | Competitive salary of £50,000–£60,000...",
-        "type": "job"
-    },
-    {
         "title": "Architecte Senior",
         "link": "https://jobs.architecture.com/job/32677/senior-architect/?LinkSource=HomePage",
         "location": "Leamington Spa, Warwickshire",
@@ -29,6 +13,22 @@
         "location": "Windsor, Berkshire",
         "salary": "•",
         "description": "Senior Architect | Windsor, Berkshire | • | Up to £50,000 per annum",
+        "type": "job"
+    },
+    {
+        "title": "Accredited conservation Architecte",
+        "link": "https://jobs.architecture.com/job/32699/accredited-conservation-architect/?LinkSource=HomePage",
+        "location": "Cambridge or Brighton",
+        "salary": "•",
+        "description": "Accredited Conservation Architect | Cambridge or Brighton | • | Between £45,000 - £55,000 per annum p...",
+        "type": "job"
+    },
+    {
+        "title": "Architecte",
+        "link": "https://jobs.architecture.com/job/32652/architect/?LinkSource=HomePage",
+        "location": "Marlborough, Wiltshire",
+        "salary": "•",
+        "description": "Architect | Marlborough, Wiltshire | • | Competitive Salary",
         "type": "job"
     }
 ]
