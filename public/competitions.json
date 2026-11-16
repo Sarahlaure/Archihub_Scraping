@@ -200,10 +200,10 @@
         "type": "competition"
     },
     {
-        "title": "Museum of Emotions #9",
-        "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
-        "deadline": "Feb 22, 2027",
-        "deadline_iso": "2027-02-22T00:00:00",
+        "title": "Buildner’s Unbuilt Award 2027",
+        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
+        "deadline": "Oct 18, 2027",
+        "deadline_iso": "2027-10-18T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -216,6 +216,14 @@
         "type": "competition"
     },
     {
+        "title": "Museum of Emotions #9",
+        "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
+        "deadline": "Feb 22, 2027",
+        "deadline_iso": "2027-02-22T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
         "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
         "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
         "deadline": "Jan 5, 2027",
@@ -224,11 +232,11 @@
         "type": "competition"
     },
     {
-        "title": "Buildner’s Unbuilt Award 2027",
-        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
-        "deadline": "Oct 18, 2027",
-        "deadline_iso": "2027-10-18T00:00:00",
-        "description": "Promoted on Bustler",
+        "title": "International Architectural Design Competition: Yong Ding Chang’an Pavilion",
+        "link": "https://bustler.net/competitions/latest/10623/international-architectural-design-competition-yong-ding-chang-an-pavilion",
+        "deadline": "Mon, Nov 16, 2026",
+        "deadline_iso": "2026-11-16T00:00:00",
+        "description": "Listed on Bustler",
         "type": "competition"
     },
     {
@@ -240,10 +248,10 @@
         "type": "competition"
     },
     {
-        "title": "International Architectural Design Competition: Yong Ding Chang’an Pavilion",
-        "link": "https://bustler.net/competitions/latest/10623/international-architectural-design-competition-yong-ding-chang-an-pavilion",
-        "deadline": "Mon, Nov 16, 2026",
-        "deadline_iso": "2026-11-16T00:00:00",
+        "title": "Urban Pocket Park (Barcelona, Spain) – Architecture Competition",
+        "link": "https://bustler.net/competitions/latest/10635/urban-pocket-park-barcelona-spain-architecture-competition",
+        "deadline": "Wed, Nov 25, 2026",
+        "deadline_iso": "2026-11-25T00:00:00",
         "description": "Listed on Bustler",
         "type": "competition"
     }
