@@ -16,19 +16,19 @@
         "type": "competition"
     },
     {
+        "title": "Iceland Smokehouse",
+        "link": "https://competitions.archi/competition/iceland-smokehouse/",
+        "deadline": "6th September 2027",
+        "deadline_iso": "2027-09-06T00:00:00",
+        "description": "Smoke is fleeting. The craft endures. Buildner invites architects and designers to explore how architecture can give expression to Iceland’s tradition of smoking fish. Inspired by a family craft carried forward across generations, the competition see...",
+        "type": "competition"
+    },
+    {
         "title": "2027 Skyscraper Competition",
         "link": "https://competitions.archi/competition/2027-skyscraper-competition/",
         "deadline": "9th March 2027",
         "deadline_iso": "2027-03-09T00:00:00",
         "description": "eVolo Magazine is pleased to invite architects, students, engineers, designers, and artists from around the world to participate in the 2027 Skyscraper Competition. Established in 2006, the annual eVolo Skyscraper Competition has become one of the wo...",
-        "type": "competition"
-    },
-    {
-        "title": "Vancouver Tall Challenge",
-        "link": "https://competitions.archi/competition/vancouver-tall-challenge/",
-        "deadline": "30th November 2026",
-        "deadline_iso": "2026-11-30T00:00:00",
-        "description": "Vancouver is recognized around the world for its unique balance between urban density, livability, and nature. Framed by mountains and the Pacific coastline, the city has developed a distinct approach to city-building that prioritizes public space, s...",
         "type": "competition"
     },
     {
@@ -45,14 +45,6 @@
         "deadline": "16th December 2026",
         "deadline_iso": "2026-12-16T00:00:00",
         "description": "House of Poetry In the peaceful silence of the Tuscan-Romagnol Apennines, where knobby chestnut branches intertwine towards the sky while streams and waterfalls wind across the ground, a small cluster of houses emerges from a quiet hillside. A place ...",
-        "type": "competition"
-    },
-    {
-        "title": "Iceland Smokehouse",
-        "link": "https://competitions.archi/competition/iceland-smokehouse/",
-        "deadline": "6th September 2027",
-        "deadline_iso": "2027-09-06T00:00:00",
-        "description": "Smoke is fleeting. The craft endures. Buildner invites architects and designers to explore how architecture can give expression to Iceland’s tradition of smoking fish. Inspired by a family craft carried forward across generations, the competition see...",
         "type": "competition"
     },
     {
@@ -117,6 +109,14 @@
         "deadline": "Unknown",
         "deadline_iso": null,
         "description": "AIA NEW YORK MARKET",
+        "type": "competition"
+    },
+    {
+        "title": "Vancouver Tall Challenge",
+        "link": "https://bustler.net/competitions/latest/10563/vancouver-tall-challenge",
+        "deadline": "Mon, Nov 30, 2026",
+        "deadline_iso": "2026-11-30T00:00:00",
+        "description": "Listed on Bustler",
         "type": "competition"
     },
     {
@@ -200,19 +200,11 @@
         "type": "competition"
     },
     {
-        "title": "Buildner’s Unbuilt Award 2027",
-        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
-        "deadline": "Oct 18, 2027",
-        "deadline_iso": "2027-10-18T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "New York High Falls Riverfront Market",
-        "link": "https://bustler.net/competitions/10546/new-york-high-falls-riverfront-market",
-        "deadline": "Jan 18, 2027",
-        "deadline_iso": "2027-01-18T00:00:00",
-        "description": "Promoted on Bustler",
+        "title": "Competition winners revealed!",
+        "link": "https://architecturecompetitions.com/reform3/",
+        "deadline": "Unknown",
+        "deadline_iso": null,
+        "description": "Competition winners revealed!",
         "type": "competition"
     },
     {
@@ -220,6 +212,22 @@
         "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
         "deadline": "Feb 22, 2027",
         "deadline_iso": "2027-02-22T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Schrödinger’s Room Edition #3",
+        "link": "https://bustler.net/competitions/10180/schr-dinger-s-room-edition-3",
+        "deadline": "Jan 25, 2027",
+        "deadline_iso": "2027-01-25T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "2027 Lyceum Fellowship - Town Housing",
+        "link": "https://bustler.net/competitions/10679/2027-lyceum-fellowship-town-housing",
+        "deadline": "May 27, 2027",
+        "deadline_iso": "2027-05-27T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -232,19 +240,19 @@
         "type": "competition"
     },
     {
-        "title": "International Architectural Design Competition: Yong Ding Chang’an Pavilion",
-        "link": "https://bustler.net/competitions/latest/10623/international-architectural-design-competition-yong-ding-chang-an-pavilion",
-        "deadline": "Mon, Nov 16, 2026",
-        "deadline_iso": "2026-11-16T00:00:00",
-        "description": "Listed on Bustler",
+        "title": "New York High Falls Riverfront Market",
+        "link": "https://bustler.net/competitions/10546/new-york-high-falls-riverfront-market",
+        "deadline": "Jan 18, 2027",
+        "deadline_iso": "2027-01-18T00:00:00",
+        "description": "Promoted on Bustler",
         "type": "competition"
     },
     {
-        "title": "Schrödinger’s Room Edition #3",
-        "link": "https://bustler.net/competitions/latest/10180/schr-dinger-s-room-edition-3",
-        "deadline": "Mon, Jan 25, 2027",
-        "deadline_iso": "2027-01-25T00:00:00",
-        "description": "Listed on Bustler",
+        "title": "Buildner’s Unbuilt Award 2027",
+        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
+        "deadline": "Oct 18, 2027",
+        "deadline_iso": "2027-10-18T00:00:00",
+        "description": "Promoted on Bustler",
         "type": "competition"
     },
     {
