@@ -208,6 +208,46 @@
         "type": "competition"
     },
     {
+        "title": "2027 Lyceum Fellowship - Town Housing",
+        "link": "https://bustler.net/competitions/10679/2027-lyceum-fellowship-town-housing",
+        "deadline": "May 27, 2027",
+        "deadline_iso": "2027-05-27T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
+        "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
+        "deadline": "Jan 5, 2027",
+        "deadline_iso": "2027-01-05T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Rework by xFigura: Adaptive Reuse Ideas Competition",
+        "link": "https://bustler.net/competitions/10708/rework-by-xfigura-adaptive-reuse-ideas-competition",
+        "deadline": "Nov 29, 2026",
+        "deadline_iso": "2026-11-29T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Buildner’s Unbuilt Award 2027",
+        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
+        "deadline": "Oct 18, 2027",
+        "deadline_iso": "2027-10-18T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "2027 AIA COTE® Top Ten for Students Competition",
+        "link": "https://bustler.net/competitions/10711/2027-aia-cote-top-ten-for-students-competition",
+        "deadline": "Jun 2, 2027",
+        "deadline_iso": "2027-06-02T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
         "title": "Museum of Emotions #9",
         "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
         "deadline": "Feb 22, 2027",
@@ -224,27 +264,11 @@
         "type": "competition"
     },
     {
-        "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
-        "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
-        "deadline": "Jan 5, 2027",
-        "deadline_iso": "2027-01-05T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Buildner’s Unbuilt Award 2027",
-        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
-        "deadline": "Oct 18, 2027",
-        "deadline_iso": "2027-10-18T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
         "title": "Schrödinger’s Room Edition #3",
-        "link": "https://bustler.net/competitions/10180/schr-dinger-s-room-edition-3",
-        "deadline": "Jan 25, 2027",
+        "link": "https://bustler.net/competitions/latest/10180/schr-dinger-s-room-edition-3",
+        "deadline": "Mon, Jan 25, 2027",
         "deadline_iso": "2027-01-25T00:00:00",
-        "description": "Promoted on Bustler",
+        "description": "Listed on Bustler",
         "type": "competition"
     },
     {
