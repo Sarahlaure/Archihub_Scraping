@@ -208,18 +208,10 @@
         "type": "competition"
     },
     {
-        "title": "Museum of Emotions #9",
-        "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
-        "deadline": "Feb 22, 2027",
-        "deadline_iso": "2027-02-22T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Buildner’s Unbuilt Award 2027",
-        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
-        "deadline": "Oct 18, 2027",
-        "deadline_iso": "2027-10-18T00:00:00",
+        "title": "Outstanding Architecture and Design Thesis Award 2026 — Submit Your Final Degree Project",
+        "link": "https://bustler.net/competitions/10738/outstanding-architecture-and-design-thesis-award-2026-submit-your-final-degree-project",
+        "deadline": "Jan 11, 2027",
+        "deadline_iso": "2027-01-11T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -232,10 +224,18 @@
         "type": "competition"
     },
     {
-        "title": "Outstanding Architecture and Design Thesis Award 2026 — Submit Your Final Degree Project",
-        "link": "https://bustler.net/competitions/10738/outstanding-architecture-and-design-thesis-award-2026-submit-your-final-degree-project",
-        "deadline": "Jan 11, 2027",
-        "deadline_iso": "2027-01-11T00:00:00",
+        "title": "Museum of Emotions #9",
+        "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
+        "deadline": "Feb 22, 2027",
+        "deadline_iso": "2027-02-22T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Buildner’s Unbuilt Award 2027",
+        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
+        "deadline": "Oct 18, 2027",
+        "deadline_iso": "2027-10-18T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
