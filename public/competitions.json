@@ -208,18 +208,18 @@
         "type": "competition"
     },
     {
-        "title": "Museum of Emotions #9",
-        "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
-        "deadline": "Feb 22, 2027",
-        "deadline_iso": "2027-02-22T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
         "title": "Outstanding Architecture and Design Thesis Award 2026 — Submit Your Final Degree Project",
         "link": "https://bustler.net/competitions/10738/outstanding-architecture-and-design-thesis-award-2026-submit-your-final-degree-project",
         "deadline": "Jan 11, 2027",
         "deadline_iso": "2027-01-11T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "New York High Falls Riverfront Market",
+        "link": "https://bustler.net/competitions/10546/new-york-high-falls-riverfront-market",
+        "deadline": "Jan 18, 2027",
+        "deadline_iso": "2027-01-18T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -232,10 +232,10 @@
         "type": "competition"
     },
     {
-        "title": "New York High Falls Riverfront Market",
-        "link": "https://bustler.net/competitions/10546/new-york-high-falls-riverfront-market",
-        "deadline": "Jan 18, 2027",
-        "deadline_iso": "2027-01-18T00:00:00",
+        "title": "Museum of Emotions #9",
+        "link": "https://bustler.net/competitions/10578/museum-of-emotions-9",
+        "deadline": "Feb 22, 2027",
+        "deadline_iso": "2027-02-22T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -260,14 +260,6 @@
         "link": "https://bustler.net/competitions/latest/10635/urban-pocket-park-barcelona-spain-architecture-competition",
         "deadline": "Wed, Nov 25, 2026",
         "deadline_iso": "2026-11-25T00:00:00",
-        "description": "Listed on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Open Call for Land·Ecological Art on Eulsukdo, Busan (South Korea)",
-        "link": "https://bustler.net/competitions/latest/10659/open-call-for-land-ecological-art-on-eulsukdo-busan-south-korea",
-        "deadline": "Sun, Nov 22, 2026",
-        "deadline_iso": "2026-11-22T00:00:00",
         "description": "Listed on Bustler",
         "type": "competition"
     }
