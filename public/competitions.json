@@ -136,19 +136,19 @@
         "type": "competition"
     },
     {
+        "title": "BellanoCotton MillMuseum",
+        "link": "https://architecturecompetitions.com/cottonmill/",
+        "deadline": "Unknown",
+        "deadline_iso": null,
+        "description": "Bellano Cotton Mill Museum",
+        "type": "competition"
+    },
+    {
         "title": "TheArchitect’sChair",
         "link": "https://architecturecompetitions.com/architectschairstockholm/",
         "deadline": "Unknown",
         "deadline_iso": null,
         "description": "The Architect’s Chair",
-        "type": "competition"
-    },
-    {
-        "title": "Bellano Cotton Mill Museum",
-        "link": "https://bustler.net/competitions/10701/bellano-cotton-mill-museum",
-        "deadline": "May 25, 2027",
-        "deadline_iso": "2027-05-25T00:00:00",
-        "description": "Promoted on Bustler",
         "type": "competition"
     },
     {
@@ -192,6 +192,14 @@
         "type": "competition"
     },
     {
+        "title": "Italy Olive Pavilion",
+        "link": "https://architecturecompetitions.com/italyolivepavilion/",
+        "deadline": "Unknown",
+        "deadline_iso": null,
+        "description": "new",
+        "type": "competition"
+    },
+    {
         "title": "The Oak Moon Pavilion",
         "link": "https://bustler.net/competitions/10598/the-oak-moon-pavilion",
         "deadline": "Mar 1, 2027",
@@ -224,34 +232,26 @@
         "type": "competition"
     },
     {
-        "title": "Outstanding Architecture and Design Thesis Award 2026 — Submit Your Final Degree Project",
-        "link": "https://bustler.net/competitions/10738/outstanding-architecture-and-design-thesis-award-2026-submit-your-final-degree-project",
-        "deadline": "Jan 11, 2027",
-        "deadline_iso": "2027-01-11T00:00:00",
+        "title": "Bellano Cotton Mill Museum",
+        "link": "https://bustler.net/competitions/10701/bellano-cotton-mill-museum",
+        "deadline": "May 25, 2027",
+        "deadline_iso": "2027-05-25T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
     {
-        "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
-        "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
-        "deadline": "Jan 5, 2027",
-        "deadline_iso": "2027-01-05T00:00:00",
+        "title": "2027 Lyceum Fellowship - Town Housing",
+        "link": "https://bustler.net/competitions/10679/2027-lyceum-fellowship-town-housing",
+        "deadline": "May 27, 2027",
+        "deadline_iso": "2027-05-27T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
     {
-        "title": "2027 Steel Competition",
-        "link": "https://bustler.net/competitions/10712/2027-steel-competition",
-        "deadline": "Jun 2, 2027",
-        "deadline_iso": "2027-06-02T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Buildner’s Unbuilt Award 2027",
-        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
-        "deadline": "Oct 18, 2027",
-        "deadline_iso": "2027-10-18T00:00:00",
+        "title": "Rework by xFigura: Adaptive Reuse Ideas Competition",
+        "link": "https://bustler.net/competitions/10708/rework-by-xfigura-adaptive-reuse-ideas-competition",
+        "deadline": "Nov 29, 2026",
+        "deadline_iso": "2026-11-29T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
@@ -264,6 +264,30 @@
         "type": "competition"
     },
     {
+        "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
+        "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
+        "deadline": "Jan 5, 2027",
+        "deadline_iso": "2027-01-05T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Buildner’s Unbuilt Award 2027",
+        "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
+        "deadline": "Oct 18, 2027",
+        "deadline_iso": "2027-10-18T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Outstanding Architecture and Design Thesis Award 2026 — Submit Your Final Degree Project",
+        "link": "https://bustler.net/competitions/10738/outstanding-architecture-and-design-thesis-award-2026-submit-your-final-degree-project",
+        "deadline": "Jan 11, 2027",
+        "deadline_iso": "2027-01-11T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
         "title": "New York High Falls Riverfront Market",
         "link": "https://bustler.net/competitions/10546/new-york-high-falls-riverfront-market",
         "deadline": "Jan 18, 2027",
@@ -272,18 +296,18 @@
         "type": "competition"
     },
     {
-        "title": "Urban Pocket Park (Barcelona, Spain) – Architecture Competition",
-        "link": "https://bustler.net/competitions/latest/10635/urban-pocket-park-barcelona-spain-architecture-competition",
-        "deadline": "Wed, Nov 25, 2026",
-        "deadline_iso": "2026-11-25T00:00:00",
-        "description": "Listed on Bustler",
-        "type": "competition"
-    },
-    {
         "title": "Schrödinger’s Room Edition #3",
         "link": "https://bustler.net/competitions/latest/10180/schr-dinger-s-room-edition-3",
         "deadline": "Mon, Jan 25, 2027",
         "deadline_iso": "2027-01-25T00:00:00",
+        "description": "Listed on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Kinderspace: Architecture for Children's Development competition / Edition #4",
+        "link": "https://bustler.net/competitions/latest/10503/kinderspace-architecture-for-children-s-development-competition-edition-4",
+        "deadline": "Mon, Nov 30, 2026",
+        "deadline_iso": "2026-11-30T00:00:00",
         "description": "Listed on Bustler",
         "type": "competition"
     }
