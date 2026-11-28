@@ -1,5 +1,47 @@
 [
     {
+        "title": "Timber grid and external stair offer \"a wink\" to Centre Pompidou at its annexe in Massy",
+        "link": "https://www.dezeen.com/2026/11/28/centre-pompidou-francilien-pca-stream/",
+        "date": "28 Nov 2026",
+        "description": "French architecture studio PCA-Stream has completed Centre Pompidou Francilien in Massy, a storage and exhibition space fronted by a gridded timber deck and external stair that echo the high-tech character of the iconic original Centre Pompidou in Paris. The post Timber grid and ...",
+        "type": "news"
+    },
+    {
+        "title": "This week the highly anticipated London Museum opened",
+        "link": "https://www.dezeen.com/2026/11/28/london-museum-opened-this-week/",
+        "date": "28 Nov 2026",
+        "description": "This week on Dezeen, we revealed the transformation of London's 1880s Smithfield General Market into the London Museum, completed by architecture studios Stanton Williams, Asif Khan and Julian Harrap Architects. The post This week the highly anticipated London Museum opened appea...",
+        "type": "news"
+    },
+    {
+        "title": "Borrowed References, Local Languages: Blended Styles on Latin American Façades",
+        "link": "https://www.archdaily.com/1189051/borrowed-references-local-languages-blended-styles-on-latin-american-facades",
+        "date": "28 Nov 2026",
+        "description": "Architectural styles are often identified through a familiar set of characteristics: particular forms, materials, proportions, and decorative elements. Yet these characteristics do not always remain tied to the traditions from which they originate. A classical column may appear o...",
+        "type": "news"
+    },
+    {
+        "title": "Nuuk Airport / ZESO Architects",
+        "link": "https://www.archdaily.com/1187745/nuuk-airport-zeso-architects",
+        "date": "28 Nov 2026",
+        "description": "Nuuk Airport is both architecturally and functionally a response to the beautiful yet harsh Arctic Climate.",
+        "type": "news"
+    },
+    {
+        "title": "Shenzhen UDC Multifunctional Space / of gaaarden design",
+        "link": "https://www.archdaily.com/1189267/shenzhen-udc-multifunctional-space-of-gaaarden-design",
+        "date": "28 Nov 2026",
+        "description": "Traditionally, offices, retail spaces, and places for social activities have had clear boundaries. As lifestyles change, however, we are seeing these boundaries gradually become less distinct. Located in a high-rise office building in Qianhai, Shenzhen, UDC is a multifunctional s...",
+        "type": "news"
+    },
+    {
+        "title": "Estúdio 41 wraps coastal Brazilian house in white brise-soleil",
+        "link": "https://www.dezeen.com/2026/11/27/guaratuba-house-brazil-estudio-41/",
+        "date": "27 Nov 2026",
+        "description": "Estúdio 41 has completed the Guaratuba House, which features exterior screens and a structural system that \"explores the architectural expression of exposed precast concrete\". The post Estúdio 41 wraps coastal Brazilian house in white brise-soleil appeared first on Dezeen.",
+        "type": "news"
+    },
+    {
         "title": "Texas reveals proposal for US Space Academy in Houston",
         "link": "https://www.dezeen.com/2026/11/27/us-space-academy-houston-texas/",
         "date": "27 Nov 2026",
@@ -39,6 +81,48 @@
         "link": "https://www.dezeen.com/2026/11/27/rias-doolan-award-edinburgh-futures/",
         "date": "27 Nov 2026",
         "description": "An old Victorian infirmary transformed into an educational space by UK studio Bennetts Associates has won the Andrew Doolan Best Building in Scotland for 2026. The post Victorian hospital conversion in Edinburgh named Scotland’s best new building appeared first on Dezeen.",
+        "type": "news"
+    },
+    {
+        "title": "S House / BOV ESTUDIO / BOV ESTUDIO",
+        "link": "https://www.archdaily.com/1189382/s-house-bov-estudio-bov-estudio",
+        "date": "27 Nov 2026",
+        "description": "In Ayllón (Segovia), adjacent to the historic center, the openings of a 1910 facade now look out onto a courtyard. The facade originally belonged to a family home that was divided into two dwellings in the mid-1940s. Decades later, the owner reunited one of those halves with two ...",
+        "type": "news"
+    },
+    {
+        "title": "Fig Tree House / Estúdio Lava",
+        "link": "https://www.archdaily.com/1035916/fig-tree-house-estudio-lava",
+        "date": "27 Nov 2026",
+        "description": "The construction of a residence at Praia da Figueira in Angra dos Reis faced the challenge of being built on a sloped terrain with dense Atlantic Forest vegetation. The semicircular shape stems from the intention to orient the building towards both the sunset and the open sea hor...",
+        "type": "news"
+    },
+    {
+        "title": "Espira Yoga Shala / Arquitectura Mixta",
+        "link": "https://www.archdaily.com/1189371/espira-yoga-shala-arquitectura-mixta",
+        "date": "27 Nov 2026",
+        "description": "Inspired by the delicate wings of Costa Rica's glasswing butterfly, Espira explores the relationship between lightness, balance, and suspended movement through a sculptural bamboo structure. Located within the Peninsula Papagayo Sports Complex in Guanacaste, Costa Rica, the Yoga ...",
+        "type": "news"
+    },
+    {
+        "title": "Intermodal Hub of Lousada / spaceworkers",
+        "link": "https://www.archdaily.com/1035818/intermodal-hub-of-lousada-spaceworkers",
+        "date": "27 Nov 2026",
+        "description": "The planned intervention is located in the northern area of Lousada, a growing zone where new residential clusters, cultural spaces, and an expanded road network are being proposed to integrate with existing infrastructure. The intervention site has a strong cultural dynamic, sup...",
+        "type": "news"
+    },
+    {
+        "title": "Verrière House / Projectoire",
+        "link": "https://www.archdaily.com/1189089/verriere-house-projectoire",
+        "date": "27 Nov 2026",
+        "description": "The project involves the extension of an old barn that had previously been converted into a family residence. Located in Potton, a township bordered to the south by the Canada–United States border and the state of Vermont, the site is bucolic, surrounded by the mountains of the E...",
+        "type": "news"
+    },
+    {
+        "title": "Villa Dellago / JM Architecture",
+        "link": "https://www.archdaily.com/1032631/villa-dellago-jm-architecture",
+        "date": "27 Nov 2026",
+        "description": "Villa Dellago is a private villa located in the natural landscape of the east shore of Garda Lake, in Italy.",
         "type": "news"
     },
     {
@@ -175,69 +259,6 @@
         "type": "news"
     },
     {
-        "title": "Zunli Tea House / OUT OF OFFICE DESIGN",
-        "link": "https://www.archdaily.com/1188938/zunli-tea-house-out-of-office-design",
-        "date": "26 Nov 2026",
-        "description": "Zunli Tea House occupies an old dwelling in Suzhou's historic Gusu district. The owner wanted to bring the intimacy and changing views of a classical Chinese garden into everyday domestic life. A modest budget, restrictions attached to the property's tenancy and the building's fr...",
-        "type": "news"
-    },
-    {
-        "title": "Fulldraw Winery / Clayton Korte",
-        "link": "https://www.archdaily.com/1013852/fulldraw-winery-clayton-korte",
-        "date": "26 Nov 2026",
-        "description": "Fulldraw Vineyard is located within the Templeton Gap AVA, the heart of California's Central Coast wine country. Set on 100 acres of established vineyards, the land is characterized by its rich limestone soils and cool maritime climate—the perfect setting for growing Rhone-style ...",
-        "type": "news"
-    },
-    {
-        "title": "Central Kitchen Graz / Superfuturegroup",
-        "link": "https://www.archdaily.com/1188913/central-kitchen-graz-superfuturegroup",
-        "date": "26 Nov 2026",
-        "description": "The new Central Kitchen Graz combines the requirements of a large-scale food production facility with an architectural concept focused on sustainability, circular economy principles, and high-quality working environments. Approximately 15,000 meals are prepared and distributed to...",
-        "type": "news"
-    },
-    {
-        "title": "Open Call: \"The Bath in the Lake\"",
-        "link": "https://www.archdaily.com/1189281/open-call-the-bath-in-the-lake",
-        "date": "26 Nov 2026",
-        "description": "THE BATH IN THE LAKE competition is a Madeby initiative created to recognise architectural proposals that explore the relationship between landscape, water and architecture by taking the bathroom out of its usual setting and placing it in a natural environment. The call invites p...",
-        "type": "news"
-    },
-    {
-        "title": "Architecture as a Measured Intervention: Inside the Work of Atelier Guo",
-        "link": "https://www.archdaily.com/1188666/architecture-as-a-measured-intervention-inside-the-work-of-atelier-guo",
-        "date": "26 Nov 2026",
-        "description": "An architectural intervention is not simply a question of how much or how little to introduce, but of understanding precisely where and how to act. This precision begins with a careful reading of the existing context, including the recognition of the spatial, material, and enviro...",
-        "type": "news"
-    },
-    {
-        "title": "Wujiaba Flight Path 1922 Park Pavilions / Potential Architects",
-        "link": "https://www.archdaily.com/1189198/wujiaba-flight-path-1922-pavilions-potential-architects",
-        "date": "26 Nov 2026",
-        "description": "Wujiaba carries a century of Kunming's aviation memory. In 1922, Tang Jiyao established Yunnan's aviation force here and built what is widely regarded as China's second airport; it was also from here that Kunming residents first looked up to watch airplanes take off. During World...",
-        "type": "news"
-    },
-    {
-        "title": "How to Plan and Visualize For a City That Has Yet to Be Built",
-        "link": "https://www.archdaily.com/1189251/how-to-plan-and-visualize-for-a-city-that-has-yet-to-be-built",
-        "date": "26 Nov 2026",
-        "description": "While most cities develop gradually, building one from scratch is hardly a new concept. Starting with a blank site, however, brings its own set of challenges. Rather than responding to an existing urban fabric, planners must anticipate how an entire environment will function, fro...",
-        "type": "news"
-    },
-    {
-        "title": "Lisbon Triennale Announces CO-OP and Herzog & de Meuron’s Memphis Museum Opens: This Week’s Review",
-        "link": "https://www.archdaily.com/1189276/lisbon-triennale-announces-co-op-and-herzog-and-de-meurons-memphis-museum-opens-this-weeks-review",
-        "date": "26 Nov 2026",
-        "description": "This week's news explores how architecture responds to collective needs, environmental challenges, and changing cultural contexts. From the Lisbon Architecture Triennale's announcement of CO-OP as the theme for its 2028 edition to the recognition of Mexican practice COLECTIVO C73...",
-        "type": "news"
-    },
-    {
-        "title": "LES LUCIOLES / AQMA + RODA",
-        "link": "https://www.archdaily.com/1188912/les-lucioles-aqma-plus-roda",
-        "date": "26 Nov 2026",
-        "description": "The Les Lucioles school complex is conceived as more than an educational facility: it is a new piece of urban fabric, a place of shared life and a landmark for the Marjoberts district. Set within a dense residential context, the project establishes a distinct architectural presen...",
-        "type": "news"
-    },
-    {
         "title": "Desai Chia designs Bethesda Residence to balance \"openness and discretion\"",
         "link": "https://www.dezeen.com/2026/11/25/bethesda-residence-desai-chia-maryland/",
         "date": "25 Nov 2026",
@@ -256,27 +277,6 @@
         "link": "https://www.dezeen.com/2026/11/25/trees-on-buildings-greenwashing/",
         "date": "25 Nov 2026",
         "description": "As buildings bearing trees continue to sprout up all over the world, Nat Barker explores whether criticisms of the trend are justified. The post Are trees on buildings more than a greenwashing gimmick? appeared first on Dezeen.",
-        "type": "news"
-    },
-    {
-        "title": "Studio Gang completes women's leadership campus in Wisconsin",
-        "link": "https://www.dezeen.com/2026/11/24/studio-gang-wisconsin-womens-leadership-center/",
-        "date": "24 Nov 2026",
-        "description": "Studio Gang has completed a women's conference centre overlooking Geneva Lake in Wisconsin, with three irregularly shaped buildings informed by the site's oak forest. The post Studio Gang completes women&#039;s leadership campus in Wisconsin appeared first on Dezeen.",
-        "type": "news"
-    },
-    {
-        "title": "\"Intensely physical patterns\" cloak Gerhard Richter's self-designed gallery in Doha",
-        "link": "https://www.dezeen.com/2026/11/24/gerhard-richters-doha-pavilion-selldorf-architects/",
-        "date": "24 Nov 2026",
-        "description": "Kaleidoscopic patterns adorn the exterior of this blocky pavilion in Doha, Qatar, designed by artist Gerhard Richter with US studio Selldorf Architects as an art gallery. The post &quot;Intensely physical patterns&quot; cloak Gerhard Richter&#039;s self-designed gallery in Doha a...",
-        "type": "news"
-    },
-    {
-        "title": "Meet Courage Dzidula Kpodo, Lesley Lokko's pick for the most influential architect of the next 20 years",
-        "link": "https://www.dezeen.com/2026/11/24/courage-dzidula-kpodo-interview-lesley-lokko-20x20/",
-        "date": "24 Nov 2026",
-        "description": "Lesley Lokko has nominated Courage Dzidula Kpodo as a key name to watch over the next two decades for Dezeen’s 20×20 project. The post Meet Courage Dzidula Kpodo, Lesley Lokko&#039;s pick for the most influential architect of the next 20 years appeared first on Dezeen.",
         "type": "news"
     }
 ]

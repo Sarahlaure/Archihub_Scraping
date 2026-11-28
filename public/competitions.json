@@ -193,10 +193,10 @@
     },
     {
         "title": "Italy Olive Pavilion",
-        "link": "https://architecturecompetitions.com/italyolivepavilion/",
-        "deadline": "Unknown",
-        "deadline_iso": null,
-        "description": "new",
+        "link": "https://bustler.net/competitions/10750/italy-olive-pavilion",
+        "deadline": "Jul 5, 2027",
+        "deadline_iso": "2027-07-05T00:00:00",
+        "description": "Promoted on Bustler",
         "type": "competition"
     },
     {
@@ -240,6 +240,22 @@
         "type": "competition"
     },
     {
+        "title": "New York High Falls Riverfront Market",
+        "link": "https://bustler.net/competitions/10546/new-york-high-falls-riverfront-market",
+        "deadline": "Jan 18, 2027",
+        "deadline_iso": "2027-01-18T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
+        "title": "Bellano Cotton Mill Museum",
+        "link": "https://bustler.net/competitions/10701/bellano-cotton-mill-museum",
+        "deadline": "May 25, 2027",
+        "deadline_iso": "2027-05-25T00:00:00",
+        "description": "Promoted on Bustler",
+        "type": "competition"
+    },
+    {
         "title": "Buildner’s Unbuilt Award 2027",
         "link": "https://bustler.net/competitions/10673/buildner-s-unbuilt-award-2027",
         "deadline": "Oct 18, 2027",
@@ -256,26 +272,10 @@
         "type": "competition"
     },
     {
-        "title": "New York High Falls Riverfront Market",
-        "link": "https://bustler.net/competitions/10546/new-york-high-falls-riverfront-market",
-        "deadline": "Jan 18, 2027",
-        "deadline_iso": "2027-01-18T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
         "title": "The Architect’s Chair – Stockholm Furniture Fair Edition",
         "link": "https://bustler.net/competitions/10576/the-architect-s-chair-stockholm-furniture-fair-edition",
         "deadline": "Jan 5, 2027",
         "deadline_iso": "2027-01-05T00:00:00",
-        "description": "Promoted on Bustler",
-        "type": "competition"
-    },
-    {
-        "title": "Bellano Cotton Mill Museum",
-        "link": "https://bustler.net/competitions/10701/bellano-cotton-mill-museum",
-        "deadline": "May 25, 2027",
-        "deadline_iso": "2027-05-25T00:00:00",
         "description": "Promoted on Bustler",
         "type": "competition"
     },
